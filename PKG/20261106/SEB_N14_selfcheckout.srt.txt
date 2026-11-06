@@ -1,0 +1,64 @@
+1
+00:00:00,000 --> 00:00:03,860
+Case 1030-B, a self-checkout machine reports.
+
+2
+00:00:04,640 --> 00:00:06,600
+Unexpected item in the bagging area.
+
+3
+00:00:07,140 --> 00:00:08,840
+The item was the shopper's own bag.
+
+4
+00:00:09,440 --> 00:00:11,300
+The machine remains unconvinced.
+
+5
+00:00:11,740 --> 00:00:12,600
+A light now flashes.
+
+6
+00:00:13,360 --> 00:00:14,540
+An employee has been summoned.
+
+7
+00:00:15,240 --> 00:00:18,320
+The shopper stands accused of buying groceries, findings.
+
+8
+00:00:19,220 --> 00:00:20,720
+The machine replaced a cashier.
+
+9
+00:00:21,300 --> 00:00:22,740
+It then requested a cashier.
+
+10
+00:00:23,200 --> 00:00:23,760
+Bureau ruling.
+
+11
+00:00:24,500 --> 00:00:26,300
+The bagging area is a lawless region.
+
+12
+00:00:26,820 --> 00:00:28,780
+Keep your receipt visible at all times.
+
+13
+00:00:28,780 --> 00:00:30,500
+Case reopened tomorrow.
+
+14
+00:00:31,440 --> 00:00:33,280
+Advisory 2030-N.
+
+15
+00:00:33,860 --> 00:00:34,620
+One more episode.
+
+16
+00:00:35,420 --> 00:00:35,800
+Follow the Bureau.
+

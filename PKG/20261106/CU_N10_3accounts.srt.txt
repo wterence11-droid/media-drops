@@ -1,0 +1,48 @@
+1
+00:00:00,000 --> 00:00:01,780
+Three accounts, that's the whole setup.
+
+2
+00:00:02,300 --> 00:00:05,260
+Account one, bills only, rent, lights, phone,
+
+3
+00:00:05,600 --> 00:00:06,740
+nothing else touches it.
+
+4
+00:00:07,040 --> 00:00:10,120
+Account two, funding, groceries, gas, fun.
+
+5
+00:00:10,460 --> 00:00:12,100
+When it runs low, you feel it early,
+
+6
+00:00:12,400 --> 00:00:13,360
+not at the end of the month.
+
+7
+00:00:13,740 --> 00:00:15,920
+Account three, savings, at a different bank
+
+8
+00:00:15,920 --> 00:00:17,540
+named emergency only.
+
+9
+00:00:18,040 --> 00:00:19,880
+Payday morning, the split happens automatically.
+
+10
+00:00:20,640 --> 00:00:23,240
+Example, a $700 check, 450 to bills,
+
+11
+00:00:23,780 --> 00:00:25,520
+200 to spending, 50 saved.
+
+12
+00:00:25,920 --> 00:00:29,040
+Your paycheck tomorrow, the two paychecks everyone forgets.
+

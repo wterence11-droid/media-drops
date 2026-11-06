@@ -1,0 +1,64 @@
+1
+00:00:00,000 --> 00:00:02,300
+Audit 1658-F
+
+2
+00:00:02,300 --> 00:00:06,300
+A meeting invite was issued on Friday at 4.58 pm.
+
+3
+00:00:06,740 --> 00:00:08,300
+Subject line, quick sync.
+
+4
+00:00:08,760 --> 00:00:13,000
+The bureau refers the word quick to ruling 1515-P.
+
+5
+00:00:13,360 --> 00:00:14,860
+The invite was marked urgent.
+
+6
+00:00:15,720 --> 00:00:17,480
+The matter had been known since Tuesday.
+
+7
+00:00:17,940 --> 00:00:18,480
+Findings
+
+8
+00:00:18,480 --> 00:00:21,680
+Urgency created by waiting is not urgency.
+
+9
+00:00:22,420 --> 00:00:23,960
+It is scheduling with regret.
+
+10
+00:00:24,640 --> 00:00:25,300
+Bureau ruling
+
+11
+00:00:25,300 --> 00:00:28,460
+Friday after 4pm is a protected wilderness
+
+12
+00:00:28,460 --> 00:00:30,440
+Entry by permit only.
+
+13
+00:00:31,040 --> 00:00:32,080
+Case reopened tomorrow.
+
+14
+00:00:32,840 --> 00:00:34,460
+Case 1030-B.
+
+15
+00:00:35,000 --> 00:00:36,100
+The self-checkout machine.
+
+16
+00:00:36,700 --> 00:00:37,220
+Follow the bureau.
+

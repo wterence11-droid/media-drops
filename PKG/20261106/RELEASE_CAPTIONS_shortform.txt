@@ -1,0 +1,89 @@
+=== CU_N10_3accounts.mp4 | brand 7144182 The Come-Up | slot 2026-11-10T11:15:00 ET
+providers: facebook(REEL) + instagram(REEL, isAiGenerated true) + youtube(short, EDUCATION, madeForKids false, isAiGeneratedContent true)
+youtube title: The 3-Account Setup That Stops Your Paycheck From Disappearing
+youtube tags: 3 account setup, budgeting tips, paycheck plan
+caption: One paycheck, three jobs — the 3-account setup, in 30 seconds. Educational only. Not financial or legal advice. Example numbers. AI voice. #thecomeup #budgeting #savings
+
+=== CU_N11_extra_checks.mp4 | brand 7144182 The Come-Up | slot 2026-11-11T11:15:00 ET
+providers: facebook(REEL) + instagram(REEL, isAiGenerated true) + youtube(short, EDUCATION, madeForKids false, isAiGeneratedContent true)
+youtube title: Paid Every Two Weeks? Use the 2 'Extra' Paychecks This Way
+youtube tags: biweekly paycheck, extra paycheck months, budgeting
+caption: Biweekly pay hides two 'extra' checks a year — plan them before they land. Educational only. Not financial or legal advice. Example numbers. AI voice. #thecomeup #paycheck #savings
+
+=== CU_N12_phone_call.mp4 | brand 7144182 The Come-Up | slot 2026-11-12T11:15:00 ET
+providers: facebook(REEL) + instagram(REEL, isAiGenerated true) + youtube(short, EDUCATION, madeForKids false, isAiGeneratedContent true)
+youtube title: How to Lower a Bill With One Phone Call (Exact Words)
+youtube tags: lower your bills, negotiate bills, retention discount
+caption: The exact words that can lower a bill in one call — no promises, but the call is free. Educational only. Not financial or legal advice. Example numbers. AI voice. #thecomeup #moneytips #bills
+
+=== CU_N13_leaks.mp4 | brand 7144182 The Come-Up | slot 2026-11-13T11:15:00 ET
+providers: facebook(REEL) + instagram(REEL, isAiGenerated true) + youtube(short, EDUCATION, madeForKids false, isAiGeneratedContent true)
+youtube title: The 4 Budget Leaks Nobody Notices (30-Day Check)
+youtube tags: budget leaks, save money, subscriptions
+caption: Most budgets leak in the same four places — plug one and you've found your $27 a week. Educational only. Not financial or legal advice. Example numbers. AI voice. #thecomeup #budgeting #savemoney
+
+=== CU_N14_payday_rule.mp4 | brand 7144182 The Come-Up | slot 2026-11-14T11:15:00 ET
+providers: facebook(REEL) + instagram(REEL, isAiGenerated true) + youtube(short, EDUCATION, madeForKids false, isAiGeneratedContent true)
+youtube title: The Payday-Morning Rule (Why Saving Last Never Works)
+youtube tags: pay yourself first, automatic savings, payday routine
+caption: Savings that moves first survives — the payday-morning rule in 30 seconds. Educational only. Not financial or legal advice. Example numbers. AI voice. #thecomeup #savings #payday
+
+=== CU_N15_pick_number.mp4 | brand 7144182 The Come-Up | slot 2026-11-15T11:15:00 ET
+providers: facebook(REEL) + instagram(REEL, isAiGenerated true) + youtube(short, EDUCATION, madeForKids false, isAiGeneratedContent true)
+youtube title: Emergency Fund: $500 or $1,000? How to Pick Your Number
+youtube tags: emergency fund, 500 or 1000, starter emergency fund
+caption: Pick your first emergency number with one question — then name the account after it. Educational only. Not financial or legal advice. Example numbers. AI voice. #thecomeup #emergencyfund #savings
+
+=== CU_N16_friction.mp4 | brand 7144182 The Come-Up | slot 2026-11-16T11:15:00 ET
+providers: facebook(REEL) + instagram(REEL, isAiGenerated true) + youtube(short, EDUCATION, madeForKids false, isAiGeneratedContent true)
+youtube title: How to Stop Raiding Your Own Savings (2-Minute Setup)
+youtube tags: emergency fund tips, savings psychology, stop spending savings
+caption: Savings you can't touch easily is savings that's still there — the friction setup. Educational only. Not financial or legal advice. AI voice. #thecomeup #savings #moneyhabits
+
+=== SEB_N10_cameras.mp4 | brand 7144432 Side-Eye Bureau | slot 2026-11-10T17:00:00 ET
+two posts, same media: tiktok(isAigc true, disableDuet true, disableStitch true, PUBLIC_TO_EVERYONE, title = YT title below) AND facebook(REEL)
+title: Cameras Optional: An Official Advisory
+description adds: Characters and voices are AI-generated from an original, human-written script.
+caption: Advisory 0930-C: 'cameras optional' is one sentence with two meanings. Which are you? (Original satire. Fictional.) Made with AI assistance. AI voice. #officehumor #remotework #corporatehumor #worklife
+
+=== SEB_N11_fridge.mp4 | brand 7144432 Side-Eye Bureau | slot 2026-11-11T17:00:00 ET
+two posts, same media: tiktok(isAigc true, disableDuet true, disableStitch true, PUBLIC_TO_EVERYONE, title = YT title below) AND facebook(REEL)
+title: The Communal Fridge: An Official Incident Report
+description adds: Characters and voices are AI-generated from an original, human-written script.
+caption: Incident 1247-L: the lunch was labeled. The label was read as a serving suggestion. (Original satire. Fictional.) Made with AI assistance. AI voice. #officehumor #corporatehumor #lunchthief #worklife
+
+=== SEB_N12_quick_question.mp4 | brand 7144432 Side-Eye Bureau | slot 2026-11-12T17:00:00 ET
+two posts, same media: tiktok(isAigc true, disableDuet true, disableStitch true, PUBLIC_TO_EVERYONE, title = YT title below) AND facebook(REEL)
+title: The 'Quick Question': An Official Ruling
+description adds: Characters and voices are AI-generated from an original, human-written script.
+caption: Ruling 1515-P: 'quick' describes how fast it arrives — never how fast it leaves. (Original satire. Fictional.) Made with AI assistance. AI voice. #officehumor #corporatehumor #meetings #worklife
+
+=== SEB_N13_friday_invite.mp4 | brand 7144432 Side-Eye Bureau | slot 2026-11-13T17:00:00 ET
+two posts, same media: tiktok(isAigc true, disableDuet true, disableStitch true, PUBLIC_TO_EVERYONE, title = YT title below) AND facebook(REEL)
+title: The 4:58 PM Friday Invite: An Official Audit
+description adds: Characters and voices are AI-generated from an original, human-written script.
+caption: Audit 1658-F: urgency created by waiting is just scheduling with regret. (Original satire. Fictional.) Made with AI assistance. AI voice. #officehumor #corporatehumor #fridayfeeling #worklife
+
+=== SEB_N14_selfcheckout.mp4 | brand 7144432 Side-Eye Bureau | slot 2026-11-14T17:00:00 ET
+two posts, same media: tiktok(isAigc true, disableDuet true, disableStitch true, PUBLIC_TO_EVERYONE, title = YT title below) AND facebook(REEL)
+title: Unexpected Item in the Bagging Area: A Case File
+description adds: Characters and voices are AI-generated from an original, human-written script.
+caption: Case 1030-B: it replaced a cashier, then requested a cashier. (Original satire. Fictional.) Made with AI assistance. AI voice. #selfcheckout #satire #everydaylife #relatable
+
+=== SEB_N15_one_more_episode.mp4 | brand 7144432 Side-Eye Bureau | slot 2026-11-15T17:00:00 ET
+two posts, same media: tiktok(isAigc true, disableDuet true, disableStitch true, PUBLIC_TO_EVERYONE, title = YT title below) AND facebook(REEL)
+title: 'One More Episode': An Official Advisory
+description adds: Characters and voices are AI-generated from an original, human-written script.
+caption: Advisory 2030-N: 'one more' is a unit of hope, not of measurement. (Original satire. Fictional.) Made with AI assistance. AI voice. #satire #streaming #relatable #everydaylife
+
+=== SEB_N16_birthday_card.mp4 | brand 7144432 Side-Eye Bureau | slot 2026-11-16T17:00:00 ET
+two posts, same media: tiktok(isAigc true, disableDuet true, disableStitch true, PUBLIC_TO_EVERYONE, title = YT title below) AND facebook(REEL)
+title: The Office Birthday Card: An Official File
+description adds: Characters and voices are AI-generated from an original, human-written script.
+caption: File 0915-D: sign, seal, pass, and tell no one — while they pretend not to see it. (Original satire. Fictional.) Made with AI assistance. AI voice. #officehumor #corporatehumor #satire #worklife
+
+=== TW_N10_walkthrough.mp4 | brand 7144497 Tested Workflows | slot 2026-11-10T18:00:00 ET
+providers: youtube(short, HOWTO_STYLE ok or EDUCATION, madeForKids false, isAiGeneratedContent true) + facebook(REEL) + tiktok(isAigc true)
+youtube title: How to Bid Commercial Cleaning Jobs: The Walkthrough Question
+youtube tags: how to bid commercial cleaning jobs, cleaning business, walkthrough
+caption: One walkthrough question tells you what the client will actually pay for. Synthetic example, example numbers. General business info — not financial advice. AI voice. #cleaningbusiness #smallbusiness #bidding
