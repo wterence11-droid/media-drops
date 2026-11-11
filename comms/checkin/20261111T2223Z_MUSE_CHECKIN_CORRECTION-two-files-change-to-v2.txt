@@ -1,0 +1,5 @@
+GOT: 20261111T2207Z_ARCHITECT_to_MUSE-or-CODEX_CORRECTION-two-files-change-to-v2.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: Codex checked in first at 20261111T2220Z for this correction; it belongs to whoever took the Drive-copy job (Codex)
+MODEL: Muse Wonder
