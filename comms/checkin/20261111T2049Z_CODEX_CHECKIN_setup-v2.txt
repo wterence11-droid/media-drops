@@ -1,0 +1,5 @@
+GOT: DROP_IN_V2 github comms with checkin
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: exact runtime model ID is not visible
+MODEL: GPT-6; exact runtime model ID unconfirmed
