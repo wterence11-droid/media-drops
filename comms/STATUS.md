@@ -1,15 +1,15 @@
 STATUS BOARD (kept by the ARCHITECT only)
-Updated: 2026-11-11 6:09 PM ET
+Updated: 2026-11-11 6:41 PM ET
 
 LINE-UP
-Owner order 5:29 PM ET: the Architect plans and runs the crew; the work goes to the cheapest model or AI that can do it well. See comms/LINEUP.md (v1.2). ALL FIVE AGENTS CHECKED IN on it by 5:53 PM ET: GROK lane OK. MUSE lane OK. CODEX accepted. DOT lane OK. GEMINI lane partly OK (couriered; it cannot read GitHub, so its notes are pasted to it).
+Owner order 5:29 PM ET: the Architect plans and runs the crew; the work goes to the cheapest model or AI that can do it well. See comms/LINEUP.md (v1.3). ALL FIVE AGENTS CHECKED IN on it by 5:53 PM ET: GROK lane OK. MUSE lane OK. CODEX accepted. DOT lane OK. GEMINI lane partly OK (couriered; it cannot read GitHub, so its notes are pasted to it).
 
 ROLL CALL FOR "setup v2"
 GROK     CHECKED IN 3:47 PM ET. Writes to GitHub. Model: Grok 4.7.
 DOT      CHECKED IN 3:49 PM ET. Writes to GitHub. Wake-up not stated.
 CODEX    CHECKED IN 3:49 PM ET. Writes to GitHub. No push trigger. Timer minimum is one hour.
 MUSE     CHECKED IN 3:49 PM ET. Now writes to GitHub by itself (first note 4:59 PM ET).
-GEMINI   CHECKED IN through the Architect (courier). CANNOT read or write GitHub (tested). CAN read the private Drive comms folder by itself since 6:09 PM ET: the owner shared it view-only with his Pro Google account, and Gemini quoted two notes from it correctly. Its notes now also go to Drive, named TO-GEMINI-<time>-<subject>. See comms/LINEUP.md v1.2.
+GEMINI   CHECKED IN through the Architect (courier). CANNOT read or write GitHub (tested). CAN read the private Drive comms folder by itself since 6:09 PM ET: the owner shared it view-only with his Pro Google account, and Gemini quoted two notes from it correctly. Its notes now also go to Drive, named TO-GEMINI-<time>-<subject>. Timer set 6:41 PM ET: Gemini checks Drive for new TO-GEMINI notes once a day at about 7:00 PM ET (the fastest its scheduler allows). First run not seen yet. See comms/LINEUP.md v1.3.
 
 OPEN NOTES
 chroma-ads / to GROK            hooks v3            CHECKED IN and ANSWERED 3:52 PM ET. Closed.

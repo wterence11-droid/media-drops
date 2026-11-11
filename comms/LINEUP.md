@@ -1,5 +1,5 @@
 LINE-UP: WHO DOES WHAT  (kept by the ARCHITECT only)
-Set: 2026-11-11 5:34 PM ET.   Line-up v1.2.
+Set: 2026-11-11 5:34 PM ET.   Line-up v1.3.
 
 OWNER ORDER, Nov 11 2026, 5:29 PM ET (his meaning, in short)
 - The Architect is used mainly to PLAN and to RUN THE CREW.
@@ -38,6 +38,10 @@ GEMINI (the owner's Pro account)
   It finds a file when given the start of its name. It does not list the folder. It cannot write there.
   HOW GEMINI GETS ITS NOTES NOW: every note for Gemini also goes into the Drive comms folder with a name that starts
   TO-GEMINI-<UTC time>-<short-subject>. Whoever is in its chat says "read the note that starts TO-GEMINI-<time>".
+  TIMER (owner approved, set 6:41 PM ET Nov 11): one Gemini scheduled task, "Check Drive for TO-GEMINI notes", runs ONCE A DAY at
+  about 7:00 PM ET. Once a day is the fastest Gemini's scheduler allows (its choices: daily, weekly, monthly, yearly, once).
+  It reads new TO-GEMINI notes and writes its check-in inside the owner's Gemini account. First run not seen yet.
+  For anything that cannot wait a day, the Architect or Muse still tells Gemini in its chat to read the note.
   Sound and picture files are still uploaded into its chat. The Architect or Muse posts its answers here.
 
 DOT (ChatGPT)
