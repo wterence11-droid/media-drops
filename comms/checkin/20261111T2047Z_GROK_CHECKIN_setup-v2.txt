@@ -1,0 +1,5 @@
+GOT: DROP_IN_V2 github comms with checkin
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
+MODEL: Grok 4.7
