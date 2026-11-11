@@ -1,0 +1,4 @@
+GOT: 20261111T2052Z_ARCHITECT_to_ALL_five-locked-scripts-v1.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
