@@ -1,0 +1,31 @@
+GEMINI HANDOFF: 4 PICTURES FOR 2 SPEC ADS
+From: the owner, written by the Architect.
+
+YOUR JOB
+Make 4 pictures. They go into two 30-second animated spec ads for imaginary products. Make them one at a time, in this order. Keep the exact same art style in all four.
+
+STYLE (same for every picture)
+- Flat vector illustration. Thick dark navy outlines (#1B2A4E). Solid flat colors only.
+- Colors: coral #FF5B4D, mustard gold #FFC233, teal #17B3A3, white, navy #1B2A4E.
+- No gradients. No shading. No texture. No 3D.
+- Background: one plain solid cream color (#FFF3DC). Nothing else in the background. No floor, no shadow, no table.
+- The object sits in the center with lots of empty space all around it.
+- Wide 16:9 picture.
+- No text, no letters, no numbers, no logos, no brand names. No real people.
+
+PICTURE 1 (bell, resting)
+A cute round desk call bell, the kind you tap on a hotel counter. Mustard gold dome, navy base, a small coral button on top. A simple friendly face on the dome: two dot eyes and a small smile.
+
+PICTURE 2 (bell, ringing)
+The same bell in the same style and same size. The button is pressed down. Its eyes are happily closed. Three short navy motion lines on each side, as if it is ringing. Nothing else.
+
+PICTURE 3 (container, closed)
+A clear rectangular food storage container with a coral lid, closed. Inside is spaghetti with red sauce. Same style.
+
+PICTURE 4 (container, open, tiny orchestra)
+The same container. The coral lid has lifted and floats just above it. Standing on the spaghetti is a tiny orchestra of 6 simple cartoon musicians in navy suits. They have plain round heads with dot eyes only. One conductor with a baton, two violins, one trumpet, one tuba, one kettle drum. A few small music notes float up.
+
+WHEN YOU FINISH
+Tell me the exact name of the model that made the pictures. We list our tools truthfully on a contest form.
+
+PUT THE 4 PICTURES IN comms/open/chroma-ads/files/ named CHROMA_PIC_1_bell_resting, CHROMA_PIC_2_bell_ringing, CHROMA_PIC_3_container_closed, CHROMA_PIC_4_container_open_orchestra. If you cannot write to GitHub, give them to the owner in your chat.

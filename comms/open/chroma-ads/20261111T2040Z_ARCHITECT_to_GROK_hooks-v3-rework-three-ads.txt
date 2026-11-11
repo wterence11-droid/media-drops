@@ -1,0 +1,52 @@
+GROK HANDOFF V3: 3 REWORKED ADS + PUNCH-UP
+From: the owner, written by the Architect.
+
+WHY V3
+We are entering 5 more 30-second comedy spec ads in an AI ad contest. The rules say every entry must be clearly different from our other entries. Your last list was funny, but 20 ideas were really 2 ideas: "a gadget says no for you" and "leftovers get a celebration." We keep ONE of each. The other three need a new job.
+
+LOCKED (do not change the idea)
+- CLAPSULE: a capsule that applauds your small wins. (Already made.)
+- NOPEBELL: a desk bell that says a tired, warm "nope" to work asks.
+- FRIDGESTRA: a leftovers lid with a full orchestra inside.
+
+YOUR JOB, PART 1: REWORK THESE THREE INTO NEW PRODUCTS
+Keep the joke you already wrote. Change what the product DOES. None of the three may say no for you, celebrate food, or clap.
+
+SLOT A (was SoftNo). Keep: "You started to say yes. Then your soul left your body."
+New job to explore: it brings your soul BACK. For long meetings, small talk, group photos. Think: a pocket gadget that reels your soul back in.
+
+SLOT B (was PolitePing). Keep: "You opened the message. You closed it. You opened it."
+New job to explore: it makes the tiny decision for you. Think: a thumb-size judge with a gavel. "Reply 'sounds good.' Case closed."
+
+SLOT C (was ReheatRoar). Keep: "You pressed start. You waited. You hoped."
+New job to explore: it makes boring waiting exciting. Think: a sports announcer or a nature-film narrator for the 90 seconds at the microwave.
+
+You may beat my "think" ideas if yours are funnier and still a different job.
+
+FOR EACH SLOT GIVE 3 OPTIONS. EACH OPTION HAS:
+- NAME: one made-up word or two short words. Not a real brand.
+- PRODUCT: one sentence. What it is and what it does.
+- HOOK: the opening line. 12 words or fewer.
+- THREE DEMO BEATS: a tiny everyday moment, then the SOUND the product makes. Sound matters most: this contest is run by an audio company. Voices, sound effects and music are the star.
+- JINGLE TAG: 9 words or fewer, with the name in it, easy to sing. Also name a music style (each slot a different style: for example barbershop, 80s synth, gospel choir, surf rock, lullaby).
+- BUTTON LINE: in the style of "Batteries, and dignity, included."
+- DIFFERENCE TEST: one line. How is this NOT Clapsule, Nopebell, Fridgestra, or the other two slots?
+Then say which option you would pick for each slot, and why, in one line.
+
+YOUR JOB, PART 2: PUNCH UP THE TWO LOCKED ADS
+Current drafts:
+NOPEBELL: "You stayed late. Again. Nobody noticed. Introducing Nopebell. The little desk bell that says nope, so you don't have to. 'Can you stay late?' ding 'Nope.' 'Quick call?' ding 'Nope.' 'Split the check nine ways?' ding ding 'Nope. Thank you.' Let the bell be the bad guy. Batteries, and a little spine, included."
+FRIDGESTRA: "You opened the pasta. It looked back. The microwave beeped. That was the whole celebration. Introducing Fridgestra. The lid with a full orchestra inside. Open it. FANFARE. Cold pizza? HUGE FANFARE. Batteries, and a full orchestra, included."
+For each: give 5 funnier replacement lines (say which line each one replaces) and 3 funnier "asks" or "foods" for the demo beats. Keep the dry, warm, deadpan voice.
+
+RULES
+- Imaginary products only. No real brands, real people, celebrities, songs or shows.
+- Family friendly (rated G). No health, money or safety promises.
+- No jokes at the expense of any group of people.
+- Funny comes from small true moments, not from being loud or mean.
+
+LAST LINE OF YOUR REPLY
+Write the exact Grok model name you are running as.
+
+FORMAT
+Plain text. No tables. No web browsing. Use the labels SLOT A, SLOT B, SLOT C, NOPEBELL, FRIDGESTRA.

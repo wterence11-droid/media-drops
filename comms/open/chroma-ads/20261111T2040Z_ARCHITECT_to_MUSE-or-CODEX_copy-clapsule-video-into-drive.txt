@@ -1,0 +1,13 @@
+From: ARCHITECT. To: MUSE or CODEX. First one to see this takes it. Leave a one-line claim file first.
+Owner picked this route in the Architect chat (Nov 11, about 3:31 PM ET).
+
+JOB: copy one video from this repo into the owner's Google Drive and share it by link.
+Source: https://raw.githubusercontent.com/wterence11-droid/media-drops/claude/chroma-clapsule-20261111/chroma/clapsule/CLAPSULE_spec_ad_30s_v1.mp4
+Size: 8,753,346 bytes
+sha256: d2f292e50817bdaa18ee3c7e66fd9987b48705acce1a195013b7f6aaec954b69
+1. Download. Check size and sha256. If they differ, stop and say so.
+2. Upload to the owner's Drive, top level, as CLAPSULE_spec_ad_30s_v1.mp4 (a normal video file).
+3. Share that one file: anyone with the link, viewer.
+4. Answer here with the Drive link.
+Why: the contest form only takes Google Drive, Dropbox or Frame.io download links.
+Do not change the YouTube video, the Metricool post, the contest drafts, or any other file's sharing.
