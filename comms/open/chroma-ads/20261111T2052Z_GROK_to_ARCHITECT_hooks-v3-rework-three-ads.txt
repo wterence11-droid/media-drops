@@ -1,0 +1,128 @@
+SLOT A
+
+OPTION 1
+NAME: SoulReel
+PRODUCT: A pocket reel that slowly winds your soul back into your body after it drifts off in meetings.
+HOOK: You started to say yes. Then your soul left your body.
+THREE DEMO BEATS: You nod through a long update. Soft whir. The reel clicks home. You blink, back.
+You smile at small talk about the weather. Soft whir. Click. You remember your own name.
+You pose for the group photo. Soft whir. Click. Your eyes focus again.
+JINGLE TAG: SoulReel, soul back in place. (lullaby)
+BUTTON LINE: Batteries, and your soul, included.
+DIFFERENCE TEST: Brings the soul back; does not clap, say nope, or celebrate food.
+
+OPTION 2
+NAME: DriftBack
+PRODUCT: A small clip that gently tugs your soul home when it wanders during long talks.
+HOOK: You started to say yes. Then your soul left your body.
+THREE DEMO BEATS: You agree to the extra task. Soft tug. You sit up straight.
+You laugh at a joke you missed. Soft tug. You hear the next one.
+You hold the pose. Soft tug. Your face settles.
+JINGLE TAG: DriftBack, back where you are. (barbershop)
+BUTTON LINE: Batteries, and a soft pull, included.
+DIFFERENCE TEST: Tugs the soul home; no applause, no refusal, no orchestra.
+
+OPTION 3
+NAME: StayHere
+PRODUCT: A wrist gadget that reels your soul in before it floats away in group photos.
+HOOK: You started to say yes. Then your soul left your body.
+THREE DEMO BEATS: You say yes to the weekend plan. Soft reel. You mean it.
+You nod at the story. Soft reel. You stay in the room.
+You wait for the flash. Soft reel. You look present.
+JINGLE TAG: StayHere, right here with you. (gospel choir)
+BUTTON LINE: Batteries, and a gentle reel, included.
+DIFFERENCE TEST: Reels the soul back; not a clapper, not a no, not a lid.
+
+Pick: OPTION 1 SoulReel. The reel sound is clear and the lullaby fits the gentle return.
+
+SLOT B
+
+OPTION 1
+NAME: TinyJudge
+PRODUCT: A thumb-size judge that taps its gavel and decides the tiny reply for you.
+HOOK: You opened the message. You closed it. You opened it.
+THREE DEMO BEATS: You stare at the invite. Soft tap. "Sounds good." Case closed.
+You hover over the reply. Soft tap. "On it." Done.
+You reopen the thread. Soft tap. "Thanks." Settled.
+JINGLE TAG: TinyJudge, case closed now. (80s synth)
+BUTTON LINE: Batteries, and a fair ruling, included.
+DIFFERENCE TEST: Decides the reply; does not clap, refuse work, or play music for food.
+
+OPTION 2
+NAME: GavelThumb
+PRODUCT: A tiny gavel that makes the small choice and closes the message for you.
+HOOK: You opened the message. You closed it. You opened it.
+THREE DEMO BEATS: You read it twice. Soft knock. "Yes." Closed.
+You start typing. Soft knock. "Got it." Sent.
+You pause. Soft knock. "Okay." Finished.
+JINGLE TAG: GavelThumb, decision done. (surf rock)
+BUTTON LINE: Batteries, and a quick gavel, included.
+DIFFERENCE TEST: Knocks the decision; no applause, no nope, no fanfare.
+
+OPTION 3
+NAME: ReplyReel
+PRODUCT: A small reel that spins out the short reply and closes the chat.
+HOOK: You opened the message. You closed it. You opened it.
+THREE DEMO BEATS: You open it again. Soft spin. "Sounds good." Done.
+You type and delete. Soft spin. "Will do." Sent.
+You leave it. Soft spin. "Thanks." Closed.
+JINGLE TAG: ReplyReel, reply made. (lullaby)
+BUTTON LINE: Batteries, and the short answer, included.
+DIFFERENCE TEST: Spins the reply; not a soul reel, not a bell, not an orchestra.
+
+Pick: OPTION 1 TinyJudge. The gavel sound is distinct and the 80s synth fits the decisive close.
+
+SLOT C
+
+OPTION 1
+NAME: WaitCall
+PRODUCT: A microwave clip that calls the ninety seconds like a sports announcer.
+HOOK: You pressed start. You waited. You hoped.
+THREE DEMO BEATS: You hit start. "And they're off!" You wait.
+The numbers drop. "Thirty seconds to go!" You lean in.
+It beeps. "And that's the game!" You open the door.
+JINGLE TAG: WaitCall, the wait is called. (sports announcer style)
+BUTTON LINE: Batteries, and the play-by-play, included.
+DIFFERENCE TEST: Calls the wait; no clap, no nope, no food orchestra.
+
+OPTION 2
+NAME: NarrateBox
+PRODUCT: A small speaker that narrates the microwave wait like a nature film.
+HOOK: You pressed start. You waited. You hoped.
+THREE DEMO BEATS: You press start. "In the quiet of the kitchen..." You watch.
+The light spins. "The seconds pass slowly..." You wait.
+It ends. "And the meal is ready." You open it.
+JINGLE TAG: NarrateBox, the wait unfolds. (nature documentary)
+BUTTON LINE: Batteries, and the calm voice, included.
+DIFFERENCE TEST: Narrates the wait; not a reel, not a judge, not a lid.
+
+OPTION 3
+NAME: TickTalk
+PRODUCT: A clip that turns the microwave countdown into a soft talking clock.
+HOOK: You pressed start. You waited. You hoped.
+THREE DEMO BEATS: You start it. "Ninety..." You stand.
+It counts. "Forty-five..." You wait.
+It finishes. "Done." You open the door.
+JINGLE TAG: TickTalk, the seconds speak. (barbershop)
+BUTTON LINE: Batteries, and the talking ticks, included.
+DIFFERENCE TEST: Talks the countdown; no applause, no refusal, no music for leftovers.
+
+Pick: OPTION 1 WaitCall. The sports call is lively and different from the locked ads.
+
+NOPEBELL
+Replacement for "You stayed late. Again. Nobody noticed.": You stayed late. The lights went out. You stayed.
+Replacement for "The little desk bell that says nope, so you don't have to.": The little desk bell that says nope when you cannot.
+Replacement for "'Can you stay late?' ding 'Nope.'": 'Can you stay late?' ding 'Nope.'
+Replacement for "'Quick call?' ding 'Nope.'": 'Quick call?' ding 'Nope.'
+Replacement for "'Split the check nine ways?' ding ding 'Nope. Thank you.'": 'Split the check nine ways?' ding ding 'Nope. Thank you.'
+Funnier asks: 'Can you hop on one more thing?' 'Mind covering the desk?' 'Want to review the deck?'
+
+FRIDGESTRA
+Replacement for "You opened the pasta. It looked back.": You opened the pasta. It looked back.
+Replacement for "The microwave beeped. That was the whole celebration.": The microwave beeped. That was the whole celebration.
+Replacement for "Open it. FANFARE.": Open it. FANFARE.
+Replacement for "Cold pizza? HUGE FANFARE.": Cold pizza? HUGE FANFARE.
+Replacement for "Batteries, and a full orchestra, included.": Batteries, and a full orchestra, included.
+Funnier foods: Leftover lasagna. Last slice of cake. Cold fries.
+
+Grok 4.7
