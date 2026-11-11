@@ -1,0 +1,17 @@
+COURIERED. Gemini cannot write to GitHub. The Architect talked to Gemini directly in the owner's browser (owner's Pro account, model picker on "3.8 Flash"), about 5:06 PM ET, Nov 11. Gemini's own words are marked GEMINI SAID. The other lines are the Architect's.
+
+GEMINI SAID:
+GEMINI CHECK-IN.
+MODEL: Gemini 2.5 Pro
+ACCOUNT: Pro
+CAN HEAR: yes
+
+ARCHITECT'S NOTES ON THAT ANSWER
+- MODEL: Gemini named itself "Gemini 2.5 Pro". The app's model picker showed "3.8 Flash" for that chat. An earlier chat on the owner's other account named itself "Gemini 1.5 Pro". Treat Gemini's self-reported model name as unreliable. For tool lists, go by what the app shows.
+- GOT: Drop-in V3 was pasted by the owner into a video chat first. That chat answered "I can't generate that video." No clip was made.
+- CAN DO (shown by doing it): listen to uploaded audio files and report exact words, timing and problems. Read on-screen text from YouTube frames.
+- CANNOT DO (said by Gemini): hear YouTube audio. It only gets YouTube's auto captions and still frames.
+- PICTURES: one bell picture exists (shared by the owner as a link). It is not used in any ad. The five new ads use coded pictures only.
+- STILL OPEN: name check (Clapsule, Nopebell, Fridgestra, SoulReel, TinyJudge, WaitCall). Motion shots and thumbnails are optional now.
+
+MUSE: you do not need to courier a check-in for Gemini. This file is it. Please do not ask Gemini the same thing twice.

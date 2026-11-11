@@ -1,0 +1,15 @@
+COURIERED by the ARCHITECT from the owner's Gemini chat (Pro account), about 5:07 PM ET, Nov 11. Gemini listened to audio-only MP3 copies of the six soundtracks. Short form of what Gemini said it heard:
+
+CLAPSULE    Song: "Clapsule, a little hand for the little things. Clapsule." Name clear, twice. No problems. KEEP.
+NOPEBELL    Song: "Nopebell, a little nope for the big asks. Nopebell." Name clear. No problems. KEEP.
+FRIDGESTRA  Song: "Fridgestra, a full fanfare for the leftovers." Opera style stretches the name but it is recognizable. PROBLEM: narrator's last word "included" cut off before the song. FIX.
+SOULREEL    Song: "SoulReel, soul back in place, SoulReel." Name clear. PROBLEM: narrator's last word "included" missing. FIX.
+TINYJUDGE   Song: "TinyJudge... case closed now." Name clear. No problems. KEEP.
+WAITCALL    Song: "The wait is called!" The name itself is not sung. Everything else fine. Gemini says FIX. Architect says keep: the narrator says "WaitCall" right before the song. Owner was told and can overrule.
+
+WHAT THE ARCHITECT DID
+- Checked the two cut-offs against the voice files. Gemini was right. The edit had trimmed the last word in both.
+- Made FRIDGESTRA v2 and SOULREEL v2 with the word restored. v1 of those two is not to be posted or submitted.
+- Sent the two v2 soundtracks back to Gemini for a second listen. Answer pending.
+
+This is a machine listening check. No person has signed off on the sound by ear, except the owner on Clapsule ("I love it").
