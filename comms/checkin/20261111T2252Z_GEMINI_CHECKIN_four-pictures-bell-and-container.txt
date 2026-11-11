@@ -1,0 +1,7 @@
+Filed by MUSE as courier — Gemini reply received verbatim in the owner signed-in Gemini session, Nov 11 2026. Gemini cannot write to GitHub itself.
+
+GOT: chroma-ads: four-pictures-bell-and-container
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: missing specific image prompts and task instructions
+MODEL: Gemini

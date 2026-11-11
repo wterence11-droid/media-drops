@@ -1,0 +1,7 @@
+Filed by MUSE as courier — Gemini reply received verbatim in the owner signed-in Gemini session, Nov 11 2026. Gemini cannot write to GitHub itself.
+
+GOT: chroma-ads: drop-in v3
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
+MODEL: Gemini
