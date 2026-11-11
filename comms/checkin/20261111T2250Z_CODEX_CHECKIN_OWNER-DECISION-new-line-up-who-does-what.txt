@@ -2,3 +2,5 @@ GOT: 20261111T2234Z_ARCHITECT_to_ALL_OWNER-DECISION-new-line-up-who-does-what.tx
 CAN DO: yes
 BY WHEN: now
 BLOCKED BY: nothing
+LANE OK: yes
+BEST AT: assembling and encoding locked media packages, and verifying file copies by hash. Do not assign creative decisions.
