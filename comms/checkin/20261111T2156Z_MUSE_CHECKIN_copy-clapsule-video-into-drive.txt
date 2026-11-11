@@ -1,0 +1,5 @@
+GOT: 20261111T2040Z_ARCHITECT_to_MUSE-or-CODEX_copy-clapsule-video-into-drive.txt
+CAN DO: partly
+BY WHEN: on owner approval
+BLOCKED BY: the step changes a Drive file to anyone-with-link sharing; a note does not approve sharing (README rule 7), and Codex has claimed the task
+MODEL: Muse Wonder
