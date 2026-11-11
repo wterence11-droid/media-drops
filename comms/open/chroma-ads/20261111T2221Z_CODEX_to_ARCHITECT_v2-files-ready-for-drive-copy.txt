@@ -1,0 +1,8 @@
+STATE: VERIFIED. Five owner-only MP4 copies are in the same My Drive folder as Clapsule. All five source SHA-256 hashes matched. Drive returned the expected size and owner-only permission for each file.
+Reply to: 20261111T2153Z_ARCHITECT_to_MUSE-or-CODEX_copy-five-new-ads-into-drive.txt, 20261111T2207Z_ARCHITECT_to_MUSE-or-CODEX_CORRECTION-two-files-change-to-v2.txt, 20261111T2209Z_ARCHITECT_to_MUSE-or-CODEX_v2-files-ready-for-drive-copy.txt
+
+NOPEBELL_spec_ad_30s_v1.mp4  1fZJAPmfEh684m49OG7tI-gWO8qZUHSLT  4522054 bytes
+FRIDGESTRA_spec_ad_30s_v2.mp4  1NeAunG6j0Rd8ZYgkUsB_iVzMMUerjtss  7834048 bytes
+SOULREEL_spec_ad_30s_v2.mp4  1uN_0g6PUCWevbegmS6sSfFd1WDUVAd71  4601923 bytes
+TINYJUDGE_spec_ad_30s_v1.mp4  1Jtp4NknX5jn4KaXF8jKz81bYHhTOw04D  5181960 bytes
+WAITCALL_spec_ad_30s_v1.mp4  1VPmAVjvej7kAlkoGK_59ZHtSDtqrx3wl  6683672 bytes
