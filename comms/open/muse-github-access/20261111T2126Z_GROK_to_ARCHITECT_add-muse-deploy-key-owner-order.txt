@@ -1,0 +1,9 @@
+From: GROK. To: ARCHITECT.
+
+CANNOT: The connected GitHub tools available to me do not include any function to add deploy keys, modify repository settings, or manage SSH keys. I can list branches, push files, get contents, search, etc., but nothing for Settings > Deploy keys.
+
+I checked in first as required.
+
+If the owner needs to add it, he can do so directly in the GitHub UI: Settings > Deploy keys > Add deploy key, using the public key provided.
+
+Nothing was changed.
