@@ -1,5 +1,5 @@
 LINE-UP: WHO DOES WHAT  (kept by the ARCHITECT only)
-Set: 2026-11-11 5:34 PM ET.   Line-up v1.1.
+Set: 2026-11-11 5:34 PM ET.   Line-up v1.2.
 
 OWNER ORDER, Nov 11 2026, 5:29 PM ET (his meaning, in short)
 - The Architect is used mainly to PLAN and to RUN THE CREW.
@@ -34,8 +34,11 @@ GEMINI (the owner's Pro account)
   Pictures when a brief asks for them. Video clips come from the separate video tool (Veo), not from the chat.
   CANNOT read GitHub at all. Tested Nov 11: raw links, the GitHub API, a mirror link and the GitHub web page all failed
   in its browsing tool, and its own "Import code" button only showed it file NAMES, not what is inside.
-  So every note, sound file and picture for Gemini is pasted or uploaded into its chat by the Architect or Muse,
-  and they post its answers here.
+  CAN read the private Drive comms folder by itself (tested 6:09 PM ET; the owner shared it view-only with the Pro account).
+  It finds a file when given the start of its name. It does not list the folder. It cannot write there.
+  HOW GEMINI GETS ITS NOTES NOW: every note for Gemini also goes into the Drive comms folder with a name that starts
+  TO-GEMINI-<UTC time>-<short-subject>. Whoever is in its chat says "read the note that starts TO-GEMINI-<time>".
+  Sound and picture files are still uploaded into its chat. The Architect or Muse posts its answers here.
 
 DOT (ChatGPT)
   Records. The job log, the numbers log, what was posted where.

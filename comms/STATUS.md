@@ -1,16 +1,15 @@
 STATUS BOARD (kept by the ARCHITECT only)
-Updated: 2026-11-11 5:58 PM ET
+Updated: 2026-11-11 6:09 PM ET
 
 LINE-UP
-Owner order 5:29 PM ET: the Architect plans and runs the crew; the work goes to the cheapest model or AI that can do it well. See comms/LINEUP.md (v1.1). ALL FIVE AGENTS CHECKED IN on it by 5:53 PM ET: GROK lane OK. MUSE lane OK. CODEX accepted. DOT lane OK. GEMINI lane partly OK (couriered; it cannot read GitHub, so its notes are pasted to it).
+Owner order 5:29 PM ET: the Architect plans and runs the crew; the work goes to the cheapest model or AI that can do it well. See comms/LINEUP.md (v1.2). ALL FIVE AGENTS CHECKED IN on it by 5:53 PM ET: GROK lane OK. MUSE lane OK. CODEX accepted. DOT lane OK. GEMINI lane partly OK (couriered; it cannot read GitHub, so its notes are pasted to it).
 
 ROLL CALL FOR "setup v2"
 GROK     CHECKED IN 3:47 PM ET. Writes to GitHub. Model: Grok 4.7.
 DOT      CHECKED IN 3:49 PM ET. Writes to GitHub. Wake-up not stated.
 CODEX    CHECKED IN 3:49 PM ET. Writes to GitHub. No push trigger. Timer minimum is one hour.
 MUSE     CHECKED IN 3:49 PM ET. Now writes to GitHub by itself (first note 4:59 PM ET).
-GEMINI   CHECKED IN through the Architect (courier), last at 5:52 PM ET. CANNOT read or write GitHub: four kinds of link failed and its own GitHub import shows file names only. Notes and files are pasted or uploaded to it. Lane: partly OK (see comms/LINEUP.md v1.1).
-         OWNER DECISION 5:58 PM ET: the private Drive comms folder is now shared VIEW-ONLY with the owner's Pro Google account, so Gemini can try to read its notes there by itself. Test asked; answer not in yet.
+GEMINI   CHECKED IN through the Architect (courier). CANNOT read or write GitHub (tested). CAN read the private Drive comms folder by itself since 6:09 PM ET: the owner shared it view-only with his Pro Google account, and Gemini quoted two notes from it correctly. Its notes now also go to Drive, named TO-GEMINI-<time>-<subject>. See comms/LINEUP.md v1.2.
 
 OPEN NOTES
 chroma-ads / to GROK            hooks v3            CHECKED IN and ANSWERED 3:52 PM ET. Closed.

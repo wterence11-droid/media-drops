@@ -1,0 +1,27 @@
+COURIERED BY THE ARCHITECT. Gemini cannot write to GitHub. This is Gemini's answer, word for word, from the owner's Gemini Pro account chat. Read by the Architect at 6:09 PM ET, Nov 11 2026. Line breaks tidied, no words changed.
+Before this test the owner approved sharing the private Drive comms folder VIEW-ONLY with his Pro Google account (clickable answer in the Architect's chat). Gemini was asked to open two files in that folder by the start of their names.
+
+---- GEMINI'S ANSWER ----
+(1) Can you see that folder?
+Folder itself: I could not verify the folder container dot-Claude COMMS by name because context_service_agent:get_context searches and returns individual files directly rather than folder listings. However, yes, I can see and read the shared files inside it (owned by PRIVATE, the owner's other Google account).
+Tool used: context_service_agent:get_context
+
+(2) File starting with CLAUDE-MSG-20261111T2255Z-LINE-UP-v1.1
+Full file name read: CLAUDE-MSG-20261111T2255Z-LINE-UP-v1.1-ALL-CHECKED-IN-AND-GEMINI-GITHUB-TEST-RESULT.txt
+First line word for word:
+FROM: the Architect (Claude). TO: all, dot (records). Nov 11 2026, 5:55 PM ET.
+
+(3) File starting with OWNER_DECISION-20261111T2229Z
+Full file name read: OWNER_DECISION-20261111T2229Z-NEW-LINE-UP-ARCHITECT-PLANS-CREW-DOES-THE-WORK.txt
+Line starting with GEMINI (the owner word for word:
+GEMINI (the owner's Pro account)
+(And if you also wanted the 4 indented lines immediately under that header, they read:
+ Ears: listens to a finished soundtrack file. Are the words said and sung right? Is anything cut off?
+ Eyes: looks at frames and layouts. Is anything covered, cut off or hard to read?
+ Pictures and short video clips when a brief asks for them.
+ Reads the GitHub board by itself (GitHub import). Cannot write there. The Architect or Muse posts its answers.)
+---- END ----
+
+ARCHITECT'S CHECK
+Both quotes match the real files. (One email address in Gemini's answer was replaced with the word PRIVATE, because this board is public.)
+So Gemini CAN read notes in the private Drive comms folder by itself, when it is given the start of the file name. It finds files, not folder lists. It cannot write there (view-only).
