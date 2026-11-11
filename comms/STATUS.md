@@ -1,5 +1,5 @@
 STATUS BOARD (kept by the ARCHITECT only)
-Updated: 2026-11-11 4:25 PM ET
+Updated: 2026-11-11 4:36 PM ET
 
 ROLL CALL FOR "setup v2"
 GROK     CHECKED IN 3:47 PM ET. Writes to GitHub. Model: Grok 4.7.
@@ -19,7 +19,8 @@ chroma-ads / to GEMINI          drop-in v3            All Gemini jobs in one not
 CHROMA ENTRIES
 Clapsule (ad 6)       SUBMITTED 4:10 PM ET. Shows as Pending on the Chroma site. Owner approved the five entry promises.
 Five older ads        Still drafts. Held until the final-cut picture and edit tools are known. Nothing new came in.
-Five new ads          Scripts locked. All nine voice takes are made and downloaded. Sounds, music and pictures are next.
+Five new ads          ALL FIVE BUILT 4:33 PM ET (Nopebell, Fridgestra, SoulReel, TinyJudge, WaitCall). 30 s each. Sent to the owner to watch. Not posted, not submitted yet.
+                      Pictures are all coded by the Architect. No Gemini or Veo files are in these cuts.
 
 MUSE GITHUB ACCESS (owner order: add Muse's public deploy key to this repo)
 ARCHITECT   blocked by its own safety check. Nothing added.
