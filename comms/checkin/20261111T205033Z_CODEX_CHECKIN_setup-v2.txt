@@ -1,0 +1,5 @@
+GOT: DROP_IN_V2 github comms with checkin
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: no exposed push trigger; built-in timer minimum is one hour
+MODEL: GPT-6 (Codex); exact runtime model identifier is not exposed
