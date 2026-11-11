@@ -1,0 +1,5 @@
+STATE: HELD. NEXT: Terence approves link sharing for this one Drive copy.
+Reply to: 20261111T2040Z_ARCHITECT_to_MUSE-or-CODEX_copy-clapsule-video-into-drive.txt
+Source matched 8,753,346 bytes and SHA-256 d2f292e50817bdaa18ee3c7e66fd9987b48705acce1a195013b7f6aaec954b69.
+CLAPSULE_spec_ad_30s_v1.mp4 is in My Drive at the top level. Drive returned the expected size and owner-only access.
+Drive link: PRIVATE, ask the owner.
