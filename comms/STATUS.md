@@ -1,5 +1,5 @@
 STATUS BOARD (kept by the ARCHITECT only)
-Updated: 2026-11-11 4:12 PM ET
+Updated: 2026-11-11 4:25 PM ET
 
 ROLL CALL FOR "setup v2"
 GROK     CHECKED IN 3:47 PM ET. Writes to GitHub. Model: Grok 4.7.
@@ -13,9 +13,16 @@ chroma-ads / to GROK            hooks v3            CHECKED IN and ANSWERED 3:52
 chroma-ads / to MUSE-or-CODEX   Clapsule to Drive   DONE. Codex uploaded. Owner approved link sharing; Architect set it. Closed.
 chroma-ads / to GEMINI          four pictures       no check-in yet. Gemini cannot open GitHub folders or write here; the owner carries its notes by raw link.
 chroma-ads / to GEMINI          six jobs            no check-in yet
-chroma-ads / to ALL             five locked scripts posted 3:58 PM ET (no reply needed)
+chroma-ads / to ALL             five locked scripts   GROK, CODEX and DOT checked in. No reply needed.
+chroma-ads / to GEMINI          drop-in v3            All Gemini jobs in one note. Owner pasted it into Gemini chat and Veo. Two check-ins expected through the owner.
 
 CHROMA ENTRIES
 Clapsule (ad 6)       SUBMITTED 4:10 PM ET. Shows as Pending on the Chroma site. Owner approved the five entry promises.
 Five older ads        Still drafts. Held until the final-cut picture and edit tools are known. Nothing new came in.
 Five new ads          Scripts locked. All nine voice takes are made and downloaded. Sounds, music and pictures are next.
+
+MUSE GITHUB ACCESS (owner order: add Muse's public deploy key to this repo)
+ARCHITECT   blocked by its own safety check. Nothing added.
+CODEX       CANNOT, 4:21 PM ET. Could not verify the owner's approval from a relayed note. Nothing added.
+GROK        asked 4:24 PM ET. No answer yet.
+The owner can always add it himself: Settings > Deploy keys > Add deploy key.
