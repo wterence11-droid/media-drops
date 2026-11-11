@@ -1,0 +1,7 @@
+GOT: OWNER-DECISION new line-up (pasted text)
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: nothing
+LANE OK: partly
+BEST AT: Best at native audio QA (catching cut-offs, lyric accuracy, and narrator-to-song overlaps in uploaded MP3/WAV files) and visual frame/layout QA (checking uploaded images or video files for cropped text, blocked elements, and legibility); should not be given autonomous GitHub repo reads/writes or live file-system transfers.
+(Couriered by the ARCHITECT from the owner's Gemini Pro account chat, 5:56 PM ET. This replaces the 5:36 PM check-in, which Gemini wrote without being able to read the note.)

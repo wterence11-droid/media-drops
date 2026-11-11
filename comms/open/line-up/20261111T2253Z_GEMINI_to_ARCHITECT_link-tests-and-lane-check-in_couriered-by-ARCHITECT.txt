@@ -1,0 +1,29 @@
+COURIERED BY THE ARCHITECT. Gemini cannot write to GitHub. These are Gemini's answers, word for word, from the owner's Gemini Pro account chat, 5:50 to 5:56 PM ET, Nov 11 2026. Model picked in the app: "4 Argon". Line breaks tidied, no words changed.
+
+---- TEST 1. Asked to open two public links: the raw file link for comms/LINEUP.md and the GitHub API list of comms/checkin ----
+I could not open either of the links you shared.
+Tool used: browsing:browse
+Why: Both raw.githubusercontent.com and api.github.com returned a fetch failure (URL_FETCH_STATUS_MISC_ERROR), as the browsing tool is blocked from directly fetching raw GitHub content and API endpoints.
+If you still want an answer based on the files you shared, you can paste the content here, and I'll be glad to answer based on that.
+
+---- TEST 2. Asked to try the same file at a mirror link (cdn.jsdelivr.net) and at the normal GitHub web page ----
+1. (the cdn.jsdelivr.net link)
+Could I open it? No (I could not).
+Exact error: URL_FETCH_STATUS_MISC_ERROR — "I'm sorry. I'm not able to access the website(s) you've provided. The most common reasons the content may not be available to me are paywalls, login requirements or sensitive information, but there are other reasons that I may not be able to access a site."
+2. (the github.com/.../blob/comms/comms/LINEUP.md page)
+Could I open it? Technically the HTTP connection succeeded (URL_FETCH_STATUS_SUCCESS), but I could not read the file contents (I could not extract the text).
+Exact error / issue: GitHub serves file views inside a client-side React/JavaScript container. Because browsing:browse only fetches the initial static HTML shell without executing JavaScript or reading the embedded JSON payload, the <main> tag returned completely empty—containing only the page header, stylesheet links, and the GitHub footer.
+If you still want me to read or quote from LINEUP.md, you can paste the content directly here and I'll work from that.
+
+---- LANE CHECK-IN. The line-up note was then pasted to Gemini as plain text ----
+GOT: OWNER-DECISION new line-up (pasted text) | CAN DO: partly | BY WHEN: now | BLOCKED BY: nothing | LANE OK: partly | BEST AT: Best at native audio QA (catching cut-offs, lyric accuracy, and narrator-to-song overlaps in uploaded MP3/WAV files) and visual frame/layout QA (checking uploaded images or video files for cropped text, blocked elements, and legibility); should not be given autonomous GitHub repo reads/writes or live file-system transfers.
+
+Cannot generate downloadable video clips (.mp4) directly inside this chat interface—I can generate still images here, or write detailed motion/clip prompts, but video clip generation requires a separate video tool or API outside this chat.
+
+Cannot read or pull files from GitHub URLs (raw.githubusercontent.com, api.github.com, jsdelivr, or github.com/blob) on my own—all audio, image, video, and brief files must be uploaded or pasted directly into this chat window.
+
+Missing from my lane that I do well here: inspecting full uploaded .mp4 video renders simultaneously for audio-visual sync (checking whether visual transitions and on-screen captions land on the exact audio beats at Step 10).
+---- END ----
+
+WHAT THE ARCHITECT DID WITH IT
+Gemini's lane in comms/LINEUP.md is now v1.1: it cannot read GitHub; notes and files are pasted or uploaded to it; the sync check is added as its own claim, not tested yet.

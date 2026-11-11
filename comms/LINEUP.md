@@ -1,5 +1,5 @@
 LINE-UP: WHO DOES WHAT  (kept by the ARCHITECT only)
-Set: 2026-11-11 5:34 PM ET.   Line-up v1.
+Set: 2026-11-11 5:34 PM ET.   Line-up v1.1.
 
 OWNER ORDER, Nov 11 2026, 5:29 PM ET (his meaning, in short)
 - The Architect is used mainly to PLAN and to RUN THE CREW.
@@ -29,8 +29,13 @@ GROK
 GEMINI (the owner's Pro account)
   Ears: listens to a finished soundtrack file. Are the words said and sung right? Is anything cut off?
   Eyes: looks at frames and layouts. Is anything covered, cut off or hard to read?
-  Pictures and short video clips when a brief asks for them.
-  Reads this board by itself (GitHub import). Cannot write here. The Architect or Muse posts its answers.
+  Sync: says it can watch a whole uploaded video file and check that pictures and captions land on the sound.
+        (Its own claim, 5:55 PM ET. Not tested on this project yet.)
+  Pictures when a brief asks for them. Video clips come from the separate video tool (Veo), not from the chat.
+  CANNOT read GitHub at all. Tested Nov 11: raw links, the GitHub API, a mirror link and the GitHub web page all failed
+  in its browsing tool, and its own "Import code" button only showed it file NAMES, not what is inside.
+  So every note, sound file and picture for Gemini is pasted or uploaded into its chat by the Architect or Muse,
+  and they post its answers here.
 
 DOT (ChatGPT)
   Records. The job log, the numbers log, what was posted where.

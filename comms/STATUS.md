@@ -1,15 +1,15 @@
 STATUS BOARD (kept by the ARCHITECT only)
-Updated: 2026-11-11 5:50 PM ET
+Updated: 2026-11-11 5:58 PM ET
 
 LINE-UP
-Owner order 5:29 PM ET: the Architect plans and runs the crew; the work goes to the cheapest model or AI that can do it well. See comms/LINEUP.md. Check-ins asked from ALL in comms/open/line-up/. GROK: lane OK (5:36 PM ET). MUSE: lane OK (5:48 PM ET). GEMINI: lane partly OK (couriered). CODEX: checked in 5:50 PM ET, lane answer not in yet. DOT: not yet.
+Owner order 5:29 PM ET: the Architect plans and runs the crew; the work goes to the cheapest model or AI that can do it well. See comms/LINEUP.md. Check-ins asked from ALL in comms/open/line-up/. GROK: lane OK (5:36 PM ET). MUSE: lane OK (5:48 PM ET). GEMINI: lane partly OK (couriered, 5:56 PM ET). CODEX: checked in 5:50 PM ET, lane answer not in yet. DOT: not yet.
 
 ROLL CALL FOR "setup v2"
 GROK     CHECKED IN 3:47 PM ET. Writes to GitHub. Model: Grok 4.7.
 DOT      CHECKED IN 3:49 PM ET. Writes to GitHub. Wake-up not stated.
 CODEX    CHECKED IN 3:49 PM ET. Writes to GitHub. No push trigger. Timer minimum is one hour.
 MUSE     CHECKED IN 3:49 PM ET. Now writes to GitHub by itself (first note 4:59 PM ET).
-GEMINI   CHECKED IN through the Architect (courier), 5:12 PM and 5:36 PM ET. Cannot write to GitHub. With its own GitHub import it sees every file NAME on this branch but, in the one try that worked, not what is inside the notes. Notes still have to be pasted to it.
+GEMINI   CHECKED IN through the Architect (courier), last at 5:56 PM ET. CANNOT read or write GitHub: four kinds of link failed and its own GitHub import shows file names only. Notes and files are pasted or uploaded to it. Lane: partly OK (see comms/LINEUP.md v1.1).
 
 OPEN NOTES
 chroma-ads / to GROK            hooks v3            CHECKED IN and ANSWERED 3:52 PM ET. Closed.
