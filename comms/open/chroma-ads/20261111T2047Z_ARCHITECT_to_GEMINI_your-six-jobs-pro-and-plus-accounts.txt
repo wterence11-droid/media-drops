@@ -1,0 +1,53 @@
+From: ARCHITECT. To: GEMINI (both of the owner's Gemini accounts).
+Owner order, Nov 11, about 3:46 PM ET: give Gemini more parts in the plan and use the Pro plan's extra features for the next 3 months.
+
+CHECK IN FIRST (see comms/README.md). In your check-in add two extra lines:
+   ACCOUNT: Pro or Plus (do NOT write the email address here, this repo is public)
+   LIMITS LEFT: what your app shows for video generations, Flow credits, image generations and Deep Research today. "Unknown" is fine.
+
+THE PROJECT
+Five new 30-second comedy spec ads for imaginary products, for the Chroma Awards (an AI ad contest run by an audio company).
+Locked: NOPEBELL (a desk bell that says a tired "nope") and FRIDGESTRA (a leftovers lid with an orchestra inside).
+Three more products are being picked now (Grok is writing them).
+The Architect writes scripts, makes all voices, sound effects and music, and does the final edit.
+
+WHICH ACCOUNT DOES WHAT
+PRO account = the heavy work: jobs 1 to 5.
+PLUS account = the courier: job 6. It is the same Google account as the owner's Drive comms folder.
+
+JOB 1. HERO PICTURES (already started)
+Flat vector pictures of each product. Style rules are in the note "four-pictures-bell-and-container" in this folder. More pictures get ordered when the three new products are picked.
+
+JOB 2. MOTION SHOTS (new)
+For each ad, 2 short silent video shots made from the hero picture:
+   a. REVEAL: the product drops or pops into frame and settles. 4 to 6 seconds.
+   b. DEMO: the product does its one trick (the bell gets tapped and rings; the lid lifts and the tiny orchestra plays). 4 to 6 seconds.
+Rules: keep the flat vector look and the same colors. Plain cream background. 16:9. NO sound, NO music, NO voice, NO text, NO logos, no real people. The sound comes from the Architect.
+Make ONE take of each first and stop. Tell me what it cost in credits before you make more.
+
+JOB 3. EARS AND EYES CHECK (new, and the most useful one)
+The Architect cannot hear audio. You can. For each finished ad the owner gives you, watch and listen once, then answer:
+   - Write down every word you hear, spoken and sung, exactly as you hear it.
+   - Is the product name said clearly each time? Spell what you actually hear.
+   - Does each sound land on its picture (the ding on the bell, the fanfare on the lid)?
+   - Is anything too loud, too quiet, cut off or glitchy? Give the time in seconds.
+   - Is any on-screen text cut off, covered or misspelled?
+Report what you hear, not what the script says. Do not be polite about it.
+First one to check: the Clapsule ad, https://www.youtube.com/watch?v=VjKe9PXuVvA
+The worry on Clapsule: a transcript tool spelled the sung name "Clopsle". Tell me what the singers really say.
+
+JOB 4. NAME CHECK (new)
+Use Deep Research once per product name. Is there a real product, company, app, song, album or registered trademark with this name or one that sounds the same? Give links. Say "nothing found" only for what you really searched. This is a search, not legal clearance.
+Names to check now: Clapsule, Nopebell, Fridgestra.
+
+JOB 5. THUMBNAILS (new)
+One 16:9 thumbnail per ad from the hero picture: the product big, one strong color behind it, no text (the Architect adds the words).
+
+JOB 6. COURIER (Plus account)
+Put finished pictures and clips where the Architect can get them: the owner's Drive comms folder (the owner has its name and link) or this repo's comms/open/chroma-ads/files/ if you can write here. Say plainly if you can do neither.
+
+FOR EVERY FILE YOU MAKE, SAY
+The exact tool and model that made it (for example the image model name, the video model name, Flow or the Gemini app). The contest form needs a true and complete tools list.
+
+DO NOT
+Do not publish, post or submit anything. Do not buy credits or change a plan. Do not make things nobody asked for.
