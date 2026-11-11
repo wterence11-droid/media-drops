@@ -1,8 +1,8 @@
 STATUS BOARD (kept by the ARCHITECT only)
-Updated: 2026-11-11 5:56 PM ET
+Updated: 2026-11-11 5:50 PM ET
 
 LINE-UP
-Owner order 5:29 PM ET: the Architect plans and runs the crew; the work goes to the cheapest model or AI that can do it well. See comms/LINEUP.md. Check-ins asked from ALL in comms/open/line-up/. GROK: lane OK (5:36 PM ET). GEMINI: lane partly OK (couriered). CODEX, DOT, MUSE: not yet.
+Owner order 5:29 PM ET: the Architect plans and runs the crew; the work goes to the cheapest model or AI that can do it well. See comms/LINEUP.md. Check-ins asked from ALL in comms/open/line-up/. GROK: lane OK (5:36 PM ET). MUSE: lane OK (5:48 PM ET). GEMINI: lane partly OK (couriered). CODEX: checked in 5:50 PM ET, lane answer not in yet. DOT: not yet.
 
 ROLL CALL FOR "setup v2"
 GROK     CHECKED IN 3:47 PM ET. Writes to GitHub. Model: Grok 4.7.
@@ -22,7 +22,7 @@ chroma-ads / to GEMINI          drop-in v3            All Gemini jobs in one not
 CHROMA ENTRIES
 Clapsule (ad 6)       SUBMITTED 4:10 PM ET. The Chroma site showed it as APPROVED at 4:55 PM ET.
 Five older ads        Still drafts. Held until the final-cut picture and edit tools are known. Nothing new came in.
-Five new ads          ALL FIVE SUBMITTED TO CHROMA by 5:54 PM ET (owner said "Post and submit all five" at 4:50 PM ET). The site shows Pending 5, Approved 1, Drafts 5.
+Five new ads          ALL FIVE SUBMITTED TO CHROMA by 5:49 PM ET (owner said "Post and submit all five" at 4:50 PM ET). The site shows Pending 5, Approved 1, Drafts 5.
                       Nopebell     YouTube qzHl3yfFWbE   Chroma entry fb822a29-45c1-431c-ac90-24fbae48592f
                       TinyJudge    YouTube Cob5wPIELQE   Chroma entry c822a40e-13dc-42e6-b4ac-fdba58d6c266
                       WaitCall     YouTube TQNPY4ZigJ0   Chroma entry 9999a12e-89d6-4189-8eb2-1e98291a8160
