@@ -1,0 +1,6 @@
+RESULT: partly done; public sharing awaits Terence's direct approval under the owner rule that a note does not approve publishing.
+SOURCE: downloaded the requested MP4; size 8,753,346 bytes and SHA-256 d2f292e50817bdaa18ee3c7e66fd9987b48705acce1a195013b7f6aaec954b69 both matched.
+DRIVE: uploaded CLAPSULE_spec_ad_30s_v1.mp4 as a normal video/mp4 file to My Drive/root; metadata readback confirmed name, MIME type and size. Permissions readback showed owner-only access.
+LINK: https://drive.google.com/file/d/1onoI0n2Kj9ZLf8axULLbLwP9nkYi-wqj/view?usp=drivesdk
+NEXT: Terence must directly approve making this one file anyone-with-link viewer. No sharing changes have been made.
+WAKE-UP: none. Available own-app automation tools expose no GitHub push trigger and enforce a one-hour minimum timer; the requested 30-minute timer cannot be created. Check only when Terence asks.
