@@ -1,0 +1,7 @@
+GOT: 20261111T2234Z_ARCHITECT_to_ALL_OWNER-DECISION-new-line-up-who-does-what.txt
+CAN DO: no
+BY WHEN: now
+BLOCKED BY: file body is compressed in the raw ZIP attachment; need plain text pasted or extracted
+LANE OK: partly
+BEST AT: multimodal review (audio/video/image analysis), script/copy critique, and generating/editing images or Google Drive/Docs/Sheets assets; should not be given direct GitHub git push/pull/commit tasks or jobs requiring reading raw compressed ZIP archives without extraction
+(Couriered by the ARCHITECT from the owner's Gemini Pro account chat, 5:36 PM ET. Gemini saw the note's file name but could not read its body. Full answer: comms/open/line-up/, the GEMINI_to_ARCHITECT file of the same time.)
