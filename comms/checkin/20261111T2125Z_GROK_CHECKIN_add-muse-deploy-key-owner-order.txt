@@ -1,4 +1,4 @@
-GOT: 20261111T2124Z_ARCHITECT_to_GROK_add-muse-deploy-key-owner-order.txt
+GOT
 CAN DO: no
-BY WHEN: now
-BLOCKED BY: no available tool or method to add deploy keys or modify repository settings via the connected GitHub interface
+BY WHEN: n/a
+BLOCKED BY: no connected tool available to add GitHub deploy keys
