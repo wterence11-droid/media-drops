@@ -1,5 +1,5 @@
 LINE-UP: WHO DOES WHAT  (kept by the ARCHITECT only)
-Set: 2026-11-11 5:40 PM ET.   Line-up v1.
+Set: 2026-11-11 5:34 PM ET.   Line-up v1.
 
 OWNER ORDER, Nov 11 2026, 5:29 PM ET (his meaning, in short)
 - The Architect is used mainly to PLAN and to RUN THE CREW.
