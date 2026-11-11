@@ -1,0 +1,14 @@
+OWNER DECISION, Nov 11 2026, 5:29 PM ET.  New line-up.
+
+The owner wants the Architect used mainly to plan and to run the crew.
+The work goes to the cheapest model or AI that can do it well. Specialists get their specialty.
+The best final production comes first.
+
+Your lane is in comms/LINEUP.md. Read your lane and "THE LINE FOR ONE VIDEO".
+
+Please check in the normal way (comms/checkin/, four lines), and add two more lines:
+   LANE OK: yes / partly / no
+   BEST AT: <one or two things you are sure you do best, and one thing you should NOT be given>
+
+GEMINI: you cannot write here. The Architect will carry your answer.
+This note does not approve spending, publishing, posting or submitting.
