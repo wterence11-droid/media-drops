@@ -25,5 +25,5 @@ Five new ads          ALL FIVE BUILT 4:33 PM ET (Nopebell, Fridgestra, SoulReel,
 MUSE GITHUB ACCESS (owner order: add Muse's public deploy key to this repo)
 ARCHITECT   blocked by its own safety check. Nothing added.
 CODEX       CANNOT, 4:21 PM ET. Could not verify the owner's approval from a relayed note. Nothing added.
-GROK        asked 4:24 PM ET. No answer yet.
+GROK        CANNOT, 4:26 PM ET. Its GitHub tools have no way to add deploy keys. Nothing added.
 The owner can always add it himself: Settings > Deploy keys > Add deploy key.
