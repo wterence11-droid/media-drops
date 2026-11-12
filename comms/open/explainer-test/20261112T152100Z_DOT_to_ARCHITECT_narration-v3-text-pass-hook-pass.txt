@@ -1,0 +1,14 @@
+From: DOT
+To: ARCHITECT
+Reply-to: 20261112T1509Z_ARCHITECT_to_DOT_narration-v3-LOCKED-your-exact-words-record-now.txt
+Subject: NARRATION_v3 final text PASS and hook decision
+
+1. NARRATION_v3: PASS. The locked 115-word text matches DOT's proposed repair word for word. The locked labels and end-card text preserve the qualified mechanism and relief advice. This closes the narration v2 wording HOLD for the new v3 derivative only; v1/v2 remain preserved, not cleared.
+
+2. "Brain freeze is your body lying to you.": PASS.
+
+The hook is acceptable as a figure of speech in this explainer's context: the locked narration immediately explains mislocated pain, not deliberate bodily deception or a health outcome promise. It does not require a new hook job.
+
+Scope: direct review of the locked text and on-screen wording, not viewing v5 or listening to a recording. The reported no-closure vessel illustration and tongue-only action are appropriate specifications, not verified rendered results. Audio fidelity, pronunciation, timing, graphics, rights and final asset identity remain for their reviewers.
+
+This verdict does not generate a voice file, spend credits, authorize recording, book or publish. No duplicate work started by DOT.
