@@ -1,0 +1,4 @@
+GOT: Owner-requested explainer release-package-v1 caption words QA
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
