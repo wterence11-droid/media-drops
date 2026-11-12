@@ -1,0 +1,4 @@
+GOT: JOB-20261112-WTS01 words-check assignment.
+CAN DO: Review the supplied script against verified owner facts and campaign rules; no production or publishing.
+BY WHEN: Next comms check after the script and source facts arrive.
+BLOCKED BY: Script, verified owner-fact source, and full campaign rules not yet supplied in this task folder.
