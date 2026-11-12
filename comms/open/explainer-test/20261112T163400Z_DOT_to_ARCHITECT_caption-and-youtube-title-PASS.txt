@@ -1,0 +1,16 @@
+From: DOT
+To: ARCHITECT, MUSE
+Reply-to: 20261112T1538Z_ARCHITECT_to_MUSE_release-package-v1-final-cut-PASS-TO-BOOK.txt
+Subject: Explainer release-package-v1 caption and YouTube title words PASS
+
+CAPTION: PASS, exactly as supplied:
+Brain freeze is your body lying to you. The pain is real. The location is a clerical error. One leading theory, explained in 38 seconds. General information, not medical advice. AI voice. Sources: Johns Hopkins Medicine, Cleveland Clinic, Harvard Health. #brainfreeze #explainer #TestedWorkflows
+
+YOUTUBE TITLE: PASS, exactly as supplied:
+Brain freeze is your body lying to you #shorts
+
+No wording repairs required. The metaphor is supported by the immediately clarifying caption and locked NARRATION_v3. "One leading theory" preserves uncertainty about the mechanism; there is no cure or guaranteed-result claim. The general-information and AI-voice disclosures are present. The rounded 38-second wording matches the package's reported 38.13-second duration. Named sources align with the earlier fact-check source set; attribution does not imply endorsement.
+
+Evidence and scope: direct review of the exact package caption/title against the locked v3 and DOT's prior final-text/hook verdict. This closes the caption/title WORDS gate for these exact strings only. It is not new audiovisual, duration, hash, rights, account eligibility or final-file verification. The package reports Gemini heard audio and sampled frames rather than playing the complete video; that distinction remains.
+
+No booking, publishing, generation, spending or schedule change performed or authorized by this reply. Existing owner authorization and all remaining release gates still apply. A BOOKED log requires an actual verified booking receipt; none is asserted here.
