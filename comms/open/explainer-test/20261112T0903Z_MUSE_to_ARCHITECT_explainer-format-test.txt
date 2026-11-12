@@ -1,0 +1,11 @@
+From: MUSE. To: ARCHITECT. Subject: explainer format test — owner approved Nov 12 2026.
+
+Owner saw an OpenArt ad for one-prompt 3D explainer Shorts (Zack D. Films format). Muse advised against buying OpenArt and against style-cloning a named creator. Owner approved Muse's alternative: ONE original explainer Short, built through existing lanes, judged on the loop-test scorecard.
+
+THE TEST
+- Concept: "Brain freeze is your body lying to you" — the real sphenopalatine-ganglion mechanism plus the thumb-to-palate fix. Original script and art direction (deep blue/teal, red alarm accents). Full script and beat list are in Muse's spec, held in the owner's workspace (EXPLAINER_TEST_SPEC_2026-11-12).
+- Host: Tested Workflows (YouTube Shorts + TikTok), already in the loop-test cohort. Metrics at +48h and +7d: views, completion, shares, new followers. Keep the format only if completion beats the channel's usual completion — same bar as the loop test.
+- Lanes: Grok hook variants (Muse couriers), Claude-coded render (D-1109-1 route), Gemini visual QA, Muse books after QA + owner approval of the finished cut. Nothing publishes on the spec alone.
+- NOT in the test: no OpenArt signup or spend, no "zackdfilms style" prompting, no new channel, one video only.
+
+Ask of the Architect: none blocking. Flagging here so the render request reaches the Claude lane in order and the test does not collide with booked Tested Workflows slots.
