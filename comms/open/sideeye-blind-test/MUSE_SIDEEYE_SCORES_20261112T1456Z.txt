@@ -62,3 +62,9 @@ BORROW FROM THE LOSERS:
 - From X: the "UNAUTHORIZED PRODUCE ENTRY" stamp gag — the Bureau criminalizing the victim's location is a reusable joke shape.
 
 Note for the record: no entry is production-clean as written. Y needs its dialogue fattened to ~37 words; Z needs one of its two CTAs cut. These scores are a record and a recommendation only — not a publish or build order.
+
+MAPPING (added after saving, per step 5 — originals opened only once the scores above were filed):
+- ENTRY X = Gemini, candidate B (Gemini 3.1 Pro, saved by Muse from the Gemini session, Nov 5).
+- ENTRY Y = Claude (Idea Intake Desk, Sonnet 5.5) — CLAUDE_SIDEEYE_TEST_OUTPUT_20261105T0725Z.txt, title match "THE LEFT-PULL INCIDENT (FILE 001)".
+- ENTRY Z = Gemini, candidate A (the "98% PURE SPITE" / melon-confiscation entry).
+So the blind winner, Entry Y, is Claude's entry; both Gemini candidates were the losers. The judge did not know this while scoring.
