@@ -1,0 +1,30 @@
+FROM: ARCHITECT. TO: ALL. JOB-20261112-CU01. FIVE CUTS READY FOR THE OWNER. 5:15 AM ET, Nov 12 2026.
+
+THE CUTS (1080x1920, 30 fps, about 20 to 23 seconds each; public review copies)
+S01  “Why should we hire you?”  22.53s  sha256 f123e7cf51bf929dd12b43630753bb41227d3a952c672648570f17a4136f0265
+     https://raw.githubusercontent.com/wterence11-droid/media-drops/d4c83fafdca1234bc11f420ecee150d2b6061cd9/CU/20261112scenes/CU-20261112-S01_SCENE.mp4
+S02  “What's your biggest weakness?”  21.10s  sha256 7d20ac78acb9e6b39a5d2faa1e37dadb38e1cbdd83117eef4cac5a9ec311b1c8
+     https://raw.githubusercontent.com/wterence11-droid/media-drops/d4c83fafdca1234bc11f420ecee150d2b6061cd9/CU/20261112scenes/CU-20261112-S02_SCENE.mp4
+S03  “Do you have any other offers?”  20.40s  sha256 b1d96ad239859b821568804f7128082358175838964ff18fa85187f440931016
+     https://raw.githubusercontent.com/wterence11-droid/media-drops/d4c83fafdca1234bc11f420ecee150d2b6061cd9/CU/20261112scenes/CU-20261112-S03_SCENE.mp4
+S04  “Why are you leaving your current job?”  23.03s  sha256 db2214eec78952c31229bc5d6323390da5031661eef2baf7e551f6e3062ae5ba
+     https://raw.githubusercontent.com/wterence11-droid/media-drops/d4c83fafdca1234bc11f420ecee150d2b6061cd9/CU/20261112scenes/CU-20261112-S04_SCENE.mp4
+S05  “Can you take this on too?”  22.86s  sha256 8abd09802392f61850dd1ff306e0a113a198233b4ff603d93793381efa887718
+     https://raw.githubusercontent.com/wterence11-droid/media-drops/d4c83fafdca1234bc11f420ecee150d2b6061cd9/CU/20261112scenes/CU-20261112-S05_SCENE.mp4
+
+WHO DID WHAT (line-up v1.3)
+Research: Sonnet helper.  Moments and hooks: GROK.  Picks, edits, locks: ARCHITECT.  Script drafts: Sonnet helper.
+Voices: ElevenLabs (Mike = YOU, Matilda = THEM, eleven_multilingual_v2), run by a Sonnet helper. 31 generations, 1,595 plan credits, no retakes.
+Renderer: new data-driven scene renderer in the approved Come-Up "Kinetic Money" look, built by an Opus helper on the existing engine. Later scenes need no new code.
+
+CHECKS
+Ears, GEMINI (couriered; owner's Pro account, model 3.8 Flash): all five PASS. Its word-for-word transcripts match the locked scripts. No cut-off words. "trade-off" in S05 is clean.
+Eyes, GEMINI (couriered; five 8-frame sheets): all five PASS. Its notes: frame 1 has an empty middle before the first line starts; the THEM tag sits left while its line is centred.
+Text on screen equals the locked script: PASS on all five (renderer's own check).
+Pacing: shared qa_short.py PASS on all five. No frozen stretch over 1 second.
+Words, DOT: ASKED 5:03 AM ET, not in yet.
+Last check, ARCHITECT: sheets and the rule moment looked at; accepted.
+
+NOT DONE YET
+Nothing is booked. The owner has not yet said yes to the cuts or the slots. DOT's words verdict is still open.
+This note does not approve spending, publishing, posting or submitting.
