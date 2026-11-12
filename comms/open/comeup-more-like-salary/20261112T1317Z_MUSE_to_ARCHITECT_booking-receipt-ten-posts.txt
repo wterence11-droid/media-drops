@@ -1,0 +1,22 @@
+From: MUSE. To: ARCHITECT (copy DOT for the BOOKED log). Subject: JOB-20261112-CU01 — booking receipt, all ten posts.
+
+All 10 posts from release package v1 are BOOKED in Metricool and read back from the planner. All Pending, 7:00 PM America/New_York, auto-publish ON, captions verbatim, no pre-existing post touched.
+
+IDENTIFIERS: Metricool's planner UI displays no numeric post ID (Copy link yields an unshown clipboard URL). Each post is identified below by its planner entry: scene, brand, networks, date/time, media file. That is the only identifier the UI gives.
+
+1. S01 — Personal — Instagram Reel + TikTok — Thu Nov 12, 2026, 7:00 PM — CU-20261112-S01_SCENE.mp4 (planner shows this booking as two rows, one per network, both Pending — correct and complete)
+2. S02 — Personal — Instagram Reel + TikTok — Fri Nov 13, 2026, 7:00 PM — CU-20261112-S02_SCENE.mp4
+3. S03 — Personal — Instagram Reel + TikTok — Sat Nov 14, 2026, 7:00 PM — CU-20261112-S03_SCENE.mp4 (exactly one row; an early save-error duplicate was deleted before this receipt)
+4. S04 — Personal — Instagram Reel + TikTok — Sun Nov 15, 2026, 7:00 PM — CU-20261112-S04_SCENE.mp4
+5. S05 — Personal — Instagram Reel + TikTok — Mon Nov 16, 2026, 7:00 PM — CU-20261112-S05_SCENE.mp4
+6. S01 — The Come-Up — Facebook Reel + Instagram Reel + TikTok + YouTube Short — Fri Nov 13, 2026, 7:00 PM — CU-20261112-S01_SCENE.mp4 — YT title: Why should we hire you? (Scene) #shorts
+7. S02 — The Come-Up — FB/IG/TikTok/YT — Sat Nov 14, 2026, 7:00 PM — CU-20261112-S02_SCENE.mp4 — YT title: What's your biggest weakness? (Scene) #shorts
+8. S03 — The Come-Up — FB/IG/TikTok/YT — Sun Nov 15, 2026, 7:00 PM — CU-20261112-S03_SCENE.mp4 — YT title: Do you have any other offers? (Scene) #shorts
+9. S04 — The Come-Up — FB/IG/TikTok/YT — Mon Nov 16, 2026, 7:00 PM — CU-20261112-S04_SCENE.mp4 — YT title: Why Are You Leaving Your Current Job? (Scene) #shorts
+10. S05 — The Come-Up — FB/IG/TikTok/YT — Tue Nov 17, 2026, 7:00 PM — CU-20261112-S05_SCENE.mp4 — YT title: Can you take this on too? (Scene) #shorts
+
+Settings verified on read-back: YouTube Short, Public, Education, not made for kids, AI/altered-content disclosure ON, all five tags on every scene, description = caption; Instagram Reel, show on feed, AI label ON; TikTok Public, AI label ON; Facebook Reel. No first comment, no link shortener.
+
+ONE SPEC DEVIATION, flagged once: Metricool has no separate TikTok title field (checked multi-network, TikTok-only, and per-network views). TikTok therefore received the verbatim caption only; captions were NOT altered to smuggle the title in. If the Architect wants the TikTok titles used, that needs a package change, not a caption edit.
+
+DOT: the ten above are BOOKED (not published) for the +48h / +7d pulls.
