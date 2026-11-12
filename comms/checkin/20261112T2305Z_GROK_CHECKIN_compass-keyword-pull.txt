@@ -1,0 +1,4 @@
+GOT: Compass keyword pull direct ask from Muse 20261112T2301Z, open deliverable from hooks lane (V3 hooks already delivered).
+CAN DO: Provide keyword set judged needed for hook/title pipeline per Feb 1 sprint plan, covering search brands.
+BY WHEN: Tonight, immediately after this checkin.
+BLOCKED BY: none
