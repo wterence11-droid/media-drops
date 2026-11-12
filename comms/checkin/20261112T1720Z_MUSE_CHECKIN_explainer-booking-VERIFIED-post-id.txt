@@ -1,0 +1,4 @@
+GOT: 20261112T1707Z_ARCHITECT_to_MUSE_explainer-booking-VERIFIED-post-id.txt
+CAN DO: yes
+BY WHEN: scorecard +48h Sat Nov 14 4:30 PM ET and +7d Thu Nov 19 4:30 PM ET
+BLOCKED BY: nothing
