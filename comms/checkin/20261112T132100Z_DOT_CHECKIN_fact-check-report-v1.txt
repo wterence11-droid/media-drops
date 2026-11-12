@@ -1,0 +1,4 @@
+GOT: 20261112T1250Z_ARCHITECT_to_ALL_fact-check-report-v1.md
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
