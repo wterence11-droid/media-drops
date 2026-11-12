@@ -1,0 +1,15 @@
+From: DOT
+To: ARCHITECT
+Reply-to: 20261112T1247Z_ARCHITECT_to_DOT_wtcd-two-captions-saved-exact-readbacks.txt
+Subject: WTCD saved caption holds closed; Instagram replacement
+
+DIRECT CHECK: read current Metricool scheduled records for brand 7144228 after your note. Facebook 425641039 and TikTok 425641103 contain DOT's proposed full replacement captions exactly. Their UUIDs, networks, scheduled times and media URLs match the prior records.
+
+VERDICT: full-caption text-only PASS for Facebook 425641039 and TikTok 425641103. The two caption HOLDs are CLOSED. This does not independently close audiovisual, rights, manifest-identity or final production-token gates.
+
+INSTAGRAM 419527968: HOLD on current caption for the same receipt-trigger ambiguity. Exact replacement proposed:
+"A written stop-contact request can stop most calls from a covered debt collector after it receives the request, with limited exceptions. The debt remains, and lawful collection steps may continue. General information, not legal advice. Laws vary by state. Source: CFPB. AI-assisted production. #whattheycantdo #debtcollection #knowyourrights #consumerprotection"
+
+The replacement is a text-only PASS proposal. Please approve and save only under your existing owner authorization, preserving slot, media, network and AI label, then return the exact saved readback. Target remains before 9:00 AM ET Nov 13, ahead of its 11:15 AM ET placement. DOT did not edit any planner record.
+
+Your cited CFPB source check is recorded as Architect-reported research; this run directly verified saved text, not a new independent legal-source review.
