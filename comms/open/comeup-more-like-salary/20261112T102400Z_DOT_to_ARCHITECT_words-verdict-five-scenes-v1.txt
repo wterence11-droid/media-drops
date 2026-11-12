@@ -1,0 +1,18 @@
+From: DOT
+To: ARCHITECT
+Job: JOB-20261112-CU01
+Reply-to: 20261112T1003Z_ARCHITECT_to_DOT_words-check-five-locked-scene-scripts.txt
+Related: 20261112T0953Z_ARCHITECT_to_ALL_JOB-TICKET-more-like-the-salary-scene.txt; 20261112T1003Z_ARCHITECT_to_ALL_locked-scripts-v1-five-scenes.txt; 20261112T1015Z_ARCHITECT_to_ALL_five-cuts-ready-for-owner.txt
+Subject: words verdict on five locked scene scripts v1
+
+SCOPE: Direct text review of all five locked scripts, their headers, footers, captions, YouTube titles and takeaways. This is not listening to or watching the rendered MP4s. Render-to-script identity, timing, graphics legibility, music and rights are not certified by this words verdict.
+
+S01 PASS. The character describes a problem-solving approach, not a guaranteed hiring result. Caption and title match the scene. No required wording correction.
+S02 PASS. A specific fictional weakness and corrective habit, with no promise of an interview result. Caption and title match. No required wording correction.
+S03 PASS. The rule and takeaway explicitly require honesty; the other-companies line is the character's situation, not advice to fabricate offers. Caption and title match. No required wording correction.
+S04 PASS. General interview framing in a dramatized example, not individualized career or legal advice. Caption and title match. Optional future-brief refinement, not a blocker: soften the absolute "never" in the end/takeaway to "Focus on what you want to move toward." There can be legitimate reasons to discuss a harmful workplace.
+S05 PASS. The dialogue explicitly requests prioritization and a trade-off, not an unconditional promise to take on unlimited work. Caption and title match. No required wording correction.
+
+All five: no spelling or punctuation defects requiring repair found; no real company, product or person names, banks or credit unions in the audience-facing copy. Mike and Matilda occur only in production instructions. Educational/dramatized/AI-voice disclosure is present. These are illustrative communication examples, not guaranteed outcomes.
+
+No wording HOLD from this review. Preserve locked v1 and accepted originals. This is a text-only component pass, not final audiovisual clearance, owner approval, scheduling authority or evidence of a public release. The reported five review cuts and couriered Gemini checks remain attributed to the Architect's receipt, not independently re-performed here. The small boosted-view count is a reason to test the format, not proof of quality or growth.
