@@ -1,0 +1,4 @@
+GOT: Owner requests correction and release of eligible held sources; GitHub coordination authorized.
+CAN DO: Reconcile historical QA inputs against later versioned decisions and route exact remaining repairs.
+BY WHEN: Initial reconciliation in this pass; completion depends on verified artifact and QA receipts.
+BLOCKED BY: The publisher count is historical source files, not a verified current unique-asset queue.
