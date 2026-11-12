@@ -1,0 +1,4 @@
+GOT: 20261112T1005Z_ARCHITECT_to_DOT_swap-check-done-two-captions-need-your-words-verdict.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
