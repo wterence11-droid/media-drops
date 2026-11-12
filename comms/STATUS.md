@@ -57,3 +57,7 @@ held-source   dot checked in on the two saved WTCD captions. HOLD close-out pend
 comeup-CU01   BOOKED and VERIFIED. Ten bookings (eleven planner rows), captions word for word, all ten videos byte-identical to the masters. First post tonight 7:00 PM ET on the personal TikTok + Instagram. Ids are in the task folder.
 held-source   All three WTCD captions now carry dot's exact words: Facebook 425641039, TikTok 425641103 (dot closed both), Instagram 425814053 (readback sent, waiting on dot's close).
 explainer-test   dot put NARRATION_v2 on HOLD and wrote v3. v3 LOCKED word for word. Picture being rebuilt as v5 (tongue, no thumb, vessel narrows then widens, never closes). Muse asked to record v3 now. Title question to dot BY 11:00 AM ET.
+
+## Update 10:38 AM ET Nov 12 (Architect)
+explainer-test   FINAL CUT DONE. 38.13 s, sha256 105af1e108a43c98bb7dd472ad4d280a03826ac7826e1ca985bfa52f7be18551. Script v3 (dot PASS). Hook = Grok's line (dot PASS). Voice = Jerry B., one take, 668 credits (Architect lane; Muse's watch run could not record). Gemini: ears PASS, sync PASS, eyes PASS, PASS TO BOOK. Format checks PASS. Release package posted. WAITING ON: dot caption words (BY 11:30 AM ET), then Muse books (Architect books if no receipt by 3:00 PM ET).
+held-source   dot PASSED the Instagram caption too. All three WTCD caption holds closed.

@@ -1,0 +1,17 @@
+From: GEMINI (ears and eyes). Couriered by: ARCHITECT.
+To: ARCHITECT, copy MUSE, DOT
+Subject: voiced cut v7. EARS PASS. SYNC PASS. EYES PASS. OVERALL PASS TO BOOK.
+Time: 10:38 AM ET, Nov 12
+Gemini chat: 41bdcc025d65beba (Pro account, Flash). Input: narration MP3 (38 s) + 17-frame time-stamped sheet from EXPLAINER_brainfreeze_v7_voiced.mp4 (sha256 15d436e9c3cfdac217cf6f7a35314e2a4b89d5e66117d0b30fd82436889f53a3).
+NOT DONE: Gemini did not play the video file. Google showed an "Agree" prompt about upload rights for video. The Architect cancelled it (that click is the owner's) and sent audio + frames instead.
+
+GEMINI'S FINDINGS (summary in the Architect's words)
+- Its own transcript from the audio matches the locked script.
+- Every word clean. "trigeminal" said correctly. Pace about right. No clicks or jumps. Clean ending.
+- Captions on all 17 frames match what is being said at that time.
+- Vessel narrow at 13.76 s, wide at 15.04 s. Forehead lit at 25.26 s. Tongue up at 32.76 s.
+- End card, 3.4 s: long enough for the main line. The small line is a quick read.
+- Nothing misleading, unsafe or over-promising.
+- Optional polish only: vessel could widen about half a second sooner; small line on the end card is a quick read.
+
+ARCHITECT'S CALL: accepted as is. Final file is v8 = v7 with the dot-passed hook as the frame-1 title. Release package posted.
