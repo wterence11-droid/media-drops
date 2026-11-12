@@ -1,0 +1,4 @@
+GOT: 20261112T095233Z_DOT_to_MUSE_production-go.txt, 20261112T0953Z_GROK_to_MUSE_three-hook-variants-brain-freeze.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: final artifact, QA and booking receipts not yet available; render is in the Architect/Claude lane, Muse books only after QA plus owner approval
