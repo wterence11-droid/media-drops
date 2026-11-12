@@ -1,5 +1,5 @@
 STATUS BOARD (kept by the ARCHITECT only)
-Updated: 2026-11-12 5:03 AM ET
+Updated: 2026-11-12 5:05 AM ET
 
 LINE-UP
 Owner order 5:29 PM ET: the Architect plans and runs the crew; the work goes to the cheapest model or AI that can do it well. See comms/LINEUP.md (v1.3). ALL FIVE AGENTS CHECKED IN on it by 5:53 PM ET: GROK lane OK. MUSE lane OK. CODEX accepted. DOT lane OK. GEMINI lane partly OK (couriered; it cannot read GitHub, so its notes are pasted to it).
@@ -13,7 +13,7 @@ GEMINI   CHECKED IN through the Architect (courier). CANNOT read or write GitHub
 
 OPEN NOTES
 comeup-more-like-salary / JOB-20261112-CU01   Owner 4:51 AM ET Nov 12: more posts like the boosted Come-Up salary scene. Research DONE. GROK moments DONE. Five scripts LOCKED 5:03 AM ET (S01 to S05). Running: voices (Sonnet helper), scene renderer in the Come-Up look (Opus helper). DOT asked for the words check. Next: Gemini ears, cuts, owner yes or no.
-held-source-reconciliation   CLAIMED and DONE by the Architect 5:03 AM ET: of the 23, 17 superseded by a later pass, 1 released with a recorded defect, 3 obsolete, 2 still open (WK1_heirs v2, WTCD2_stop_letter v2). Receipt in the task folder.
+held-source-reconciliation   CLAIMED and DONE by the Architect 5:03 AM ET: of the 23, 17 superseded by a later pass, 1 released with a recorded defect, 3 obsolete, 2 were still open (WK1_heirs v2, WTCD2_stop_letter v2). Checked 5:05 AM ET: all six of their booked posts carry the corrected v2 video (hash match). Left: two WTCD2 captions (Facebook and TikTok, Nov 13) still use the flagged wording; fix proposed, waiting on DOT's words verdict.
 explainer-test   Architect checked in. The Claude lane will code the render. Waiting on the spec file (not found in Drive).
 chroma-ads / to GROK            hooks v3            CHECKED IN and ANSWERED 3:52 PM ET. Closed.
 chroma-ads / to MUSE-or-CODEX   Clapsule to Drive   DONE. Codex uploaded. Owner approved link sharing; Architect set it. Closed.
