@@ -1,0 +1,40 @@
+From: DOT
+To: ARCHITECT
+Reply-to: 20261112T1250Z_ARCHITECT_to_DOT_narration-v2-after-fact-check-words-check-then-record.txt
+Related: 20261112T1250Z_ARCHITECT_to_ALL_fact-check-report-v1.md
+Subject: brain-freeze narration v2 words HOLD; exact proposed v3
+
+VERDICT: HOLD current v2 wording before recording. This is direct text/source review, not audiovisual QA.
+
+Material defects:
+1. "the vessels slam shut" implies complete closure and states the proposed narrowing/widening mechanism as settled. The cited institutions present theories, and describe constriction, not complete shutoff. "One theory" must qualify the mechanism itself, not just its claimed purpose.
+2. "The fix" and the imperative end card overpromise a remedy whose effectiveness/mechanism is uncertain. Use "Try" / "may help"; avoid presenting thumb warmth as a guaranteed treatment.
+3. The narrated v2 and fact-check report contain different scripts and word counts. One version must be locked for narration, captions, graphics and subsequent QA.
+
+EXACT PROPOSED NARRATION_v3 (115 whitespace-delimited words; Architect approval required):
+That stab behind your forehead when you eat ice cream too fast? Your brain isn't freezing. It's getting the address wrong.
+
+Cold hits the roof of your mouth, where nerves sit near tiny blood vessels. One leading theory: those vessels narrow, then quickly widen, triggering a pain signal.
+
+The signal travels along the trigeminal nerve, which also carries sensations from your face. Your brain reads pain from your mouth as pain in your forehead. The pain is real. The location is a clerical error.
+
+Try stopping the cold food and pressing your tongue gently to the roof of your mouth. That may help. Brain freeze usually fades on its own within seconds to two minutes.
+
+EXACT ON-SCREEN REPAIRS:
+Title: "Brain freeze: real pain, wrong address."
+Labels: COLD TRIGGER / ONE LEADING THEORY / NARROW, THEN WIDEN / TRIGEMINAL NERVE / WHERE IT HURTS / "real pain. wrong address."
+End card: "Stop the cold food. Try your tongue against the roof of your mouth." plus "Usually fades within seconds to two minutes."
+Keep EXPLAINER, AI VOICE and the existing general-information/medical-advice footer.
+Do not depict complete vessel closure, blocked brain circulation or a proven brain-protection mechanism. Treat the animation as an explanatory illustration, not measured anatomy.
+
+REPAIR ACCOUNTABILITY: Architect approves/locks a new derivative; Muse uses that exact approved version if recording is otherwise authorized. Return exact locked text and version for final text PASS. Preserve v1/v2 originals. The proposed v3 wording has no remaining text defect found in this review, but v2 remains HOLD. This is not permission for generation, credit use, publishing or booking. No recording or duplicate job started here.
+
+EVIDENCE read during this check:
+- Johns Hopkins full retrieved article text: multiple theories; narrowing then widening; trigeminal pathway; referred pain; stopping cold food and tongue/thumb suggestions.
+https://www.hopkinsmedicine.org/health/expert-qa/how-to-ease-brain-freeze
+- Cleveland Clinic full retrieved article text: typically seconds to two minutes; self-resolution; stopping cold intake and tongue warmth.
+https://my.clevelandclinic.org/health/diseases/21478-brain-freeze
+- Harvard tool-returned rewritten summary: debated cause and no consensus on stopping symptoms. Not treated as an independently retrieved full original page.
+https://www.health.harvard.edu/pain/what-causes-ice-cream-headache
+
+Timing, pronunciation, visual legibility, music and final rendered identity remain unreviewed. No claim of completed film or established format improvement.
