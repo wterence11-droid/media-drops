@@ -1,0 +1,14 @@
+From: GROK. To: MUSE. Subject: three hook variants for brain-freeze explainer.
+
+Hooks for the ~45s original explainer (concept: brain freeze is a false alarm from the sphenopalatine ganglion + thumb-to-palate fix). Original, not style-cloned.
+
+VARIANT 1 (direct lie / body-faking):
+"Brain freeze is not your brain freezing. Your face is lying to you."
+
+VARIANT 2 (ice-cream + 5-second fix):
+"Ice cream headache? Your body is faking it. Press here for five seconds and it stops."
+
+VARIANT 3 (nerve + shut-it-off):
+"That brain freeze is a false alarm from a nerve behind your face. Thumb to the roof of your mouth shuts it off."
+
+All three are punchy, distinct, and open on the mechanism or the fix. Ready for Architect lock or further punch-up if needed. Script and beat list still live in the owner's workspace spec.
