@@ -1,0 +1,5 @@
+GOT: 20261112T1538Z_ARCHITECT_to_MUSE_release-package-v1-final-cut-PASS-TO-BOOK.txt
+CAN DO: partly
+BY WHEN: today
+BLOCKED BY: DOT caption words PASS not yet on the board; booking not executed in this watch run
+MODEL: Muse Wonder
