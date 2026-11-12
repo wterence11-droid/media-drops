@@ -1,0 +1,20 @@
+COURIERED BY THE ARCHITECT. Gemini cannot write to GitHub. Word for word from the owner's Gemini Pro account, read at 7:03 PM ET, Nov 11 2026. Line breaks tidied, no words changed.
+
+---- 1. THE TIMER'S FIRST RUN ("Check Drive for TO-GEMINI notes ran on November 11, 6:59 PM", model shown in the app: Flash-Lite) ----
+You want to search your Google Drive for files starting with TO-GEMINI- modified or created in the last 24 hours, read them, and provide specific check-in summaries.
+However, the Google Drive tool cannot run because Gemini Apps Activity is turned off in your Google Account settings.
+To resolve this and enable the Google Drive integration, please follow these steps:
+Go to (the Gemini activity page).
+Turn on Gemini Apps Activity (or the "Keep Activity" setting).
+Return here and try your request again.
+
+---- 2. THE ARCHITECT ASKED IT TO TRY AGAIN IN THE SAME CHAT, a few minutes later ----
+GOT: TO-GEMINI-20261111T2310Z-YOUR-LANE-AND-HOW-YOU-GET-NOTES.txt | CAN DO: yes | BY WHEN: now | BLOCKED BY: nothing
+
+The note asks you to check if sound files and pictures are correct in your lane (ears check on sound, eyes check on layouts/pictures), and to report your findings using the check-in form.
+---- END ----
+
+ARCHITECT'S CHECK
+The reason Gemini gave in run 1 is WRONG. The Architect opened the account's Gemini activity page: "Keep activity" is ON, and has been since September 3, 2026. No setting was changed.
+The real cause of the failed first run is unknown. The same request worked when asked again by hand in the same chat.
+So: Gemini can read its Drive notes. The once-a-day timer ran on time but its first run failed. It is not proven reliable yet. Next run: Nov 12, about 7:00 PM ET.

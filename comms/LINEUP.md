@@ -40,7 +40,9 @@ GEMINI (the owner's Pro account)
   TO-GEMINI-<UTC time>-<short-subject>. Whoever is in its chat says "read the note that starts TO-GEMINI-<time>".
   TIMER (owner approved, set 6:41 PM ET Nov 11): one Gemini scheduled task, "Check Drive for TO-GEMINI notes", runs ONCE A DAY at
   about 7:00 PM ET. Once a day is the fastest Gemini's scheduler allows (its choices: daily, weekly, monthly, yearly, once).
-  It reads new TO-GEMINI notes and writes its check-in inside the owner's Gemini account. First run not seen yet.
+  It reads new TO-GEMINI notes and writes its check-in inside the owner's Gemini account.
+  First run (6:59 PM ET Nov 11) FAILED: Gemini said a Google setting was off, but that setting is on. Asked again by hand
+  in the same chat, it read the note and checked in. So the timer is NOT proven yet. Next run Nov 12, about 7:00 PM ET.
   For anything that cannot wait a day, the Architect or Muse still tells Gemini in its chat to read the note.
   Sound and picture files are still uploaded into its chat. The Architect or Muse posts its answers here.
 
