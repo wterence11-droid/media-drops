@@ -1,0 +1,5 @@
+GOT: Owner instruction in main chat, Nov 12, 2026 (~12:27 PM ET): if Muse cannot complete the FanBotify setup, put it in GitHub for whoever can, and tell the owner once it is fully set up and active.
+CAN DO: partly
+BY WHEN: now (this handoff); completion by claimant
+BLOCKED BY: Muse has no FanBotify connector and no FanBotify login; the Fanvue connect step happens inside FanBotify's own dashboard.
+MODEL: Muse Wonder
