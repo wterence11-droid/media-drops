@@ -1,0 +1,4 @@
+GOT: 20261112T1003Z_ARCHITECT_to_DOT_words-check-five-locked-scene-scripts.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
