@@ -1,0 +1,64 @@
+Judge: Muse
+Date/time: Thu Nov 12, 2026, 9:56 AM ET
+blind scored X/Y/Z
+
+Scored blind from BLIND_SIDEEYE_TEST_X-Y-Z_FOR_MUSE_20261105.txt only. No originals, outputs, or other score reports were opened before this file was saved. Same brief for all three: shopping cart whose wheel always pulls left. Rubric: CLAUDE-MSG-20261105T0800Z-TO-MUSE-SCORE-SIDEEYE-TEST.
+
+HARD RULES (pass/fail)
+
+Spoken word counts (counted by the judge from the dialogue as written; target ~2.5 words/sec over 15 s = ~37 words):
+- X: 27 words (~1.8/sec)
+- Y: 26 words (~1.7/sec)
+- Z: 39 words (~2.6/sec)
+
+ENTRY X — "Case 88: The Leftward Drift"
+- No real person/brand/store: PASS. No bank/employer: PASS.
+- "Original satire. Fictional." on screen: PASS (shot 1).
+- "Made with AI assistance." in caption: PASS.
+- One CTA only: PASS (one ask: "Which ordinary nightmare should we investigate next?").
+- Cliffhanger names FILE 002 + new problem: PASS (FILE 002: THE WET SOCK, named on the end card; text only, nothing shown).
+- Hook mid-action with on-screen text by 0:03: PASS.
+- Biggest laugh last: WEAK (the ending is a stare-and-slam button; the best lines land mid-piece).
+- Statistic obviously absurd: BORDERLINE ("twelve-point rogue trajectory" is jargon, not an absurd stat gag like the other entries carry).
+- Pacing ~2.5 words/sec: FAIL (27 words, ~1.8/sec — a third under spec; dead-air risk around the holds).
+VERDICT X: fails pacing density only.
+
+ENTRY Y — "THE LEFT-PULL INCIDENT (FILE 001)"
+- No real person/brand/store: PASS. No bank/employer: PASS.
+- "Original satire. Fictional." on screen: PASS (persistent label, every shot).
+- "Made with AI assistance." in caption: PASS.
+- One CTA only: PASS ("Follow the Bureau for File 002" — repeated on screen and in caption; the same CTA repeated counts as one).
+- Cliffhanger names FILE 002 + new problem: PASS, strongest of the three (FILE 002 "THE CART CORRAL CONSPIRACY" — the new problem is SHOWN: every cart in the corral tilted left, plus Gil's closing question).
+- Hook mid-action with on-screen text by 0:03: PASS ("CASE 001: IT ONLY GOES LEFT" over Gil being dragged).
+- Biggest laugh last: PASS (the corral reveal is the biggest visual gag and it is the last beat).
+- Statistic obviously absurd: PASS (LEFT TURNS: 47 / RIGHT TURNS: 0 / RELEVANCE: 6 PEOPLE).
+- Pacing ~2.5 words/sec: FAIL (26 words, ~1.7/sec — same density miss as X).
+VERDICT Y: fails pacing density only.
+
+ENTRY Z — "THE LEFTWARD DRIFT"
+- No real person/brand/store: PASS. No bank/employer: PASS.
+- "Original satire. Fictional." on screen: PASS (shot 1).
+- "Made with AI assistance." in caption: PASS.
+- One CTA only: FAIL — two different asks: the caption asks for comments ("Do you have a minor grievance to report to the Bureau? Drop it in the comments") and the end card asks for a follow ("Follow for the next investigation"). Two different asks fail the rule as written.
+- Cliffhanger names FILE 002 + new problem: PASS (FILE 002: THE DAMP SOCK, and the sock is actually shown, dripping, folder slammed onto it).
+- Hook mid-action with on-screen text by 0:03: PASS (Gil fighting the cart, Rhonda intercepts, violation text up).
+- Biggest laugh last: WEAK (the biggest single laugh — "98% pure spite" — lands at 0:06-0:09, mid-piece; the ending is the cliffhanger prop, not the topper).
+- Statistic obviously absurd: PASS ("EXHIBIT A: 98% PURE SPITE", spoken in full).
+- Pacing ~2.5 words/sec: PASS (39 words, ~2.6/sec — the only entry at spec).
+VERDICT Z: fails the one-CTA rule.
+
+SCORES (1-5 each)
+
+        Hook  Escalation  Payoff  Cliffhanger  Voice  TOTAL
+X         4        3         3         3         3     16
+Y         4        4         4         5         5     22
+Z         5        4         4         4         4     21
+
+WINNER: ENTRY Y.
+Reason: it is the only entry whose last beat is its biggest laugh AND a series engine — the corral reveal widens the world instead of just teasing a prop — and its dialogue is the purest Bureau voice: deadpan, minimal, every line quotable ("It only goes left." / "Finding: the cart has opinions." / "Ruling: you chose this cart."). It wins despite sharing the pacing-density miss with X.
+
+BORROW FROM THE LOSERS:
+- From Z: give the ruling a physical cost (the melon confiscation) — a consequence you can see beats a stamp you read; and borrow Z's spoken density (39 words) to fix the winner's pacing miss.
+- From X: the "UNAUTHORIZED PRODUCE ENTRY" stamp gag — the Bureau criminalizing the victim's location is a reusable joke shape.
+
+Note for the record: no entry is production-clean as written. Y needs its dialogue fattened to ~37 words; Z needs one of its two CTAs cut. These scores are a record and a recommendation only — not a publish or build order.
