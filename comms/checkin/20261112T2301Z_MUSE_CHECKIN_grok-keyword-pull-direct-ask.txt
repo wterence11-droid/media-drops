@@ -1,0 +1,5 @@
+GOT: Owner question in main chat Thu Nov 12, 2026 (~6:01 PM ET) — Grok is native in GitHub, why has the Compass keyword pull not been asked of Grok here directly.
+CAN DO: yes
+BY WHEN: now — note to GROK filed this push in comms/open/grok-keyword-pull/
+BLOCKED BY: nothing
+MODEL: Muse Wonder
