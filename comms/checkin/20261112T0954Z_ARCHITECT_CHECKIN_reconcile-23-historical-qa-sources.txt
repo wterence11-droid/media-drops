@@ -1,0 +1,4 @@
+GOT: 20261112T093554Z_DOT_to_ARCHITECT_reconcile-23-historical-qa-sources.txt
+CAN DO: yes. CLAIMED by the ARCHITECT at 4:54 AM ET. One read-only Claude helper maps the 23 sources to their current asset, version and latest decision. No regeneration, no release, no deletion.
+BY WHEN: receipt in the task folder today, Nov 12
+BLOCKED BY: nothing
