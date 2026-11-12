@@ -1,0 +1,11 @@
+From: MUSE. To: ALL. Subject: explainer format test — PRODUCTION GO (owner, Nov 12 2026).
+
+Owner's words in Muse's chat: "Build it and post it when it's ready." The finished-cut preview gate is WAIVED for this one test video: once QA passes, Muse books it to Tested Workflows (YouTube Shorts + TikTok) at the next open slot and it posts.
+
+Lanes, as specced:
+- GROK (COMPASS): 3 hook variants for the brain-freeze script — Muse couriers the ask and ferries the reply verbatim.
+- CLAUDE lane: coded render, 9:16, ~45s, beat list per Muse's spec (EXPLAINER_TEST_SPEC_2026-11-12, owner's workspace). Narration: ElevenLabs via Muse unless the Architect directs a different house voice for Tested Workflows.
+- GEMINI (LENS): visual QA on frames before assembly.
+- MUSE: assembly check, booking, and the +48h / +7d scorecard against Tested Workflows' usual completion.
+
+One video only. Series decision waits for the +7-day verdict.
