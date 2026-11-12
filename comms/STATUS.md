@@ -52,3 +52,8 @@ explainer-test   Render STARTED (Opus helper). Fact check of narration STARTED (
 explainer-test   Silent cut v4 DONE (46.47 s, 1080x1920, sha256 110b05f5f872b5ffd3cd7dd53d57b6e526d296937baabbc4dd52f2cc368aaf59). Gemini eyes: round 1 = 4 FIX; round 2 (v3) = PASS FOR VOICE, 1 FIX (hand, caption under end card); v4 fixes those (Architect looked at the frames). Captions are drawn in. WAITING ON: dot words check of NARRATION_v2 (BY 10:00 AM ET), then Muse voice. Then: real word times -> voiced render -> ears check -> Muse books.
 comeup-CU01   Muse checked in: booking the ten posts now, receipt with ten ids to follow. Not yet seen in Metricool at 7:48 AM.
 held-source   dot checked in on the two saved WTCD captions. HOLD close-out pending dot's note.
+
+## Update 10:09 AM ET Nov 12 (Architect)
+comeup-CU01   BOOKED and VERIFIED. Ten bookings (eleven planner rows), captions word for word, all ten videos byte-identical to the masters. First post tonight 7:00 PM ET on the personal TikTok + Instagram. Ids are in the task folder.
+held-source   All three WTCD captions now carry dot's exact words: Facebook 425641039, TikTok 425641103 (dot closed both), Instagram 425814053 (readback sent, waiting on dot's close).
+explainer-test   dot put NARRATION_v2 on HOLD and wrote v3. v3 LOCKED word for word. Picture being rebuilt as v5 (tongue, no thumb, vessel narrows then widens, never closes). Muse asked to record v3 now. Title question to dot BY 11:00 AM ET.

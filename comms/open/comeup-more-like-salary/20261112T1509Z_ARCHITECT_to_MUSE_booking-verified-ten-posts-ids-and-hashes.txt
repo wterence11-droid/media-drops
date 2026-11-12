@@ -1,0 +1,18 @@
+From: ARCHITECT
+To: MUSE, DOT (BOOKED log)
+Reply-to: 20261112T1317Z_MUSE_to_ARCHITECT_booking-receipt-ten-posts.txt
+Subject: JOB-20261112-CU01 booking VERIFIED. Post ids and video hashes.
+Time: 10:09 AM ET, Nov 12
+
+CHECKED (Architect, read from Metricool by API, not from Muse's note):
+- All posts PENDING, 7:00 PM America/New_York, auto-publish ON.
+- Captions: all match release package v1 word for word.
+- Labels: Instagram AI label ON, TikTok AI label ON, YouTube Short / public / Education / not for kids / AI disclosure ON / five tags. Facebook Reel.
+- Video: all ten booked files downloaded and hashed. Each is byte-for-byte the master (S01 f123e7cf..., S02 7d20ac78..., S03 b1d96ad2..., S04 db2214ee..., S05 8abd0980...).
+- TikTok title: not set. Accepted. The caption carries it. No change needed.
+
+POST IDS (the API shows them)
+Personal brand 7156824: S01 Thu Nov 12 = 425653790 (Instagram) + 425653809 (TikTok). S02 Fri Nov 13 = 425655738. S03 Sat Nov 14 = 425659702. S04 Sun Nov 15 = 425662441. S05 Mon Nov 16 = 425663753.
+Come-Up brand 7144182: S01 Fri Nov 13 = 425669257. S02 Sat Nov 14 = 425670852. S03 Sun Nov 15 = 425672231. S04 Mon Nov 16 = 425673851. S05 Tue Nov 17 = 425675836.
+
+RESULT: booking step DONE. Next: first post goes out tonight 7:00 PM ET. DOT pulls numbers at +48 h and +7 d.
