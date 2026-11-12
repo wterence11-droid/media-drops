@@ -1,0 +1,24 @@
+FROM: DOT
+TO: ARCHITECT (coordinate CODEX and MUSE within their existing lanes)
+SUBJECT: Owner-requested held-source reconciliation, not blanket clearance
+SOURCE: Owner direct request in ChatGPT 2026-11-12, plus explicit permission to use GitHub to reach each responsible lane.
+SCOPE: Reconcile and correct existing assets/records. Preserve originals and existing jobs. No new spending, duplicate generation, deletion, bulk release, or permission changes authorized by this note.
+
+IMPORTANT FINDING
+The publisher's latest receipt counts 23 unchanged HELD SOURCE FILES from QA_Out. These are historical review documents, not 23 current distinct failed videos. Reconcile by canonical asset + exact version/hash + latest applicable full QA decision. Do not simply change 23 HOLD strings to PASS.
+
+ALL 23 INPUTS, GROUPED
+1-14: CU1-CU7, SEB1-SEB5, TW1, WTCD1 original QA_DUET files were pacing REJECTED on Nov1. Later CLAUDE-20261101T1245Z-QA-TRIAD-FINAL-TOKENS explicitly records all three legs and validates these 14. CLAUDE-RULING-20261101T1210Z distinguishes readable-card pauses from dead air. Preserve rejection history, reconcile exact matching masters, and stop counting superseded reviews as new production blockers. Do not regenerate.
+15-16: WK1_heirs and WTCD2_stop_letter originals genuinely had text defects. PRODUCTION_WEEK_20261106 records corrected v2 media already produced; QA_DUET_STANDIN_FILL26_AND_WEEK1106_20261106T2120Z records both v2 pacing PASS with manifest matches. Verify exact current media, remaining text/visual/final token and swap receipts. Do NOT commission another repair until existing v2 derivatives and active jobs are reconciled.
+17: DOTTIE_SHORT1_261028-DK-001_QA_DUET: already released, not unscheduled reserve. ARCHITECT_RECEIPT_DOTTIE_SHORT1_AV_ENDING_FOUND_20261106T2121Z records accepted-with-defect: spoken ending misses 'ask Dottie', while text contains it. Preserve public originals; owner request to clear held sources is not an instruction to delete/re-upload accepted public work.
+18-19: CALDER_CH1_TEASER_REVIEW_R4 and R6 QA_DUET: R4 failed safe zones, R6 later passes pacing. Resolve exact final asset/full token/current disposition; obsolete R4 is not a second release candidate.
+20-23: QA_TEXT_SAFETY_PIXLIGHT_v2_1517Z, QA_PACING_PIXLIGHT_v3_1648Z, QA_VISUAL_SYNC_PIXLIGHT_v3_1705Z, QA_REVERIFY_PIXLIGHT_v4_1929Z: old v3 pacing/sync failures are followed by v4 pacing+visual validation. The v2 text report also flags posting-copy attribution/placeholders. Match latest film and exact corrected copy/full token before release. These four documents are not four films.
+
+REQUEST / ACCOUNTABILITY
+ARCHITECT: claim this task once; reconcile final decisions and identify any still-current creative/QA gaps, including CIR pacing, Well Kept/TLR factual fixes and Boombox rights/final QA separately from the historical 23-input count. Reuse existing work; return current asset/version, remaining gate, assigned lane and next receipt due.
+CODEX via ARCHITECT: locate the publisher's actual manifest/parser owner and patch only the accounting/version reconciliation so superseded, already-released and accepted-with-recorded-defect entries are not mislabeled as fresh held inventory. Preserve every original receipt. Dry-run/readback must show per-source mapping and truthful remaining counts, with no publishing side effect.
+MUSE via ARCHITECT: locate existing correction artifacts/rights evidence and return actual paths/hashes. Lack of rights evidence remains HOLD.
+DOT: words review on returned exact changed captions/scripts. Do not treat a handoff as a finished asset.
+
+Private evidence locations/account details: PRIVATE, ask the owner. The named receipts are in the existing private COMMS and QA folders. No private link or financial detail is copied here.
+REQUIRED RESPONSE: one receipt in this task folder showing accepted scope, existing job identity (or none), actual changes completed, exact remaining blockers and evidence. No duplicate workers. If blocked, name the missing artifact/decision without inventing a result.
