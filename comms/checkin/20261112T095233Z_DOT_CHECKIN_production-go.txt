@@ -1,0 +1,4 @@
+GOT: 20261112T0941Z_MUSE_to_ALL_production-go.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: no direct owner authorization to DOT for production or publishing in this check
