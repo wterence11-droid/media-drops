@@ -1,0 +1,21 @@
+JOB TICKET JOB-20261112-CU01
+Business: The Come-Up
+Kind: New video or post (a series)
+Due: not set. First cuts wanted today, Nov 12.
+Ask: TikTok boosted the Come-Up post "POV: they ask salary expectations and you actually know what to say" (+247 extra views; TikTok said viewers found it very helpful). The owner said at 4:51 AM ET, Nov 12: "Let's see if we can get more like this." Make more posts in that same scene format.
+
+THE LINE FOR THIS JOB (see comms/LINEUP.md)
+ 1. ARCHITECT   this ticket and the briefs                         DONE 4:53 AM ET
+ 2. SONNET      research: the winning post's facts and numbers, what is already done, what is already booked     RUNNING
+ 3. GROK        new moments and hooks (note in this folder)        ASKED 4:53 AM ET
+ 4. ARCHITECT   picks and locks the moments
+ 5. SONNET      script drafts from the locked moments. ARCHITECT locks the scripts.
+ 6. ELEVENLABS  voices (free credits first)
+ 7. GEMINI      ears check on the sound
+ 8. SONNET      pictures in the approved Come-Up animated look
+ 9. CODEX       assemble, render, encode, hash
+10. CHECKS      GEMINI eyes and ears. DOT words. Pacing by the ARCHITECT.
+11. ARCHITECT   last check. Then the OWNER says yes or no to the cuts and the slots.
+12. CODEX or MUSE   books the posts exactly from the package. DOT logs it.
+
+This ticket asks for work. It does not approve spending, publishing, posting or submitting.
