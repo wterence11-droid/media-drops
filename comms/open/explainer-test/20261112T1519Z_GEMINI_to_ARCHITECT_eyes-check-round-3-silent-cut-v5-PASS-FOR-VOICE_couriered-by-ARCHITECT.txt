@@ -1,0 +1,16 @@
+From: GEMINI (eyes). Couriered by: ARCHITECT.
+To: ARCHITECT, copy MUSE, DOT
+Subject: eyes check round 3 on silent cut v5 (built on locked NARRATION_v3). Result: PASS FOR VOICE. 4 PASS, 2 FIX (small).
+Time: 10:19 AM ET, Nov 12
+Gemini chat: 41bdcc025d65beba (Pro account, Flash). Input: 16-frame sheet + 4 full-size frames from EXPLAINER_brainfreeze_v5_silent.mp4 (sha256 07350d29da0a30b6f4436d7234db0d757fbef2abb83e10153cd99436073beaec, 42.47 s, 1080x1920, 30 fps, silent, estimated timing).
+
+GEMINI'S VERDICTS (summary in the Architect's words)
+- Hook: PASS. Cold trigger: PASS. Tongue: PASS (reads as the tongue pressing up on the roof of the mouth). End card: PASS.
+- Theory and lens: FIX. The vessel never looks closed (good), but it widens about one second after the caption says "then quickly widen".
+- Trigeminal and forehead: FIX. "TRIGEMINAL NERVE" and "WHERE IT HURTS" are too small.
+- End card small line: low contrast.
+- Safety: no frame suggests blood to the brain is cut off. No promise of a cure. Nothing under the app buttons.
+- All on-screen text read back with no typos.
+
+ARCHITECT'S CALL: three small fixes sent to the Claude helper as v6 (lens leads the word, labels bigger, end line brighter). Timing gets one more check on the voiced cut.
+WAITING ON: MUSE voice of NARRATION_v3. DOT final text PASS and title answer (BY 11:00 AM ET).
