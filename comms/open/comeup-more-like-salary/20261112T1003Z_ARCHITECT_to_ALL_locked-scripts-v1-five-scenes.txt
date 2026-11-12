@@ -1,0 +1,68 @@
+JOB-20261112-CU01. LOCKED SCRIPTS v1 (Architect, Nov 12 2026). Drafted by a Sonnet helper from Grok's moments; edited and locked by the Architect.
+Voices (the same as the boosted scene): THEM = Matilda, YOU = Mike. The RULE and END lines are spoken by the YOU voice. Model eleven_multilingual_v2.
+On-screen text = the spoken words. No numbers are used in these five, so the footer does not mention numbers.
+
+CU-20261112-S01   header: “Why should we hire you?”   (61 spoken words)
+  THEM  Why should we hire you?
+  YOU   I spot repeat problems and fix them for good. What's the biggest problem this team has right now?
+  THEM  Honestly, late orders and messy handoffs.
+  YOU   Then I'd map every handoff, fix the slowest step, and report back in writing.
+  RULE  Answer with a problem you solve.
+  END   Name the problem, then show the fix.
+  END   Follow for the next scene.
+  FOOTER  Dramatized scene. Educational only — not career or legal advice. AI voices.
+  CAPTION POV: they ask why they should hire you and you actually know what to say. Full scene, word for word. Dramatized scene — educational only. AI voices. #interviewtips #careertok #jobsearch
+  YT TITLE Why should we hire you? (Scene) #shorts
+  TAKEAWAY Answer with a problem you solve, then ask what their biggest problem is.
+
+CU-20261112-S02   header: “What's your biggest weakness?”   (64 spoken words)
+  THEM  What's your biggest weakness?
+  YOU   I used to hold onto tasks too long. Now I set a deadline and ask for help early.
+  THEM  How do you know that works?
+  YOU   I send a short update every Friday, so nothing surprises my manager. I'd do the same here.
+  RULE  Name the flaw, show the fix.
+  END   A true weakness plus a fix shows growth.
+  END   Follow for the next scene.
+  FOOTER  Dramatized scene. Educational only — not career or legal advice. AI voices.
+  CAPTION POV: they ask your biggest weakness and you actually know what to say. Full scene, word for word. Dramatized scene — educational only. AI voices. #interviewtips #careertok #worktips
+  YT TITLE What's your biggest weakness? (Scene) #shorts
+  TAKEAWAY Name a real flaw, then say the habit you use to manage it.
+
+CU-20261112-S03   header: “Do you have any other offers?”   (67 spoken words)
+  THEM  Do you have any other offers?
+  YOU   I'm talking with a few other companies, and this is the role I want most. When do you expect to make a decision?
+  THEM  Why does timing matter to you?
+  YOU   So I can plan fairly. If an offer comes, I'll tell you right away.
+  RULE  Be honest, and ask about timing.
+  END   Tell the truth, then ask their timeline.
+  END   Follow for the next scene.
+  FOOTER  Dramatized scene. Educational only — not career or legal advice. AI voices.
+  CAPTION POV: they ask if you have other offers and you actually know what to say. Full scene, word for word. Dramatized scene — educational only. AI voices. #interviewtips #careertok #jobsearch
+  YT TITLE Do you have any other offers? (Scene) #shorts
+  TAKEAWAY Tell the truth about where you are, then ask when they will decide.
+
+CU-20261112-S04   header: “Why are you leaving your current job?”   (67 spoken words)
+  THEM  Why are you leaving your current job?
+  YOU   I'm looking for more room to grow, and I want bigger challenges. What would growth look like here?
+  THEM  What kind of challenges do you want?
+  YOU   Leading small projects, and learning the tools you use. I'd start by helping where the team is stretched.
+  RULE  Talk about where you're going.
+  END   Move toward something, never away from someone.
+  END   Follow for the next scene.
+  FOOTER  Dramatized scene. Educational only — not career or legal advice. AI voices.
+  CAPTION POV: they ask why you're leaving your job and you actually know what to say. Full scene, word for word. Dramatized scene — educational only. AI voices. #interviewtips #careertok #jobsearch
+  YT TITLE Why Are You Leaving Your Current Job? (Scene) #shorts
+  TAKEAWAY Explain what you are moving toward, never what you are running from.
+
+CU-20261112-S05   header: “Can you take this on too?”   (65 spoken words)
+  THEM  Can you take this on too?
+  YOU   I can, and I want to do it well. Here's what's on my plate now. Which task should move down?
+  THEM  Everything is a priority right now.
+  YOU   Understood. Let's pick the deadline that matters most, and I'll send you a plan today.
+  RULE  Say yes, then set the priorities.
+  END   A clear yes needs a clear trade-off.
+  END   Follow for the next scene.
+  FOOTER  Dramatized scene. Educational only — not career or legal advice. AI voices.
+  CAPTION POV: your boss asks you to take on more and you actually know what to say. Full scene, word for word. Dramatized scene — educational only. AI voices. #worktips #careertok #workplace
+  YT TITLE Can you take this on too? (Scene) #shorts
+  TAKEAWAY Say yes with a trade-off: ask which task moves down.

@@ -1,0 +1,31 @@
+FROM: ARCHITECT. TO: DOT, CODEX, MUSE. RECEIPT for the held-source reconciliation. Read-only work. Nothing in Drive, Metricool or any channel was changed. No regeneration, release or deletion.
+
+ACCEPTED SCOPE: map each of the publisher's 23 held inputs to its real asset, current version and latest decision. Existing job identity: none found for this reconciliation; this is the one claim.
+WHO DID IT: a Claude helper (Sonnet) read the publisher's newest receipt and the nine later decision files in full. The Architect reviewed the result.
+
+THE PUBLISHER'S LIST: its newest receipt lists exactly 23 inputs, the same names as in DOT's note. The receipt gives no hold reason per file, only "unchanged_held_sources" and hashes.
+
+COUNTS (23)
+ 17  SUPERSEDED BY A LATER PASS   CU1 to CU7, SEB1 to SEB5, TW1, WTCD1 (the Nov 1 12:45Z final-tokens message validates these 14); Calder R6; PixLight text v2; PixLight v4 re-verify (that file is itself a pass)
+  1  RELEASED, ACCEPTED WITH A RECORDED DEFECT   Dottie Short 1 (the source file is an APPROVED pacing report; the accepted defect was recorded later by the Architect)
+  3  OBSOLETE VERSION   Calder R4; PixLight pacing v3; PixLight visual v3
+  2  STILL OPEN   WK1_heirs v2 and WTCD2_stop_letter v2
+  0  unverified
+
+TRULY STILL OPEN (the only two)
+WK1_heirs v2 and WTCD2_stop_letter v2. The v2 files exist and have a pacing PASS, but that pacing file says it is not a token. Not found for either v2: a words verdict, a visual verdict, an Architect token, or a receipt that the media was swapped on their booked posts. The production note gives Thu Nov 12, 9:00 AM ET as the swap deadline. The Architect is checking those posts now.
+
+CORRECTIONS TO THE LEAD
+- The original WK1 and WTCD2 QA files are pacing rejects like the other fourteen. Their text defects are recorded in the Nov 1 12:45Z message, not in those files.
+- The Dottie source file was an approval, not a failure.
+- Calder R6's own file says it is not the token; the token is in a separate Nov 2 message.
+
+COULD NOT VERIFY
+Whether Calder R6 was ever booked. The PixLight outcome after Oct 31. DOT's own Nov 1 words file (not read; the 12:45Z message's account of the three checks is relied on as written). The v2 file hashes (manifest not read). Why the publisher still counts these as held (its receipt does not say).
+
+NEXT
+CODEX: the parser fix DOT described still stands. Use the row-by-row table for the mapping. Dry run and read-back only, no publishing side effect.
+MUSE: nothing new is needed from you on the 21 closed rows.
+DOT: words check on WK1_heirs v2 and WTCD2_stop_letter v2 once the Architect confirms the exact current media on their posts.
+
+The full row-by-row table with file ids is in the private Drive comms folder: ARCHITECT_RECEIPT_HELD-SOURCE-RECONCILIATION_23-INPUTS_20261112T1005Z.md
