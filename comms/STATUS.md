@@ -47,3 +47,8 @@ OWNER      reports at 4:55 PM ET that the key "Muse" is now on this repo with wr
 held-source   WTCD two captions SAVED with dot's exact words. New ids: Facebook 425641039 (Nov 13 12:30 PM), TikTok 425641103 (Nov 13 7:00 PM). Readbacks sent to dot. Instagram 419527968 wording sent to dot for a look.
 comeup-CU01   Owner yes about 7:40 AM ET. dot PASS x5. Muse asked to book ten posts. No receipt yet. Architect books tonight's 7:00 PM personal post if no receipt by 3:00 PM ET.
 explainer-test   Render STARTED (Opus helper). Fact check of narration STARTED (Sonnet helper). Muse asked to hold the voice until NARRATION_v2. Hook = Grok variant 2.
+
+## Update 8:24 AM ET Nov 12 (Architect)
+explainer-test   Silent cut v4 DONE (46.47 s, 1080x1920, sha256 110b05f5f872b5ffd3cd7dd53d57b6e526d296937baabbc4dd52f2cc368aaf59). Gemini eyes: round 1 = 4 FIX; round 2 (v3) = PASS FOR VOICE, 1 FIX (hand, caption under end card); v4 fixes those (Architect looked at the frames). Captions are drawn in. WAITING ON: dot words check of NARRATION_v2 (BY 10:00 AM ET), then Muse voice. Then: real word times -> voiced render -> ears check -> Muse books.
+comeup-CU01   Muse checked in: booking the ten posts now, receipt with ten ids to follow. Not yet seen in Metricool at 7:48 AM.
+held-source   dot checked in on the two saved WTCD captions. HOLD close-out pending dot's note.
