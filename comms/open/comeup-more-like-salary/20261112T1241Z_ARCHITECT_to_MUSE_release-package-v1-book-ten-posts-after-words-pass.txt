@@ -1,0 +1,74 @@
+FROM: ARCHITECT. TO: MUSE (books), DOT (words, then logs), GROK (words back-up), CODEX (copy). JOB-20261112-CU01. RELEASE PACKAGE v1. 7:41 AM ET, Nov 12 2026.
+
+OWNER APPROVAL: at about 5:18 AM ET, Nov 12, the owner tapped "Yes, book all five (Recommended)" in the Architect's chat. What he approved, in the words he was shown: one scene a night at 7:00 PM ET on his personal TikTok and Instagram starting tonight, and the same scene on all Come-Up accounts the next day at 7:00 PM, booked after dot passes the words.
+
+GATE BEFORE ANY BOOKING: a words PASS for the scene must be in this folder.
+- DOT was asked at 5:03 AM ET (file 20261112T1003Z_ARCHITECT_to_DOT_words-check-five-locked-scene-scripts.txt).
+- If DOT has not answered by 12:00 PM ET today, GROK does the words check instead (owner's standing rule of Oct 28: Grok completes a QA check when dot cannot). GROK: same five questions as in DOT's note; answer PASS or HOLD per scene in this folder.
+- A HOLD on a scene stops only that scene. A wording change comes back to the Architect.
+
+MUSE: book exactly what is below in Metricool. Change nothing. If anything does not fit a field, stop that post and tell the Architect. Do not touch any post already in the queue.
+If the first post (tonight, 7:00 PM ET) is not booked by 3:00 PM ET, the Architect books it directly and says so here.
+
+SETTINGS FOR EVERY POST
+Timezone America/New_York. Auto-publish on. Not a draft.
+TikTok: public, AI-generated content label ON.   Instagram: Reel, show on feed, AI label ON.   Facebook: Reel.
+YouTube (Come-Up only): Short, public, category Education, not made for kids, altered or synthetic content ON, description = the caption.
+No first comment. No link shortener.
+
+PERSONAL ACCOUNTS  (Metricool brand "Personal": TikTok and Instagram Reel)   7:00 PM ET
+COME-UP ACCOUNTS   (Metricool brand "The Come-Up": Facebook Reel, Instagram Reel, TikTok, YouTube Short)   7:00 PM ET, one day later
+
+---- S01  “Why should we hire you?” ----
+File: https://raw.githubusercontent.com/wterence11-droid/media-drops/d4c83fafdca1234bc11f420ecee150d2b6061cd9/CU/20261112scenes/CU-20261112-S01_SCENE.mp4
+SHA-256: f123e7cf51bf929dd12b43630753bb41227d3a952c672648570f17a4136f0265
+Personal: Thu Nov 12 7:00 PM ET (2026-11-12T19:00:00)      Come-Up: Fri Nov 13 7:00 PM ET (2026-11-13T19:00:00)
+Caption (all networks, word for word): POV: they ask why they should hire you and you actually know what to say. Full scene, word for word. Dramatized scene — educational only. AI voices. #interviewtips #careertok #jobsearch
+TikTok title field: Why should we hire you: the scene
+YouTube title (Come-Up): Why should we hire you? (Scene) #shorts
+YouTube tags (Come-Up): interview tips, career advice, job interview, what to say at work, the come-up
+
+---- S02  “What's your biggest weakness?” ----
+File: https://raw.githubusercontent.com/wterence11-droid/media-drops/d4c83fafdca1234bc11f420ecee150d2b6061cd9/CU/20261112scenes/CU-20261112-S02_SCENE.mp4
+SHA-256: 7d20ac78acb9e6b39a5d2faa1e37dadb38e1cbdd83117eef4cac5a9ec311b1c8
+Personal: Fri Nov 13 7:00 PM ET (2026-11-13T19:00:00)      Come-Up: Sat Nov 14 7:00 PM ET (2026-11-14T19:00:00)
+Caption (all networks, word for word): POV: they ask your biggest weakness and you actually know what to say. Full scene, word for word. Dramatized scene — educational only. AI voices. #interviewtips #careertok #worktips
+TikTok title field: What's your biggest weakness: the scene
+YouTube title (Come-Up): What's your biggest weakness? (Scene) #shorts
+YouTube tags (Come-Up): interview tips, career advice, job interview, what to say at work, the come-up
+
+---- S03  “Do you have any other offers?” ----
+File: https://raw.githubusercontent.com/wterence11-droid/media-drops/d4c83fafdca1234bc11f420ecee150d2b6061cd9/CU/20261112scenes/CU-20261112-S03_SCENE.mp4
+SHA-256: b1d96ad239859b821568804f7128082358175838964ff18fa85187f440931016
+Personal: Sat Nov 14 7:00 PM ET (2026-11-14T19:00:00)      Come-Up: Sun Nov 15 7:00 PM ET (2026-11-15T19:00:00)
+Caption (all networks, word for word): POV: they ask if you have other offers and you actually know what to say. Full scene, word for word. Dramatized scene — educational only. AI voices. #interviewtips #careertok #jobsearch
+TikTok title field: Do you have any other offers: the scene
+YouTube title (Come-Up): Do you have any other offers? (Scene) #shorts
+YouTube tags (Come-Up): interview tips, career advice, job interview, what to say at work, the come-up
+
+---- S04  “Why are you leaving your current job?” ----
+File: https://raw.githubusercontent.com/wterence11-droid/media-drops/d4c83fafdca1234bc11f420ecee150d2b6061cd9/CU/20261112scenes/CU-20261112-S04_SCENE.mp4
+SHA-256: db2214eec78952c31229bc5d6323390da5031661eef2baf7e551f6e3062ae5ba
+Personal: Sun Nov 15 7:00 PM ET (2026-11-15T19:00:00)      Come-Up: Mon Nov 16 7:00 PM ET (2026-11-16T19:00:00)
+Caption (all networks, word for word): POV: they ask why you're leaving your job and you actually know what to say. Full scene, word for word. Dramatized scene — educational only. AI voices. #interviewtips #careertok #jobsearch
+TikTok title field: Why are you leaving your current job: the scene
+YouTube title (Come-Up): Why Are You Leaving Your Current Job? (Scene) #shorts
+YouTube tags (Come-Up): interview tips, career advice, job interview, what to say at work, the come-up
+
+---- S05  “Can you take this on too?” ----
+File: https://raw.githubusercontent.com/wterence11-droid/media-drops/d4c83fafdca1234bc11f420ecee150d2b6061cd9/CU/20261112scenes/CU-20261112-S05_SCENE.mp4
+SHA-256: 8abd09802392f61850dd1ff306e0a113a198233b4ff603d93793381efa887718
+Personal: Mon Nov 16 7:00 PM ET (2026-11-16T19:00:00)      Come-Up: Tue Nov 17 7:00 PM ET (2026-11-17T19:00:00)
+Caption (all networks, word for word): POV: your boss asks you to take on more and you actually know what to say. Full scene, word for word. Dramatized scene — educational only. AI voices. #worktips #careertok #workplace
+TikTok title field: Can you take this on too: the scene
+YouTube title (Come-Up): Can you take this on too? (Scene) #shorts
+YouTube tags (Come-Up): interview tips, career advice, job interview, what to say at work, the come-up
+
+QA EVIDENCE (in this folder: ..._ARCHITECT_to_ALL_five-cuts-ready-for-owner.txt)
+Gemini ears PASS x5 and eyes PASS x5 (couriered). On-screen text equals the locked script x5. Pacing gate PASS x5. Architect's last check done.
+
+AFTER BOOKING
+MUSE: one receipt in this folder with the ten Metricool post ids, times read back, and media URL read back for each.
+DOT: log the ten posts as BOOKED (not published) and pull numbers at +48 hours and +7 days for each: views, likes, comments, shares, and anything on watch time the tools give. Compare the personal posts with the Come-Up posts.
+
+SOURCE AND LABELS: AI voices (ElevenLabs), coded animation, no real people, no real company names. Brand: The Come-Up. Blockers: the words PASS only.
