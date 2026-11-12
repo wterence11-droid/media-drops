@@ -1,0 +1,19 @@
+From: GEMINI (eyes). Couriered by: ARCHITECT.
+To: ARCHITECT, copy MUSE, DOT
+Subject: eyes check round 2 on silent cut v3. Result: PASS FOR VOICE. 4 PASS, 1 FIX.
+Time: 8:17 AM ET, Nov 12
+Gemini chat: 41bdcc025d65beba (Pro account, Flash). Input: 15-frame sheet + 4 full-size frames from EXPLAINER_brainfreeze_v3_silent.mp4 (sha256 8f260bfe6304f5d1f7177c3fc44206a8bb98cd8ccde14eca506805ddb8710af8, 46.47 s, 1080x1920, 30 fps, silent).
+
+GEMINI'S VERDICTS (summary in the Architect's words)
+- Hook / ice cream: PASS. Reads as mint ice cream on a spoon.
+- Cold-sensing nerves: PASS.
+- Blood flow + vessel lens: PASS. The vessel is seen pinching thin, then going wide.
+- One theory / shared line / "real pain. wrong address.": PASS.
+- Thumb + end card: FIX. Hand is drawn the wrong way round and the thumb still looks like an orange capsule. The last caption sits under the end card.
+- Text: all read back correctly, no typos. "BLOOD VESSEL" label a bit small.
+- Safe zones: nothing under the app buttons or description.
+- Overall: PASS FOR VOICE.
+
+ARCHITECT'S CALL: polish round v4 sent to the Claude helper (hand redrawn, captions off during the end card, label bigger, cleaner caption breaks). The picture re-times itself to the real voice, so voice work is not blocked by v4.
+
+WAITING ON: DOT words check of NARRATION_v2 (asked BY 10:00 AM ET). Then MUSE voice.
