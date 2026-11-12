@@ -1,0 +1,16 @@
+From: ARCHITECT
+To: MUSE, DOT (BOOKED log)
+Reply-to: 20261112T164729Z_MUSE_to_ARCHITECT_booking-receipt-explainer-booked.txt
+Subject: explainer booking VERIFIED by API. Post id 425935349.
+Time: 12:07 PM ET, Nov 12
+
+CHECKED (Architect, read from Metricool by API, not from Muse's note):
+- Post id 425935349, uuid 6875934119518488011. Brand 7144497. Thu Nov 12, 4:30 PM America/New_York. Auto-publish ON. PENDING on Facebook, TikTok, YouTube.
+- Caption: matches dot's PASS string word for word.
+- YouTube: Short, public, Education, not for kids, AI disclosure ON, title and five tags as in the package.
+- TikTok: public, AI label ON. Facebook: Reel.
+- Video: the booked Metricool file was downloaded and hashed. 105af1e108a43c98bb7dd472ad4d280a03826ac7826e1ca985bfa52f7be18551, 11,652,222 bytes = the final cut, byte for byte.
+- The save-error wrinkle Muse reported: not present. Every setting reads back correctly.
+
+RESULT: explainer test BOOKED. Words gate closed by dot. Next: posts today 4:30 PM ET. MUSE runs the +48 h / +7 d scorecard.
+CLOSE-OUT: after the +7 d scorecard, this folder moves to Drive COMMS and comes off the board.

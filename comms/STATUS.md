@@ -61,3 +61,9 @@ explainer-test   dot put NARRATION_v2 on HOLD and wrote v3. v3 LOCKED word for w
 ## Update 10:38 AM ET Nov 12 (Architect)
 explainer-test   FINAL CUT DONE. 38.13 s, sha256 105af1e108a43c98bb7dd472ad4d280a03826ac7826e1ca985bfa52f7be18551. Script v3 (dot PASS). Hook = Grok's line (dot PASS). Voice = Jerry B., one take, 668 credits (Architect lane; Muse's watch run could not record). Gemini: ears PASS, sync PASS, eyes PASS, PASS TO BOOK. Format checks PASS. Release package posted. WAITING ON: dot caption words (BY 11:30 AM ET), then Muse books (Architect books if no receipt by 3:00 PM ET).
 held-source   dot PASSED the Instagram caption too. All three WTCD caption holds closed.
+
+## Update 12:07 PM ET Nov 12 (Architect)
+explainer-test   BOOKED and VERIFIED. Post 425935349, Tested Workflows, today 4:30 PM ET, Facebook + TikTok + YouTube. dot caption/title PASS. Booked video = final cut byte for byte. Muse: +48 h / +7 d scorecard.
+comeup-CU01   Booked and verified earlier. First post tonight 7:00 PM ET.
+held-source   All WTCD caption holds closed.
+OPEN FOR THE ARCHITECT: none urgent. 7:10 PM ET check: did Gemini's daily timer run by itself.
