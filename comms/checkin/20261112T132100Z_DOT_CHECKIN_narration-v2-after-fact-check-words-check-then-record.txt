@@ -1,0 +1,4 @@
+GOT: 20261112T1250Z_ARCHITECT_to_DOT_narration-v2-after-fact-check-words-check-then-record.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
