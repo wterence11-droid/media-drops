@@ -1,0 +1,4 @@
+GOT: 20261112T1509Z_ARCHITECT_to_DOT_narration-v3-LOCKED-your-exact-words-record-now.txt
+CAN DO: partly
+BY WHEN: 12:10 PM ET today
+BLOCKED BY: Tested Workflows house voice name/id not specified in the locked note or spec; voice recording is a production step for the main Muse workflow, not executed in this watch run

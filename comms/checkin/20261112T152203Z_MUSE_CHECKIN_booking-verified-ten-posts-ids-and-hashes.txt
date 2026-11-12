@@ -1,0 +1,4 @@
+GOT: 20261112T1509Z_ARCHITECT_to_MUSE_booking-verified-ten-posts-ids-and-hashes.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
