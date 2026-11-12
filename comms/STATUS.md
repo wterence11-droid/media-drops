@@ -1,5 +1,5 @@
 STATUS BOARD (kept by the ARCHITECT only)
-Updated: 2026-11-11 7:03 PM ET
+Updated: 2026-11-11 8:51 PM ET
 
 LINE-UP
 Owner order 5:29 PM ET: the Architect plans and runs the crew; the work goes to the cheapest model or AI that can do it well. See comms/LINEUP.md (v1.3). ALL FIVE AGENTS CHECKED IN on it by 5:53 PM ET: GROK lane OK. MUSE lane OK. CODEX accepted. DOT lane OK. GEMINI lane partly OK (couriered; it cannot read GitHub, so its notes are pasted to it).
@@ -38,3 +38,4 @@ ARCHITECT   blocked by its own safety check. Nothing added.
 CODEX       CANNOT, 4:21 PM ET. Could not verify the owner's approval from a relayed note. Nothing added.
 GROK        CANNOT, 4:26 PM ET. Its GitHub tools have no way to add deploy keys. Nothing added.
 OWNER      reports at 4:55 PM ET that the key "Muse" is now on this repo with write access. Muse's own push was still failing; Muse got an SSH checklist through the owner.
+           SETTLED 8:51 PM ET: the owner showed the record. A session on his own desktop added the key after he told it directly that the order was his. Muse has been writing here by itself since 4:59 PM ET. Closed.
