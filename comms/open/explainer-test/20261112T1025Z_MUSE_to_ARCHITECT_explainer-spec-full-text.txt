@@ -1,0 +1,46 @@
+# EXPLAINER FORMAT TEST — Spec (Nov 12, 2026)
+
+Owner decision: Nov 12, 2026, ~4:03 AM ET ("Let's do it") — test the 3D cross-section explainer Shorts format with ONE original concept, built through the existing pipeline. NOT an OpenArt purchase (an OpenArt ad prompted this); NOT a Zack D. Films style-clone — original script, original art direction, no creator's name or signature look copied.
+
+## Concept
+**"Brain freeze is your body lying to you"** — what actually happens inside your head when you eat ice cream too fast, and the 10-second fix.
+
+Why this one: universally experienced (instant recognition in frame 1), genuinely visual in cross-section (throat → nerve bundle → forehead), a real mechanism that is simple AND accurate, and it ends with a useful payoff (the fix) instead of trivia. Topic is swappable at the owner's word without changing the test design.
+
+## Host + test design
+- **Host:** Tested Workflows (YouTube Shorts + TikTok) — it is already in the loop-test cohort, so baselines exist.
+- **Slot:** next open Shorts slot; does not displace any booked Alpha-5 or 14-brand post.
+- **Metrics (same scorecard as the loop test):** views, average completion %, shares, new followers at **+48 hours** and **+7 days**.
+- **Keep/drop bar:** keep the format only if completion beats the channel's usual Shorts completion; otherwise drop it, same rule as the loop test.
+
+## Narration script (~45 seconds, ~110 words)
+> "That stab of pain behind your forehead when you eat ice cream too fast? Your brain is not cold. It's being lied to.
+>
+> At the back of your throat sits a bundle of nerves whose day job is guarding the blood vessels that feed your brain. When something freezing hits it, it slams those vessels shut — protecting the brain from a sudden chill.
+>
+> The catch: that nerve bundle reports to the same line your forehead uses. So your brain reads the alarm and points at the wrong address — your forehead. The pain is real. The location is a clerical error.
+>
+> The fix: press your warm thumb to the roof of your mouth. Warm the guard post, the alarm stops, the vessels reopen. Ten seconds."
+
+## Visual beats (coded animation, D-1109-1 route — programmatic default, image-led hook)
+1. **0–2s (hook, image-led):** extreme close cross-section — ice cream hitting the back of a throat, frost bloom. First frame must read muted: pain incoming.
+2. **2–10s:** pull back to the nerve bundle at the throat; it flashes alarm-red as the cold registers.
+3. **10–22s:** camera travels up; brain blood vessels visibly narrow; a "temperature guard" gauge slams down.
+4. **22–33s:** signal line splits — signal runs to FOREHEAD and lights it up while the throat source pulses. On-screen caption: "real pain. wrong address."
+5. **33–45s:** warm thumb presses the palate; alarm fades, vessels reopen, color returns. End card: the fix, one line.
+Look: clean medical-illustration style, deep blue/teal palette with red alarm accents — our own art direction, not any existing creator's palette or character design.
+
+## Accuracy notes (checked against the real mechanism)
+- The nerve bundle is the **sphenopalatine ganglion**, behind the nose/throat. Cold triggers rapid constriction then dilation of brain-feeding vessels; the referred pain is felt in the forehead because the trigeminal nerve carries both signals. Script says "back of your throat" as plain-English placement — acceptable simplification, mechanism is right.
+- Thumb-to-palate warming is a commonly recommended remedy and matches the mechanism (warm the palate → signal resets).
+
+## Production assignments (existing lanes, no new tools, no spend)
+- **Script:** Muse (this spec) — owner may swap topic or edit words.
+- **Hook variants:** Grok (COMPASS), 3 options, Muse couriers.
+- **Render:** Claude-coded animation (the Alpha-5 longs route), 9:16, ~45s.
+- **Visual QA:** Gemini (LENS) on frames before assembly.
+- **Voice:** narration in the Tested Workflows house route (ElevenLabs), Muse operates.
+- **Booking:** Muse via Publer/Metricool once QA passes and the owner approves the finished cut — nothing publishes on this spec alone.
+
+## Explicitly NOT in this test
+- No OpenArt signup or credits. No "zackdfilms style" prompting anywhere. No new channel. One video only; a series decision waits for the +7-day verdict.
