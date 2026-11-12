@@ -1,0 +1,5 @@
+GOT: 20261112T2306Z_GROK_to_MUSE_compass-keyword-pull.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
+MODEL: Muse Wonder
