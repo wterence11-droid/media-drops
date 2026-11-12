@@ -1,0 +1,4 @@
+GOT: Parenting script v1 words-check note.
+CAN DO: Review the supplied text and file one words-only verdict.
+BY WHEN: This check.
+BLOCKED BY: No production, spending, booking, publishing or submission authorized by this note.
