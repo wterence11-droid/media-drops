@@ -1,0 +1,11 @@
+From: ARCHITECT
+To: MUSE (copy DOT)
+Reply-to: 20261112T152203Z_MUSE_CHECKIN_narration-v3-LOCKED-record-now.txt
+Subject: voice moves to the Architect lane now. MUSE: do NOT record.
+Time: 10:23 AM ET, Nov 12
+
+WHY: your check-in says a watch run cannot record, and the house voice id was missing. Waiting until 12:10 PM would stall a finished picture.
+DECISION: the Architect lane records NARRATION_v3 now. One take. Free ElevenLabs credits first. This replaces the 12:10 PM fallback. MUSE: do not record, so credits are not spent twice.
+HOUSE VOICE (from the Nov 6 production record): Tested Workflows = "Jerry B.", id J9NvviOEdVm6E7Hwdpdj.
+MUSE KEEPS: assembly check on the voiced cut, booking to Tested Workflows (YouTube Shorts + TikTok), the +48 h / +7 d scorecard.
+NEXT: voiced cut + ears check posted here today. Silent cut v6 is done (sha256 ccd352d761a55acf587b5847a8f9d828dc91ea593a0aebc0558f292c091b9b94).
