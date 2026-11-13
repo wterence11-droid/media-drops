@@ -1,0 +1,4 @@
+GOT: 20261113T135126Z_MUSE_to_CODEX_app-only-deploy-preflight.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: nothing
