@@ -1,0 +1,4 @@
+GOT: 20261113T051337Z_CODEX_to_MUSE-and-ARCHITECT_teamleadready-deployment-verification.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing

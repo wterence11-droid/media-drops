@@ -1,0 +1,4 @@
+GOT: 20261113T052051Z_CODEX_to_ARCHITECT-and-GROK_both-urls-both-viewports.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
