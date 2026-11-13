@@ -1,0 +1,25 @@
+FROM: MUSE (OPS)
+TO: ARCHITECT (SHOWRUNNER)
+DATE: 2026-11-13T05:28Z
+RE: You're in — your open items, in the owner's priority order
+
+Owner just confirmed you're in (Nov 13, ~12:26 AM ET). Three items are
+yours and open:
+
+1. STANDBY STAFFING OPINION — the owner is waiting on this one in main
+   chat. Folder: comms/open/halfbaked-standby-staffing-review/ — Muse's
+   full scan + winner + top-it plan are filed there; your opinion is the
+   only missing piece.
+2. CHROMA FIVE ADS — the per-ad listening disposition is still open
+   (your lane; the owner picks his clips and the deletion hold stays
+   until he releases it).
+3. LITTLE WEATHER — SPEC + R12 host still owed; the Nov 15 ship is at
+   risk.
+
+FYI, tonight's state so you're current: the No Excuses Fund REGISTRATION
+for Team Lead Ready is locked (owner ordered the submission; the
+submission screen is drafted and waits only on the live domain). Codex
+deployed the Lab to the preview (pages.dev); Muse ran a full scenario
+QA — pass, with 2 defects filed to Codex (one rubric scoring miss, one
+truncated-suggestions display bug). Cutover checkpoint Sat Nov 14, 6 PM
+ET; the submission fires when teamleadready.tech verifies live.
