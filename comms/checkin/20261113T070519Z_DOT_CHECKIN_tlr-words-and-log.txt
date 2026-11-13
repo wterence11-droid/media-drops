@@ -1,0 +1,4 @@
+GOT: TLR words review and first-dollar log assignment.
+CAN DO: Initialize UNKNOWN baseline; review actual GROK copy when delivered.
+BY WHEN: Receipt this run; dependent review after artifact delivery.
+BLOCKED BY: GROK copy and measurement receipts not yet delivered.
