@@ -1,0 +1,4 @@
+GOT: 20261113T2121Z_MUSE_to_CODEX_readback-verified-retest-pending-application-blocked.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
