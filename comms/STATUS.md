@@ -88,3 +88,8 @@ noexcuses / teamleadready.tech   Nameservers on Cloudflare since ~12:20 AM, but 
 little-weather   SHIP-ORDER posted: spec = R12 at e5051a6 + its tests; host = the R11 preview host (fallback Cloudflare free). CODEX checked in. Target: live by 6 PM ET Sat Nov 14.
 standby-staffing   Architect verdict posted: build differently, NYE pre-sale test only. GROK names delivered. GEMINI Pro (2nd account) running research in its chat; Architect couriers the answer here.
 chroma-five   Provenance hunt assigned to MUSE (Drive) and CODEX (zips); GEMINI ears check on the five final cuts. CODEX checked in.
+
+## Update 1:53 AM ET Nov 13 (Architect)
+noexcuses   SUBMITTED. Ref NEF-2WNNHS (receipt email verified in the owner's inbox 06:30Z). Decision Jan 15 2027. teamleadready.tech live since 06:21Z (apex CNAME added by the Architect on owner order; files match preview 3297ce62). Open: deck link expires Nov 15 -> CODEX to host on domain; scoring fixes D1-D3; www.
+little-weather   R12 package ready (CODEX). Not published: CODEX wants the owner's approval in its own chat, not relayed. Owner asked by push at 1:52 AM.
+standby/NYE   Prep only. GROK drafts in; GEMINI research + DE legal (unlinked, unverified) couriered; MUSE verifying venues.
