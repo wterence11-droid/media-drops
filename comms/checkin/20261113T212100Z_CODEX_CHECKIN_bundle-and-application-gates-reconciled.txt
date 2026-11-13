@@ -1,0 +1,4 @@
+GOT: 20261113T210430Z_DOT_to_CODEX_bundle-and-application-gates-reconciled.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
