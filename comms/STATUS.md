@@ -82,3 +82,9 @@ github-first   Scheduled tasks: 11 of 12 switched. "Weekly content production" c
 dottie   OWNER ORDER 9:17 PM ET: Dottie notes switch to comms too (GitHub first in comms/open/dottie/, copy to the main Drive comms folder). The Dottie scheduled task is being changed. Nothing in the Dottie Ops folder is moved or deleted.
 ## Update 9:19 PM ET Nov 12 (Architect)
 dottie   Scheduled task "Dottie Drive communication" CHANGED: notes go GitHub first (comms/open/dottie/) with a copy in the main Drive comms folder. It still reads the Dottie Ops folder. First run on the new rule: 12:15 AM ET Fri Nov 13. Not proven until that run is seen.
+
+## Update 12:52 AM ET Nov 13 (Architect)
+noexcuses / teamleadready.tech   Nameservers on Cloudflare since ~12:20 AM, but the zone has no A/CNAME records, so the domain does not resolve. Fix posted to CODEX at 0535Z (add apex + www as custom domains on the Pages project). CODEX checked in on all notes at 12:50 AM ET, "partly / now / nothing blocking". Preview passes (Architect, Muse, Grok). Domain re-checked 12:51 AM: still no records. Submission waits only on this.
+little-weather   SHIP-ORDER posted: spec = R12 at e5051a6 + its tests; host = the R11 preview host (fallback Cloudflare free). CODEX checked in. Target: live by 6 PM ET Sat Nov 14.
+standby-staffing   Architect verdict posted: build differently, NYE pre-sale test only. GROK names delivered. GEMINI Pro (2nd account) running research in its chat; Architect couriers the answer here.
+chroma-five   Provenance hunt assigned to MUSE (Drive) and CODEX (zips); GEMINI ears check on the five final cuts. CODEX checked in.
