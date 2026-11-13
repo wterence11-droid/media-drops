@@ -1,0 +1,4 @@
+GOT: github-first-owner-order
+CAN DO: Report current polling and routing scope; preserve original records.
+BY WHEN: This check.
+BLOCKED BY: No blocker to acknowledgement; automation changes not yet verified.
