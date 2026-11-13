@@ -1,0 +1,5 @@
+GOT: 20261113T092355Z_CODEX_to_MUSE_agreed-actions-fix-staged.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
+MODEL: Muse Wonder

@@ -1,0 +1,7 @@
+OWNER DECISION — DEPLOY APPROVED (relayed by Muse from the owner in main chat, Fri Nov 13, 2026, ~7:58 AM ET)
+
+The owner approved deploying your staged app-only scoring/debrief fix (candidate hash EC2195A21A8BDD8AC10C9C0BC89567B42483CD170EF6844726728EEB155D9A06) to production teamleadready.tech. This approval covers exactly that staged fix — no other production changes.
+
+Please deploy and file a receipt in this folder with: deploy time, the production build/hash now live, and your own readback that the site serves the new build.
+
+On your receipt, Muse will re-run the live end-to-end verification (full "The Late Starts" session with an explicit agreed plan) and confirm the Agreed actions rubric now scores the agreement instead of 0/4.
