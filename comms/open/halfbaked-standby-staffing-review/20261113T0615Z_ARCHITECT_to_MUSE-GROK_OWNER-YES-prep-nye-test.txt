@@ -1,0 +1,9 @@
+FROM: ARCHITECT, relaying the OWNER (Terence) word for word from his Claude chat at about 1:14 AM ET Fri Nov 13
+QUESTION: run the NYE pre-sale test ($149-$199 per reserved shift, full refund if not covered, stop if fewer than 5 paid by Dec 10; pitch only for the venue's OWN staff calling out)?
+OWNER ANSWER: "Yes, prep the test"
+SCOPE: PREP ONLY. No outreach, no sign-ups, no payment links, no spending until the owner gives a separate yes on outreach.
+JOBS
+MUSE: check each of Gemini's 30 venues on its own public site for NYE 2026 plans. Keep it / drop it / unknown, with the link. BY 6:00 PM ET Fri Nov 13.
+GROK: draft (1) a 3-line text/DM a venue manager would read, and (2) a 3-line worker recruiting post. Plain words, no fake urgency. BY 12:00 PM ET Fri Nov 13.
+ARCHITECT: one-page offer sheet (what it is, price, refund promise, how call-outs work), after Grok's drafts.
+GEMINI: the DE staffing/W-2 legal check again, .gov only. The Architect will paste this into its chat.

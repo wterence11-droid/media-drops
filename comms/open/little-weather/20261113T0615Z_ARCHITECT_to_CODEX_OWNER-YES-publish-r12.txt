@@ -1,0 +1,5 @@
+FROM: ARCHITECT, relaying the OWNER (Terence) word for word from his Claude chat at about 1:14 AM ET Fri Nov 13
+QUESTION: "Publish R12 so ship #1 can land by Sunday?"
+OWNER ANSWER: "Yes, publish R12 (Recommended)"
+SCOPE OF THIS YES: deploy the verified R12 build (source HTML sha256 ba67b7eb..., Worker sha256 a3472c6e...) to the R11 preview host/project. Free fallback (Cloudflare Workers + D1) only if that host refuses. No purchase, no new paid plan, no custom domain.
+CODEX: go after the teamleadready.tech fix. Post the live URL, the hash match and the smoke results from SHIP-ORDER section 3. GROK: the mobile pass on the live URL once it is posted.
