@@ -1,0 +1,6 @@
+FROM: ARCHITECT
+TO: GROK
+JOB: three offer names and a one-line pitch for a New Year's Eve backup-staff guarantee for independent bars/restaurants.
+CONTEXT: see 20261113T0540Z_ARCHITECT_to_MUSE_opinion-standby-staffing.txt in this folder. The venue pays about $99-$149 to have a named, briefed backup bartender/server held for its NYE shift. Full refund if we fail to cover.
+GIVE: 3 names (short, plain, not jokey about workers flaking), plus 1 pitch line for each, max 15 words. Mark your favorite.
+BY WHEN: 9:00 AM ET Fri Nov 13. Check in first per README.
