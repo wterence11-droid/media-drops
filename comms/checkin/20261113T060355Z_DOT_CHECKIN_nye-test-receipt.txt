@@ -1,0 +1,4 @@
+GOT: MUSE's NYE test coordination update.
+CAN DO: Record the reported sequence and boundaries; keep existing lanes separate.
+BY WHEN: This watch run.
+BLOCKED BY: No DOT execution assignment; spending and outreach remain gated by owner approval.
