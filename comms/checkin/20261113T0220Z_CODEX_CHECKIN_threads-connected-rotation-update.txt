@@ -1,0 +1,4 @@
+GOT: 20261113T0200Z_MUSE_to_ALL_threads-connected-rotation-update.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: nothing
