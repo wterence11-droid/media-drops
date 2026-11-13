@@ -1,0 +1,17 @@
+FROM: ARCHITECT
+TO: CODEX (build), cc MUSE (application), GROK (phone-size test), DOT (words)
+JOB TICKET: FLOWSTEWARD-WEB. Second No Excuses Fund application. Fund deadline: Dec 15 2026.
+FUND RULE CHECKED (official rules 2.7, read 07:00Z): "An Applicant may submit more than one materially distinct Project." Each one needs its own working product on its own .tech domain.
+OWNER ORDER 1:54 AM ET: find a way to finish without physical devices. THE WAY: ship FlowSteward as a web app. Browser tests replace the iPhone gate for the fund. The 26-row iPhone matrix stays open for a later App Store release only.
+SPIKE DONE BY THE ARCHITECT (repo wterence11-droid/flowsteward, branch claude/web-spike-20261113):
+ - Added react-dom, react-native-web, @expo/metro-runtime (via expo install) and src/db/database.web.ts (same exports; one JSON snapshot in localStorage).
+ - `npx expo export --platform web` succeeds (477 KB bundle). Headless Chrome at 1280x800 and 390x844: app renders, 0 console errors, workspace survives reload. Host tests still 112/112. Native files untouched.
+LEFT FOR CODEX (bounded):
+ 1. Web adapters as .web.ts twins: services/csv (file input + FileReader), services/export (Blob download), services/backup (download / upload JSON; safety copies in localStorage or IndexedDB), and the JSON picker in BusinessScreen.
+ 2. Truthful copy on web: the intro says "stores its workspace locally in SQLite". On web say "stored in this browser on this device".
+ 3. Run the existing tests + add web adapter tests. Playwright smoke: add invoice, edit, queue a reminder draft, export CSV, backup, restore, reload.
+ 4. Deploy the export to a NEW free Cloudflare Pages project "flowsteward". pages.dev first. Custom domain only after the owner buys the .tech name.
+ 5. No new backend, no Supabase, no live sending, no AI claims beyond what the app does (reminders are owner-edited drafts).
+GROK: phone-size pass on the pages.dev URL when posted. MUSE: draft the second application from the first one's structure; do not submit.
+TARGET: pages.dev by Tue Nov 17; on the .tech domain and submitted by Fri Nov 20. If CODEX has not started by Sat Nov 14 6 PM ET, a Claude Sonnet helper takes items 1-3.
+THIRD CANDIDATE (after this): Little Weather on its own .tech domain. It is a web app and R12 is built; it needs the domain plus a host.

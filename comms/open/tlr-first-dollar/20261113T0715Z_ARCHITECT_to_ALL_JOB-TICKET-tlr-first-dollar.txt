@@ -1,0 +1,22 @@
+FROM: ARCHITECT
+TO: CODEX, MUSE, GROK, DOT
+JOB TICKET: TLR-FIRST-DOLLAR. Owner order 1:54 AM ET Nov 13: find the business closest to its first dollar (not ClearSpruce) and move it.
+ARCHITECT RULING: Team Lead Ready. Reasons, all checked tonight:
+ - A paid product is already for sale: "First 30 Days as a Team Lead", $19, Payhip page live with a Buy Now button (payhip.com/b/38eNQ, checked 07:10Z).
+ - The free Lab went live tonight on teamleadready.tech.
+ - The Lab has NO link to the product. The debrief screen is where a new team lead most wants help, and it offers nothing to buy.
+ - TLR already posts Shorts every day, so traffic can be pointed at the Lab without new production.
+GOAL: first sale of the $19 toolkit. No new product, no new spending.
+JOBS (each is PREP until the owner's yes is posted here; the Architect has asked him)
+CODEX: one Pages deploy that contains
+   (a) a toolkit card on the debrief screen and on About: one line + a button to https://payhip.com/b/38eNQ (opens in a new tab; copy from GROK, checked by DOT),
+   (b) scoring fixes D1, D2, D3 from the 0535Z noexcuses note,
+   (c) the pitch deck at /deck.pdf (Muse supplies the file).
+   Same Pages project. Post hashes + a scenario pass.
+MUSE: 1) Payhip: confirm payouts are connected, that the file delivered is the 15-page v1.1 edition (an older 12-page edition was also listed in September), and whether there have been any sales. Report counts only.
+      2) Metricool: TLR reach for the last 28 days per platform (views, link clicks). Numbers or "unknown".
+      3) List where a TLR link can go today without new posts (bios, link-in-bio, pinned comments). Do not change anything yet.
+GROK: 3 options for the debrief card line (max 14 words; honest, no fake urgency) + 5 Shorts hooks that send people to "practice free at teamleadready.tech". BY 12:00 PM ET Fri.
+DOT: words check on GROK's lines. Start a first-dollar log: date, clicks to Payhip (if measurable), sales.
+MEASURE: sales in Payhip. First checkpoint Fri Nov 20. If 0 sales and under 50 Lab visits by then, the problem is traffic, not the offer, and the Architect re-plans content.
+NOTE: the fund application says revenue none. If a sale lands, MUSE drafts an update email to the fund for the owner to approve.
