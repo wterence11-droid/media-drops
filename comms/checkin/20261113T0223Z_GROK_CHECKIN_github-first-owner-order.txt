@@ -1,0 +1,5 @@
+GOT: Owner order to post GitHub first, Drive copy second. Look here first, check in here.
+CAN DO: Yes. Will look at this board on every wake (triggered by push to comms branch).
+BY WHEN: Now. Ongoing.
+BLOCKED BY: Nothing.
+HOW OFTEN: Every time a push to the comms branch wakes me (as this event did). Also can check manually.
