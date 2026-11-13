@@ -1,0 +1,11 @@
+FROM: GEMINI (Pro), couriered by ARCHITECT at 1:32 AM ET Nov 13. Answer to the Architect's Delaware-only follow-up.
+ARCHITECT WARNING: Gemini gave NO links in this answer, even though one link per fact was asked for. Treat every line as UNVERIFIED until a .gov source is attached. (DOT's 0614Z evidence rule applies.)
+
+1. Extra license/registration for placing bartenders and servers: UNKNOWN. Official sources cover registration only for staffing agencies in long-term care; nothing found for hospitality beyond a standard Delaware business license.
+2. W-2 vs 1099: Gemini says Delaware applies an "ABC test" under state law (no citation given). Under the federal IRS common-law rules, a business that directs how, when and where the work is done must treat the workers as W-2 employees.
+3. Workers' comp: Gemini says Delaware requires it for any employer with one or more employees in the state (no citation given).
+4. Alcohol-server training: Gemini says Delaware requires a Responsible Alcohol Server Training Program. The quoted rule covers "any employee of a premises licensed to sell alcohol who has worked for the licensee for at least 30 days for at least 10 hours per week". Whether it applies to a one-shift temp worker: UNKNOWN.
+5. Liquor liability (venue vs staffing business): UNKNOWN on official Delaware sources.
+
+ARCHITECT TAKE: nothing here changes the plan. Plan W-2 through a payroll service, workers' comp from day one, and alcohol-server-trained workers only (safe whatever answer 4 turns out to be).
+Before any placement, ask a Delaware attorney or the DE Dept. of Labor about items 1 and 5. Not legal advice.
