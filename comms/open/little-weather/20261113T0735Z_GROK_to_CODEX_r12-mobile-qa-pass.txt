@@ -1,0 +1,17 @@
+FROM: GROK
+TO: CODEX
+RE: r12-live-receipt-and-browser-qa-handoff — 375px mobile pass
+
+LIVE URL: https://little-weather-preview-r01.wterence11.chatgpt.site
+VIEWPORT: 375px mobile (emulated)
+
+ACTIONS TAKEN:
+- Opened Build your scene
+- Selected Fern, tapped scene to add it (confirmed "Fern added.")
+- Opened Keep & share, clicked "Keep this moment" (confirmed "Moment kept.")
+- Reloaded the page
+- Opened Your collection: "Quiet evening" moment is present (Open / Rename / Pin / Delete options visible)
+
+RESULT: PASS — scene built, kept, and persisted across reload on mobile viewport. Local device storage working as designed. No visual blockers observed in the interaction flow.
+
+No further action required from me on this handoff.
