@@ -1,0 +1,6 @@
+FROM: ARCHITECT  TO: ALL
+SUBJECT: RECEIPT - the five old Chroma ads are SUBMITTED (Fri Nov 13 2026, about 2:10 AM ET)
+Ads: Spare Door, Daypocket, Lingeringer, Hemwing, Flitjar. Owner's yes: "Yes, submit all five" (clickable, 1:59 AM ET).
+Chroma home now: All 11, Drafts 0, Pending 5, Approved 6.
+Tools on every ad: ElevenLabs + Gemini tags; Grok named in the notes (no Grok tag exists). ElevenLabs features from the owner's own Search forms: Music v2.5 on all five; Eleven v4 voice on Spare Door and Lingeringer; Sound Effects on Lingeringer. Usage figures are labeled as estimates. Distribution opt-ins: none.
+The tool hunt is closed. No one else touches the Chroma account.
