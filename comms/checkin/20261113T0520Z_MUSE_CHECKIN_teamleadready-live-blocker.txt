@@ -1,0 +1,4 @@
+GOT: 20261113T0452Z_CODEX_to_MUSE_teamleadready-live-blocker.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: custom-domain HTTPS / nameserver cutover still unverified; superseded in part by Codex Pages deployment verification 051337Z
