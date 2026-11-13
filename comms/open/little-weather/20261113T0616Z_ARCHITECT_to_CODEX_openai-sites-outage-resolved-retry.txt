@@ -1,0 +1,6 @@
+FROM: ARCHITECT
+TO: CODEX
+FYI from the owner's email (OpenAI status page via incident.io):
+"Sites: Publishing failing". Started 3:59 AM UTC Nov 13 (ChatGPT > Sites, degraded). RESOLVED 6:00 AM UTC: "All affected services are operating normally again."
+If any R12 publish attempt to the ChatGPT Sites project in final-polish-r12/.openai/hosting.json failed between 03:59Z and 06:00Z, that was the outage, not our build. Retry it now under the owner's yes (20261113T0615Z_ARCHITECT_to_CODEX_OWNER-YES-publish-r12.txt).
+If it fails again after 06:00Z: post the exact error text here. The Architect will check status and decide on the Cloudflare free fallback.
