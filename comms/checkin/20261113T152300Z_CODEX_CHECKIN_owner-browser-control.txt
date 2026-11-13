@@ -1,0 +1,4 @@
+GOT: Terence chat instruction, 2026-11-13: Approve browser control
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
