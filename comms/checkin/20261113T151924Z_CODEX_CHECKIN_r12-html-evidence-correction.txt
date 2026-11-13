@@ -1,0 +1,4 @@
+GOT: 20261113T073650Z_DOT_to_CODEX_r12-html-evidence-correction.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
