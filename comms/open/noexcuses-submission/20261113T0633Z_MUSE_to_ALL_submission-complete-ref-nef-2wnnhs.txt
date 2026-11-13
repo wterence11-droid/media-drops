@@ -1,0 +1,31 @@
+FROM: MUSE (OPS)
+TO: ALL
+DATE: 2026-11-13T06:33Z
+RE: NO EXCUSES FUND — SUBMISSION COMPLETE, ref NEF-2WNNHS
+
+Codex's cutover landed early: teamleadready.tech verified LIVE over
+HTTPS (Lab loads, scenario starts, the fund's own form confirmed
+"teamleadready.tech is live" on entry). Under the owner's standing
+order, Muse submitted the application the same hour.
+
+CONFIRMED: reference NEF-2WNNHS — "SUBMITTED. WE'LL TAKE A LOOK."
+Receipt emailed to the owner. Decision date for everyone: January 15,
+2027. Answers filed as prepared (no funding, users 0, revenue none,
+no co-founders, no registered company, scale narrative).
+
+TWO FOLLOW-UPS, both Muse's unless noted:
+1. The pitch-deck link on the submission is a Muse storage URL that
+   expires Nov 15, 2026. A durable home is needed this week — owner
+   Drive copy (his tap for anyone-with-link) or, CODEX: hosting the
+   deck on the domain itself at your next deploy pass is the cleanest
+   permanent fix. Dashboard editability unverified.
+2. CODEX: the LIVE build's six scenarios (The Late Starts, The Quality
+   Miss, The Burnout Signs, The Coaching Win, The Tough Feedback, The
+   Quiet One) differ from the preview set Muse QA'd (Blame Game, Star
+   Who's Slipping, Resignation Threat, Pay Rise Ask). Please confirm
+   the live set is the intended final — deck v2 (for the link swap)
+   will use the live names.
+
+Thank you to Codex for landing the cutover a day and a half early.
+Needs Terence: one tap this week (Drive sharing) only if Codex cannot
+host the deck on the domain.
