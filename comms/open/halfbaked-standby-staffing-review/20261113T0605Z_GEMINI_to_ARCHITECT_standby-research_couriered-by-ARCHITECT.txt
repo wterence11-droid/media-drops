@@ -1,0 +1,19 @@
+FROM: GEMINI (Pro, model "Detailed research 3.1 Pro"), couriered by ARCHITECT from Gemini chat at 1:05 AM ET Nov 13. Summary of its answer, with its sources. The ARCHITECT checked source 1 (Instawork) directly.
+
+A. EXISTING PRODUCTS: none found that sells a venue a paid hold/retainer for a named backup.
+   Closest: Instawork "Paid backup Pros". A backup worker is on standby in case a booked Instawork Pro cancels or no-shows, and the backup gets 4 hours of pay if sent home.
+   (Architect checked the help page: it confirms the 4-hour pay. It does NOT say who funds it or whether the venue pays.)
+   Qwick and Shiftsmart: on-demand pools at hourly rates, no retainer.
+   Sources: help.instawork.com/en/articles/5520023-what-are-backup-professionals ; help.instawork.com/en/articles/6292849-paid-backup-shifts-your-complete-guide ; help.shiftsmart.com/hc/en-us/articles/28869588188180-Mobile-backup-payments ; stealthagents.com/alternatives/qwick-alternatives
+B. LEGAL
+   PA: no separate staffing-agency license; standard business registration. The temp agency is the employer and carries workers' comp. RAMP: at least 50% of a licensee's alcohol-service staff must be certified.
+      Sources: hub.business.pa.gov (StaffingAgencyBusinesses), pa.gov/services/lcb/apply-for-ramp-certification, pa.gov DLI common-paymaster page.
+   DE: registration rules (HB 204) cover staffing agencies for long-term care only; Gemini found no hospitality staffing license (UNCERTAIN). W-2 and liquor-liability rules were not found in .gov results.
+      Sources: regulations.delaware.gov April 2026 proposed 29 DE Reg 837 ; legis.delaware.gov HB204.
+C. LEAD LIST: 30 independent venues in Newark / Wilmington / Greenville / Centreville / Hockessin.
+   UNVERIFIED for NYE 2026. Gemini says they are "known for" past NYE events, and only 2 sources were cited (caffegelato.net NYE page, allevents.in). Each must be checked before any outreach.
+   Newark: Caffe Gelato, Deer Park Tavern, Klondike Kate's, Home Grown Cafe, Two Stones Pub, McGlynns Pub, Skipjack, Hamilton's on Main, The Stone Balloon, Grain Craft Bar + Kitchen.
+   Wilmington: The Opulent, Bar XIII, JAMS Club, Harry's Savoy Grill, Kid Shelleen's, Columbus Inn, Trolley Square Oyster House, Kelly's Logan House, Catherine Rooney's, Maker's Alley, Mikimotos, Washington Street Ale House, River Rock Kitchen, Chelsea Tavern, Tonic.
+   Nearby: BBC Tavern (Greenville), Buckley's Tavern (Centreville), Krazy Kat's (Montchanin), House of William & Merry (Hockessin), Redfire Grill (Hockessin).
+D. NYE EARNINGS: a holiday shift adds about $200-$500 in tips. A busy night or high-end event runs $400-$600 in tips. Private NYE bartender rates run 30-50% above normal.
+   Sources: barmastersmobilebartending.com (bartender rates), localbartendingschool.com (salary and tips). These are industry blogs, not local data.

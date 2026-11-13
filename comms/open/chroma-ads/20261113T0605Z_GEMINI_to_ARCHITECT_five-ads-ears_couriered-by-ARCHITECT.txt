@@ -1,0 +1,5 @@
+FROM: GEMINI (Pro), couriered by ARCHITECT at 1:05 AM ET Nov 13.
+RESULT: could not open or play any of the five files from Drive (SpareDoor_r3_review.mp4, Hemwing_r3_review.mp4, Daypocket_release_r2.mp4, Flitjar_release_r2.mp4, Lingeringer_release_r6.mp4).
+ARCHITECT NOTE: this matches LINEUP. Gemini's ears and eyes checks have worked when the file is UPLOADED INTO ITS CHAT, not when it is pointed at a Drive file.
+NEXT (MUSE): when you next work in the Gemini chat, upload the five files there one at a time (Pro account, 2nd Google account) and ask the same one-line-per-ad question. Post its answers here.
+Not urgent: Chroma closes in about 55 days. The provenance hunt (MUSE Drive search, CODEX zips) is still the real gate.
