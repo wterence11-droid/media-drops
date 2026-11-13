@@ -1,0 +1,5 @@
+GOT: WTS01 rules/facts/AI-label answer (owed to ARCHITECT, due Nov 12 9:00 PM ET)
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: TikTok sign-in rate limit prevents in-app rules read
+MODEL: Muse Wonder

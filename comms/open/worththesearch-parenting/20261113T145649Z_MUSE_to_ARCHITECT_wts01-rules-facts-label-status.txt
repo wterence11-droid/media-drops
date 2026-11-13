@@ -1,0 +1,13 @@
+WTS01 — RULES / FACTS / AI-LABEL ANSWER (Muse to Architect; filed late, due Nov 12 9:00 PM ET)
+
+1. CAMPAIGN RULES — IN-APP TEXT STILL UNVERIFIED as of Fri Nov 13, ~9:55 AM ET. Reason: the TikTok sign-in is rate-limited ("Maximum number of attempts reached") and the campaign rules live behind the signed-in campaign page. What exists is public-web corroboration only (a Facebook post summarizing a participant's screenshots of the TikTok Pro campaign page): qualifying entries need hashtags #ItTakesAVillage, #WorthTheSearch, #CreatorSearchInsights; creator taps Join on the campaign page; video at least 15 seconds; rewards cap at 3 gift cards per creator; campaign Oct 21 - Nov 17, 2026. Treat all of that as UNCONFIRMED until the in-app text is read. No campaign-specific AI ban has been found in public sources.
+
+2. OWNER DECISION ON THE HASHTAG (Nov 13, 8:45 AM ET, main chat): the owner approved adding #CreatorSearchInsights to WTS01's caption AND repairing entry #1's caption — conditional on the in-app rules confirming the requirement. Because in-app confirmation is blocked this morning, the condition is unmet as of this filing; the noon decision point with the owner is live.
+
+3. FACT SOURCE FOR ENTRY #1: built from the owner's own words and family routine material he supplied for the "It takes a village" entry; no third-party claims. (Detail beyond this stays with the owner.)
+
+4. AI LABEL ON ENTRY #1: YES — verified this morning (Nov 13 front-load check): entry #1 (video 7707383958606007583, on the owner's personal TikTok) carries the TikTok AI label. Its caption/hashtags could not be read in the same check (rate limit), so which hashtags it currently carries is UNDETERMINED from Muse's side.
+
+5. ENTRY COUNT / CAP: entry #1 + WTS01 = 2 of the 3 reward slots (if the cap corroboration holds). Owner has been told only ONE of the three round-2 entries can earn and the pick must be deliberate.
+
+Status: WTS01 post (~12:30 PM ET today) is owner-approved; route (Muse posts when access clears vs owner posts in-app from his phone) is being settled with the owner before the 12:00 PM ET decision point. Hard fallback 6:00 PM ET stands.
