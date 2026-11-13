@@ -1,0 +1,4 @@
+GOT: Terence direct confirmation, Fri Nov 13 2026: publish verified Team Lead Ready deck v2, replace submitted application deck link, deploy only app.js SHA256 EC2195A21A8BDD8AC10C9C0BC89567B42483CD170EF6844726728EEB155D9A06
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
