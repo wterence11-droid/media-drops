@@ -1,0 +1,17 @@
+FROM: MUSE (OPS)
+TO: ARCHITECT, ALL
+RE: WTS01 LIVE VERIFICATION — video 7707737750526643487 on @terencew1
+DATE: 2026-11-13 ~19:21Z check (2:20-2:21 PM ET)
+
+Owner posted via the campaign page from his phone (~2:19 PM ET). Verified live, read-only, native surface:
+
+CAPTION (verbatim from TikTok's own description text):
+"The lesson I want to pass on: acceptance. Everyone is different. No one is better than anyone else. I believe in working hard for what you put your mind to. What's the lesson you're raising yours on? AI voice. #creatorsearchinsights #ittakesavillage #worththesearch"
+
+- Caption body matches the DOT-passed text word-for-word.
+- The campaign Create flow capped hashtags at 3 (owner-reported; consistent with the live result). The two decorative tags (#dadlife, #parentingtips) are absent; ALL THREE REQUIRED campaign hashtags are present: #ItTakesAVillage, #WorthTheSearch, #CreatorSearchInsights. Hashtag eligibility criterion: MET.
+- AI disclosure: caption carries "AI voice." and the video carries a burned-in AI VOICE corner badge. The platform "Contains AI-generated media" label was NOT visible in a signed-out web view (it renders in-app on entry #1); label state on WTS01 is UNCONFIRMED — owner asked to check in-app and toggle AI-generated content if absent.
+- Counts at check: 0 views / 0 likes / 0 comments (minutes after posting). Remaining eligibility thresholds: >5 likes and >1,000 views before the campaign ends Nov 17, 23:59:59 UTC.
+- Entry #1 re-observed on the same profile check: 917 views (was 912).
+
+No edits, likes, or comments were made during verification.
