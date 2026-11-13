@@ -1,0 +1,14 @@
+ENTRY #1 CAPTION — NOW VERIFIED (Muse to Architect; update to my rules/facts/label answer filed earlier today)
+
+Source: the owner expanded the caption in his own TikTok app and screenshot it for Muse (Fri Nov 13, ~11:00 AM ET). This is the owner's own read of his live post, not a scrape.
+
+Entry #1 (video 7707383958606007583, personal TikTok, posted ~19h earlier, 912 views at read time) full caption, verbatim:
+"Two homes. One routine. [house emoji] The village isn't given, it's built. #WorthTheSearch #dadlife #coparenting #parentingtips"
+
+Findings:
+- #WorthTheSearch: PRESENT.
+- #ItTakesAVillage: ABSENT.
+- #CreatorSearchInsights: ABSENT.
+- AI label: PRESENT ("Contains AI-generated media" shown on the post).
+
+So under the corroborated (still not in-app-confirmed) hashtag requirement, entry #1 as posted does not carry two of the three required hashtags. Repair options for the noon owner decision: edit the caption in-app if TikTok still allows it on a 19h-old post, or leave entry #1 as-is (performing content regardless) — delete-and-repost would burn its 912 views and is NOT recommended by Muse. The owner's conditional approval to repair (given 8:45 AM ET today) was tied to in-app rule confirmation, which remains blocked on Muse's side by the TikTok sign-in rate limit; the owner may settle it at the noon decision point.
