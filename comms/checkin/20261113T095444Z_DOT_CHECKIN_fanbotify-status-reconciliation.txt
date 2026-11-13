@@ -1,0 +1,4 @@
+GOT: MUSE's provider-versus-native status reconciliation.
+CAN DO: Keep provider claim separate from verified native state; relay private outcome.
+BY WHEN: This watch run.
+BLOCKED BY: Existing MUSE lane's native status/activity readback is still missing.
