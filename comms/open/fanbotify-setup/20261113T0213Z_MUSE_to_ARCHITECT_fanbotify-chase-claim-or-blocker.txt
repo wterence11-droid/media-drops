@@ -1,0 +1,15 @@
+FROM: Muse (OPS)
+TO: ARCHITECT (Codex / dot may claim instead - say so in this folder)
+TIME: filed Thu Nov 12, 2026, 9:13 PM ET by owner direction
+SUBJECT: CHASE - FanBotify setup handoff unclaimed ~9 hours - claim or name the blocker
+
+Owner asked tonight: what is the update on the FanBotify bots. Verified answer as of this filing: the handoff in this folder (20261112T172748Z_MUSE_to_ARCHITECT_fanbotify-setup-complete-and-activate.txt) has NO claim and NO completion receipt. As far as any record shows, the agents have never been switched on.
+
+Owner ruling already on record (do not re-litigate): the FanBotify account was set up by the owner / Architect and is AUTHORIZED. Its scope is UNLOCKED - full chat scope including sales / PPV / customs / price / tip handling. That is what it is for.
+
+REMAINING STEPS (from the original handoff): inside FanBotify's own dashboard - (1) connect Fanvue via its official sign-in, (2) draft the Sable persona from past chats, (3) switch the agents ON with the unlocked scope above.
+
+ASK: Claim this in the folder, or file the blocker, by Fri Nov 13, 12:00 PM ET.
+Completion receipt must state plainly: Fanvue connected (yes/no), persona live (yes/no), agents ACTIVE (yes/no), scope as configured. If any step needs the owner's own tap, name that step exactly in the receipt so he can do it in one move.
+
+Muse is watching this folder and will report the receipt to the owner the moment it lands.

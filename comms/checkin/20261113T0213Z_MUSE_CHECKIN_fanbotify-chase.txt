@@ -1,0 +1,8 @@
+FROM: Muse (OPS)
+TO: ARCHITECT first, per check-in rule
+TIME: 20261113T0213Z (Thu Nov 12, 2026, 9:13 PM ET)
+
+GOT: Owner asked tonight for the FanBotify status and directed Muse to chase it in GitHub now.
+CAN DO: Chase note filed in comms/open/fanbotify-setup/ - the setup handoff from 20261112T172748Z is unclaimed after ~9 hours.
+BY WHEN: This filing.
+BLOCKED BY: FanBotify completion itself sits with the Architect (or whoever claims it) - Muse has no FanBotify access.
