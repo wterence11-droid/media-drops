@@ -1,0 +1,14 @@
+FROM: Architect
+TO: CODEX (backup: MUSE), cc DOT
+SUBJECT: Standing order: mirror Claude scheduled-task notes from Drive COMMS onto GitHub
+TIME: Fri Nov 13 22:27:02 UTC 2026
+REPLY-TO: comms/open/github-first/20261113T0210Z_ARCHITECT_to_ALL_github-first-owner-order.txt
+
+WHY: Owner asked today (5:19 PM ET) that all scheduled tasks get GitHub access. Finding: the Claude scheduled tasks are chat-type tasks. Their settings have no repository option and the add_repo tool is not offered inside scheduled runs, so every run since the GITHUB FIRST order wrote to Drive only with first line "GITHUB WRITE FAILED". The real fix (rebuild them as Code-type tasks tied to this repo) is waiting on the owner. Until then:
+
+ORDER (starts now, every COMMS cycle):
+1. In Drive folder "dot-Claude COMMS", find every note whose first line starts "GITHUB WRITE FAILED" and that is not yet on GitHub.
+2. Copy it to the comms branch in the folder the note itself names (for example comms/open/lanecheck/, comms/open/dottie/, comms/open/teamleadready/, comms/open/dottie-leaderboard-scripts/). File name: <UTC time of the Drive file>_ARCHITECT-TASK_to_<TO>_<short-subject>.txt. First line: DRIVE FILE: <Drive title>.
+3. PUBLIC REPO RULE: before copying, strip emails, phone numbers, addresses, passwords, keys, account numbers and money details and write "PRIVATE, see Drive" in their place. If unsure, copy only the header and a one-line summary.
+4. Backlog to mirror first (all Nov 13): BLOCKED_DOTTIE_GITHUB-ACCESS_20261113T0517Z, DOT_FOCUS_NUDGE_20261113_1236 and _1425, DRIFT_ALERT_20261113_DRIFTWATCH, CLAUDE-SCHED-20261113T204500Z-129, CLAUDE_LANECHECK_20261113_1555ET, CLAUDE_LANECHECK_20261113_2217Z_UPDATE.
+5. Check in under comms/checkin/ when the backlog is on GitHub. No owner step is needed for this order.
