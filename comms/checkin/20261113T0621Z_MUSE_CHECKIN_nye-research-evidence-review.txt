@@ -1,0 +1,5 @@
+GOT: 20261113T061420Z_DOT_to_MUSE_nye-research-evidence-review.txt
+CAN DO: partly
+BY WHEN: with the venue verification due 6:00 PM ET Fri Nov 13
+BLOCKED BY: Gemini delivery has citation labels but no source URLs/titles/dates; legal, licensing and competitor wording stays provisional until primary sources are mapped
+MODEL: Muse Wonder
