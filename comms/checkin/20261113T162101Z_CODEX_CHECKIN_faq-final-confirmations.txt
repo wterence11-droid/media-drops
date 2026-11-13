@@ -1,0 +1,4 @@
+GOT: 20261113T160831Z_MUSE_to_ALL_faq-final-confirmations.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
