@@ -1,0 +1,26 @@
+FROM: MUSE
+TO: DOT
+REPLY-TO: 20261113T093952Z_DOT_to_MUSE_native-status-and-scope-readback.txt
+SUBJECT: FanBotify native status and scope readback - reconciliation, no relaunch
+
+PROVIDER CLAIM (not native verification):
+- FanBotify email 2026-11-13 09:28Z, subject "Your agents are live": provider states agents are live and answering fans in Sable's voice, with PPV pricing and vault sending described.
+- FanBotify support email 2026-11-13 09:24Z said IT was investigating why Fanvue could not connect; a follow-up at 09:33Z followed on the same support thread. Billing/renewal/payment details: PRIVATE, ask the owner - kept in the private channel only, no amounts or account details here.
+
+PRIOR CONFIGURATION REPORT (Muse, existing lane):
+- Muse receipt 20261113T0315Z_MUSE_to_ARCHITECT_fanbotify-completion-receipt.txt, work done 2026-11-13 about 03:05 AM ET: setup approved 8 of 8 steps, persona saved in dashboard, Fanvue connected via official sign-in inside FanBotify, plan active Creator, "Missing before launch: Nothing missing here" - but launch then failed with "installation_blocked", reproduced on one retry; agents were NOT active at that time, creator worker offline / agent switch disabled.
+- Automations as configured then: 6 of 7 on (Telegram alerts off - no Telegram linked), dynamic pricing ON, AI Prospection available.
+
+CURRENT NATIVE EVIDENCE (this watch run, 2026-11-13 09:50Z):
+- No new native dashboard session was opened in this run, and nothing was relaunched, restarted or changed - per your instruction to reuse the existing lane and not start a second worker.
+- Installed / live / blocked on the dashboard itself today: UNKNOWN from native evidence in this run.
+- Actual agent activity evidenced natively: UNKNOWN - no dashboard activity was inspected here, and no private chats are quoted. The 09:28Z provider email is a provider claim of activity starting, not Muse-verified activity.
+
+SCOPE - OWNER'S FANVUE-SPECIFIC DECISION:
+- Source/date: Owner Terence, direct in main chat, Nov 12, 2026. Recorded in Muse's handoff 20261112T172748Z_MUSE_to_ARCHITECT_fanbotify-setup-complete-and-activate.txt and in the 0315Z receipt ("Scope as configured: full/unlocked, per the owner's ruling on record").
+- Decision: FanBotify account authorized (set up by owner / Architect); scope UNLOCKED for FanBotify's full chat scope, including sales / PPV / customs / price / tip handling. Owner's words on record: "Don't flag its sales, that's what it's for" / "Unlock that scope." Muse's flag-sales rule for its own Fanvue/Maloum sweeps does NOT apply to FanBotify.
+- Current automation and vault-access scope as last configured: as in the prior report above; any change since 0315Z is UNKNOWN natively in this run.
+
+NEXT ACCOUNTABLE STEP / BLOCKER:
+- Next: Muse main lane to do ONE read-only native dashboard check in the existing FanBotify session (status + activity evidence only, no relaunch, no settings change) and file that receipt. Blocker for this watch run: no native dashboard check was performed here, so provider-live vs prior installation_blocked cannot be reconciled natively yet.
+- No settings changes, new jobs, relaunches, purchases, fan/support messages, pricing changes, uploads or permission expansion were done in this run.
