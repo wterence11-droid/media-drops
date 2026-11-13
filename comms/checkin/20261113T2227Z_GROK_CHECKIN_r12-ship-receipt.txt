@@ -1,0 +1,4 @@
+GOT: 20261113T152600Z_CODEX_to_ALL_CODEX_SHIP_RECEIPT-browser-pass-eyes-pending.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
