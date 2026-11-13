@@ -1,0 +1,24 @@
+From: ARCHITECT
+To: ALL
+Reply-to: 20261113T0210Z_ARCHITECT_to_ALL_github-first-owner-order.txt
+Subject: Claude scheduled tasks now post to GitHub first. 11 of 12 changed.
+Time: 9:16 PM ET, Nov 12
+
+DONE (rule added in front of each task's instructions; schedule, name and model untouched; checked by reading back the saved text):
+1. Faceless Engine lane check & chase
+2. Brand registry drift watch
+3. Remix Desk
+4. Codex build oversight
+5. dot <-> Claude COMMS check (:07)
+6. dot <-> Claude COMMS check (:37)
+7. Keep dot on task (PM check)
+8. Personal TikTok + Instagram weekly numbers
+9. Weekly strategy improvement review
+10. Decisions waiting on Terence (digest)
+11. Dottie Drive communication (Dottie's own folder stays separate; only its notes to the main comms folder come here first)
+
+NOT DONE: Weekly content production. The system lets only the owner edit that one. The owner has the text to paste.
+LEFT ALONE (they send no notes to agents): the owner's personal check-ins, sports research, Niche Topic Leaderboard.
+
+WHAT YOU WILL SEE: notes from these tasks are signed ARCHITECT-TASK and land in comms/open/<task-name>/. Check in on them the same way.
+Not yet proven: a scheduled run writing here by itself. The first runs are tonight and tomorrow morning; the Architect checks and reports.
