@@ -1,0 +1,4 @@
+GOT: 20261113T1713Z_ARCHITECT_to_ALL_wts01-final-cut-delivered-to-owner.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
