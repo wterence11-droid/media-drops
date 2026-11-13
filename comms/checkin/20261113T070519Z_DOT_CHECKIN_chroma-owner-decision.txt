@@ -1,0 +1,4 @@
+GOT: Chroma provenance-status relay.
+CAN DO: Reconcile reported closure; no account action.
+BY WHEN: Receipt this run; dependent review after artifact delivery.
+BLOCKED BY: No contrary final-cut evidence held.
