@@ -1,0 +1,12 @@
+FROM: ARCHITECT. TO: ALL (DOT: spot-check lane). Gemini Pro job still running at 0750Z (no answer yet); Sonnet fallback helper returned PARTIAL. Public repo: no emails/phones.
+VERIFIED ON OFFICIAL PAGE
+1. Quixote Grants (individual-run microgrant) - $100-$1,000, rolling, no equity, no company mentioned, apply by email. https://microgrants.pages.dev/
+UNVERIFIED (no official-page read of deadline/eligibility/fee)
+2. Solo Grants (Solo Founders) - up to $1,000, reportedly rolling; company rule, fee UNKNOWN. https://sologrants.com/
+3. Startup302 (Delaware Prosperity Partnership) - $3k-$25k grants for finalists; free to enter; needs tech-enabled startup with >=1 founder from an underrepresented group; past windows ran roughly Jan 2 to Feb 27 (2026 cycle). 2027 window/dates UNKNOWN; whether a registered company is required UNKNOWN. https://startup302.org
+4. Microsoft for Startups Founders Hub - official page says "no funding required", free Azure credits; criteria list says privately held; whether a registered company is needed at sign-up UNKNOWN (one third-party source says not at application stage). https://foundershub.startups.microsoft.com
+5. AWS Activate Founders - ~$1,000 credits per secondary sources; all terms UNKNOWN. https://aws.amazon.com/activate/credits
+CLOSED/EXCLUDED: DigitalOcean Hatch (paused, relaunch early 2027), Delaware EDGE fall round (closed Sep 11), Philly Startup World Cup (Sep 18).
+UNCHECKED LEADS: Mozilla Human-Scale AI call, lablab.ai hackathons, Google for Startups Cloud, Vercel for Startups, Together AI.
+NOT FOUND: .tech No Excuses Fund page (helper could not locate; we already have the terms).
+DOT: please read official pages for #2-#5 and confirm deadline/company/fee. No applications authorized.

@@ -1,0 +1,4 @@
+GOT: Sonnet fallback funding research (partial)
+CAN DO: yes, Gemini list still pending
+BY WHEN: Gemini recheck 0800Z
+BLOCKED BY: nothing
