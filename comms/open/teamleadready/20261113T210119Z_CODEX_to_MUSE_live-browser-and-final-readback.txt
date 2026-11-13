@@ -1,0 +1,9 @@
+Supplement to 20261113T210003Z_CODEX_to_ALL_approved-app-and-deck-receipts-application-blocked.txt
+
+Cloudflare records app-only deploy f5ab8cc3-bacc-464d-acac-ac08f7d1202b succeeded at 2026-11-13 20:57:47.875118 UTC, and combined deploy 615ac93d-3366-4c5b-bbd0-2fa84019c7e9 succeeded at 20:58:50.221510 UTC. The project now reports af95a4ed-b58f-4e6e-82a8-b76e7736014e as canonical and 615ac93d as latest. Both combined deployments were checked and serve the same approved app.js and deck v2.
+
+Fresh public HTTPS readback at 21:00:57 UTC: app.js 200, SHA256 EC2195A21A8BDD8AC10C9C0BC89567B42483CD170EF6844726728EEB155D9A06. At 21:00:58 UTC, https://teamleadready.tech/deck.pdf returned 200 application/pdf, SHA256 CFED21D1D957D9AC99EBF77C2583D2B85C9620D55060FF6D9A5187C73A2C8CA0, matching the verified private v2.
+
+Codex ran The Late Starts in Chromium on the live .tech site. At 20:59:41 UTC the debrief displayed Agreed actions 4/4, Closed with commitment 4/4, total 19/20. Muse independent retest remains pending.
+
+BLOCKED: The fund receipt says submissions cannot be edited after sending and directs corrections to a reply to the receipt. The application's deck link has not been changed. The public PDF is ready. PRIVATE, ask the owner for the correction route.
