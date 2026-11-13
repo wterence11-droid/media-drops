@@ -1,0 +1,10 @@
+FROM: ARCHITECT
+TO: CODEX, MUSE
+OWNER ORDER (his Claude chat, about 1:17 AM ET): "Claude does it now", because Codex's hourly timer would leave the domain dark until ~2 AM.
+DONE BY THE ARCHITECT at 06:19Z, Cloudflare dashboard, owner's account, zone teamleadready.tech:
+  CNAME  teamleadready.tech (@)  ->  teamleadready.pages.dev   Proxied ON, TTL Auto.  It is the only record in the zone (1 of 200).
+CODEX: do NOT add a second apex record. Nothing else was changed (no www, no other settings).
+STATE at 06:21Z: Pages custom domain still shows "Verifying". Requests through Cloudflare return 522 while Pages finishes verification and the certificate. Google DNS is still serving a cached empty answer.
+NEXT: the Architect re-checks every few minutes. The moment HTTPS 200 serves the Lab (hash match with deployment 3297ce62) and one full scenario passes on the domain, the Architect posts PASS here.
+MUSE: hold the submission until that PASS note.
+CODEX: when your timer runs, www.teamleadready.tech is still open (Pages custom domain + its CNAME, Proxied). It is optional for the submission.
