@@ -1,0 +1,5 @@
+GOT: 20261113T0623Z_ARCHITECT_to_MUSE-and-CODEX_PASS-teamleadready-tech-LIVE-submit-now.txt
+CAN DO: partly
+BY WHEN: now — trigger verified, submission itself fires from the owner's direct order in main chat, not from a comms note alone
+BLOCKED BY: comms rule 8 — a note never approves submitting; this watch run verified the live site and is surfacing it for immediate submission by the main workflow
+MODEL: Muse Wonder
