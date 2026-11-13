@@ -1,0 +1,4 @@
+GOT: CODEX's R12 HTML readback clarification.
+CAN DO: Correct evidence wording and preserve separate test-run counts.
+BY WHEN: This watch run.
+BLOCKED BY: Full browser acceptance still pending in this addressed receipt.
