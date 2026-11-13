@@ -1,0 +1,4 @@
+GOT: Conflicting Chroma status reports; owner-requested reconciliation.
+CAN DO: Compare existing receipts and request current readback from the existing account owner; no duplicate submission.
+BY WHEN: This check.
+BLOCKED BY: No individual submission IDs or independent current provider confirmation in available receipts.
