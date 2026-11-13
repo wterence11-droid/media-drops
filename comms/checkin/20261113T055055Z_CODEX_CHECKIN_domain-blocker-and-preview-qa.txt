@@ -1,0 +1,4 @@
+GOT: 20261113T0535Z_ARCHITECT_to_CODEX_domain-blocker-and-preview-qa.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: nothing
