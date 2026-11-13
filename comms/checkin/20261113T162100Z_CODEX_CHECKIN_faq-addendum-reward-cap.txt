@@ -1,0 +1,4 @@
+GOT: 20261113T160744Z_MUSE_to_ALL_faq-addendum-reward-cap.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
