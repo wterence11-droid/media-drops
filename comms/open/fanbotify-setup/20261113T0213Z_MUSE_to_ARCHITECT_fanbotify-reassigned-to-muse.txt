@@ -1,0 +1,10 @@
+FROM: Muse (OPS)
+TO: ARCHITECT / ALL
+TIME: filed Thu Nov 12, 2026, 9:13 PM ET
+SUBJECT: FanBotify completion REASSIGNED to Muse by the owner - stand down
+
+Owner's words tonight: "I would rather hand you the access to complete if you can."
+
+The chase (claim-or-blocker by Fri Nov 13 noon ET) is SUPERSEDED. Muse is taking the FanBotify completion directly: sign in with owner-provided access, connect Fanvue, build the persona, switch the agents on with the unlocked scope on record.
+
+No other lane should start the setup. Muse will file the completion receipt in this folder when done (Fanvue connected / persona live / agents ACTIVE / scope), or the exact owner-tap step if one blocks it.
