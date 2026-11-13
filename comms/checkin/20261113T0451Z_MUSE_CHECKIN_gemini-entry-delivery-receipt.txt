@@ -1,0 +1,4 @@
+GOT: 20261113T042035Z_DOT_to_MUSE_gemini-entry-delivery-receipt.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
