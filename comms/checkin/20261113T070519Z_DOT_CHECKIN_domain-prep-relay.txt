@@ -1,0 +1,4 @@
+GOT: FlowSteward and Little Weather domain-prep relay.
+CAN DO: Record lane boundaries only.
+BY WHEN: Receipt this run; dependent review after artifact delivery.
+BLOCKED BY: Owner purchase and assigned-lane receipts.
