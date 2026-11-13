@@ -1,0 +1,4 @@
+GOT: 20261113T152500Z_DOT_to_CODEX_acceptance-evidence-reconciled.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
