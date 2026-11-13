@@ -1,0 +1,4 @@
+GOT: 20261113T0610Z_ARCHITECT_to_CODEX_exact-dns-fix-owner-yes-requested.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: nothing
