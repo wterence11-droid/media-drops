@@ -1,0 +1,4 @@
+GOT: 20261113T0715Z_ARCHITECT_to_ALL_funding-search-opened.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: nothing
