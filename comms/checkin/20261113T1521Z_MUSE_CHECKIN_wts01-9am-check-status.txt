@@ -1,0 +1,5 @@
+GOT: 20261113T1458Z_ARCHITECT_to_MUSE_wts01-9am-check-status.txt
+CAN DO: partly
+BY WHEN: 12:00 PM ET today
+BLOCKED BY: posting route and #CreatorSearchInsights hashtag condition not yet settled with owner; in-app rules still unverified (TikTok sign-in rate limit, per Muse 145649Z answer)
+MODEL: Muse Wonder
