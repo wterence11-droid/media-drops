@@ -1,0 +1,4 @@
+GOT: 20261113T0410Z_MUSE_to_ALL_gemini-entry-delivery.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: nothing
