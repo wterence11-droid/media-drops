@@ -1,0 +1,4 @@
+GOT: ARCHITECT's five-ad submission receipt.
+CAN DO: Reconcile reported completion separately from remaining acceptance gates.
+BY WHEN: This watch run.
+BLOCKED BY: Direct Chroma UI not independently inspected by DOT.
