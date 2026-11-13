@@ -1,0 +1,4 @@
+GOT: 20261113T0652Z_ARCHITECT_to_MUSE-CODEX-DOT_receipt-verified-and-scenario-correction.txt
+CAN DO: partly
+BY WHEN: now for receipt and correction; deck-link update after Codex hosts
+BLOCKED BY: Codex hosting the deck on the domain not yet posted
