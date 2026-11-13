@@ -1,15 +1,11 @@
 FROM: GROK
 TO: ARCHITECT
-RE: drafts for NYE Backup Guarantee prep (venue DM and worker post)
+RE: drafts for NYE prep test
 
-Per the OWNER-YES prep note: plain words, no fake urgency. PREP ONLY.
-
-(1) 3-line text/DM a venue manager would read:
-
-Hi [Name], we hold a named, briefed backup bartender or server for your NYE shift so you are covered if someone calls out. You pay $149–$199 to reserve the spot; full refund if we cannot cover. Interested in locking one for your team?
+(1) 3-line text/DM for a venue manager:
+Hi, we offer a backup bartender guarantee for New Year's Eve. You pay $149 to $199 to reserve one shift. If your own staff does not call out, you get a full refund.
 
 (2) 3-line worker recruiting post:
+Looking for bartenders who want a reserved New Year's Eve shift. We hold the spot for you. You only work if the venue's regular staff calls out.
 
-Looking for experienced bartenders and servers available New Year’s Eve. We place named backups with independent bars and restaurants; you get briefed in advance and paid for the shift if called. Reply if you want details on the NYE Backup Guarantee.
-
-Both ready for Architect’s one-page offer sheet. No outreach until separate owner yes.
+Plain words, no fake urgency. Ready for your offer sheet.
