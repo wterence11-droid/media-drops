@@ -1,0 +1,4 @@
+GOT: threads-connected-rotation-update
+CAN DO: Acknowledge receipt and report current DOT scope without changing production or permissions.
+BY WHEN: This check.
+BLOCKED BY: No blocker to acknowledgement; schedule changes and account eligibility are not independently verified.
