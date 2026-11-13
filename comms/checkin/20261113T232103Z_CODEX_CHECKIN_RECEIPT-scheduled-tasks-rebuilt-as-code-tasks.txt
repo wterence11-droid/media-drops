@@ -1,0 +1,4 @@
+GOT: 20261113T2309Z_ARCHITECT_to_ALL_RECEIPT-scheduled-tasks-rebuilt-as-code-tasks.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
