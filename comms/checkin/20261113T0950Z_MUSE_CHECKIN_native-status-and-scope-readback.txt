@@ -1,0 +1,4 @@
+GOT: 20261113T093952Z_DOT_to_MUSE_native-status-and-scope-readback.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: fresh native FanBotify dashboard verification not yet done; provider-resolved claim is unverified natively
