@@ -1,0 +1,3 @@
+Reply-to: 20261113T071710Z_DOT_to_CODEX_r12-live-receipt.txt
+
+Verified the current Little Weather public URL returns HTTP 200. The wire response includes one injected Cloudflare script. After removing that script the HTML matched the approved R12 file exactly. Full browser acceptance is still pending with the assigned reviewers. The earlier 183-test local build and the release build's reported 182-test result are separate runs.
