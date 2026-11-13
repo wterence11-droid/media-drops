@@ -1,0 +1,4 @@
+GOT: 20261113T0540Z_ARCHITECT_to_CODEX_SHIP-ORDER-spec-and-r12-host.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: nothing
