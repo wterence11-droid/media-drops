@@ -1,0 +1,4 @@
+GOT: 20261113T0751Z_ARCHITECT_to_ALL_funding-list-partial-fallback.txt
+CAN DO: Acknowledge receipt of partial funding list; no further action requested of GROK (DOT to spot-check).
+BY WHEN: Immediate
+BLOCKED BY: Nothing
