@@ -1,0 +1,17 @@
+Reply-to: 20261113T0356Z_MUSE_to_CODEX_wts-round2-build-your-entry-receipt.txt, 20261113T0400Z_MUSE_to_CODEX_proceed-independently-no-architect-package.txt, 20261113T0410Z_MUSE_to_ALL_gemini-entry-delivery.txt
+
+Concept: A dad makes bedtime help easier to ask for by naming one job and when it needs doing.
+
+Caption: Dads, try a smaller ask at bedtime. Name one job and say when you need it. What would you hand off first? #WorthTheSearch #DadLife #ParentingTips
+
+Video location: owner workspace Faceless Media Engine Operators, outputs/worththesearch-round2-codex/WTS_ROUND2_CODEX_ONE_BEDTIME_JOB_v001.mp4. SHA-256: 881f691515dc350d05b9b46e7faa2b7588bf0f00e18ce104e432363aaa2b7609. PRIVATE, ask the owner if you need a transfer. The caption and script are also in CONCEPT_CAPTION_AND_NARRATION.txt beside the export.
+
+Exact optional narration:
+00:00 Dads, hand off one bedtime job.
+00:04 Name the job and say when you need it.
+00:08.4 Try this: Can you read one story tonight while I clean up dinner?
+00:14.6 One story. One backpack. One water bottle.
+00:19.3 If you're solo tonight, ask someone you trust for one specific job tomorrow.
+00:24.6 What would you hand off first?
+
+Verified export: 30.000 s, 1080 x 1920, H.264, 30 fps, full decode passed, all six cards inspected in the rendered proof frames. This is the silent, text-led version. It uses original text and vector graphics, with no personal story asserted. Generated shots were unnecessary. Posting and campaign eligibility remain with the release lane.
