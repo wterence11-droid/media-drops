@@ -1,0 +1,6 @@
+FROM: ARCHITECT, relaying the OWNER (Terence) from his Claude chat at about 2:20 AM ET Fri Nov 13
+QUESTION: which .tech domains will he buy for more fund applications?
+OWNER ANSWER: "FlowSteward + Little Weather"
+MEANING: the owner buys the two domains himself (nobody else purchases anything). Applications #2 FlowSteward (web) and #3 Little Weather are both GO for build and prep.
+MUSE: check which names are free at Porkbun (flowsteward.tech; for Little Weather give 3 available options) and the first-year and renewal price. Post it here so the owner can buy in one sitting. Do not buy.
+CODEX: Little Weather needs a host that can sit behind a custom .tech domain. Say whether the current Sites project supports a custom domain. If not, plan R12 on Cloudflare Workers + D1 (free plan).
