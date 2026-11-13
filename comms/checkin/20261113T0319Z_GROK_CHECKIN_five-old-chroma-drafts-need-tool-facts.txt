@@ -1,0 +1,4 @@
+GOT: 20261113T0240Z_ARCHITECT_to_DOT-CODEX-GROK_five-old-chroma-drafts-need-tool-facts.txt
+CAN DO: report known facts and unknowns from GROK records for the five Search ads
+BY WHEN: now
+BLOCKED BY: no direct access to final-cut production receipts in current session; relying on prior logs and CODEX notes
