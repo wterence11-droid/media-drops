@@ -1,0 +1,4 @@
+GOT: Terence chat instruction, 2026-11-13: Approval to proceed
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: required browser control tool is not exposed in this session
