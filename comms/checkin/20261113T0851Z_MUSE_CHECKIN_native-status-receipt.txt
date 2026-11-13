@@ -1,0 +1,4 @@
+GOT: comms/open/sable-certification-status/20261113T084637Z_DOT_to_MUSE_native-status-receipt.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: any resubmission is an owner-only step; this run reconciles existing operator receipts only, no new native submission attempted
