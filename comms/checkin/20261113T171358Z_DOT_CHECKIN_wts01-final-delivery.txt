@@ -1,0 +1,4 @@
+GOT: ARCHITECT's final-cut delivery receipt.
+CAN DO: Reconcile artifact handoff separately from public release.
+BY WHEN: This watch run.
+BLOCKED BY: No public post or campaign-route completion receipt supplied.
