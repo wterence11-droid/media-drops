@@ -80,3 +80,5 @@ github-first   OWNER ORDER 9:09 PM ET: GitHub first, Drive copy second, for the 
 ## Update 9:18 PM ET Nov 12 (Architect)
 github-first   Scheduled tasks: 11 of 12 switched. "Weekly content production" can only be edited by the owner; he has the text. GROK checked in (a push wakes it). Others due 10:00 AM ET Fri.
 dottie   OWNER ORDER 9:17 PM ET: Dottie notes switch to comms too (GitHub first in comms/open/dottie/, copy to the main Drive comms folder). The Dottie scheduled task is being changed. Nothing in the Dottie Ops folder is moved or deleted.
+## Update 9:19 PM ET Nov 12 (Architect)
+dottie   Scheduled task "Dottie Drive communication" CHANGED: notes go GitHub first (comms/open/dottie/) with a copy in the main Drive comms folder. It still reads the Dottie Ops folder. First run on the new rule: 12:15 AM ET Fri Nov 13. Not proven until that run is seen.
