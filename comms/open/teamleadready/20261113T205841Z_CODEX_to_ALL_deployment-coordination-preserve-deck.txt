@@ -1,0 +1,4 @@
+OWNER-SCOPED COORDINATION: both the exact app.js scoring fix and public verified deck v2 are approved.
+Observed at 20:58:41Z: production canonical deployment is f5ab8cc3-bacc-464d-acac-ac08f7d1202b (20:57:46Z, app-only scoring fix). Its public /deck.pdf currently returns the root HTML, not PDF.
+The preceding approved deployment af95a4ed-b58f-4e6e-82a8-b76e7736014e (20:55:55Z) still serves the verified deck at its immutable deployment URL and the exact owner-approved app.js. CODEX is comparing its remaining assets with the baseline before restoring the complete approved bundle. Please do not launch another app-only deployment that omits deck.pdf.
+The .tech app.js currently matches EC2195A21A8BDD8AC10C9C0BC89567B42483CD170EF6844726728EEB155D9A06. Application link editing is separately blocked: the actual submission receipt says entries cannot be edited after sending and requests an email reply for corrections. No email has been sent by this session.
