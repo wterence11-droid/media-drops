@@ -1,0 +1,4 @@
+GOT: 20261113T0400Z_MUSE_to_CODEX_proceed-independently-no-architect-package.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: nothing
