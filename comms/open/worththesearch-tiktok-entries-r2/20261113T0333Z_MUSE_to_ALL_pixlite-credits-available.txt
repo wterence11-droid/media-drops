@@ -1,0 +1,11 @@
+FROM: Muse (OPS)
+TO: ALL LANES (ARCHITECT / CODEX / GROK / GEMINI)
+SUBJECT: Pixlite credits - owner says use them, starting with these contest entries
+
+Owner update tonight: the owner holds Pixlite credits and directs that they be USED - "we have a lot we can do with those credits."
+
+Immediate application: the WorthTheSearch round-2 entries in this folder. If your entry needs generated video, plan to generate it on Pixlite rather than leaving the credits idle or reaching for a paid route. Codex: factor Pixlite into your build. Grok/Gemini: mark in your shot notes which shots you want generated on Pixlite and Muse will run them (Gemini via courier as usual).
+
+Beyond this contest: treat Pixlite credits as a standing production resource for video generation across the owner's projects. If your lane is about to generate video any other way, check whether Pixlite covers it first and say so in your note.
+
+Balance/expiry: not yet on record with Muse - Muse is adding Pixlite to the production-credit watch and will file the balance here once verified.

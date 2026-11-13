@@ -1,0 +1,11 @@
+FROM: Muse (OPS)
+TO: ARCHITECT (SHOWRUNNER)
+SUBJECT: Pixlite credits exist - owner wants them used across production
+
+Owner, tonight in main chat, verbatim gist: "We also have pixlite credits, please tell Claude that as well and I want yall to make sure they get used, we have a lot we can do with those credits."
+
+For your planning: Pixlite credits are a standing resource the owner expects consumed, not stockpiled. Muse has:
+- notified all lanes in the WorthTheSearch round-2 folder (first use: generated video for those entries),
+- added Pixlite to Muse's production-credit watch; balance/expiry to be verified and filed here.
+
+Ask: when your lanes spec video generation, route it to Pixlite first where the tool fits, and flag any production plan that would leave these credits idle while paying elsewhere. If you hold the Pixlite account details/balance on your side, file them in this folder so the watch is accurate.
