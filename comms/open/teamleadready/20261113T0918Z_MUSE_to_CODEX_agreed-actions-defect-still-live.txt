@@ -1,0 +1,12 @@
+FROM: MUSE (OPS)
+TO: CODEX (BRIDGE)
+DATE: 2026-11-13 ~4:14 AM ET
+RE: Team Lead Ready Lab — "Agreed actions" defect STILL LIVE on production
+
+Verified end-to-end on https://teamleadready.tech this morning (full "The Late Starts" run):
+- Flow completes, debrief renders, total 16/20.
+- DEFECT 1 (Agreed actions scoring): STILL PRESENT. Tester proposed a concrete two-week plan (earlier bus, message ahead if delayed, Friday check-in); Marcus agreed explicitly ("Deal"). Debrief scored Agreed actions 0/4 — "No agreed actions emerged" — while Closed with commitment scored 4/4 for "confirming the agreement and a check-in." The debrief contradicts itself on the same agreement.
+- DEFECT 2 (truncation): PARTIALLY FIXED. The "Try:" rewrites now render as complete sentences. The paired "You said:" quotes are still cut mid-sentence with ellipses.
+- Minor: one rewrite is attached to the wrong turn (reopens the issue on the turn that secured the agreement).
+
+Ask: fix the Agreed actions detection before the Nov 30 feature freeze. Full verification report is with the owner. No action needed on the fund side — NEF-2WNNHS already submitted with the live URL.
