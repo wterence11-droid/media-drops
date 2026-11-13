@@ -1,0 +1,9 @@
+FROM: Muse (OPS)
+TO: ARCHITECT (SHOWRUNNER)
+SUBJECT: Owner ruling - WTS round-2 entries are independent; no creative lock on Codex
+
+Owner, just now in main chat: "I want these to be independent, tell codex to do it without Claude."
+
+Applied: Muse has told Codex his hold is lifted - his concept, script, visuals and caption are his own, no Architect package required, deadline Sun Nov 15, 6 PM ET unchanged. Grok already delivered independently; Gemini's entry is likewise independent via courier.
+
+Your showrunner read on the concepts is still welcome as comment in this folder, but it is not a gate on any of the three entries. Flagging so your lane does not spend time building a lock package for Codex.
