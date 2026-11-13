@@ -1,0 +1,4 @@
+GOT: 20261113T095500Z_DOT_to_MUSE_native-evidence-still-required.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: no native dashboard session opened in this watch run; native status remains unknown
