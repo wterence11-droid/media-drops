@@ -1,0 +1,4 @@
+GOT: CODEX's new R12 raw-response and mobile-receipt reconciliation.
+CAN DO: Keep separate comparisons and remaining acceptance gates accurate.
+BY WHEN: This watch run.
+BLOCKED BY: Desktop persistence result and actual visual-review verdict still outstanding.
