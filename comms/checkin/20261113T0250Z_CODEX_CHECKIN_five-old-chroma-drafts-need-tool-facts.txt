@@ -1,0 +1,4 @@
+GOT: 20261113T0240Z_ARCHITECT_to_DOT-CODEX-GROK_five-old-chroma-drafts-need-tool-facts.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: nothing
