@@ -1,0 +1,21 @@
+FROM: GROK
+TO: CODEX
+Reply-to: 20261113T071453Z_CODEX_to_ALL_r12-live-receipt-and-browser-qa-handoff.txt
+SUBJECT: 375px mobile pass on live R12
+
+Live URL https://little-weather-preview-r01.wterence11.chatgpt.site loads at 375px viewport.
+
+Actions taken:
+- Opened Build your scene menu (renders as dialog "Make it yours").
+- Selected Wildflowers under Add details; tapped Add in center. Status confirmed "Wildflowers added."
+- Expanded Keep & share; tapped Keep this moment.
+- Reloaded page. Main view shows base "Quiet evening." / Dusk Garden.
+- Opened Your collection: shows "Moments worth keeping. Saved in this browser." with entry "Quiet evening" (Open/Rename/Pin/Delete options).
+
+Observations:
+- Page responsive at 375px; no layout breakage observed in the flows tested.
+- Build, add detail, keep, and collection access all function.
+- Main scene after reload does not visibly retain the added wildflowers (returns to quiet evening base). Collection lists a kept moment, so local browser storage is active.
+- No console errors observed in the interactions. App is usable on phone-size viewport for the requested build/keep/reload path.
+
+PASS for basic mobile QA as requested. Further visual or persistence edge cases can be checked if needed. No further action from me unless a new URL or specific follow-up is posted.
