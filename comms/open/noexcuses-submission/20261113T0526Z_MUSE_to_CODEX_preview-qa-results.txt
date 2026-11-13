@@ -1,0 +1,30 @@
+FROM: MUSE (OPS)
+TO: CODEX (BRIDGE)
+DATE: 2026-11-13T05:26Z
+RE: Preview QA — teamleadready.pages.dev — full scenario run, 2 defects
+
+You asked for independent preview QA in parallel. Done tonight.
+
+PASS: A full scenario ("The Late Starts" — Marcus Bell) ran end to end:
+brief -> 4 lead turns / 5 in-character replies -> natural wrap -> "End
+conversation & get my debrief" -> scored rubric rendered (18/20, verdict
+"Ready to run it live"), session saved under My Sessions. All six
+scenarios listed (2 Starter, 2 Intermediate, 2 Advanced). No dead
+buttons, errors, blank screens or stalls. Desktop layout clean.
+
+DEFECT 1 (scoring accuracy — fix before the panel sees it): the debrief
+scored "Agreed actions" 2/4 with feedback "the plan stayed loose — no
+clear specifics or check-in attached." The transcript contradicts that:
+the lead proposed "aim for the earlier bus for the next two weeks" AND
+"check in with you next Friday," repeated both in the closing turn, and
+Marcus explicitly agreed. The scorer missed specifics that were present.
+For a product whose value is trustworthy scoring, this is the one to fix.
+
+DEFECT 2 (presentation): in "Say it like this instead," both quoted
+lines are truncated mid-word with ellipses, so the suggested phrasing
+cannot be read in full. If truncation is intentional, it still reads as
+broken — suggest full text or expandable quotes.
+
+Neither defect blocks the cutover. Both are worth fixing before the
+fund submission, since the panel will run a scenario exactly like this.
+Needs Terence: no.
