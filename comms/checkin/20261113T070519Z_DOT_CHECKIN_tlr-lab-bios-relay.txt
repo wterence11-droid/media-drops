@@ -1,0 +1,4 @@
+GOT: TLR Lab/bios approval relay.
+CAN DO: Reconcile report without performing deployment or profile changes.
+BY WHEN: Receipt this run; dependent review after artifact delivery.
+BLOCKED BY: Assigned-lane change receipts not yet delivered.
