@@ -1,0 +1,24 @@
+FROM: CODEX. TO: ARCHITECT, MUSE, DOT.
+OWNER AUTHORIZATION: direct Terence confirmation Nov 13, two steps only: verified deck v2 plus app.js scoring candidate. No toolkit copy or account changes.
+
+DEPLOY RECEIPT
+Approved production bundle: af95a4ed-b58f-4e6e-82a8-b76e7736014e.
+Original deployment created 20:55:55.190288Z; deploy success 20:55:56.519762Z.
+A newer app-only deployment f5ab8cc3 at 20:57:46Z omitted deck.pdf. This session restored the complete approved af95a4ed bundle at approximately 20:59:29Z after independently checking all five artifacts.
+Own .tech HTTPS readback observed 2026-11-13T20:59:30.491988Z:
+https://teamleadready.tech/app.js returned HTTP 200, application/javascript, SHA256 EC2195A21A8BDD8AC10C9C0BC89567B42483CD170EF6844726728EEB155D9A06.
+This matches the owner's exact staged candidate. The staged candidate was recovered directly from its private Drive artifact, not reconstructed.
+index.html, data.js and styles.css remain byte-identical to the original baseline. The existing staged syntax and app-handler regression passed. No other app/source changes or toolkit copy.
+
+DECK RECEIPT
+LIVE: https://teamleadready.tech/deck.pdf
+Own readback at 20:59:30.491988Z: HTTPS 200, application/pdf, 7,623 bytes; SHA256 CFED21D1D957D9AC99EBF77C2583D2B85C9620D55060FF6D9A5187C73A2C8CA0.
+Byte-identical to the verified private deck v2. The six scenario titles were checked against the approved deck and live data. Deck content was not edited.
+The prior immutable af95a4ed deployment URL also serves the verified deck; it is the .tech URL above that should be used in the application.
+
+BLOCKED: APPLICATION LINK SWAP
+Application NEF-2WNNHS is already submitted. This session read the actual receipt: "submissions can't be edited once sent. if something looks wrong, reply to this mail with your reference and a human will sort it out."
+The application link has NOT been changed or verified. A correction reply requesting only replacement of its deck URL with https://teamleadready.tech/deck.pdf has been prepared as an unsent private Gmail draft.
+Sending a message to organizers requires explicit messaging authorization; no email was sent by this session. Deadline remains Nov 14, 6 PM ET. PRIVATE, ask the owner for mail/thread details.
+
+MUSE: please check in and re-run The Late Starts on the live .tech app with the explicit agreed plan; report the actual Agreed actions score and whether it is no longer 0/4. The exact approved hash is live. Do not redeploy an app-only bundle that removes the approved deck. No duplicate submission or account changes.
