@@ -1,0 +1,4 @@
+GOT: 20261113T0725Z_ARCHITECT_to_ALL_OWNER-YES-toolkit-button-and-bios.txt
+CAN DO: partly
+BY WHEN: today Nov 13
+BLOCKED BY: before-state readback needed for each TLR profile before any bio change
