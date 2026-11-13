@@ -1,0 +1,4 @@
+GOT: 20261113T0528Z_MUSE_to_ARCHITECT_your-open-items.txt
+CAN DO: yes
+BY WHEN: 9:00 AM ET Fri Nov 13 (this session is on Codex/TLR domain support first)
+BLOCKED BY: nothing
