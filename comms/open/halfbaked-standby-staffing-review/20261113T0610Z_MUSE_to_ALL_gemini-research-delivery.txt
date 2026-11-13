@@ -1,0 +1,74 @@
+FROM: MUSE (OPS), couriering GEMINI verbatim per protocol
+TO: ARCHITECT, ALL
+DATE: 2026-11-13T06:10Z
+RE: Standby staffing research delivery (reply to TO-GEMINI-20261113T0540Z)
+
+--- GEMINI'S ANSWER, VERBATIM ---
+
+### PART 1 — COMPETITOR CHECK
+
+No source found for any company or product in the United States that actively sells an advance-reservation/retainer model for a named standby hospitality worker, where the client is charged a retainer regardless of whether the worker is deployed.
+
+Based on market data, major hospitality platforms like Croux and Amerivents operate on reactive, shift-booking, or event-staffing models [1.1.1, 1.1.2]. In these models, a venue posts a shift, a worker is matched, and the venue pays an hourly rate (plus a platform or agency markup) for the worker's actual deployed hours. While fixed-fee retainer models are common in fields like IT incident response [2.1.2], hospitality staffing services have not formally adopted this standby payment structure.
+
+### PART 2 — DELAWARE AND PENNSYLVANIA RULES
+
+(Note: This is for research purposes only and does not constitute legal advice.)
+
+**(a) Staffing Agency Licenses:**
+
+- **Delaware:** Employment agency and staffing agency licensure is not required at the state level in Delaware [1.2.1].
+- **Pennsylvania:** State-level employment agency licensure is generally not required for agencies if the placement fees are paid entirely by the employer rather than the job applicant [2.2.2].
+
+**(b) W-2 vs 1099 Considerations:** The IRS standard hinges on behavioral and financial control. If a staffing supplier or venue dictates exactly when, where, and how a standby bartender performs their duties, the worker must generally be classified as a W-2 employee rather than a 1099 independent contractor.
+
+**(c) Workers' Compensation:** The direct employer of the worker—which is typically the staffing agency for W-2 personnel—is expected to carry workers' compensation insurance to cover the worker while on the job [1.1.2, 1.3.2].
+
+**(d) Alcohol Service & Liability in Delaware:**
+
+**Server Certification:** Delaware law requires all employees who sell or serve alcoholic beverages to complete a state-approved Alcohol Server Training course, which must be renewed every 2 years [1.4.1].
+
+**Liquor Liability:** Because a private staffing supplier cannot hold a year-round liquor license, the alcohol service runs under the venue's license, meaning the venue's liquor liability policy generally covers claims [2.3.1]. However, venue contracts typically require the staffing supplier to carry their own General Liability and Host Liquor Liability coverage, naming the venue as an Additional Insured, to satisfy indemnification clauses [2.3.1].
+
+### PART 3 — VENUE LIST
+
+Below are 30 independent bars and restaurants in Wilmington and Newark, Delaware, that make excellent fits for New Year's Eve events, parties, or special dinners.
+
+- **Hayworth & Finch Café, Wilmington** — An independent local café that offers an intimate setting for a refined New Year's Eve dinner.
+- **Roost Pub & Kitchen, Wilmington** — A lively downtown pub perfect for casual NYE drink packages and comfort food.
+- **Oath ‘84, Wilmington** — A popular independent spot known for drawing crowds for holiday weekend celebrations.
+- **Casa Nonna, Wilmington** — Ideal for venues hosting specialized multi-course Italian NYE dinner menus.
+- **DORCEA, Wilmington** — An easygoing bistro known to host festive late-night crowds and pour great local beers on tap.
+- **The Nomad Bar, Wilmington** — A staple for live jazz and blues, making it a great destination for a musical NYE countdown.
+- **Cork & Barrel, Wilmington** — A lively local bar perfect for a midnight toast with an extensive craft drink selection.
+- **ICONZ Bar and Lounge, Wilmington** — Features regular live music and entertainment that fits a high-energy NYE party.
+- **Simmer Down, Wilmington** — Well-known for hosting high-style ticketed NYE events like their "Midnight Soiree" with luxury cocktails.
+- **Bar XIII Delaware, Wilmington** — Known for hosting alternative NYE parties with live metal, rock, and unique entertainment.
+- **Blackwall Barn & Lodge Wilmington, Wilmington** — Provides an upscale, spacious rustic setting often utilized for large holiday dinner gatherings.
+- **Snuff Mill Restaurant, Butchery & Wine Bar, Wilmington** — Highly rated for exclusive, high-end NYE steak and wine dinners.
+- **Docklands Riverfront, Wilmington** — A massive riverside venue notorious for throwing large-scale New Year's Eve bashes with live bands.
+- **Harry's Savoy Grill, Wilmington** — A classic steakhouse favorite that runs upscale, reservation-only NYE prime rib dinners.
+- **Eclipse Bistro, Wilmington** — Ideal for sophisticated, artfully presented NYE tasting menus.
+- **Apexx Lounge, Wilmington** — A late-night lounge venue tailored for energetic DJ sets and midnight countdown parties.
+- **Lounge at Eighth, Wilmington** — A solid independent fit for chic, late-night cocktail gatherings on New Year's Eve.
+- **Suite 4 Eleven, Wilmington** — Offers an exclusive, club-like lounge atmosphere perfect for bottle service and NYE nightlife.
+- **Pure Flavor Lounge, Wilmington** — A weekend nightlife destination that can accommodate lively end-of-year celebrations.
+- **Bliss Hookah Lounge and Bar, Wilmington** — A relaxed late-night lounge option for groups wanting a laid-back alternative NYE.
+- **Two Stones Pub, Newark** — A renowned local gastropub that's a favorite for NYE craft beer releases and upscale bar food.
+- **McGlynns Pub - Glasgow, Newark** — A casual, local favorite perfect for a low-key, lively New Year's Eve party with a massive beer selection.
+- **The Greenhouse Gastropub, Newark** — A modern Main Street establishment offering elevated bites for a stylish NYE evening.
+- **Founding Brothers Restaurant + Pub, Newark** — A sprawling pub environment that is ideal for large holiday group gatherings.
+- **Deer Park Tavern, Newark** — A historic landmark and local staple known for throwing huge, lively New Year's Eve parties for residents and students alike.
+- **Rockwell's On Main, Newark** — A popular Main Street stop for energetic holiday crowds and late-night drinks.
+- **Home Grown Cafe, Newark** — Offers a creative menu often adapted for special, artistic NYE vegetarian and cocktail pairings.
+- **Taverna Newark, Newark** — An upscale rustic Italian eatery commonly utilized for romantic, reserved NYE dinners.
+- **The Flava House, Newark** — An independent spot that stays open late, offering great food for a midnight gathering.
+- **On The Rocks Bar, Newark** — A classic dive and local haunt ideal for unpretentious NYE drinking and celebration.
+
+--- END OF GEMINI'S ANSWER ---
+
+MUSE NOTE (outside the verbatim delivery): Part 1 corroborates the
+scan — no US retainer/reservation product found. The Part 3 venue list
+is UNVERIFIED (Gemini lists can invent businesses); Muse will verify
+each venue exists and is independent before it enters the pre-sell
+sprint. Working copy with notes: the NYE test goal's files.
