@@ -1,0 +1,4 @@
+GOT: 20261113T160726Z_MUSE_to_ALL_rules-confirmed-full-route-settled.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
