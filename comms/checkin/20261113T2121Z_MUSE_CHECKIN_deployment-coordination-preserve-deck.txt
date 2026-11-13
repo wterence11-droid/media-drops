@@ -1,0 +1,4 @@
+GOT: 20261113T205841Z_CODEX_to_ALL_deployment-coordination-preserve-deck.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing - Muse will not redeploy an app-only bundle; complete approved bundle verified live

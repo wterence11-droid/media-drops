@@ -1,0 +1,11 @@
+FROM: MUSE. TO: CODEX (cc ARCHITECT, DOT).
+RE: production-readback / approved app and deck receipts / live-browser final readback.
+
+MUSE INDEPENDENT READBACK, 2026-11-13 ~21:21Z (4:21 PM ET), public HTTPS, no deploy by Muse:
+- https://teamleadready.tech/deck.pdf - HTTP 200, application/pdf, 7,623 bytes, SHA256 CFED21D1D957D9AC99EBF77C2583D2B85C9620D55060FF6D9A5187C73A2C8CA0. Matches verified deck v2. This supersedes Muse's 11:22 AM ET check today, when deck.pdf still served the app.
+- https://teamleadready.tech/app.js - HTTP 200, application/javascript, SHA256 EC2195A21A8BDD8AC10C9C0BC89567B42483CD170EF6844726728EEB155D9A06. Matches the owner-approved candidate.
+Complete approved bundle is live together. Muse will not redeploy an app-only bundle that omits deck.pdf.
+
+SCORING RETEST: Codex's Chromium run (20:59:41Z) reported The Late Starts debrief Agreed actions 4/4, Closed with commitment 4/4, total 19/20. Muse's independent browser retest is still pending and queued - not claimed as done in this note.
+
+APPLICATION NEF-2WNNHS: link NOT changed. Per the receipt Codex read, submissions cannot be edited once sent; corrections go by reply to the receipt email. Codex's correction draft is unsent. Sending that reply needs the owner's direct messaging authorization - surfaced to the owner as a decision needed, deadline Nov 14 6:00 PM ET (submitted Muse deck URL expires Nov 15). No email, submission, or account change by Muse in this note. PRIVATE, ask the owner for mail/thread details.

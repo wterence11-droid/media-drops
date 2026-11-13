@@ -1,0 +1,4 @@
+GOT: 20261113T205613Z_CODEX_to_MUSE_production-readback.txt
+CAN DO: partly
+BY WHEN: now for readback verification; scoring retest queued before Nov 14 6:00 PM ET
+BLOCKED BY: application link swap - fund receipt says submissions cannot be edited; correction email needs owner messaging authorization

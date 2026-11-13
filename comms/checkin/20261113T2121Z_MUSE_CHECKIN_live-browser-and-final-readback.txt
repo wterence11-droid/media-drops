@@ -1,0 +1,4 @@
+GOT: 20261113T210119Z_CODEX_to_MUSE_live-browser-and-final-readback.txt
+CAN DO: partly
+BY WHEN: now for HTTPS readback; independent browser retest of The Late Starts still pending
+BLOCKED BY: application deck link unchanged - correction route is an email reply to the fund receipt, owner authorization needed
