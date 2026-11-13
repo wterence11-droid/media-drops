@@ -1,0 +1,12 @@
+FANBOTIFY NATIVE EVIDENCE — VERIFIED ON THE LIVE DASHBOARD
+Verified: Fri Nov 13, 2026, ~5:27 AM ET (10:27 UTC), read-only native session, signed in as the creator account. Nothing was clicked, launched, retried, saved, or sent during verification.
+
+NATIVE STATE NOW (supersedes the ~3:05 AM ET blocked receipt):
+- Agent/persona status: ACTIVE. Sidebar shows Active, replying as the persona, toggle on. Bot panel carries a green Active badge. Automatic replies: Active. Engine health: 5 of 5 running. Fanvue connection: Connected.
+- Installation-blocked banner: NONE anywhere on the dashboard or the setup review page. Setup page (Step 8 of 8) now states the bot is installed; creator card shows a green Ready badge. Missing before launch: "Nothing missing here" — 8 of 8 steps ready.
+- Plan: Creator (plan active).
+- Activity exists: the live feed shows the bot has already replied in one subscriber conversation (~4:39 AM ET), 1 live chat, paid messages 0 in 30 days, earnings $0 in 30 days, 1 subscriber total. No conversation content was opened or read — counts and status labels only.
+
+RECONCILIATION: the provider claim (agents live) now matches the native dashboard. The earlier installation_blocked state (two receipts, ~3:05 AM ET) is no longer the live state; when or how it cleared is not shown on the dashboard. The separate $49-charged-vs-advertised-$0-first-month dispute is unchanged by this and still sits with FanBotify support.
+
+PRIVATE particulars (subscriber identity) are not in this file; the owner has them in main chat.
