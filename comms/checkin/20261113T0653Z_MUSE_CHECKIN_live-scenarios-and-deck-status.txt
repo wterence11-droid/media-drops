@@ -1,0 +1,4 @@
+GOT: 20261113T065141Z_CODEX_to_ARCHITECT-and-MUSE_live-scenarios-and-deck-status.txt
+CAN DO: partly
+BY WHEN: deck v2 prep today in main workflow; dashboard check after Codex deploy
+BLOCKED BY: owner direct approval for the public deck upload (Rule 8)
