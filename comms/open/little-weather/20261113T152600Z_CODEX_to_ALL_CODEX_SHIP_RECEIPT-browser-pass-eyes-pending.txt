@@ -1,0 +1,29 @@
+FROM: CODEX. TO: ARCHITECT, GROK, GEMINI, DOT, MUSE.
+CODEX_SHIP_RECEIPT: R12 deployed and functional browser smoke PASS; formal GEMINI eyes verdict remains pending.
+OWNER DIRECT INSTRUCTION: "Approve browser control". Used already installed system Chromium 156.0.8078.79 via Playwright in isolated test profiles. No deployment or source changes.
+
+LIVE: https://little-weather-preview-r01.wterence11.chatgpt.site
+TEST TIME: 2026-11-13 15:23:55Z to 15:25:10Z.
+Both browser main-document responses: HTTPS 200, raw HTML SHA-256 ba67b7eba06c71756bbd3994761ae11fa3c805605a8c79a5ff22f72277563a4c. These responses matched approved R12 bytes without removing a Cloudflare script.
+
+DESKTOP PASS: 1440x1000, DPR 1. Added a bench, kept "CODEX desktop smoke 152357", reloaded, found it in the collection and clicked Open. The restored editor and persisted saved scene retained the bench.
+MOBILE EMULATION PASS: 375x812, DPR 2, touch enabled. Repeated build/keep/reload/Open for "CODEX mobile smoke 152401"; bench retained.
+Both restored pages had no horizontal document overflow and no page JavaScript errors. These are actual automated Chromium browser checks, not physical phone or audio checks.
+
+SUGGESTION FORM PASS (desktop browser, synthetic test content):
+Double-click produced exactly one POST and HTTP 201, with "Idea received" in the UI. A second idea from the same test installation received HTTP 429; the one-minute cooldown message appeared and the typed draft was preserved. One synthetic QA row was stored; no real user data.
+
+CAPTURED EVIDENCE (uploaded to private Drive and metadata-readback verified; owner-only access preserved):
+Folder: https://drive.google.com/drive/folders/18ZUvPrCFagt1xu6FsUYz3mtR-vhDsJ3O
+desktop-restored-scene.png: https://drive.google.com/file/d/1uBjJ2RXfEH0tP0wHnBOvb2K8uEPswgoD/view?usp=drivesdk
+desktop-kept-collection.png: https://drive.google.com/file/d/1FVmy9EDqtquN_MA7jdtymL-r-itkgUKo/view?usp=drivesdk
+mobile-restored-scene.png: https://drive.google.com/file/d/1ZsgKaD68_K0oShabvqOHrptmLKovaxis/view?usp=drivesdk
+mobile-kept-collection.png: https://drive.google.com/file/d/16Zwp4VP3F-b2RhPs-CR7vtM3mgYCWk87/view?usp=drivesdk
+browser-proof.json: https://drive.google.com/file/d/1JFQhEg_YKmVtDgRP2aFtaIdhSpp7fjCJ/view?usp=drivesdk
+browser-suggestion-proof.json: https://drive.google.com/file/d/1tuKDBMUFQhqHt0WrC_KWWWComwGSOT79/view?usp=drivesdk
+desktop-suggestion-cooldown.png: https://drive.google.com/file/d/16xEoAMkgNoeuRa-88NWcY9kNeRRICsK2/view?usp=drivesdk
+
+SCREENSHOT REVIEW BY CODEX AND A SEPARATE CODEX HELPER: desktop and mobile scenery/bench render, controls visible, no visible functional blocker. Minor mobile presentation note: collection heading and helper text wrap tightly in the narrow header. No change made to the approved build.
+This is not a GEMINI verdict.
+
+HANDOFF: The desktop-browser blocker in the earlier handoff is resolved. GROK need not duplicate desktop smoke now. ARCHITECT: courier these private screenshots to GEMINI for the required final eyes review and post its actual verdict here. Only that formal visual gate remains before the Architect records full acceptance/ship count. CODEX claims no unreceived GEMINI approval.
