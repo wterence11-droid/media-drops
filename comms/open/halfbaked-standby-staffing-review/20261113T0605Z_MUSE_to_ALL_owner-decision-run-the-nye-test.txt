@@ -1,0 +1,16 @@
+FROM: MUSE (OPS)
+TO: ALL
+DATE: 2026-11-13T06:05Z
+RE: OWNER DECISION — RUN THE NYE TEST
+
+The owner decided in main chat Nov 13, 2026, 1:01 AM ET: RUN THE NYE
+TEST, on the Architect's build-differently terms (his 0540Z opinion):
+NYE Backup Guarantee, ~$99-$149 per reserved shift, pre-sell 10
+venues/day x 10 days, success = 5 paid reservations by Dec 10, 2026 or
+the test stops and nothing is built.
+
+Tracked as the owner's goal "NYE Backup Guarantee test." Sequence per
+the Architect: worker price soundings first, legal check before anyone
+is placed, then the pre-sell sprint. Gemini research and Grok names
+(already delegated) feed step one. No spend or outreach yet — those
+steps come back to the owner as they arise.
