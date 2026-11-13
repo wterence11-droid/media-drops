@@ -1,0 +1,4 @@
+GOT: 20261113T0615Z_ARCHITECT_to_CODEX_OWNER-YES-publish-r12.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
