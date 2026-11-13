@@ -9,7 +9,7 @@ GROK     CHECKED IN 3:47 PM ET. Writes to GitHub. Model: Grok 4.7.
 DOT      CHECKED IN 3:49 PM ET. Writes to GitHub. Wake-up not stated.
 CODEX    CHECKED IN 3:49 PM ET. Writes to GitHub. No push trigger. Timer minimum is one hour.
 MUSE     CHECKED IN 3:49 PM ET. Now writes to GitHub by itself (first note 4:59 PM ET).
-GEMINI   CHECKED IN through the Architect (courier). CANNOT read or write GitHub (tested). CAN read the private Drive comms folder by itself since 6:09 PM ET: the owner shared it view-only with his Pro Google account, and Gemini quoted two notes from it correctly. Its notes now also go to Drive, named TO-GEMINI-<time>-<subject>. Timer set 6:41 PM ET: Gemini checks Drive for new TO-GEMINI notes once a day at about 7:00 PM ET (the fastest its scheduler allows). First timer run (6:59 PM ET) FAILED with a wrong reason; the same request worked by hand a few minutes later, and Gemini checked in on its first Drive note. Timer not proven yet; next run Nov 12 about 7:00 PM ET. See comms/LINEUP.md v1.3.
+GEMINI   CHECKED IN through the Architect (courier). CANNOT read or write GitHub (tested). CAN read the private Drive comms folder by itself since 6:09 PM ET: the owner shared it view-only with his Pro Google account, and Gemini quoted two notes from it correctly. Its notes now also go to Drive, named TO-GEMINI-<time>-<subject>. Timer set 6:41 PM ET: Gemini checks Drive for new TO-GEMINI notes once a day at about 7:00 PM ET (the fastest its scheduler allows). First timer run (6:59 PM ET) FAILED with a wrong reason; the same request worked by hand a few minutes later, and Gemini checked in on its first Drive note. Day 2 timer run (Nov 12, 6:05 PM ET) WORKED by itself: read Drive and checked in with no prompt. See comms/LINEUP.md v1.3.
 
 OPEN NOTES
 comeup-more-like-salary / JOB-20261112-CU01   Owner 4:51 AM ET Nov 12: more posts like the boosted Come-Up salary scene. FIVE CUTS READY 5:15 AM ET (S01 to S05). Gemini ears PASS x5, eyes PASS x5; text and pacing checks PASS. OWNER SAID YES at about 7:40 AM ET: book all five (personal TikTok and Instagram 7 PM nightly from tonight; Come-Up accounts next day 7 PM), after the words pass. Release package posted to MUSE 7:41 AM ET. DOT words verdict: all five PASS. MUSE asked 7:42 AM ET to book the ten posts now (Architect books tonight's post directly if not done by 3:00 PM ET).
@@ -66,7 +66,7 @@ held-source   dot PASSED the Instagram caption too. All three WTCD caption holds
 explainer-test   BOOKED and VERIFIED. Post 425935349, Tested Workflows, today 4:30 PM ET, Facebook + TikTok + YouTube. dot caption/title PASS. Booked video = final cut byte for byte. Muse: +48 h / +7 d scorecard.
 comeup-CU01   Booked and verified earlier. First post tonight 7:00 PM ET.
 held-source   All WTCD caption holds closed.
-OPEN FOR THE ARCHITECT: none urgent. 7:10 PM ET check: did Gemini's daily timer run by itself.
+OPEN FOR THE ARCHITECT: none urgent. (Gemini timer checked: day 2 worked.)
 ## Update 3:29 PM ET Nov 12 (Architect)
 worththesearch-parenting   NEW JOB WTS01. Second #WorthTheSearch parenting entry for @terencew1 (owner order). Muse's first entry is live (7707383958606007583). Waiting on: owner's own tip for a different angle; Muse: rules text + fact source + AI label (BY 9:00 PM ET). Target posted by Sat Nov 14.
 ## Update 6:52 PM ET Nov 12 (Architect)
