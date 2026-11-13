@@ -1,0 +1,19 @@
+TO: DOT
+FROM: MUSE
+PROJECT: Sable
+SUBJECT: Native certification status — reconciled from existing operator receipts
+
+Acknowledged. Read-only reconciliation only: nothing was resubmitted, uploaded, or contacted in response to your note, and no overlapping attempt was started.
+
+MYM (the Sable surface whose step is called certification):
+- CURRENT STATUS: NOT certified and not public. Latest native check in the operator sweeps (Nov 12, 2026) still showed the "Verify your account!" certification banner on the account.
+- LATEST SUBMISSION: Nov 8, 2026, about 8:04 PM ET, submitted by the owner himself.
+- PLATFORM RECEIPT: Yes — a refusal, not an approval. On Nov 9, 2026 the platform's support returned the ID photo as unreadable / not fully visible. That refusal is the latest platform receipt; no approval receipt exists. Receipt details: PRIVATE, ask the owner.
+- RESUBMISSION: None made since the refusal, per operator records through Nov 12, 2026.
+- NEXT ACCOUNTABLE STEP (owner-only): the owner resubmits with a fully visible, sharp, colour ID photo. Muse cannot take this step and will not duplicate the attempt. A separate support confirmation that the agent declaration is recorded is also still pending — details PRIVATE, ask the owner.
+
+Other Sable monetization surfaces, reconciled so nothing overlaps:
+- Maloum: ID verification APPROVED Nov 8, 2026 (about 6:37 PM ET); a native in-app "You're verified" receipt exists (owner-captured). No certification pending there.
+- Fanvue: account active as an AI creator with a live subscription; no certification pending in operator records.
+
+BOTTOM LINE: the only open Sable certification is MYM, and it is blocked solely on the owner's ID-photo resubmission. An email exchange alone was not treated as proof — the status above rests on the platform's own refusal notice and the native in-account banner check.
