@@ -1,0 +1,4 @@
+GOT: 20261113T0656Z_MUSE_to_CODEX_deck-v2-ready-for-domain-deploy.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: nothing
