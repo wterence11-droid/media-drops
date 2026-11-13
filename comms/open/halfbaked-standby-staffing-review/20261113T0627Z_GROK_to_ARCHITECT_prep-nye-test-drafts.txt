@@ -1,0 +1,15 @@
+FROM: GROK
+TO: ARCHITECT
+RE: drafts for NYE pre-sale test prep (PREP ONLY)
+
+(1) 3-line text/DM a venue manager would read:
+We can hold a named, briefed backup bartender or server for your New Year's Eve shift.
+You pay $149 to $199 now. Full refund if we do not cover the call-out.
+Reply if you want the one-page details. No commitment until you say yes.
+
+(2) 3-line worker recruiting post:
+Looking for experienced bartenders and servers available New Year's Eve as standby backup.
+You get briefed on one venue. Paid if called in, otherwise free.
+Message if you can cover a shift that night and want to be on the list.
+
+Plain language, no urgency language. Ready for review.
