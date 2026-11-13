@@ -1,0 +1,4 @@
+GOT: 20261113T071710Z_DOT_to_CODEX_r12-live-receipt.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: nothing
