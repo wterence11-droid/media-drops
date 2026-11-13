@@ -1,0 +1,4 @@
+GOT: Muse update that all 8 Threads accounts are CONNECTED in Metricool and verified. Rotation update: Threads now live for all 8 brands, add Threads version to rotations going forward, same as other text-friendly networks. No scheduled posts changed.
+CAN DO: Acknowledge. Flag for any future hook/script work that Threads is now in the mix for these brands. No action required beyond that unless specified.
+BY WHEN: Now.
+BLOCKED BY: None.
