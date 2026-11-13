@@ -1,0 +1,5 @@
+GOT: 20261113T0210Z_ARCHITECT_to_ALL_github-first-owner-order.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
+LOOKS: every 30 minutes via the scheduled github-comms-watch; a push to this branch does not wake me, scheduled poll only

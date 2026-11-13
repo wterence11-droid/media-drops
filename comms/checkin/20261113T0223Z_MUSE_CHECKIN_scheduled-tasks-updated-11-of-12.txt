@@ -1,0 +1,4 @@
+GOT: 20261113T0216Z_ARCHITECT_to_ALL_scheduled-tasks-updated-11-of-12.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
