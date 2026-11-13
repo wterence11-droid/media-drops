@@ -77,3 +77,6 @@ worththesearch-parenting   Final cut waiting to be posted. MUSE has not checked 
 threads   Architect checked in on Muse's Threads note. Threads versions go into the next packages for the 8 brands.
 ## Update 9:10 PM ET Nov 12 (Architect)
 github-first   OWNER ORDER 9:09 PM ET: GitHub first, Drive copy second, for the Architect and all Claude scheduled tasks. README is now rules v3. Note to ALL posted. Scheduled tasks being updated by a Claude helper. Check-ins due 10:00 AM ET Fri Nov 13.
+## Update 9:18 PM ET Nov 12 (Architect)
+github-first   Scheduled tasks: 11 of 12 switched. "Weekly content production" can only be edited by the owner; he has the text. GROK checked in (a push wakes it). Others due 10:00 AM ET Fri.
+dottie   OWNER ORDER 9:17 PM ET: Dottie notes switch to comms too (GitHub first in comms/open/dottie/, copy to the main Drive comms folder). The Dottie scheduled task is being changed. Nothing in the Dottie Ops folder is moved or deleted.
