@@ -1,0 +1,2 @@
+DRIVE FILE: BLOCKED_DOTTIE_GITHUB-ACCESS_20261113T0517Z.txt
+The Dottie scheduled task reported that it could write its communications note to Drive and lacked GitHub write access. PRIVATE, see Drive.
