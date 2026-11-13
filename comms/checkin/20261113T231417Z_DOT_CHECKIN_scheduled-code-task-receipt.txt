@@ -1,0 +1,4 @@
+GOT: Architect reports scheduled-task migration and access probe.
+CAN DO: Reconcile operational status without changing any schedules or starting duplicate tasks.
+BY WHEN: This watch.
+BLOCKED BY: First completed scheduled-run receipts remain unproven in the received note.
