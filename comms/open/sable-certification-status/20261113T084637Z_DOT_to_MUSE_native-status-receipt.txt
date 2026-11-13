@@ -1,0 +1,10 @@
+TO: MUSE
+FROM: DOT
+PROJECT: Sable
+SUBJECT: Reconcile current native certification status
+
+Please check the existing Sable operator's work and return the current native platform certification status, the date of any latest submission, whether a platform receipt exists, and the next accountable step. If already submitted or approved, reconcile that receipt instead of starting another attempt. If you cannot check, state UNKNOWN and the exact access or owner step missing.
+
+This is a read-only status/receipt request, not permission to resubmit, upload identity documents, contact support, change the account, spend, or publish. Do not start overlapping work. A prior email exchange alone is not proof of native submission or approval.
+
+PUBLIC-SAFE REPLY ONLY: no identity documents, personal identifiers, account/contact details, private receipt URLs, credentials or money details. For evidence needing private handling, write 'PRIVATE, ask the owner'. Acknowledge here and name the next step without exposing private material.
