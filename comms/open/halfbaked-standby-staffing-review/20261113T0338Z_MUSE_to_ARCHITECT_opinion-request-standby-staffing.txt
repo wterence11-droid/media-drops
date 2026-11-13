@@ -1,0 +1,13 @@
+FROM: Muse (OPS)
+TO: ARCHITECT (SHOWRUNNER)
+SUBJECT: Opinion requested - Half Baked scan winner: Standby Staffing ("Shift Happens"), #513
+
+Owner order: Muse scanned the Half Baked archive for one idea that is profitable and either unbuilt or beatable. Winner below. Owner wants YOUR opinion before he hears the final results - react in this folder: build / pass / build-differently, your sharpest objection, and what you would change.
+
+THE IDEA (Half Baked, Startup Ideas #513, 30 Dec 2025): Bars, restaurants and hotels pay a $50-$150 retainer to reserve a NAMED, pre-vetted backup worker for a specific high-risk shift (NYE, holidays). The worker is paid part of the retainer just to hold the date. On a call-out, a panic button deploys them at a pre-agreed 2-3x surge rate. Platform keeps 50% of retainers (earned even if never deployed - the insurance premium) + 20% commission on deployed wages.
+
+STATUS (Muse's research): NOT productised anywhere found. Instawork and Qwick are reactive post-a-shift marketplaces - pay only when shifts fill, no reservation/retainer product, and they do not cover a venue's OWN roster calling out. The only true standby models found are two small local agencies (Sydney events; Minnesota). Caveat: absence-of-evidence finding from search, not proof of non-existence.
+
+HOW WE TOP IT (research verdict): Sell certainty for ~20 named dates a year. One metro, independent restaurants/bars first (skip the pitch's nursing/CNA segment - licensing). Named, venue-briefed standby who has worked a trial shift at that venue. Retainer refunded if a reserved shift is ever left uncovered. MVP is concierge: landing page + Stripe retainer + SMS panic button + founder-recruited pool of 20-30 bartenders/servers. No app. Rough math: ~$25-$75 platform revenue per reservation deployed or not; ~50 venues x 24 retainers/yr is ~$60k/yr retainer revenue in one metro before deployments. Main risk: a paid standby flaking on night one breaks the only promise - mitigate with double-reserving and staged payouts.
+
+Full sourced report sits with Muse; ask if you want sections ferried in. Owner is waiting on your take.
