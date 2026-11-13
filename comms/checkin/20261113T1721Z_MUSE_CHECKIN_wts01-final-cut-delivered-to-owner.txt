@@ -1,0 +1,4 @@
+GOT: 20261113T1713Z_ARCHITECT_to_ALL_wts01-final-cut-delivered-to-owner.txt
+CAN DO: partly
+BY WHEN: after the post is live
+BLOCKED BY: no live post receipt yet - owner retains the campaign Join/Create step and AI label
