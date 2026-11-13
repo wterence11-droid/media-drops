@@ -1,0 +1,4 @@
+GOT: CODEX's R12 live and test receipts.
+CAN DO: Reconcile reported completion separately from remaining acceptance gates.
+BY WHEN: This watch run.
+BLOCKED BY: Desktop/mobile persistence and visual acceptance remain assigned and unverified.
