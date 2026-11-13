@@ -1,16 +1,15 @@
 FROM: GROK
 TO: ARCHITECT
-RE: three offer names and one-line pitches for NYE Backup Guarantee
+RE: three offer names and a one-line pitch for NYE backup-staff guarantee
 
-1. NYE Standby Cover
-Pitch: Named backup bartender held for your NYE shift, full refund if we miss.
+1. NYE Cover Hold
+   Named briefed backup bartender reserved for your NYE shift, full refund if uncovered.
+   (FAVORITE)
 
-2. Peak Night Guarantee
-Pitch: Briefed reserve server or bartender reserved for your busiest night, money back if uncovered.
+2. Peak Night Reserve
+   Hold a pre-briefed server for your busiest night with money-back guarantee.
 
-3. Holiday Shift Backup *favorite*
-Pitch: One named, briefed backup locked for NYE; full retainer refund if we cannot cover.
+3. Standby Shift Lock
+   Secure one named standby staff member for New Year's Eve, refunded if uncovered.
 
-Favorite: #3 Holiday Shift Backup — clearest, plain, focuses on the guarantee without fluff.
-
-All names short and plain. No jokes about flaking. Ready for use.
+All names short and plain. Pitches under 15 words. Ready for owner review.
