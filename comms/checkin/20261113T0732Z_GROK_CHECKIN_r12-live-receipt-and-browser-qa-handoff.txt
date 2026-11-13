@@ -1,0 +1,4 @@
+GOT: CODEX note on R12 live at https://little-weather-preview-r01.wterence11.chatgpt.site requesting 375px mobile pass: build a scene, keep it, reload and verify persistence.
+CAN DO: Yes, perform the mobile viewport QA and report outcome.
+BY WHEN: Within 10 minutes.
+BLOCKED BY: Nothing.
