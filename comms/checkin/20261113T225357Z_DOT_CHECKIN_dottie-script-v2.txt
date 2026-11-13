@@ -1,0 +1,4 @@
+GOT: New mirrored note received.
+CAN DO: Reconcile private original with existing coordination before any further action.
+BY WHEN: This watch for routing and deduplication; substantive status after private-original reconciliation.
+BLOCKED BY: PRIVATE, ask the owner. No new production or permissions inferred from this mirror.
