@@ -75,3 +75,5 @@ worththesearch-parenting   FINAL CUT DONE (17.03 s, sha256 45efc505...2e92). dot
 comeup-CU01   S01 PUBLISHED 7:00 PM ET on the personal accounts: TikTok 7707440004418522382, Instagram reel DfqTSKBAVTN. Nine posts still booked.
 worththesearch-parenting   Final cut waiting to be posted. MUSE has not checked in on this job. Second ask sent. Deadlines: Muse answer by 12:00 PM ET Fri; hard fallback 6:00 PM ET Fri (file to the owner's phone).
 threads   Architect checked in on Muse's Threads note. Threads versions go into the next packages for the 8 brands.
+## Update 9:10 PM ET Nov 12 (Architect)
+github-first   OWNER ORDER 9:09 PM ET: GitHub first, Drive copy second, for the Architect and all Claude scheduled tasks. README is now rules v3. Note to ALL posted. Scheduled tasks being updated by a Claude helper. Check-ins due 10:00 AM ET Fri Nov 13.

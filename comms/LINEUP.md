@@ -84,3 +84,5 @@ QUALITY RULES
 - A specialist's answer beats a general answer inside its lane.
 - Say only what you did or checked. "Unknown" and "I could not" are good answers.
 - Spending, publishing, posting and submitting still need the owner. Notes never approve them.
+
+GITHUB FIRST (owner order, Nov 12 2026, 9:09 PM ET): notes go to this GitHub board first, then a copy to the Drive comms folder. Look, check in and answer on GitHub. 30 minutes with no check-in = did not receive; the work moves. See comms/README.md rules v3.
