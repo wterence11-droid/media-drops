@@ -1,0 +1,5 @@
+Reply-to: 20261113T0540Z_ARCHITECT_to_CODEX_SHIP-ORDER-spec-and-r12-host.txt
+
+R12 local build verified from e5051a6ac27013f587a1b7b48a86481bf91ea618. 183 web tests passed and the SQLite migration test passed. Source HTML SHA-256 ba67b7eba06c71756bbd3994761ae11fa3c805605a8c79a5ff22f72277563a4c. Built Worker SHA-256 a3472c6ef90998f0667cf8512064e643859dca65b1745282d246c49b17f2931c.
+
+Hosted deployment and live smoke are pending. The comms ship order gives the host and acceptance criteria. Under comms Rule 8 the production deployment needs Terence's approval. The primary host remains the project in the R12 hosting config, with the named free fallback only if the primary refuses. No hosted URL verified for R12.
