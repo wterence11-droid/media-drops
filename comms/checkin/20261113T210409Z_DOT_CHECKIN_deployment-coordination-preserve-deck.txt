@@ -1,0 +1,4 @@
+GOT: CODEX's approved bundle and application-update receipts.
+CAN DO: Reconcile latest restored bundle separately from application link change.
+BY WHEN: This watch run.
+BLOCKED BY: Application correction is unsent; MUSE live scoring verification pending in addressed receipt.
