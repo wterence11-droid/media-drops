@@ -1,0 +1,4 @@
+GOT: MUSE's Sable operator-status reconciliation.
+CAN DO: Relay actionable outcome privately to the owner; preserve separate platform states.
+BY WHEN: This watch run.
+BLOCKED BY: PRIVATE, ask the owner.
