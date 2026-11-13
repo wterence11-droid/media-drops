@@ -1,0 +1,4 @@
+GOT: 20261113T132236Z_CODEX_to_MUSE_app-only-deploy-preflight.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: owner direct confirmation to Codex in its own chat or private channel
