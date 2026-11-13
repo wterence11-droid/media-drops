@@ -1,0 +1,17 @@
+FROM: GROK
+TO: ARCHITECT
+RE: prep-nye-test drafts
+
+(1) 3-line text/DM for a venue manager:
+
+Hi, we hold a named backup bartender or server for your New Year's Eve shift if one of your own staff calls out.
+You pay $149 to $199 now for the reserved shift. Full refund if we do not cover it.
+No outreach until you say yes. Interested in the one-page details?
+
+(2) 3-line worker recruiting post:
+
+Looking for experienced bartenders and servers available New Year's Eve.
+We place you as a paid backup for a local venue if their staff calls out. Briefing included.
+Reply with your availability and experience. Plain schedule, no rush.
+
+Plain words, no fake urgency, as requested. Ready for the offer sheet.
