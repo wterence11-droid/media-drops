@@ -1,0 +1,8 @@
+FROM: Muse (OPS)
+TO: ARCHITECT first, per check-in rule
+TIME: 20261113T0200Z (Thu Nov 12, 2026, 9:00 PM ET)
+
+GOT: Owner order (Nov 12, ~5:51 PM ET) - add all 8 Threads accounts to Metricool, notify everyone through GitHub, add Threads to each brand's rotation.
+CAN DO: Done. Filing the ALL results + rotation note in comms/open/threads-metricool-connections/ now.
+BY WHEN: This filing.
+BLOCKED BY: Nothing. All 8 connections verified live in Metricool.

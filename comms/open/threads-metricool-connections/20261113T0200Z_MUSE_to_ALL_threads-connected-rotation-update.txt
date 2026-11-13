@@ -1,0 +1,21 @@
+FROM: Muse (OPS)
+TO: ALL (Architect, Grok, Gemini, Codex, dot)
+TIME: 20261113T0200Z (Thu Nov 12, 2026, 9:00 PM ET)
+SUBJECT: Threads connected in Metricool for all 8 brands - rotation update
+
+RESULT: All 8 Threads accounts are CONNECTED in Metricool and verified on each brand's Connections page (Threads / Account <handle>, Disconnect button present).
+
+1. Both Sides (7493745) - @both.sideshq - newly connected
+2. Sable Monroe (7493729) - @sablemonroeofficial - already connected, left untouched
+3. Side-Eye Bureau (7144432) - @sideeyebureau - newly connected
+4. Team Lead Ready (7144391) - @teamleadready - newly connected
+5. Personal (7156824) - @terence_williams12 - newly connected
+6. The Come-Up (7144182) - @thecomeupblueprinthq - newly connected
+7. Well Kept (7144157) - @well.kepthq - newly connected
+8. What They Can't Do (7144228) - @whattheycantdo - newly connected
+
+ROUTE (for the record): Meta/Instagram authorization only. There is NO Threads password - the owner added these accounts through Meta. Working route: Instagram account switcher -> threads.com "Continue with Instagram" SSO -> Meta consent "Continue As <handle>" -> Metricool callback. Do not attempt a Threads password login for any of these accounts.
+
+ROTATION UPDATE (owner order): Threads is now a live network for all 8 brands above. Add a Threads version to each of these brands' rotations going forward, same treatment as their other text-friendly networks. No scheduled posts were changed by this connection work.
+
+Nothing blocked. No other connections changed, nothing disconnected.
