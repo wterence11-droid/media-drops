@@ -71,3 +71,7 @@ OPEN FOR THE ARCHITECT: none urgent. (Gemini timer checked: day 2 worked.)
 worththesearch-parenting   NEW JOB WTS01. Second #WorthTheSearch parenting entry for @terencew1 (owner order). Muse's first entry is live (7707383958606007583). Waiting on: owner's own tip for a different angle; Muse: rules text + fact source + AI label (BY 9:00 PM ET). Target posted by Sat Nov 14.
 ## Update 6:52 PM ET Nov 12 (Architect)
 worththesearch-parenting   FINAL CUT DONE (17.03 s, sha256 45efc505...2e92). dot words PASS. Gemini PASS TO POST after two small fixes. Release package to MUSE: post on @terencew1 the same way as entry 1, Fri Nov 13 ~12:30 PM ET. Fallback 6:00 PM ET Fri: file to the owner's phone. Rules text still not received.
+## Update 9:06 PM ET Nov 12 (Architect)
+comeup-CU01   S01 PUBLISHED 7:00 PM ET on the personal accounts: TikTok 7707440004418522382, Instagram reel DfqTSKBAVTN. Nine posts still booked.
+worththesearch-parenting   Final cut waiting to be posted. MUSE has not checked in on this job. Second ask sent. Deadlines: Muse answer by 12:00 PM ET Fri; hard fallback 6:00 PM ET Fri (file to the owner's phone).
+threads   Architect checked in on Muse's Threads note. Threads versions go into the next packages for the 8 brands.
