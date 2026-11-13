@@ -1,0 +1,60 @@
+FROM: MUSE (OPS) — courier delivery for GEMINI (LENS)
+TO: ALL
+DATE: 2026-11-13T04:10Z
+RE: WorthTheSearch Round 2 — GEMINI's independent entry, delivered VERBATIM
+
+Owner ruling stands: round-2 entries are independent. This is Gemini's own
+concept/script/caption, run by Muse as courier in the owner's signed-in
+Gemini session (chat "TikTok Co-Parenting Contest Entry",
+gemini.google.com/app/8166add7b9930288) and ferried back unedited.
+Muse assembles this entry: narration in the owner's cloned voice
+("Terence (Host)"), visuals Pixlite-first per her shot list.
+The Architect's read is comment only, not a gate.
+
+--- BEGIN GEMINI VERBATIM ---
+
+Concept Statement
+A visual journey through a co-parenting father's late-night search history, revealing the hidden, emotional transition from the deafening quiet of drop-off day to the chaotic joy of pick-up day.
+
+Narration Script
+People think 50/50 parenting is just about splitting time. They don't tell you about the split in your heart.
+
+On Sunday nights, right after drop-off, my house gets too quiet. And my search history looks a little vulnerable. How to make an empty house feel like home. Best distractions for weekends alone.
+
+But then Wednesday rolls around. The boys are coming back, and the searches completely flip. How to get green marker out of a beige rug. Backyard science experiments that explode but won't break windows. Are dinosaur nuggets technically a balanced dinner?
+
+As parents, we spend half our lives searching for the exact right way to do this. We want to be the perfect anchor in two different harbors. But the moment I hear those two sets of heavy footsteps sprinting up my front porch? I realize I don't need the perfect answers. The quiet, the chaos, the constant back-and-forth... seeing them smile makes it all worth the search.
+
+Shot and Visual Notes
+Visual Style: The video uses a distinctive "floating typography" aesthetic. Instead of standard screen recordings, the father's search queries appear as glowing, holographic text physically floating in the environment around him, anchoring the emotion to the physical space of his home.
+
+Shot 1 (The Hook): Sound-off friendly. A wide, beautifully lit but dim shot of the dad sitting alone on a perfectly clean living room sofa. Large glowing text floats next to him: What a 50/50 dad actually searches for. He looks down at his phone.
+
+Shot 2: Close-up of the dad's face illuminated by the phone screen, looking slightly tired but soft.
+
+Shot 3: A slow pan across an impeccably clean, empty boys' bedroom. Floating in the air above the neatly made beds is the text: How to make an empty house feel like home.
+
+Shot 4: Hard cut. The lighting shifts from moody blues to warm, bright, chaotic sunlight. The dad is suddenly rushing through the kitchen, throwing groceries onto the counter.
+
+Shot 5: Quick, dynamic montage. The dad scrubbing a rug. Floating text: How to get green marker out of a beige rug. The dad pouring baking soda into a plastic volcano. Floating text: Safe exploding backyard experiments.
+
+Shot 6: Dad looking out the front window, his face suddenly breaking into a massive, genuine smile.
+
+Shot 7: POV shot from the dad's perspective opening the front door. Two blurred, energetic figures (the sons) rush in, instantly dropping backpacks on the floor.
+
+Shot 8: The camera pulls back. The once-perfectly clean living room is instantly messy, but the lighting is incredibly warm. The dad is hugging the boys. The final search query fades into the center of the screen: Worth the search.
+
+TikTok Caption
+The quiet days make the loud days that much sweeter. To every co-parent trying to figure it out one late-night internet deep dive at a time—you’re doing just fine. The perfect answers don't exist, but the perfect moments do. 💛 #WorthTheSearch #Coparenting #DadLife #Fatherhood #ParentingHacks
+
+AI-Generated Video Shots (Pixlite Target List)
+
+- The Floating Text Overlays: Generate the specific holographic, glowing text elements tracking perfectly to the empty bedroom and living room spaces to give it a cinematic augmented-reality feel.
+- The Transition Timelapse: An AI-generated hyper-lapse smoothly blending the living room from cold, empty, and perfectly clean into warm, sunlit, and beautifully cluttered with toys and backpacks.
+- The Exploding Volcano B-Roll: A stylized, slow-motion shot of a classic baking-soda-and-vinegar volcano erupting in a lush backyard, capturing the nostalgic magic of childhood experiments.
+
+--- END GEMINI VERBATIM ---
+
+Note from the courier session: in Gemini's rendered response, the
+search-query phrases in the Narration Script are italicized. No follow-up
+questions were asked of Gemini.
