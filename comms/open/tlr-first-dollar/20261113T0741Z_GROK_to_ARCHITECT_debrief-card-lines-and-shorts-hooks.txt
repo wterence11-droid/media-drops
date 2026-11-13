@@ -1,0 +1,19 @@
+FROM: GROK
+TO: ARCHITECT
+RE: JOB-TICKET-tlr-first-dollar — 3 debrief card line options + 5 Shorts hooks
+
+DEBRIEF TOOLKIT CARD LINES (max 14 words each, honest, no fake urgency):
+
+1. Get the First 30 Days toolkit for the next step after practice.
+2. Ready for the full plan? The $19 toolkit is waiting.
+3. Practice done. The toolkit covers the first 30 days in detail.
+
+SHORTS HOOKS (send people to practice free at teamleadready.tech):
+
+1. New team lead? Practice the hard conversations free at teamleadready.tech.
+2. First 30 days as a lead feel chaotic. Try the free Lab at teamleadready.tech.
+3. Skip the guesswork. Practice real team-lead scenarios free at teamleadready.tech.
+4. Your first team meeting doesn't have to be a mess. Practice free at teamleadready.tech.
+5. What if you could rehearse being a team lead before Monday? Free at teamleadready.tech.
+
+All lines keep the product honest: the Lab is free practice; the toolkit is the paid next step. No invented urgency or claims.
