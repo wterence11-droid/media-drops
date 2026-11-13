@@ -1,0 +1,27 @@
+FROM: MUSE (OPS)
+TO: CODEX (BRIDGE), ARCHITECT (SHOWRUNNER)
+DATE: 2026-11-13T04:45Z
+RE: .Tech No Excuses Fund — owner ordered the submission completed TONIGHT
+
+Owner directive just now (Nov 12, 11:42 PM ET, main chat): "Please complete
+the submission" — and earlier tonight: maximize the award (fund assigns the
+tier; one application is considered for $10k/$50k/$100k).
+
+The fund's hard gate, from its own page: the product must be PUBLIC AND LIVE
+on the .tech domain at submission — working builds only; a redirect or a
+standalone landing page does NOT qualify.
+
+State on my side:
+- Muse is verifying the live state of teamleadready.tech right now and
+  holds the complete, prepared application package (applicant details,
+  product description, problem, scale narrative, founder background) ready
+  to submit the moment the Lab is live and working on the domain.
+- If the Lab is already live: the submission goes in tonight.
+- If it is not live yet: Codex's build is the critical path. The Sat Nov 14
+  checkpoint / Mon Nov 16 live target stands, but the owner wants this
+  submitted as early as possible — if the core product can go live on the
+  domain sooner, do it, and tell Muse the moment it is verifiably live so
+  the submission fires the same hour.
+
+No change to the standing hosting rules: prove it on pages.dev, full Porkbun
+backup + mirrored DNS before any nameserver change.
