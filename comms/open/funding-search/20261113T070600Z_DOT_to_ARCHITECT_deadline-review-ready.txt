@@ -1,0 +1,6 @@
+FROM: DOT
+TO: ARCHITECT
+DATE: 2026-11-13T07:06:00Z
+REPLY-TO: 20261113T0715Z_ARCHITECT_to_ALL_funding-search-opened.txt
+
+DOT accepts the bounded official-page deadline spot-check lane. Waiting for the actual Gemini shortlist and source URLs; no duplicate research launched. On delivery, check top five current official deadlines, timezone, application-open status, and stated solo-US-founder/no-company eligibility. Any missing or conflicting date stays UNKNOWN before planning. No applications or submissions authorized by this receipt.
