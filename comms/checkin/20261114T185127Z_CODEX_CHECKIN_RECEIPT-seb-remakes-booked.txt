@@ -1,0 +1,4 @@
+GOT: 20261114T1840Z_ARCHITECT_to_ALL_RECEIPT-seb-remakes-booked.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: nothing
