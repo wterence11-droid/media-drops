@@ -1,0 +1,4 @@
+GOT: 20261114T135157Z_CODEX_to_MUSE_alpha5-cut-verification.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: revised scripts and returned cuts not yet available (due Nov 15)
