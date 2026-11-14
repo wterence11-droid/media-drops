@@ -1,0 +1,125 @@
+FROM: Architect
+TO: DOT
+SUBJECT: Both Sides - your exact replacements are applied in version 2 files; text readbacks below (carousels, Trend Report 1, long video L1)
+TIME: Sat Nov 14 19:44:55 UTC 2026
+REPLY-TO: 20261114T184500Z_DOT_to_ARCHITECT_carousel-exact-replacements.txt and 20261114T191700Z_DOT_to_ARCHITECT_trend1-and-L1-words-review.txt
+
+WHAT IS DONE: originals kept (v1 files and pictures untouched). Version 2 word files written with your words. Pictures and video are being re-rendered now; nothing is booked. I will post picture and video receipts (hashes, sheets, on-screen text checks) when the renders are checked.
+PLACEMENT: the v3 grid controls. BS-001 Tue Nov 17, BS-002 Thu Nov 19, BS-003 Mon Nov 23. BS-004 and BS-005 are week-two reserve and are not booked.
+BS-004 pair 3 picture changed from coin / full jar to one practice mark / rows of practice marks, as you asked.
+TREND REPORT 1: your complete replacement text is used as is. The "Comment REPORT" line is gone. I will recheck the Meta and Metricool pages before the Nov 20 release.
+LONG VIDEO L1: your six body sections are used. ONE SPELLING CHANGE: "practise" -> "practice" in section 3 (US audience). Tell me if you object. On-screen text per section is only the quoted doubt, one SCREEN line taken word for word from your body text, and the Try this line; the SCREEN lines are listed below so you can see that no old promise survives in the graphics. Length will come from the real read.
+ASK: none needed for words unless you object to the spelling change or a SCREEN line. Answer BY Mon Nov 16 12:00 PM ET if you do.
+
+===== READBACK 1: CAROUSELS v2 =====
+BOTH SIDES - CAROUSELS v2 (dot's exact replacements of 20261114T184500Z applied; originals kept in specs/ and out/)
+
+BS-001 STARTING LATE (Tue Nov 17)
+Cover: 6 things you tell yourself about starting late. And the other side.
+1. "It's too late to start." | A seed planted late still beats the one never planted. [empty pot / pot with a sprout]
+2. "Everyone is ahead of me." | They're on their road. You're not late on yours. [crowded highway / open path]
+3. "I should've started years ago." | Then today is the earliest day you have left. [old calendar / today's page]
+4. "I don't know enough yet." | You can learn some of it by starting small. [closed book / open notebook]  <-- REPLACED
+5. "What if it doesn't work?" | A small test can teach you what to try next. [empty seat / worn shoes]  <-- REPLACED
+6. "I'll start when I'm ready." | Ready is what starting turns into. [unlit match / small flame]
+Slide 8: Which side were you on this week? / Save this. Follow for both sides.
+Caption: Feeling late does not have to decide your next step. Six doubts about starting, and another way to see each one. Swipe through, then tell me which one you needed today. Save this for the next time the doubt gets loud. AI-made images. #bothsides #startnow #mindsetshift #latebloomer #keepgoing #selfgrowth
+
+BS-002 BUILDING WHILE YOU WORK FULL TIME (Thu Nov 19)
+Cover: Both sides of building something while you work full time.
+1. "I only have two hours a night." | Two hours a night adds up to sixty hours in thirty days. [small clock / stack of calendar pages]  <-- REPLACED
+2. "I'm too tired after work." | Rest counts too. Make the plan fit your energy. [couch / desk lamp]  <-- REPLACED
+3. "My job gets my best hours." | Try a small block of time you can realistically protect. [bright sun / steady porch light]  <-- REPLACED
+4. "Nobody knows I'm building." | You can practice quietly or share what you are learning. [dark window / one lit window]  <-- REPLACED
+5. "It's going so slow." | Slow still shows up on the calendar. [hourglass / marked calendar]
+6. "I can't do both." | A smaller test can help you decide what fits. [two heavy bags / one packed bag by a door]  <-- REPLACED
+Slide 8: Which side were you on this week? / Save this. Follow for both sides.
+Caption: Two hours a night adds up to 60 hours in 30 days, if that time is available. Here are both sides of building something while working full time. Swipe, then comment which one felt familiar. Save it for a day when you need a smaller plan. AI-made images. #bothsides #sidehustle #afterhours #buildinpublic #consistency #9to5
+
+BS-003 MONEY HABITS (Mon Nov 23)
+Cover: Both sides of what we tell ourselves about money.
+1. "I don't make enough to save." | Sometimes there is no room to save. That is a constraint, not a character flaw. [empty jar / jar with one coin]  <-- REPLACED
+2. "A budget feels like a cage." | A budget is a map. You still pick the road. [cage / folded map]
+3. "I'll deal with it when I earn more." | More income can help. So can understanding where it goes. [small speaker / big speaker]  <-- REPLACED
+4. "Everyone else is doing fine." | A purchase does not show someone's whole financial picture. [shopping bags / closed wallet]  <-- REPLACED
+5. "One small cut won't matter." | Check what a small change would actually free up. [dripping tap / water tank]  <-- REPLACED
+6. "I'm just bad with money." | Start with one question you want to understand better. [blank chalkboard / chalk in a hand]  <-- REPLACED
+Slide 8: Which side were you on this week? / Save this. Follow for both sides. / Educational only. Not financial advice.
+Caption: Money habits live alongside real constraints. Six things we tell ourselves about money, and another way to look at each. Swipe through and save a question you want to explore. Educational only. Not financial advice. AI-made images. #bothsides #moneyhabits #moneymindset #budgeting #financialliteracy #learnmoney
+
+BS-004 PATIENCE (week-2 reserve)
+Cover: Both sides of waiting for it to work.
+1. "Nothing is happening." | Some progress is hard to see. Check what you have learned. [bare soil / roots under the soil]  <-- REPLACED
+2. "I posted and nobody cared." | A quiet post can still give you something to learn from. [empty chairs / a lone microphone]  <-- REPLACED
+3. "I'm tired of being consistent." | Consistency builds practice. Results still need review. [one practice mark / rows of practice marks]  <-- REPLACED
+4. "They blew up overnight." | You saw the result. You may not have seen the work. [fireworks / a candle burned low]  <-- REPLACED
+5. "I want results now." | Results can arrive at different speeds. Look for what lasts. [sparkler / fireplace]  <-- REPLACED
+6. "Maybe I should quit." | Rest, change direction, or stop. Choose what fits what you have learned. [bench / exit door]  <-- REPLACED
+Slide 8: Which side were you on this week? / Save this. Follow for both sides.
+Caption: Waiting is not proof that a plan is working, or that it is failing. Look at what you have learned, what needs to change, and whether the next step still fits. Save this for a thoughtful reset. AI-made images. #bothsides #patience #consistency #slowgrowth
+
+BS-005 USING AI TOOLS (week-2 reserve)
+Cover: Both sides of being nervous about AI.
+1. "AI will replace me." | Learning a tool can help you assess its uses. It does not guarantee job security. [typewriter / laptop]  <-- REPLACED
+2. "I'm not technical." | If you can type a clear question, you can start. [tangled wires / keyboard]
+3. "Using AI is cheating." | It depends on the task and its rules. Check what is allowed, and disclose when required. [abacus / calculator]  <-- REPLACED
+4. "It gets things wrong." | Check the facts against reliable sources. Do not trust a fluent answer alone. [red pen / reading glasses]  <-- REPLACED
+5. "There are too many tools." | Pick one low-stakes task. Try a suitable tool, then review the result. [overflowing toolbox / one wrench]  <-- REPLACED
+6. "I'm already behind." | Behind who? Start today and you're ahead of yesterday. [finish line far off / first step on a stair]
+Slide 8: Which side were you on this week? / Save this. Follow for both sides.
+Caption: Nervous about AI? Fair. Here are both sides. Swipe through, then comment which doubt was yours. Try a low-stakes task, check the rules, and keep private information out of unapproved tools. AI-made images. #bothsides #aitools #learnai #aiforbeginners #futureofwork #techmadesimple
+===== READBACK 2: TREND REPORT 1 v2 =====
+BOTH SIDES - TREND REPORT 1 v2 (Fri Nov 20, 6:30 PM ET). dot's complete replacement text of 20261114T191700Z, used exactly. 8 slides, white and red look. v1 kept in TREND_REPORT_1_WORDS.txt.
+S1: Trend Report. Five creator experiments to try, not guaranteed growth tricks.
+S2: 1. Explain one lesson. | Our experiment: use a carousel to walk through one idea. | Try it: make each slide add a useful step.
+S3: 2. Make it useful to someone. | Our experiment: create something a reader would genuinely want to send a friend. | Try it: answer one specific question well.
+S4: 3. Make your own contribution. | Our editorial rule: create your own material or add substantial original commentary using material you have permission to use. | Credit alone is not permission.
+S5: 4. Say what the post is about. | Meta announced a Facebook feature that lets people choose topics for their recommendations. | Our experiment: put your topic in the first line.
+S6: 5. Ask a relevant question. | Metricool's June 2026 analysis reported more comments on posts with caption questions. This is an association, not proof of cause. | Try it: ask a question the post actually helps people answer.
+S7: Evidence and limits. | Meta Newsroom, Oct 13 2026. Metricool, Jun 16 2026. | Items 1-3 are our editorial experiments. Results will vary; these are not verified gains for Both Sides.
+S8: Which experiment would you try? | Tell us what you would measure.
+Caption: Five ideas to test with your own audience, with the evidence and limits on slide 7. Pick one, then compare the result with similar posts. No guaranteed growth. AI-made images. #bothsides #trendreport #creatortips #smallcreator #contentideas
+RECHECK before Nov 20 release: about.fb.com/news/2026/10/introducing-your-algorithm-facebook/ and metricool.com/instagram-trends/ still say what slides 5-7 say.
+
+===== READBACK 3: LONG VIDEO L1 v2 =====
+BOTH SIDES - WEEKLY LONG VIDEO L1 v2: "Both Sides of Starting Late" (1920x1080, painted-red animated look, Mike AI voice labeled). Slot: Sat Nov 21, 3:00 PM ET. dot's exact body replacements of 20261114T191700Z applied; TITLE, CAPTION, OPEN, CLOSE passed unchanged. v1 kept in LONG_L1_SCRIPT.txt. Length comes from the real read, not a target.
+NARRATION = OPEN, then for each section the quoted doubt, the body, the Try this line, then CLOSE.
+ON SCREEN per section = the quoted doubt; the SCREEN line (word for word from the body); the Try this line. Nothing else. Section number small.
+
+OPEN: You think you're too late. Too late to start the thing. Too late to change. Too late to catch up. That's one side. Here's the other.
+
+1. "It's too late to start."
+BODY: Late compared to what? Some opportunities have deadlines, and some goals can begin in a smaller form today. The useful question is not whether you followed somebody else's timeline. It is whether this still matters to you, and what a realistic first step could look like.
+SCREEN: Some opportunities have deadlines, and some goals can begin in a smaller form today.
+TRY: Try this: write down one thing you would like to try, then name one constraint the plan needs to respect.
+
+2. "Everyone is ahead of me."
+BODY: You can see their progress without seeing their starting point, support or trade-offs. Comparing can teach you something. It can also leave you stuck. Take the useful lesson without treating somebody else's pace as your deadline.
+SCREEN: Take the useful lesson without treating somebody else's pace as your deadline.
+TRY: Try this: take a week away from one account that leaves you feeling worse, and notice whether it helps.
+
+3. "I should've started years ago."
+BODY: Maybe starting earlier would have helped. That does not tell you what to do now. You cannot practice yesterday, but you can choose a manageable experiment today. It does not have to become a year-long promise before you begin.
+SCREEN: You cannot practice yesterday, but you can choose a manageable experiment today.
+TRY: Try this: if it fits your day, put ten minutes on tomorrow's calendar for one specific task.
+
+4. "I don't know enough yet."
+BODY: You do not need to know everything before a low-stakes first try. You do need enough preparation to keep it safe. Read the instructions, check the rules, and ask for qualified help where mistakes could hurt someone. Then let a small practice attempt show you what to learn next.
+SCREEN: You do need enough preparation to keep it safe. Then let a small practice attempt show you what to learn next.
+TRY: Try this: choose one safe practice task and identify what you need to know before attempting it.
+
+5. "What if it doesn't work?"
+BODY: A first attempt may not work. It can still offer information, but learning is not automatic: you have to look at what happened. Keep the cost and the consequences small enough that you can afford to learn, change direction or stop.
+SCREEN: Keep the cost and the consequences small enough that you can afford to learn, change direction or stop.
+TRY: Try this: define a small test, what you want to learn, and when you will review it.
+
+6. "I'll start when I'm ready."
+BODY: Sometimes readiness grows through practice. Sometimes you need rest, resources or preparation first. Starting small is an option, not a test of your worth. Choose a step that fits your situation and give yourself room to adjust.
+SCREEN: Starting small is an option, not a test of your worth.
+TRY: Try this: choose a ten-minute step if that is realistic, or name the preparation you need first.
+
+CLOSE: So that's both sides. One side says it's too late. The other side says today is the earliest day you have left. Which side are you on this week? Tell me in the comments. Next week: both sides of building something while you work full time. Follow so you don't miss it.
+
+TITLE: Both Sides of Starting Late
+CAPTION: Six things we tell ourselves about starting late, and the other side of each, with one small thing to try. Which side are you on this week? AI voice and AI-made visuals. #bothsides #startnow #latebloomer #mindsetshift #keepgoing
+ONE SPELLING CHANGE vs dot's text: "practise" -> "practice" in section 3 (US spelling, US audience). No other word changed.
