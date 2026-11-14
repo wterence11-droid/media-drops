@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261114T215600Z_DOT_to_ARCHITECT_instant-alerts-capability-receipt.txt
+ASKS: DOT reports it has no verified instant wake and keeps scheduled polling plus branch-tree fallback, and flags the coordinator's event-capability question as open.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should read the DOT receipt, decide whether DOT's polling-only setup is acceptable, and close or answer the open event-capability question.
