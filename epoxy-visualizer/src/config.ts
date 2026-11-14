@@ -1,43 +1,69 @@
-import raw from '../captions.json';
+import raw from '../config.json';
 
-export type CaptionFx = 'shake' | 'hit';
+export type CaptionStyle = {
+	font: string;
+	color: string;
+	outline: string;
+	/** Outline thickness in px at 1080 wide. */
+	outlineWidth: number;
+	/** Multiplies the base caption size. */
+	scale: number;
+	/** Harder pop-in shake on the words, plus a camera kick and a splash. */
+	shake?: boolean;
+};
 
 export type CaptionConfig = {
-	/** 1-3 words, shown together in the centre of the screen. */
-	text: string;
 	/** Seconds into the audio file. */
 	start: number;
 	end: number;
-	/** "shake": camera shake + splash. "hit": hard shake + red flash + big splash. */
-	fx?: CaptionFx;
-	/** Optional exact start time of each word, in seconds into the audio file. */
-	wordStarts?: number[];
+	text: string;
+	/** Key into "styles". The style named "outro" is the closing line on black. */
+	style: string;
 };
+
+export type EffectConfig =
+	| {type: 'screen-shake'; time: number; intensity: number; duration: number}
+	| {type: 'red-flash'; time: number; intensity: number; duration: number}
+	| {type: 'epoxy-splash'; time: number; intensity: number};
 
 export type VisualizerConfig = {
 	/** File name inside the public/ folder. */
-	audio: string;
-	/** Black screen + first squeegee drag before the audio starts. */
-	leadInSec: number;
-	/** Word (without punctuation) -> "red" | "yellow" | any CSS colour. */
-	highlights: Record<string, string>;
-	outro: {
-		text: string;
-		coverSec: number;
-		holdCoveredSec: number;
-		fadeSec: number;
-		holdTextSec: number;
-	};
+	audioFile: string;
+	fps: number;
+	resolution: {width: number; height: number};
 	captions: CaptionConfig[];
+	effects: EffectConfig[];
+	styles: Record<string, CaptionStyle>;
 };
 
 export const config = raw as VisualizerConfig;
 
+/** Everything is laid out on this canvas, then scaled to config.resolution. */
 export const WIDTH = 1080;
 export const HEIGHT = 1920;
-export const FPS = 30;
 
-export const HIGHLIGHT_COLORS: Record<string, string> = {
-	red: '#ff1f1f',
-	yellow: '#ffe600',
-};
+// --- Settings that config.json has no field for -------------------------
+
+/** Black screen + opening squeegee drag before the audio starts. 0 = audio starts on frame 1. */
+export const LEAD_IN_SEC = 0.8;
+
+/** Longer captions are split into screens of at most this many words. */
+export const MAX_WORDS_PER_SCREEN = 3;
+
+/**
+ * In a caption whose style has a colour, only these words take the colour and
+ * the rest stay white. A coloured caption containing none of them is coloured
+ * whole. Empty this list to always colour the whole caption.
+ */
+export const HIGHLIGHT_WORDS = ['MILLIONS', '20', 'TWENTY', '30', 'BEAT', 'PUNCHED'];
+
+/** Caption size in px for a style with scale 1. */
+export const BASE_FONT_SIZE = 184;
+
+/** The style name that marks the closing line. */
+export const OUTRO_STYLE = 'outro';
+
+/** Ending: full-screen drag, hold on white, fade to black as the outro line starts. */
+export const FINAL_DRAG_SEC = 0.9;
+export const HOLD_COVERED_SEC = 0.2;
+export const FADE_TO_BLACK_SEC = 0.45;

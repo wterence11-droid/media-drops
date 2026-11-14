@@ -1,4 +1,4 @@
-import type {VisualizerConfig} from './config';
+import {OUTRO_STYLE, type VisualizerConfig} from './config';
 
 /**
  * Loudness of the voiceover, one value per video frame.
@@ -102,22 +102,24 @@ const decode = async (url: string, fps: number): Promise<Envelope | null> => {
 
 /**
  * Stand-in loudness built from the caption timings: a pulse on every word,
- * harder on highlighted and impact words. Used until an audio file exists.
+ * harder on highlighted and impact captions. Used until an audio file exists.
  */
 export const syntheticEnvelope = (
 	config: VisualizerConfig,
 	fps: number,
 ): Envelope => {
-	const durationSec = config.captions.reduce((m, c) => Math.max(m, c.end), 0);
+	const spoken = config.captions.filter((c) => c.style !== OUTRO_STYLE);
+	const durationSec = spoken.reduce((m, c) => Math.max(m, c.end), 0);
 	const frames = Math.max(1, Math.ceil(durationSec * fps));
 	const amp = new Float32Array(frames);
 
-	for (const caption of config.captions) {
+	for (const caption of spoken) {
 		const words = caption.text.split(/\s+/).filter(Boolean);
 		const span = caption.end - caption.start;
+		const style = config.styles[caption.style];
+		const peak = style?.shake ? 1 : (style?.scale ?? 1) > 1 ? 0.85 : 0.62;
 		words.forEach((_, i) => {
-			const onset = caption.start + (span * 0.8 * i) / words.length;
-			const peak = caption.fx === 'hit' ? 1 : caption.fx === 'shake' ? 0.9 : 0.62;
+			const onset = caption.start + (span * 0.9 * i) / words.length;
 			const first = Math.floor(onset * fps);
 			for (let f = first; f < Math.min(frames, first + fps); f++) {
 				const t = f / fps - onset;

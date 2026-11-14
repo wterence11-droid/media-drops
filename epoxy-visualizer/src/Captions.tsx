@@ -1,28 +1,55 @@
-import React from 'react';
+import React, {useMemo} from 'react';
 import {useCurrentFrame, useVideoConfig} from 'remotion';
-import {FONT_FAMILY} from './fonts';
-import {noise1, type Caption, type Scene, type Word} from './scene';
+import {BASE_FONT_SIZE, type CaptionStyle} from './config';
+import {noise1, type Scene, type Screen, type Word} from './scene';
 
-const FONT_SIZE = 184;
-const OUTLINE = 13;
+/** Widest a single word may be before the screen's text is shrunk to fit. */
+const MAX_WORD_WIDTH = 900;
+const MAX_LINE_WIDTH = 980;
 
-// A ring of hard shadows gives a thick outline with round corners.
-// (-webkit-text-stroke spikes at this weight on Anton's sharp joins.)
-const outline = (radius: number) => {
+const shadowCache = new Map<string, string>();
+
+// A ring of hard shadows gives a thick outline with round corners
+// (-webkit-text-stroke spikes on Anton's sharp joins), plus a hard drop below.
+export const outlineShadow = (radius: number, color: string, drop = true) => {
+	const key = `${radius}|${color}|${drop}`;
+	const cached = shadowCache.get(key);
+	if (cached) {
+		return cached;
+	}
+
 	const parts: string[] = [];
 	const steps = 32;
 	for (let i = 0; i < steps; i++) {
 		const angle = (i / steps) * Math.PI * 2;
 		parts.push(
-			`${(Math.cos(angle) * radius).toFixed(2)}px ${(Math.sin(angle) * radius).toFixed(2)}px 0 #000`,
+			`${(Math.cos(angle) * radius).toFixed(2)}px ${(Math.sin(angle) * radius).toFixed(2)}px 0 ${color}`,
 		);
 	}
 
-	parts.push(`0 ${radius + 9}px 0 #000`);
-	return parts.join(', ');
+	if (drop) {
+		parts.push(`0 ${radius + 8}px 0 ${color}`);
+	}
+
+	const shadow = parts.join(', ');
+	shadowCache.set(key, shadow);
+	return shadow;
 };
 
-const OUTLINE_SHADOW = outline(OUTLINE);
+let measurer: CanvasRenderingContext2D | null = null;
+
+/** Font size for a screen: the style's scale, shrunk if its widest word would not fit. */
+const fitFontSize = (words: Word[], style: CaptionStyle) => {
+	const wanted = BASE_FONT_SIZE * style.scale;
+	measurer ??= document.createElement('canvas').getContext('2d');
+	if (!measurer) {
+		return wanted;
+	}
+
+	measurer.font = `${wanted}px ${style.font}`;
+	const widest = Math.max(...words.map((w) => measurer!.measureText(w.text).width));
+	return widest > MAX_WORD_WIDTH ? (wanted * MAX_WORD_WIDTH) / widest : wanted;
+};
 
 /** Under-damped spring: 0 -> 1 with ~23% overshoot, peaking near 3 frames in. */
 const pop = (seconds: number) => {
@@ -42,37 +69,44 @@ const pop = (seconds: number) => {
 
 type Pose = {scale: number; x: number; y: number; rotate: number};
 
-const poseAt = (age: number, fps: number, seed: number): Pose => {
+const poseAt = (age: number, fps: number, seed: number, hard: boolean): Pose => {
 	const scale = 0.3 + 0.7 * pop(age / fps);
-	// Shake that dies out over the first few frames.
-	const kick = Math.exp(-Math.max(0, age) / 2.6);
+	// Shake that dies out over the first few frames; styles with "shake" hit harder and longer.
+	const kick = Math.exp(-Math.max(0, age) / (hard ? 4.5 : 2.6));
+	const travel = hard ? 64 : 34;
 	const step = Math.floor(Math.max(0, age));
 	return {
 		scale,
-		x: (noise1(seed + step * 3.1) - 0.5) * 34 * kick,
-		y: (noise1(seed + step * 5.7 + 9) - 0.5) * 34 * kick,
-		rotate: (noise1(seed + step * 7.3 + 4) - 0.5) * 9 * kick,
+		x: (noise1(seed + step * 3.1) - 0.5) * travel * kick,
+		y: (noise1(seed + step * 5.7 + 9) - 0.5) * travel * kick,
+		rotate: (noise1(seed + step * 7.3 + 4) - 0.5) * (hard ? 15 : 9) * kick,
 	};
 };
 
 const transformOf = (pose: Pose) =>
 	`translate(${pose.x.toFixed(2)}px, ${pose.y.toFixed(2)}px) rotate(${pose.rotate.toFixed(2)}deg) scale(${pose.scale.toFixed(4)})`;
 
-const WordView: React.FC<{word: Word; age: number; seed: number}> = ({word, age, seed}) => {
+const WordView: React.FC<{word: Word; style: CaptionStyle; age: number; seed: number}> = ({
+	word,
+	style,
+	age,
+	seed,
+}) => {
 	const {fps} = useVideoConfig();
+	const hard = Boolean(style.shake);
 	const shown = age >= 0;
-	const pose = poseAt(age, fps, seed);
+	const pose = poseAt(age, fps, seed, hard);
 
 	// Motion blur: while the word is still moving fast, draw it again at
 	// earlier sub-frame times and soften it in proportion to its speed.
-	const speed = Math.abs(pose.scale - poseAt(age - 0.5, fps, seed).scale);
+	const speed = Math.abs(pose.scale - poseAt(age - 0.5, fps, seed, hard).scale);
 	const blur = Math.min(9, speed * 26);
 	const ghosts = shown && age < 5 ? [0.3, 0.6, 0.9] : [];
 
 	const text: React.CSSProperties = {
 		display: 'block',
-		color: word.color ?? '#fff',
-		textShadow: OUTLINE_SHADOW,
+		color: word.color,
+		textShadow: outlineShadow(style.outlineWidth, style.outline),
 		whiteSpace: 'nowrap',
 	};
 
@@ -82,8 +116,6 @@ const WordView: React.FC<{word: Word; age: number; seed: number}> = ({word, age,
 				position: 'relative',
 				display: 'inline-block',
 				margin: '0 0.13em',
-				// Highlighted words run larger, and the line makes room for them.
-				fontSize: word.color ? '1.12em' : undefined,
 				visibility: shown ? 'visible' : 'hidden',
 			}}
 		>
@@ -96,7 +128,7 @@ const WordView: React.FC<{word: Word; age: number; seed: number}> = ({word, age,
 						inset: 0,
 						opacity: 0.3 - i * 0.09,
 						filter: `blur(${(blur * 0.8 + 2).toFixed(1)}px)`,
-						transform: transformOf(poseAt(age - back, fps, seed)),
+						transform: transformOf(poseAt(age - back, fps, seed, hard)),
 					}}
 				>
 					{word.text}
@@ -116,13 +148,16 @@ const WordView: React.FC<{word: Word; age: number; seed: number}> = ({word, age,
 	);
 };
 
-const CaptionView: React.FC<{caption: Caption; index: number; frame: number}> = ({
-	caption,
+const ScreenView: React.FC<{screen: Screen; index: number; frame: number}> = ({
+	screen,
 	index,
 	frame,
 }) => {
-	// Quick blurred lift on the way out, so the next caption cuts in clean.
-	const left = caption.endFrame - frame;
+	const {style, words} = screen;
+	const fontSize = useMemo(() => fitFontSize(words, style), [words, style]);
+
+	// Quick blurred lift on the way out, so the next screen cuts in clean.
+	const left = screen.endFrame - frame;
 	const exit = left <= 2 ? (3 - left) / 3 : 0;
 
 	return (
@@ -141,9 +176,9 @@ const CaptionView: React.FC<{caption: Caption; index: number; frame: number}> = 
 					flexWrap: 'wrap',
 					justifyContent: 'center',
 					alignContent: 'center',
-					maxWidth: 960,
-					fontFamily: FONT_FAMILY,
-					fontSize: FONT_SIZE,
+					maxWidth: MAX_LINE_WIDTH,
+					fontFamily: style.font,
+					fontSize,
 					lineHeight: 1.08,
 					textTransform: 'uppercase',
 					letterSpacing: '0.01em',
@@ -152,10 +187,11 @@ const CaptionView: React.FC<{caption: Caption; index: number; frame: number}> = 
 					transform: `translateY(${(-exit * 46).toFixed(1)}px) scale(${(1 + exit * 0.08).toFixed(3)})`,
 				}}
 			>
-				{caption.words.map((word, i) => (
+				{words.map((word, i) => (
 					<WordView
 						key={i}
 						word={word}
+						style={style}
 						age={frame - word.startFrame}
 						seed={index * 17 + i * 5}
 					/>
@@ -167,10 +203,10 @@ const CaptionView: React.FC<{caption: Caption; index: number; frame: number}> = 
 
 export const Captions: React.FC<{scene: Scene}> = ({scene}) => {
 	const frame = useCurrentFrame();
-	const index = scene.captions.findIndex((c) => frame >= c.startFrame && frame < c.endFrame);
+	const index = scene.screens.findIndex((s) => frame >= s.startFrame && frame < s.endFrame);
 	if (index === -1) {
 		return null;
 	}
 
-	return <CaptionView caption={scene.captions[index]} index={index} frame={frame} />;
+	return <ScreenView key={index} screen={scene.screens[index]} index={index} frame={frame} />;
 };

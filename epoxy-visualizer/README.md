@@ -1,63 +1,77 @@
 # Epoxy visualizer
 
-A 1080x1920 (9:16) caption visualizer for a voiceover: white metallic epoxy is
-squeegeed across a black screen, driven by how loud the voice is, with
-word-by-word captions on top. Built with [Remotion](https://www.remotion.dev)
-(React), a WebGL canvas for the liquid, and the Web Audio API for the loudness
-analysis. Exports MP4 at 30fps.
+A 9:16 caption visualizer for a voiceover: white metallic epoxy is squeegeed
+across a black screen, driven by how loud the voice is, with word-by-word
+captions on top. Built with [Remotion](https://www.remotion.dev) (React), a
+WebGL canvas for the liquid, and the Web Audio API for the loudness analysis.
 
 ## Run it
 
 ```bash
 npm install
 npm run dev      # opens Remotion Studio: live preview with a scrubbable timeline
-npm run render   # writes out/visualizer.mp4 (1080x1920, 30fps, audio included)
+npm run render   # writes out/visualizer.mp4 with the audio included
 ```
 
 Needs Node 18 or newer. The first render downloads a headless Chrome.
 
 ## Add your audio
 
-Drop the voiceover into `public/` and point `"audio"` in `captions.json` at
-the file name (mp3 or wav):
-
-```json
-"audio": "voiceover.mp3"
-```
+Drop the voiceover into `public/` under the name set by `"audioFile"` in
+`config.json` (mp3 or wav). As shipped that is `public/audio.mp3`.
 
 Until that file exists the project still runs: it is silent and the motion
 follows a stand-in loudness curve built from the caption timings. Once the
 file is there, the liquid and the camera shake follow the real voice, and the
-video length stretches to fit the audio if it runs longer than the captions.
+video stretches to fit the audio if it runs longer than the captions.
 
-## Time the captions
+## config.json
 
-Everything is in `captions.json`. Times are seconds into the audio file.
+All timing lives here. Times are seconds into the audio file.
 
-```json
-{"text": "BEAT THE SHIT", "start": 17.0, "end": 17.85, "fx": "hit"}
-```
-
-| Field | What it does |
+| Key | What it does |
 | --- | --- |
-| `text` | The 1 to 3 words shown together. Each word pops in on its own. |
-| `start`, `end` | When the caption appears and leaves. |
-| `fx` | Optional. `"shake"`: camera shake and a splash. `"hit"`: hard shake, red flash and a big splash. |
-| `wordStarts` | Optional. Exact start time of each word, e.g. `[17.0, 17.3, 17.55]`. Without it the words are spread across the caption. |
+| `audioFile` | File name inside `public/`. |
+| `fps`, `resolution` | Output frame rate and size. The scene is designed at 1080x1920 and scaled to fit. |
+| `captions` | `start`, `end`, `text` and the name of a style. |
+| `styles` | Named looks: `font`, `color`, `outline`, `outlineWidth` (px), `scale`, and optionally `shake`. |
+| `effects` | Timed hits, listed below. |
 
-The shipped timings are estimates at a natural speaking pace. They need to be
-matched to the real recording: scrub the timeline in Studio, read the time
-where each phrase starts, and type it in. Studio reloads on save.
+How captions are drawn:
 
-Other settings in the same file:
+- **At most three words on screen.** A longer caption is split into even
+  screens inside its own time window, so "OH BUT YOU ONLY GOT" plays as
+  "OH BUT YOU" then "ONLY GOT". Each word pops in on its own.
+- **Highlight colour goes on the key word.** In a caption whose style has a
+  colour, only MILLIONS, 20, TWENTY, 30, BEAT and PUNCHED take it; the other
+  words stay white. A coloured caption with none of those words is coloured
+  whole.
+- **`scale`** multiplies the base size (184px). A word too wide for the frame
+  shrinks the screen it is on until it fits.
+- **`shake: true`** makes the words land with a harder shake, gives the camera
+  a short kick, and swaps that screen's squeegee stroke for a splash.
+- **The style named `outro`** is the closing line: the liquid finishes
+  covering the screen just before it, then fades to black as the line appears.
 
-| Setting | What it does |
-| --- | --- |
-| `leadInSec` | Black screen plus the opening squeegee drag before the audio starts. |
-| `highlights` | Word to colour. `"red"`, `"yellow"` or any CSS colour. Punctuation and case are ignored. |
-| `outro.text` | The closing line on black. |
-| `outro.coverSec` | How long the final full-screen drag takes. |
-| `outro.holdCoveredSec`, `outro.fadeSec`, `outro.holdTextSec` | Hold on the full white screen, fade to black, hold on the closing line. |
+Effects:
+
+| `type` | Fields | What it does |
+| --- | --- | --- |
+| `screen-shake` | `time`, `intensity`, `duration` | Camera shake that decays over `duration`. Intensity 1 is about 48px of travel. |
+| `red-flash` | `time`, `intensity`, `duration` | Solid red at `intensity` opacity fading over `duration`; the liquid stays tinted a little longer. |
+| `epoxy-splash` | `time`, `intensity` | A splash near the centre. Intensity 1 is a 470px radius. |
+
+## Settings that are not in config.json
+
+These sit at the bottom of `src/config.ts`:
+
+| Constant | Default | What it does |
+| --- | --- | --- |
+| `LEAD_IN_SEC` | `0.8` | Black screen and the opening drag before the audio starts. Caption times stay relative to the audio. Set to `0` to start the audio on the first frame. |
+| `MAX_WORDS_PER_SCREEN` | `3` | Raise it to stop captions being split. |
+| `HIGHLIGHT_WORDS` | the six above | Empty the list to colour whole captions instead. |
+| `BASE_FONT_SIZE` | `184` | Caption size at scale 1. |
+| `FINAL_DRAG_SEC`, `HOLD_COVERED_SEC`, `FADE_TO_BLACK_SEC` | `0.9`, `0.2`, `0.45` | Pace of the ending. |
 
 ## How the audio drives it
 
@@ -66,8 +80,8 @@ loudness for every video frame. That one curve drives:
 
 - **Spread speed.** Strokes advance on a "liquid clock" that creeps in silence
   and runs about four times faster at full volume.
-- **Camera shake.** A small shake that grows with loudness, plus a kick on
-  every `fx` caption.
+- **Camera shake.** A small shake that grows with loudness, on top of the
+  timed effects.
 - **Surface.** The marble drifts on the same clock and brightens slightly with
   the voice.
 
@@ -78,10 +92,11 @@ preview exactly.
 
 | File | What it is |
 | --- | --- |
-| `captions.json` | Audio file name, caption timings, highlight colours, outro. |
-| `src/scene.ts` | Turns the config into strokes, splashes and impacts. Stroke sizes and the liquid clock speed are here. |
+| `config.json` | Audio file, captions, styles, effects. |
+| `src/config.ts` | The config's shape, plus the settings it has no field for. |
+| `src/scene.ts` | Turns the config into screens, strokes, splashes and shakes. Stroke sizes and the liquid clock speed are here. |
 | `src/epoxyShader.ts` | The liquid: stroke shapes, marble, lighting. |
-| `src/Captions.tsx` | Caption font size, outline, pop-in and motion blur. |
+| `src/Captions.tsx` | Word pop-in, outline and motion blur. |
 | `src/Visualizer.tsx` | Layer order, camera shake, red flash, fade and outro. |
 
 ## Notes

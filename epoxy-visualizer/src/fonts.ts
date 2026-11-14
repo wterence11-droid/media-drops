@@ -1,10 +1,8 @@
 import {staticFile} from 'remotion';
 
-export const FONT_FAMILY = 'Anton, Impact, "Arial Narrow Bold", sans-serif';
-
 let loading: Promise<void> | null = null;
 
-/** Anton ships in public/fonts, so renders never depend on a font CDN. */
+/** Anton ships in public/fonts, so the "Anton" in config.json styles never depends on a font CDN. */
 export const loadFonts = (): Promise<void> => {
 	if (!loading) {
 		const face = new FontFace(

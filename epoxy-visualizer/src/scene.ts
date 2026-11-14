@@ -1,9 +1,15 @@
 import type {Envelope} from './audio';
 import {
+	FADE_TO_BLACK_SEC,
+	FINAL_DRAG_SEC,
 	HEIGHT,
-	HIGHLIGHT_COLORS,
+	HIGHLIGHT_WORDS,
+	HOLD_COVERED_SEC,
+	LEAD_IN_SEC,
+	MAX_WORDS_PER_SCREEN,
+	OUTRO_STYLE,
 	WIDTH,
-	type CaptionFx,
+	type CaptionStyle,
 	type VisualizerConfig,
 } from './config';
 
@@ -13,13 +19,14 @@ export const BLEED = 64;
 export type Word = {
 	text: string;
 	startFrame: number;
-	color: string | null;
+	color: string;
 };
 
-export type Caption = {
+/** What is on screen at once: at most MAX_WORDS_PER_SCREEN words of one caption. */
+export type Screen = {
 	startFrame: number;
 	endFrame: number;
-	fx: CaptionFx | null;
+	style: CaptionStyle;
 	words: Word[];
 };
 
@@ -38,6 +45,9 @@ export type Stroke = {
 	seed: number;
 };
 
+export type Shake = {frame: number; frames: number; strength: number};
+export type Flash = {frame: number; frames: number; intensity: number};
+
 export type Scene = {
 	durationInFrames: number;
 	leadInFrames: number;
@@ -46,12 +56,15 @@ export type Scene = {
 	amp: Float32Array;
 	/** Liquid clock per video frame: runs faster while the voice is loud. */
 	clock: Float32Array;
-	captions: Caption[];
+	screens: Screen[];
 	strokes: Stroke[];
-	impacts: {frame: number; fx: CaptionFx}[];
+	shakes: Shake[];
+	flashes: Flash[];
+	/** The closing line. `text` is empty when the config has no outro caption. */
 	outro: {
 		text: string;
-		coverStart: number;
+		style: CaptionStyle;
+		startFrame: number;
 		fadeStart: number;
 		fadeEnd: number;
 	};
@@ -69,62 +82,95 @@ const mulberry32 = (seed: number) => {
 };
 
 const bare = (word: string) => word.replace(/[^A-Za-z0-9]/g, '').toUpperCase();
+const highlightWords = new Set(HIGHLIGHT_WORDS.map(bare));
+
+const FALLBACK_STYLE: CaptionStyle = {
+	font: 'Anton, Impact, sans-serif',
+	color: '#FFFFFF',
+	outline: '#000000',
+	outlineWidth: 8,
+	scale: 1,
+};
+
+/** Splits words into the fewest screens of at most `max` words, as evenly as possible. */
+const chunk = (words: string[], max: number): string[][] => {
+	const count = Math.ceil(words.length / max);
+	const out: string[][] = [];
+	let at = 0;
+	for (let i = 0; i < count; i++) {
+		const take = Math.ceil((words.length - at) / (count - i));
+		out.push(words.slice(at, at + take));
+		at += take;
+	}
+
+	return out;
+};
 
 /** Liquid-clock speed: a slow creep in silence, a surge when the voice is loud. */
 const CLOCK_BASE = 0.55;
 const CLOCK_GAIN = 1.7;
+
+/** Camera travel in px for a screen-shake of intensity 1. */
+const SHAKE_PX = 48;
+/** Splash radius in px for an epoxy-splash of intensity 1. */
+const SPLASH_PX = 470;
 
 export const buildScene = (
 	config: VisualizerConfig,
 	envelope: Envelope,
 	fps: number,
 ): Scene => {
-	const leadInFrames = Math.round(config.leadInSec * fps);
+	const leadInFrames = Math.round(LEAD_IN_SEC * fps);
 	const toFrame = (audioSec: number) => leadInFrames + Math.round(audioSec * fps);
-
-	const highlights = new Map(
-		Object.entries(config.highlights).map(([word, color]) => [
-			bare(word),
-			HIGHLIGHT_COLORS[color] ?? color,
-		]),
-	);
-
-	const captions: Caption[] = config.captions.map((c) => {
-		const texts = c.text.split(/\s+/).filter(Boolean);
-		const chars = texts.reduce((n, w) => n + w.length, 0);
-		const span = c.end - c.start;
-		let before = 0;
-		const words = texts.map((text, i): Word => {
-			// Words land one after another across the first 80% of the caption,
-			// longer words taking proportionally longer to say.
-			const auto = c.start + (span * 0.8 * before) / Math.max(1, chars);
-			before += text.length;
-			return {
-				text,
-				startFrame: toFrame(c.wordStarts?.[i] ?? auto),
-				color: highlights.get(bare(text)) ?? null,
-			};
-		});
-		return {
-			startFrame: toFrame(c.start),
-			endFrame: toFrame(c.end),
-			fx: c.fx ?? null,
-			words,
-		};
-	});
-
-	const lastCaptionEnd = captions.reduce((m, c) => Math.max(m, c.endFrame), leadInFrames);
 	const sec = (s: number) => Math.round(s * fps);
+	const styleOf = (name: string) => config.styles[name] ?? FALLBACK_STYLE;
 
-	// The final full-screen drag starts just before the last word leaves.
-	const coverStart = Math.max(leadInFrames, lastCaptionEnd - sec(0.3));
-	const coverEnd = coverStart + sec(config.outro.coverSec);
-	const fadeStart = coverEnd + sec(config.outro.holdCoveredSec);
-	const fadeEnd = fadeStart + sec(config.outro.fadeSec);
+	const spoken = config.captions.filter((c) => c.style !== OUTRO_STYLE);
+	const outroCaption = config.captions.find((c) => c.style === OUTRO_STYLE) ?? null;
+
+	// Captions -> screens of 1-3 words, each word with its own entrance time.
+	// Time inside a caption is shared out by letter count: long words take longer to say.
+	const screens: Screen[] = [];
+	for (const caption of spoken) {
+		const style = styleOf(caption.style);
+		const texts = caption.text.split(/\s+/).filter(Boolean);
+		const hasKeyword = texts.some((t) => highlightWords.has(bare(t)));
+		const total = Math.max(1, texts.reduce((n, t) => n + t.length, 0));
+		const span = caption.end - caption.start;
+		const base = styleOf('normal').color;
+
+		let before = 0;
+		for (const group of chunk(texts, MAX_WORDS_PER_SCREEN)) {
+			const letters = group.reduce((n, t) => n + t.length, 0);
+			const start = caption.start + (span * before) / total;
+			const end = caption.start + (span * (before + letters)) / total;
+			let inside = 0;
+			const words = group.map((text): Word => {
+				// Words land across the first 80% of their screen.
+				const at = start + ((end - start) * 0.8 * inside) / Math.max(1, letters);
+				inside += text.length;
+				const coloured = !hasKeyword || highlightWords.has(bare(text));
+				return {text, startFrame: toFrame(at), color: coloured ? style.color : base};
+			});
+			screens.push({startFrame: toFrame(start), endFrame: toFrame(end), style, words});
+			before += letters;
+		}
+	}
+
+	const firstWord = screens[0]?.startFrame ?? leadInFrames;
+	const lastSpoken = screens.reduce((m, s) => Math.max(m, s.endFrame), leadInFrames);
+
+	// Ending. With an outro caption, the fade lands as its line starts; without
+	// one, the screen is covered and faded right after the last caption.
+	const outroStart = outroCaption ? toFrame(outroCaption.start) : lastSpoken + sec(1.2);
+	const fadeEnd = outroStart + sec(0.1);
+	const fadeStart = fadeEnd - sec(FADE_TO_BLACK_SEC);
+	const coverEnd = fadeStart - sec(HOLD_COVERED_SEC);
+	const coverStart = Math.max(firstWord, coverEnd - sec(FINAL_DRAG_SEC));
 	const audioEnd = envelope.source === 'audio' ? toFrame(envelope.durationSec) : 0;
 	const durationInFrames = Math.max(
-		fadeEnd + sec(config.outro.holdTextSec),
-		audioEnd + sec(0.2),
+		outroCaption ? toFrame(outroCaption.end) : fadeEnd + sec(0.3),
+		audioEnd,
 	);
 
 	const amp = new Float32Array(durationInFrames);
@@ -142,14 +188,28 @@ export const buildScene = (
 	const rand = (lo: number, hi: number) => lo + (hi - lo) * rng();
 	const strokes: Stroke[] = [];
 
+	const splash = (startFrame: number, radius: number, spread: number): Stroke => ({
+		kind: 'splash',
+		startFrame,
+		duration: 0.6,
+		x: WIDTH / 2 + rand(-300, 300) * spread,
+		y: HEIGHT / 2 + rand(-520, 520) * spread,
+		dirX: 1,
+		dirY: 0,
+		size: radius,
+		halfWidth: 0,
+		seed: rng() * 100,
+	});
+
 	// 1. Opening drag: top to bottom through the middle, timed so the liquid
-	//    has just passed the caption area when the first word lands.
-	const introStart = Math.min(sec(0.25), Math.floor(leadInFrames / 3));
-	const firstWord = captions[0]?.startFrame ?? leadInFrames;
+	//    has just passed the caption area when the first word lands. With no
+	//    lead-in there is no time for that, so it simply starts on frame 0.
+	const introStart = Math.min(sec(0.2), Math.floor(leadInFrames / 3));
+	const introReach = Math.max(firstWord, introStart + sec(0.5));
 	strokes.push({
 		kind: 'drag',
 		startFrame: introStart,
-		duration: Math.max(0.2, (clockAt(firstWord) - clockAt(introStart)) / 0.45),
+		duration: Math.max(0.2, (clockAt(introReach) - clockAt(introStart)) / 0.45),
 		x: WIDTH / 2,
 		y: -BLEED - 60,
 		dirX: 0,
@@ -159,7 +219,7 @@ export const buildScene = (
 		seed: rng() * 100,
 	});
 
-	// 2. One stroke or splash per caption change.
+	// 2. One stroke per screen change; a splash instead when the style shakes.
 	const cells: [number, number][] = [];
 	for (let row = 0; row < 4; row++) {
 		for (let col = 0; col < 2; col++) {
@@ -172,37 +232,9 @@ export const buildScene = (
 		[cells[i], cells[j]] = [cells[j], cells[i]];
 	}
 
-	captions.slice(1).forEach((caption, i) => {
-		const seed = rng() * 100;
-		if (caption.fx === 'hit') {
-			strokes.push({
-				kind: 'splash',
-				startFrame: caption.startFrame,
-				duration: 0.6,
-				x: WIDTH / 2 + rand(-70, 70),
-				y: HEIGHT / 2 + rand(-90, 90),
-				dirX: 1,
-				dirY: 0,
-				size: 470,
-				halfWidth: 0,
-				seed,
-			});
-			return;
-		}
-
-		if (caption.fx === 'shake') {
-			strokes.push({
-				kind: 'splash',
-				startFrame: caption.startFrame,
-				duration: 0.65,
-				x: WIDTH / 2 + rand(-300, 300),
-				y: HEIGHT / 2 + rand(-520, 520),
-				dirX: 1,
-				dirY: 0,
-				size: rand(250, 330),
-				halfWidth: 0,
-				seed,
-			});
+	screens.slice(1).forEach((screen, i) => {
+		if (screen.style.shake) {
+			strokes.push(splash(screen.startFrame, rand(250, 330), 1));
 			return;
 		}
 
@@ -225,7 +257,7 @@ export const buildScene = (
 		const back = rand(0.4, 0.6);
 		strokes.push({
 			kind: 'drag',
-			startFrame: caption.startFrame,
+			startFrame: screen.startFrame,
 			duration: rand(0.9, 1.4) * (length / 900),
 			x: centreX - dirX * length * back,
 			y: centreY - dirY * length * back,
@@ -233,11 +265,42 @@ export const buildScene = (
 			dirY,
 			size: length,
 			halfWidth: rand(80, 165),
-			seed,
+			seed: rng() * 100,
 		});
 	});
 
-	// 3. Final drag: full width, top to bottom, until nothing black is left.
+	// 3. Effects from the config.
+	const shakes: Shake[] = [];
+	const flashes: Flash[] = [];
+	for (const effect of config.effects ?? []) {
+		const frame = toFrame(effect.time);
+		if (effect.type === 'screen-shake') {
+			shakes.push({
+				frame,
+				frames: Math.max(1, sec(effect.duration)),
+				strength: SHAKE_PX * effect.intensity,
+			});
+		} else if (effect.type === 'red-flash') {
+			flashes.push({
+				frame,
+				frames: Math.max(1, sec(effect.duration)),
+				intensity: effect.intensity,
+			});
+		} else if (effect.type === 'epoxy-splash') {
+			strokes.push(splash(frame, SPLASH_PX * effect.intensity, 0.3));
+		}
+	}
+
+	// Styles with "shake" also give the camera a short kick as they land.
+	const seen = new Set<number>();
+	for (const screen of screens) {
+		if (screen.style.shake && !seen.has(screen.startFrame)) {
+			seen.add(screen.startFrame);
+			shakes.push({frame: screen.startFrame, frames: sec(0.3), strength: 15});
+		}
+	}
+
+	// 4. Final drag: full width, top to bottom, until nothing black is left.
 	strokes.push({
 		kind: 'drag',
 		startFrame: coverStart,
@@ -253,20 +316,23 @@ export const buildScene = (
 
 	strokes.sort((a, b) => a.startFrame - b.startFrame);
 
-	const impacts = captions.flatMap((c) =>
-		c.fx ? [{frame: c.startFrame, fx: c.fx}] : [],
-	);
-
 	return {
 		durationInFrames,
 		leadInFrames,
 		hasAudio: envelope.source === 'audio',
 		amp,
 		clock,
-		captions,
+		screens,
 		strokes,
-		impacts,
-		outro: {text: config.outro.text, coverStart, fadeStart, fadeEnd},
+		shakes,
+		flashes,
+		outro: {
+			text: outroCaption?.text ?? '',
+			style: outroCaption ? styleOf(outroCaption.style) : FALLBACK_STYLE,
+			startFrame: outroStart,
+			fadeStart,
+			fadeEnd,
+		},
 	};
 };
 
