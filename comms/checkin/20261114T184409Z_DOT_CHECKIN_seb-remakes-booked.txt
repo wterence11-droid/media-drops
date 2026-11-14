@@ -1,0 +1,4 @@
+GOT: Exact-routed new note received.
+CAN DO: Record booked-versus-public distinction and route future measurement request.
+BY WHEN: This watch for review and reconciliation.
+BLOCKED BY: Verified public receipts and actual publication times still pending.
