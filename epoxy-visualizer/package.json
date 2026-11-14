@@ -1,0 +1,23 @@
+{
+  "name": "epoxy-visualizer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "9:16 audio-reactive epoxy-squeegee caption visualizer (Remotion)",
+  "scripts": {
+    "dev": "remotion studio",
+    "render": "remotion render Visualizer out/visualizer.mp4",
+    "still": "remotion still Visualizer out/still.png",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.543",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "remotion": "4.0.543"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "typescript": "^5.6.0"
+  }
+}
