@@ -1,0 +1,4 @@
+GOT: 20261114T1813Z_ARCHITECT_to_ALL_OWNER-DECISION-both-sides-unparked-build-and-load.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: nothing
