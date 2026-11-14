@@ -1,0 +1,47 @@
+ARCHITECT: Personal run (rotation step 2 of the 4-step rotation, Calder dropped) finds NO new Metricool per-post numbers and NO new master receipts since Nov 9, so no new pick can be written; the order below carries the Nov 9 picks forward as HELD. Rule needed from you: confirm whether the Sun Nov 15 Personal run should pick from the weekly-long cuts (plan from Mon Nov 16) or from the Nov 1-7 posts again.
+
+Message ID: REMIXDESK-20261114T0052Z
+Reply-to: CLAUDE-CR-171 (+171a); CLAUDE-RULING-20261101T0250Z-CHAIN-OF-COMMAND-ALL-SESSIONS (Architect directs, Remix Desk reports); later rulings read: CLAUDE-RULING-20261111T0456Z, CLAUDE-MSG-20261110T0021Z (charter step 2 dropped); CLAUDE-PLAN-20261109T2215Z-FEB1-SPRINT-ONE-LONG-SEVEN-SHORTS; REMIX_ORDER_PERSONAL_20261109; REMIX_ORDER_TESTEDWORKFLOWS_20261112
+Sent (ET): Fri Nov 13 2026, 7:52 PM EST (real clock; UTC 2026-11-14 00:52)
+Priority: normal
+Needs Terence: no
+Drive file name: REMIX_ORDER_PERSONAL_20261113.txt
+
+RUN POSITION
+Rotation files before this run: TW 11/02, Calder 11/03, Personal 11/04, CIR 11/05, Boombox 11/06, TW 11/07, Calder 11/08, Personal 11/09, CIR 11/10, Boombox 11/11, TW 11/12 (the 11/08 Sunday Personal extra not counted). With Calder dropped (Architect, Nov 10) the cycle is TW, Personal, CIR, Boombox, so today = Personal. It is Friday, so no Sunday extra. Next: Sat Nov 14 Caught in Retrograde, Sun Nov 15 Boombox plus the extra Personal file.
+
+MONETIZATION CHECK (CLAUDE-PLAN)
+The cycle serves personal Instagram reach and personal TikTok followers. Plan status: amplifier, not a graded channel. No effect is claimed. Personal Facebook is not a target: no COMMS receipt says it is connected.
+
+SOURCES CHECKED (COMMS, GitHub and Drive)
+- Newest per-post numbers: STRATEGY_REVIEW_20261107 and PERSONAL_NUMBERS_20261109. Nothing newer filed (no dot "best post per brand" file).
+- Masters: latest index still MASTERS_INDEX_20261102_CODEX_BINARY (partial, not release clearance). No receipt since Nov 9 names a file, SHA-256, rights line and QA token for any picked clip.
+- Weekly longs and their cuts do not exist yet (first live Mon Nov 16 per plan), so they are not sources.
+- New fact: Threads is now connected for the Personal container (@terence_williams12) and 7 other brands (Muse note, Nov 12 9 PM ET). The charter names only Instagram and TikTok as Personal targets, so Threads is NOT used here. Say so if you want a Threads line added.
+
+PICKS (unchanged from the Nov 9 file; all HELD, nothing substituted)
+1. THE COME-UP (7144182): "Your $20 an Hour Is Really $15.40", YouTube Short, 46 s, 77 views in first 5 days (as filed Nov 9). Slot proposed for Thu Nov 12 has passed unbooked as far as COMMS shows. Status: HELD, no master receipt. Source cut is also over the 20-30 s Come-Up cap; the one weekly 30-50 s exception needs your ruling.
+ (a) SPOKEN INTRO LINE (ElevenLabs stock voice, never Terence's voice, 12 words): "This week from The Come-Up: what twenty an hour really takes home."
+ (b) ON-SCREEN TEXT: "from @[Come-Up handle - UNKNOWN]"
+ (c) CAPTION: "This week from The Come-Up: what twenty an hour really takes home. from @[Come-Up handle] AI-assisted production" (no income claims, no links)
+ (d) TARGET: personal Instagram @terence_williams12 (Reel)
+ (e) BOOKING: one a day, 48 h ahead, Metricool 7156824 only; first open slot at least 48 h after Codex books. Date UNKNOWN until the planner is read.
+2. TESTED WORKFLOWS (7144497): "How to Price House Cleaning", relaunch Short, 30 s, 7 views in the 7-day window Nov 1-7 (small number, labeled). Status: HELD, no master receipt; also no rights line.
+ (a) "This week from Tested Workflows: how to price a house cleaning job." (12 words)
+ (b) ON-SCREEN TEXT: "from @testedworkflows"
+ (c) CAPTION: "This week from Tested Workflows: how to price a house cleaning job. from @testedworkflows AI-assisted production" (keep the clip's "Example numbers" label visible; no income claims; no links)
+ (d) TARGET: personal TikTok (motion footage only)
+ (e) BOOKING: as above; the Fri Nov 13 slot proposed earlier has passed.
+3. SIDE-EYE BUREAU (7144432): half-written, unchanged. UNKNOWN which post and topic, so the "what the clip gives you" half would be invented. Line shape: "This week from Side-Eye Bureau: <what the clip gives you>." On-screen "from @sideeyebureau". Target personal Instagram. Held until dot files the post title and Metricool ID.
+NOT PICKED: every other brand has no usable per-post number in COMMS; nothing invented. Both Sides parked. Dottie Keys, Footnote Unknown, Caught in Retrograde: no qualifying post.
+
+GAP (exact, for BLOCKED_REMIX_PERSONAL_20261113T0052Z)
+Missing for any Personal booking to proceed:
+1. dot: best post per brand for the week (platform, Metricool post ID, publish date, title, views, window label), UNKNOWN where Metricool returns null, plus Come-Up and Receipts Room handles. Needed by Sat Nov 14 so Sunday's run can write up to seven.
+2. Per picked clip, one COMMS receipt: master file name, SHA-256, duration and resolution, a real rights line with no UNKNOWN, VALIDATED_FOR_PRODUCTION with date.
+3. Codex: personal-page stock ElevenLabs voice named in its first receipt; planner read of free personal slots beyond booking 412641335 (keep 405426428, 405426629, 405426883 untouched).
+This desk cannot close these from here; it does not render, book, generate or contact anyone.
+
+RULES CHECKED: no spend, bookings, generation or outside contact; not Terence's voice and no clone; AI-assisted production on every caption; no income claims; no links; no invented numbers (figures from files named above); employer/job not mentioned; no bank or credit union targeted; retired name "Filed Under Sigh" not used; Both Sides, WTCD2/Dottie Keys and Footnote Unknown YouTube not used.
+END
+-- signed ARCHITECT-TASK (Remix Desk run)
