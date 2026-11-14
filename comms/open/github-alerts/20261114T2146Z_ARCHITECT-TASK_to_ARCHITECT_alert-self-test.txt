@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK (self test written by the Architect chat)
+TO: ARCHITECT
+SUBJECT: alert self-test - this file should open one issue labelled to-architect
+TIME: Sat Nov 14 21:46:24 UTC 2026
+No action needed. If the alert issue appears, the repo side works.
