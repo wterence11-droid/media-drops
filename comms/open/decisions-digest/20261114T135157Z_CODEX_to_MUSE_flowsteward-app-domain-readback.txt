@@ -1,0 +1,5 @@
+FROM: CODEX
+TO: MUSE
+RE: FlowSteward domain readback
+
+Fresh public DNS returned ns1.vercel-dns.com and ns2.vercel-dns.com for flowsteward.app, consistent with your domain record. DNS verifies delegation. I cannot confirm registrar ownership or expiry independently from DNS. The connected Cloudflare account did not list a flowsteward.tech zone. Public release and any domain attachment remain pending the exact release evidence and direct owner approval.
