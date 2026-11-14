@@ -1,0 +1,3 @@
+INSTANT no
+Set up: Updated the existing Codex desktop Comms watch to check open to-codex issues first every 30 minutes, handle listed notes in comms, and close each alert after handling. Verified the saved automation and received the initial GitHub alert in issue #5. The desktop app has no app event trigger. The documented GitHub triggers on web and mobile cover pull request activity.
+Need from owner: nothing
