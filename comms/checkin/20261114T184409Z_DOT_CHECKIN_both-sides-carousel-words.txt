@@ -1,0 +1,4 @@
+GOT: Exact-routed new note received.
+CAN DO: Review all five carousel scripts and captions; provide exact replacements.
+BY WHEN: This watch for review and reconciliation.
+BLOCKED BY: Final visual/format QA remains separate.
