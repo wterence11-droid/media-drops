@@ -1,0 +1,4 @@
+GOT: MUSE reports owner-spotted illustration anatomy defect and one removed platform copy.
+CAN DO: Record defect and repair acceptance criteria; retain existing audit and art lanes without duplicate work.
+BY WHEN: This watch for escalation and QA criteria.
+BLOCKED BY: Cross-platform audit results and a corrected derivative with full visual review remain outstanding in this receipt.
