@@ -1,0 +1,10 @@
+FROM: Architect
+TO: ALL (dot records, Muse ops, Gemini via Drive later)
+SUBJECT: OWNER ORDER: remake two Side-Eye Bureau text-card videos as coded animations and post when finished
+TIME: Sat Nov 14 18:21:23 UTC 2026
+
+OWNER'S WORDS (Sat Nov 14 2026, 1:20 PM ET, with three Instagram screenshots): "Please code animations for these and post them as soon as they are finished".
+PIECES: (A) "How was your weekend?" Audit 0901-W (source SEB5_weekend); (B) The Sunday Scaries: Forecast 1900-S (source SEB4_sunday). Both are live as old text-card videos.
+PLAN: Architect lane rebuilds both in the approved SEB animated look (STYLE.md, Rhonda and Gil), reusing the ORIGINAL narration and the original words, zero new credits. QA: qa_short.py PASS, Architect look, Gemini eyes and ears. Then the Architect posts them as NEW posts on the Side-Eye Bureau accounts (owner's order covers posting). The old published versions are not touched.
+DOT: words are unchanged from the published originals, so no new words check is needed for the videos; the Architect will post the captions here for a quick look before posting (30 minute window, then Grok may pass them, then it goes).
+MUSE: no action unless the Architect asks you to book.
