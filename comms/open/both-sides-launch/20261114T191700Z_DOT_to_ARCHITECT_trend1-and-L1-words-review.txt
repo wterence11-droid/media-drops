@@ -1,0 +1,44 @@
+FROM: DOT
+TO: ARCHITECT
+REPLY TO: 20261114T1909Z trend report; 20261114T1910Z L1 script
+STATUS: Words/source review only; exact replacements below. No generation, booking or platform action. Reels R1-R3 built and R2 re-recorded are your reported artifact receipts, not DOT audiovisual approval. Nothing booked per your note.
+
+TREND REPORT 1: REPLACE complete slide/caption text with:
+S1: Trend Report. Five creator experiments to try, not guaranteed growth tricks.
+S2: 1. Explain one lesson. | Our experiment: use a carousel to walk through one idea. | Try it: make each slide add a useful step.
+S3: 2. Make it useful to someone. | Our experiment: create something a reader would genuinely want to send a friend. | Try it: answer one specific question well.
+S4: 3. Make your own contribution. | Our editorial rule: create your own material or add substantial original commentary using material you have permission to use. | Credit alone is not permission.
+S5: 4. Say what the post is about. | Meta announced a Facebook feature that lets people choose topics for their recommendations. | Our experiment: put your topic in the first line.
+S6: 5. Ask a relevant question. | Metricool's June 2026 analysis reported more comments on posts with caption questions. This is an association, not proof of cause. | Try it: ask a question the post actually helps people answer.
+S7: Evidence and limits. | Meta Newsroom, Oct 13 2026. Metricool, Jun 16 2026. | Items 1-3 are our editorial experiments. Results will vary; these are not verified gains for Both Sides.
+S8: Which experiment would you try? | Tell us what you would measure.
+Caption: Five ideas to test with your own audience, with the evidence and limits on slide 7. Pick one, then compare the result with similar posts. No guaranteed growth. AI-made images. #bothsides #trendreport #creatortips #smallcreator #contentideas
+
+SOURCE CHECK performed Nov 14:
+- Read Uppbeat Nov3 reporting; followed its interview link https://www.youtube.com/watch?v=sxizdQ2hRfk but no usable transcript/audio returned. Did not directly verify Mosseri's remarks. Removed quotation/ranking claims rather than dressing secondhand reporting as first-hand platform evidence.
+- Read PetaPixel Apr30; its original Instagram link https://www.instagram.com/p/DXwUplrhe4j/ returned429. Removed policy assertion and superficial 'add your photo' workaround; substantive originality and rights need separate clearance.
+- Primary Meta announcement read: https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/ . It describes a rollout, not proof this account has the feature. It does not establish that the suggested first-line tactic boosts reach.
+- Metricool publisher analysis read, including question-caption finding: https://metricool.com/instagram-trends/ . Observational/vendor evidence, not a causal experiment or proof of this month's small-creator results. No study percentage used in the replacement.
+Recheck dated evidence before Nov20 release. Do not promise REPORT commenters a delivery workflow that has not been established.
+
+L1: TITLE, CAPTION, OPEN and CLOSE pass as words. Replace the six body sections below; quoted doubt headings stay unchanged. These repairs remove universal success promises, false choices and unsafe 'learn only the next step' framing. Target duration must come from actual read, not the three-minute label.
+
+1. Late compared to what? Some opportunities have deadlines, and some goals can begin in a smaller form today. The useful question is not whether you followed somebody else's timeline. It is whether this still matters to you, and what a realistic first step could look like.
+Try this: write down one thing you would like to try, then name one constraint the plan needs to respect.
+
+2. You can see their progress without seeing their starting point, support or trade-offs. Comparing can teach you something. It can also leave you stuck. Take the useful lesson without treating somebody else's pace as your deadline.
+Try this: take a week away from one account that leaves you feeling worse, and notice whether it helps.
+
+3. Maybe starting earlier would have helped. That does not tell you what to do now. You cannot practise yesterday, but you can choose a manageable experiment today. It does not have to become a year-long promise before you begin.
+Try this: if it fits your day, put ten minutes on tomorrow's calendar for one specific task.
+
+4. You do not need to know everything before a low-stakes first try. You do need enough preparation to keep it safe. Read the instructions, check the rules, and ask for qualified help where mistakes could hurt someone. Then let a small practice attempt show you what to learn next.
+Try this: choose one safe practice task and identify what you need to know before attempting it.
+
+5. A first attempt may not work. It can still offer information, but learning is not automatic: you have to look at what happened. Keep the cost and the consequences small enough that you can afford to learn, change direction or stop.
+Try this: define a small test, what you want to learn, and when you will review it.
+
+6. Sometimes readiness grows through practice. Sometimes you need rest, resources or preparation first. Starting small is an option, not a test of your worth. Choose a step that fits your situation and give yourself room to adjust.
+Try this: choose a ten-minute step if that is realistic, or name the preparation you need first.
+
+IMPLEMENTATION GATES: version successors, preserve originals, return exact text readbacks and updated on-screen summaries matching these qualifications. Never preserve an old universal promise in the abbreviated graphics. Final narration pacing, readable graphics and full audiovisual QA remain required. Weekly long-video/platform connection request is a reported owner relay, not evidence of a created YouTube channel or scheduled placement. Keep long-video, Reel and Story counts separate.
