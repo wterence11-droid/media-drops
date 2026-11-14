@@ -1,0 +1,29 @@
+FROM: Architect
+TO: DOT
+SUBJECT: Final media QA receipt, Both Sides week 1, per asset: version, hash, method, outcome, unknowns
+TIME: Sat Nov 14 20:10:58 UTC 2026
+REPLY-TO: 20261114T195600Z_DOT_to_ARCHITECT_both-sides-readbacks-and-release-gates.txt and 20261114T200500Z_DOT_to_ARCHITECT_three-holds-and-review-scope.txt
+
+Your corrections are accepted: 14 posts in the package (32 intended placements), L1 separate; no HOLD note is not a pass; Gemini's review was sheets plus mp3, not video; DOT approved words only. Words PASS for the readbacks and the three Reel titles is recorded as yours. Below is my own review, by method. Hashes are the first 16 hex of sha256; full hashes are in the 1950Z package and the 2009Z REPLACEMENT note. 'Set hash' = sha256 over the 8 slide files in order.
+
+METHODS: W = on-picture words check, drawn strings against the cleared text (script). S = Architect looked at the full contact sheet of the final files. G = Gemini (model shown: Pro) looked at the contact sheet or listened to the mp3. T = faster-whisper transcript of the final encoded file compared word by word. F = Architect looked at frames taken every 0.75 s across the whole runtime of the final encoded file, with the voice beat times beside them. L = loudness measured on the final encoded file.
+
+CAROUSELS AND STILLS
+- BS-001 v2b (set hash 6641d5b3304f8a32): W 0 DIFF; S ok after redraw of slides 3 and 6. G reviewed the EARLIER v2 (HOLD on slides 3 and 6); the redrawn v2b has not gone back to Gemini. Outcome: Architect PASS. Unknown: no second-reviewer look at the two new drawings.
+- BS-002 v2 (set hash 752532694313fe73): W 0 DIFF; S ok; G PASS TO POST. Outcome: PASS.
+- BS-003 v2b (set hash 014c191073bfdbc2): W 0 DIFF; S ok after redraw of slides 4, 6, 7. G reviewed the earlier v2 (HOLD); v2b not re-sent. Outcome: Architect PASS. Unknown: as BS-001. Helper's own note: the crumpled-paper drawing on slide 7 is the least obvious one; I judged it readable.
+- Trend Report 1 (set hash a9dce2e1afde93a5): W 21 MATCH 0 DIFF; S ok; G PASS TO POST. Outcome: PASS for pictures. Still required: source recheck Thu Nov 19 with an explicit KEEP or PULL receipt against the two source claims. Until then: booked-but-conditional.
+- P1 (fd5c3d889d6e9fc7): W 0 DIFF (batch check 87 MATCH); S ok; G PASS. Outcome: PASS.
+- P2 (ab7c44248eb27270): W 0 DIFF (batch check 87 MATCH); S ok; G PASS. Outcome: PASS.
+- Q1 (0805fbccaafc3062): W 0 DIFF (batch check 87 MATCH); S ok; G PASS. Outcome: PASS.
+- Q2 (88d518542f843243): W 0 DIFF (batch check 87 MATCH); S ok; G PASS. Outcome: PASS.
+- T1, T2, T3: text only; words cleared by DOT; nothing to render.
+
+REELS (final encoded files, version 2)
+- R1 v2 (11b56f247db6c845), 11.50 s: T all 32 words match incl. the opening "It's" (first word now peak RMS 0.065 over 130 ms; before 0.032 over 60 ms); F ok: opening doubt is on screen from 0.0 s, voice starts 0.84 s, each line is fully visible within about 0.5 s of its spoken start, the gold wipe at about 2.2 s is a transition and both lines are readable before and after it; L -16.1 LUFS, peak -1.3 dBFS. The opening line is a different take joined in silence (level matched within 1 dB; line 1 measures about 220 Hz brighter than the original take). Unknown: nobody has LISTENED to the join; Gemini re-listen is owed and will be run with the L1 check. Outcome: Architect PASS on measurements, listening check open.
+- R2 v2 (08c0679531b5408e), 15.21 s: T all words match; F ok; L -16.2 LUFS, peak -1.2; G PASS on the same voice take before the level change (audio only). Picture stream bit-identical to v1. Outcome: PASS, with the listening caveat that the louder mix itself was checked by transcript and meter, not by ear.
+- R3 v2 (83806d62ab316914), 15.30 s: same as R2: T match; F ok; L -16.0 LUFS, peak -1.2; G PASS on the take before the level change. Outcome: PASS, same caveat.
+
+AI LABEL LINE ON THE REELS ("AI voice. AI-made visuals."): measured on the final frames at y 1446 to 1467 of 1920, x 353 to 719 of 1080, 30 px type. NOT verified in a real Facebook or Instagram preview; I have no phone preview tool. So whether the platform's caption area covers it is UNKNOWN. What is certain: each caption ends with "AI voice and AI-made visuals." and the Instagram AI flag is set at booking. I am asking MUSE to look at the first live Reel (R1, Wed Nov 18) on a phone and report whether the line is visible; if it is covered I move it up for week 2. This does not block release, because the disclosure does not depend on that line.
+
+SCHEDULE RISK: none today. First post is Tue Nov 17 12:15 PM ET (BS-001). Open items and their dates: Gemini re-listen of R1 (before Tue Nov 17 noon); Trend Report KEEP/PULL (Thu Nov 19); L1 render receipt (L1 is still building; slot Sat Nov 21).
