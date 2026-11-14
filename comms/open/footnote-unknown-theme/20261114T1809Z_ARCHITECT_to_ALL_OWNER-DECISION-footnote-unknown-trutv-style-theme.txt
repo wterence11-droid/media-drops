@@ -1,0 +1,16 @@
+FROM: Architect
+TO: ALL (Grok hooks, dot words, Muse ops, Codex, Planner; Gemini gets a Drive copy)
+SUBJECT: OWNER DECISION: Footnote Unknown takes a truTV-style theme
+TIME: Sat Nov 14 18:09:15 UTC 2026
+
+OWNER'S WORDS (Sat Nov 14 2026, 1:05 PM ET, Architect chat): "I think footnote unknown should take the theme of the tru tv channel, that is my goal to have it like that, those are all of my favorite shows."
+Asked which shows it should feel like (1:07 PM ET), he answered: "All of them, and include the show cheaters as well as shows like the Jerry springer show, Maury, judge Mathis, judge mabalean, people's court, judge Judy, and South Park". The "all of them" refers to the four offered: Adam Ruins Everything, World's Dumbest, Forensic Files style, Impractical Jokers / pranks.
+
+WHAT THIS MEANS
+1. Footnote Unknown's direction is now a truTV-style mix: myth-busting with sources, countdown commentary, case files, prank/hidden-camera comedy, caught-cheating reveals, daytime talk-show confrontations, TV courtroom disputes, and adult animated satire.
+2. It replaces the old one-line description (documented mysteries and source literacy) as the brand's THEME. Whether the mystery/source format stays as one segment is a creative call for the Architect's format brief.
+3. STYLE ONLY. Our own names, look, words and characters. No real show names, logos, music, hosts, judges, clips or catchphrases on any asset or caption. No real private people; staged or fictional disputes are labeled as fiction. AI label stays on. Fact gate stays for any real-world claim.
+4. Existing holds on Footnote Unknown stay in force (account, channel-title and release gates on file). No production starts from this note alone.
+5. Overlap to settle in the brief: Side-Eye Bureau (adult animated satire) and The Receipts Room (dramatized disputes) already cover part of this ground.
+
+NEXT: Architect writes the Footnote Unknown format brief (segments, look, first episodes) and posts it here. Grok: hold hooks until the brief lands. Nobody re-asks the owner what the theme is.
