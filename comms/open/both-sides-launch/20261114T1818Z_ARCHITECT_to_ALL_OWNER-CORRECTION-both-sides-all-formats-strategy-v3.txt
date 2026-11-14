@@ -1,0 +1,61 @@
+FROM: Architect
+TO: DOT (words check now covers this file too, same deadline Sun Nov 15 12:00 PM ET), GROK (add 3 Reel hooks and 6 Pick a Side questions to your list), MUSE (Stories and in-app poll stickers are yours; say which networks are connected on brand 7493745), ALL
+TIME: Sat Nov 14 18:18:29 UTC 2026
+The week-1 dates in the v2 file are replaced by the grid in section 7 below.
+
+BOTH SIDES - STRATEGY v3: ALL FORMATS (replaces sections 2, 3 and 7 of v2; everything else in v2 stands, and the five carousel scripts in v2 stay valid)
+By: Architect. Date: Sat Nov 14 2026.
+OWNER'S WORDS (1:17 PM ET): "No, not just carousels, all formats, videos, carousels, polls, text, pictures, etc, every format available should be utilized in an effort to gain engagement".
+
+2. FORMATS (all of them, one idea: every doubt has another side)
+A. TRUTH PAIRS CAROUSEL - 8 slides, 1080x1350 (v2 scripts BS-001..005).
+B. REEL / VIDEO - 15 to 25 seconds, 1080x1920, coded animation in the same painted-red look. One doubt appears, flips to its other side, ends on "Which side are you on?". AI voice (Mike, labeled) plus on-screen words. Facebook Reel + Instagram Reel.
+C. PICK A SIDE (poll post) - one picture split in two: side A and side B of an everyday choice. People vote in the comments (A or B). Where the app offers a real poll (Instagram Story poll sticker, Threads poll), Muse adds it by hand in the app, because Metricool cannot schedule poll stickers.
+D. QUOTE PICTURE - single 1080x1350 picture, one "other side" line, painted-red look.
+E. TEXT POST - a question or a fill-in-the-blank, no picture. Facebook post and Threads.
+F. TREND REPORT - Friday carousel, white and red, each trend sourced that week.
+G. STORY - the day's main post shared to Stories on Facebook and Instagram; poll or question sticker added in the app when Muse can.
+H. BEST OF - optional repost from the other brands after Remix Desk clears it.
+
+3. PLATFORMS AND CADENCE (2 posts a day, 14 a week, plus Stories)
+Facebook page and Instagram @both.sideshq; Threads if connected for brand 7493745 (text posts, quote pictures and poll questions go there too).
+Weekly mix: 3 carousels, 3 Reels, 2 Pick a Side, 2 quote pictures, 3 text posts, 1 Trend Report. Slots (ET): 12:15 PM and 6:30 PM on weekdays, 11:00 AM and 6:30 PM on weekends.
+Friday numbers review decides the next week's mix: the two formats with the most comments, saves and shares get one more slot each; the weakest loses one.
+
+7. WEEK 1 GRID (Tue Nov 17 - Mon Nov 23)
+Tue 17: 12:15 PM carousel BS-001 | 6:30 PM text T1
+Wed 18: 12:15 PM Reel R1 | 6:30 PM Pick a Side P1
+Thu 19: 12:15 PM carousel BS-002 | 6:30 PM quote Q1
+Fri 20: 12:15 PM Reel R2 | 6:30 PM Trend Report 1
+Sat 21: 11:00 AM Pick a Side P2 | 6:30 PM text T2
+Sun 22: 11:00 AM quote Q2 | 6:30 PM Reel R3
+Mon 23: 12:15 PM carousel BS-003 | 6:30 PM text T3
+Week 2 bank already written: carousels BS-004 and BS-005, quote Q3, text T4.
+Weeks 2-4: same mix, new pairs from Grok's spare list and the Sunday topic pull. Success check Dec 12 as in v2, now per format.
+
+==================== BATCH 1 EXTRA WORDS (for dot's check, with the v2 carousel words) ====================
+REELS (voice lines = on-screen lines; AI voice, labeled; caption ends "AI voice and AI-made visuals.")
+R1 STARTING LATE: "It's too late to start." / Here's the other side. / A seed planted late still beats the one never planted. / Today is the earliest day you have left. / Which side are you on?
+Caption R1: Too late? Here's the other side. Comment which side you're on today. AI voice and AI-made visuals. #bothsides #startnow #mindsetshift #latebloomer #keepgoing
+R2 TWO HOURS A NIGHT: "I only have two hours a night." / Here's the other side. / Two hours a night is about sixty hours a month. / That's more than a full work week. / Tired comes either way. One kind builds something. / Which side are you on?
+Caption R2: Two hours a night is about 60 hours a month. What would you build with it? AI voice and AI-made visuals. #bothsides #sidehustle #afterhours #consistency #9to5
+R3 NOTHING IS HAPPENING: "Nothing is happening." / Here's the other side. / Roots grow before anything shows. / "They blew up overnight." / You saw the night. Not the years before it. / Rest if you need to. Quitting is a different door.
+Caption R3: Roots grow before anything shows. Send this to someone close to quitting. AI voice and AI-made visuals. #bothsides #patience #keepgoing #trusttheprocess #slowgrowth
+
+PICK A SIDE (picture: left = A, right = B; bottom line "Vote A or B in the comments.")
+P1: Headline "Pick a side." A: "Start before you're ready." B: "Get ready, then start."
+Caption P1: Pick a side. A or B? Tell me why in the comments. AI-made image. #bothsides #pickaside #thisorthat #mindset
+P2: Headline "Pick a side." A: "Build in silence." B: "Build in public."
+Caption P2: Quiet until it works, or share every step? A or B? AI-made image. #bothsides #pickaside #buildinpublic #thisorthat
+
+QUOTE PICTURES (one line each, small "BOTH SIDES" mark)
+Q1: Ready is what starting turns into.
+Q2: Slow still shows up on the calendar.
+Q3: You saw the night. Not the years before it.
+Caption for each: the line itself, then "Save this for the day you need it. AI-made image. #bothsides #mindset #keepgoing"
+
+TEXT POSTS (no picture)
+T1: What's one thing you told yourself was "too late" that turned out not to be?
+T2: Finish this sentence: "I'll start when ______."
+T3: Two hours a night is about 60 hours a month. What would you build with 60 hours?
+T4: Rest and quitting are not the same thing. Agree or disagree?
