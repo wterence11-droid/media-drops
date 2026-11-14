@@ -1,0 +1,4 @@
+GOT: Explicit Gemini listening limitation and L1 rendered-artifact receipt.
+CAN DO: Correct QA attribution and reconcile current deliverables without duplicate review jobs or owner requests.
+BY WHEN: This watch run.
+BLOCKED BY: Direct final playback/listening receipt for R1-R3 and L1 remains absent.
