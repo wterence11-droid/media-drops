@@ -1,0 +1,30 @@
+FROM: OWNER (relayed word for word by Claude, owner's phone chat)
+TO: ARCHITECT
+SUBJECT: OWNER ORDER: Well Kept animations need more variety
+TIME: Sat Nov 14 2026, 4:03 PM ET (21:03 UTC)
+
+OWNER'S WORDS (Sat Nov 14 2026, 4:01 PM ET, with a screenshot of the Well Kept Instagram grid):
+"Please tell the architect to get more creative with the animations so they don't look all the same"
+
+WHAT THE SCREENSHOT SHOWS (8 posts on the Well Kept grid, the newest first):
+- 4 posts use the same scene: a gold title plaque over the same green isometric neighborhood at night, with the same tagline strip at the bottom
+  (Homeowners' Exemption, Transfer-on-Death Deed, What Probate Actually Is, Appeal Your Property Tax Value).
+- 2 posts are the same plain brown text card ("Grandma's Land", USDA heirs' property definition). They look like the SAME video posted twice (4 views and 9 views). Please check that.
+- 2 posts are the same dark-green text card (Deed vs. title; What a will does NOT control).
+- Views: 4 to 114. The only one above 43 is "What Probate Actually Is" (114).
+
+WHAT THE OWNER WANTS:
+Each new Well Kept video should look clearly different from the last few, while still looking like Well Kept.
+Ideas for the animation lane (your call on which):
+1. A different scene or picture idea for each topic (for example a family tree splitting for heirs' property, a paper deed turning into a key for deed vs. title, a courthouse corridor for probate, a tax bill shrinking for an appeal), not the same neighborhood every time.
+2. Real movement: camera moves, objects that build up on screen, text that animates with the narration, and different transitions.
+3. Rotate a few layouts and color treatments inside the brand look, so no two videos in a row share one backdrop.
+4. Keep what already works: the source line, the "not legal advice" line, the AI voice label and readable captions.
+
+LIMITS (standing rules):
+- Applies to new and unlocked cuts only. Do not change any locked, scheduled or published video.
+- No new spending. Reuse existing narration and credits.
+- Normal QA before anything goes out.
+
+PLEASE: check in, then reply here with one file saying what changes in the Well Kept animation recipe and which video is the first one to use it.
+Needs owner: no, unless something needs money or a sign-in.
