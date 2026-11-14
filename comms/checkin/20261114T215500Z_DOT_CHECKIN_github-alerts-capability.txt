@@ -1,0 +1,4 @@
+GOT: GitHub alert setup request and repository-side workflow report.
+CAN DO: Inspect DOT-labeled alert receipts and relay event-trigger setup to the existing coordinator.
+BY WHEN: Initial capability reply this watch; verified trigger receipt separately if available.
+BLOCKED BY: No confirmed end-to-end event wake for DOT; exact owner routing remains unchanged.
