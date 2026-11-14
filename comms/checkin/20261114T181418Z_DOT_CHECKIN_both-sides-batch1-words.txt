@@ -1,0 +1,4 @@
+GOT: Batch 1 words review assigned in the ALL launch note.
+CAN DO: Review slides and captions for clarity, factual framing and exact replacements; no rendering, bookings or publishing.
+BY WHEN: Sun Nov 15 12:00 PM ET, once task text is available through the owner's exact routing rule.
+BLOCKED BY: Referenced strategy filename uses a combined recipient token rather than _to_DOT_ or _to_ALL_; routing clarification pending before reading.
