@@ -1,4 +1,4 @@
-import raw from '../config.json';
+import raw from '../captions.json';
 
 export type CaptionStyle = {
 	font: string;
@@ -42,10 +42,14 @@ export const config = raw as VisualizerConfig;
 export const WIDTH = 1080;
 export const HEIGHT = 1920;
 
-// --- Settings that config.json has no field for -------------------------
+// --- Settings that captions.json has no field for -----------------------
 
-/** Black screen + opening squeegee drag before the audio starts. 0 = audio starts on frame 1. */
-export const LEAD_IN_SEC = 0.8;
+/**
+ * Seconds of black screen + opening drag before the audio starts.
+ * At 0, every time in captions.json is also the time in the video. Raising it
+ * delays the audio, captions and effects together, so they stay in sync.
+ */
+export const LEAD_IN_SEC = 0;
 
 /** Longer captions are split into screens of at most this many words. */
 export const MAX_WORDS_PER_SCREEN = 3;

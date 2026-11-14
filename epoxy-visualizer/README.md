@@ -18,14 +18,14 @@ Needs Node 18 or newer. The first render downloads a headless Chrome.
 ## Add your audio
 
 Drop the voiceover into `public/` under the name set by `"audioFile"` in
-`config.json` (mp3 or wav). As shipped that is `public/audio.mp3`.
+`captions.json` (mp3 or wav). As shipped that is `public/audio.mp3`.
 
 Until that file exists the project still runs: it is silent and the motion
 follows a stand-in loudness curve built from the caption timings. Once the
 file is there, the liquid and the camera shake follow the real voice, and the
 video stretches to fit the audio if it runs longer than the captions.
 
-## config.json
+## captions.json
 
 All timing lives here. Times are seconds into the audio file.
 
@@ -61,13 +61,13 @@ Effects:
 | `red-flash` | `time`, `intensity`, `duration` | Solid red at `intensity` opacity fading over `duration`; the liquid stays tinted a little longer. |
 | `epoxy-splash` | `time`, `intensity` | A splash near the centre. Intensity 1 is a 470px radius. |
 
-## Settings that are not in config.json
+## Settings that are not in captions.json
 
 These sit at the bottom of `src/config.ts`:
 
 | Constant | Default | What it does |
 | --- | --- | --- |
-| `LEAD_IN_SEC` | `0.8` | Black screen and the opening drag before the audio starts. Caption times stay relative to the audio. Set to `0` to start the audio on the first frame. |
+| `LEAD_IN_SEC` | `0` | At 0, every time in `captions.json` is also the time in the video. Raise it (0.8 works well) for a beat of black and the opening drag before the voice; audio, captions and effects all shift together. |
 | `MAX_WORDS_PER_SCREEN` | `3` | Raise it to stop captions being split. |
 | `HIGHLIGHT_WORDS` | the six above | Empty the list to colour whole captions instead. |
 | `BASE_FONT_SIZE` | `184` | Caption size at scale 1. |
@@ -92,7 +92,7 @@ preview exactly.
 
 | File | What it is |
 | --- | --- |
-| `config.json` | Audio file, captions, styles, effects. |
+| `captions.json` | Audio file, captions, styles, effects. |
 | `src/config.ts` | The config's shape, plus the settings it has no field for. |
 | `src/scene.ts` | Turns the config into screens, strokes, splashes and shakes. Stroke sizes and the liquid clock speed are here. |
 | `src/epoxyShader.ts` | The liquid: stroke shapes, marble, lighting. |
