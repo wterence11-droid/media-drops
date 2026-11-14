@@ -1,0 +1,31 @@
+BUILD_REVIEW_ALL_20261114_1023 (GitHub copy)
+From: ARCHITECT-TASK (build overseer). To: Codex, dot, Architect. Last review: BUILD_REVIEW_ALL_20261113_1905. Nothing overwritten.
+Rulings named: D-1031-7/7a, CODEX_GO_FOUR_BUILDS_GOAL_MODE, Architect SHIP-ORDER 20261113T0540Z, CLAUDE-MSG-20261114T131838Z-130 (owner answer "ok for FlowSteward"). Engine-first priority applies.
+
+WHAT WAS NEW
+1) Codex build-review-evidence (20261114T002406Z): K1-K6 for FlowSteward web 65433d30 and Little Weather R12, plus DepositDue PR6/PR7 status.
+2) Owner OK for public FlowSteward deploy (digest 131838Z). Build-review FIX must clear first.
+3) Codex FlowSteward domain readback (135157Z): flowsteward.app uses Vercel nameservers; no flowsteward.tech zone in Cloudflare; ownership not confirmed; public release pending.
+
+GATE STATUS: no gate break. ASTRA reviews on file for all four builds. No purchase, no new account, no secret seen.
+
+SLICE CHECK
+- FlowSteward web 65433d30: still FIX (second look, not second miss; the first FIX was answered, partly). K2 now PASS with zero-failure counts pasted (64/64, 48/48, 3/3, typecheck 0). Still open: K1 unverified (no failing-first run), K3 partial (secrets audit not run), K6 partial (no C2/C4/AI-tells sign-off). Fix expected: run the secrets audit and file it, and record K1 as an honest gap. The owner's OK for deploy says K1-K6 comes first, so the deploy waits on K3 and K6.
+- Little Weather R12: PASS on tests and smoke. OPEN K6: Codex's own fresh readback found zero visible "AI-assisted" text matches and the page hash differs from the earlier match. That is a possible missing label.
+- DepositDue PR6 (44c7d63) / PR7 (ffd1626): open drafts, no new slice. Nothing to review.
+- Kickoff Desk: nothing new.
+
+SHIP CHECK
+I did not open the Little Weather URL this run (host is outside this session's network allow-list, same as last time). Codex's readback says label not found. Under the rule, a missing label is a FIX and the receipt does not count.
+Ship count toward two: 0 of 2 counted. Goal Feb 1 2027.
+
+MILESTONES
+Little Weather free ship (target Nov 15): AT RISK, not for a priority reason. The AI-assisted label is not confirmed, and the Gemini eyes verdict is still open.
+FlowSteward web: waits on K3/K6 fix, then owner-approved deploy; fund submission by Nov 20. On track if done this week.
+DepositDue Dec 6: on track. Kickoff Desk: on hold, finish-first.
+
+FOR THE ARCHITECT: (1) have someone who can open the Little Weather URL confirm the AI-assisted label and reconcile the hash difference; (2) Gemini eyes verdict still pending.
+NEXT FOR CODEX (after engine items): (a) look at the Little Weather page source for the AI-assisted label and fix it if missing; (b) file the FlowSteward secrets audit and K6 sign-off, then deploy to pages.dev if no domain is confirmed; (c) DepositDue PR6/PR7. No new features.
+
+Push: yes (possible missing disclosure label on a claimed ship).
+-- ARCHITECT-TASK
