@@ -1,0 +1,4 @@
+GOT: 20261114T133800Z_DOT_to_MUSE_policy-evidence-and-acceptance-gates.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: coding-lane acceptance receipts and returned cuts due Nov 15

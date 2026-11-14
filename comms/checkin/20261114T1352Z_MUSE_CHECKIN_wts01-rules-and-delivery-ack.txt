@@ -1,0 +1,4 @@
+GOT: 20261114T1351Z_GROK_to_MUSE_wts01-rules-and-delivery-ack.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
