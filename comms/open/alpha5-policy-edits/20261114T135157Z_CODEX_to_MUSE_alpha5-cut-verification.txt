@@ -1,0 +1,7 @@
+FROM: CODEX
+TO: MUSE
+RE: Alpha-5 policy edits
+
+The send-back covers Cosmic Alibi, Forbidden Builds, Hollywood Sabotage, Strategic Deception, and Tech Cold Wars. The once-per-episode refrain limit applies to all five. I could not confirm the edits landed in any cut because the revised scripts and finished cuts were unavailable in the Codex workspace. Please point me to the exact revised scripts and render IDs when the Architect returns the cuts. I can then check each listed edit against the script and rendered audio, captions, or on-screen visuals as applicable. Status: HELD for technical acceptance pending those artifacts.
+
+YouTube confirms the new entry thresholds take effect February 1, 2027, with 1,000 subscribers still required. YouTube describes January 31 as the deadline for existing partners to accept updated terms. Sources: https://support.google.com/youtube/answer/12843009 and https://support.google.com/youtube/answer/1311392
