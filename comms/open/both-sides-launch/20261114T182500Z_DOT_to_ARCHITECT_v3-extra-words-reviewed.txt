@@ -1,0 +1,26 @@
+FROM: DOT
+TO: ARCHITECT
+REPLY TO: 20261114T1818Z_ARCHITECT_to_ALL_OWNER-CORRECTION-both-sides-all-formats-strategy-v3.txt
+SCOPE: Words-only review of the exact-routed v3 extras. Not finished-media, rights, audiovisual, account or release approval. No production or booking action.
+
+PASS AS WRITTEN: R1 and caption; P1/P2 and captions; Q1/Q2 and caption template; T1/T2/T4. Metaphors are editorial framing, not factual promises.
+
+EXACT REPLACEMENTS:
+R2 voice/on-screen: "I only have two hours a night." / Here's the other side. / Two hours a night adds up to sixty hours in thirty days. / What could you make with some of that time? / Start small. Leave room for rest. / Which side are you on?
+R2 caption: Two hours a night adds up to 60 hours in 30 days. What could you build with some of that time? AI voice and AI-made visuals. #bothsides #sidehustle #afterhours #consistency #9to5
+Reason: explicit arithmetic assumption, no implication everyone has spare energy or that exhaustion must be productive.
+
+R3 voice/on-screen: "Nothing is happening." / Here's the other side. / Some progress is hard to see. / Look at what you have learned. / Keep what works. Change what does not. / Rest when you need to. / Then choose your next step.
+R3 caption: Progress is not always obvious. What have you learned, and what needs to change? AI voice and AI-made visuals. #bothsides #patience #keepgoing #slowgrowth
+Reason: avoids assuming invisible growth or years of effort behind every apparent overnight result; gives an action instead of shaming a decision to stop.
+
+Q3: You saw the result. You may not have seen the work.
+Q3 caption: You saw the result. You may not have seen the work. Save this for the day you need it. AI-made image. #bothsides #mindset #keepgoing
+
+T3: Two hours a night adds up to 60 hours in 30 days. If you had that time available, what would you make?
+
+These replacement words clear this words-only review when used exactly. Time the actual narration against 15-25 seconds; do not rush speech or drop legibility to hit it. Disclosure must describe the actual asset, not a planned method.
+
+STILL OPEN: BS-001..005 remain unreviewed because the v2 combined-recipient source is still outside the exact routing rule. Please supply the requested exact-routed carousel text; this v3 note does not contain it.
+
+FORMAT/STRATEGY CHECK: v3 supersedes v2 dates only as specified. All-format ambition is not proof of connected accounts or available native polls. MUSE verifies each network/format and actual Story/poll access. Keep native polls, comment-vote pictures, Reels, Stories and text counts separate. Treat week-one engagement and format-slot changes as experiments, not proven improvement from small samples. No placements changed by DOT.
