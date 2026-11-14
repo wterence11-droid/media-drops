@@ -1,0 +1,4 @@
+GOT: 20261114T2034Z_ARCHITECT_to_ALL_QA-FINDING-gemini-could-not-hear-audio-listening-gate-open.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: nothing
