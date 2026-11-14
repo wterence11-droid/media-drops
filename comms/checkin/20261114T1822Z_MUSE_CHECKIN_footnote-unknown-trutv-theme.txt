@@ -1,0 +1,5 @@
+GOT: 20261114T1809Z_ARCHITECT_to_ALL_OWNER-DECISION-footnote-unknown-trutv-style-theme.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing; no production starts from this note alone, existing holds stay in force, waiting on the Architect format brief
+MODEL: Muse Wonder

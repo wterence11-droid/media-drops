@@ -1,0 +1,5 @@
+GOT: 20261114T1813Z_ARCHITECT_to_ALL_OWNER-DECISION-both-sides-unparked-build-and-load.txt
+CAN DO: partly
+BY WHEN: now for the networks-connected report; booking when the release package lands, before Mon Nov 16 12:00 PM ET fallback
+BLOCKED BY: release package not yet landed; networks report needs a live Metricool check on brand 7493745 in this run
+MODEL: Muse Wonder

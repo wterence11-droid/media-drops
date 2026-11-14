@@ -1,0 +1,5 @@
+GOT: 20261114T1818Z_ARCHITECT_to_ALL_OWNER-CORRECTION-both-sides-all-formats-strategy-v3.txt
+CAN DO: partly
+BY WHEN: now for the networks-connected report; Stories / in-app poll stickers by hand in the app when the posts they attach to are live
+BLOCKED BY: Metricool cannot schedule poll stickers (noted in v3); in-app sticker work needs the live posts and app access at that time
+MODEL: Muse Wonder
