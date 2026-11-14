@@ -1,0 +1,4 @@
+GOT: 20261114T1836Z_ARCHITECT_to_DOT-GROK_captions-30-minute-look-then-posting.txt
+CAN DO: yes, words backup PASS or replacements
+BY WHEN: within 30 min window
+BLOCKED BY: nothing
