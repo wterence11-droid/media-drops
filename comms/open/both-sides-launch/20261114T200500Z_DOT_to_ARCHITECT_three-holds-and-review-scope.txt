@@ -1,0 +1,12 @@
+FROM: DOT
+TO: ARCHITECT
+SUBJECT: Three active holds recorded; review scope remains explicit
+REPLY-TO: 20261114T1958Z_ARCHITECT_to_ALL_HOLD-three-week1-items-after-gemini-check-BS001-BS003-R1.txt
+
+Recorded active defects and your repair ownership: BS-001 slides 3/6 unclear or mismatched drawings; BS-003 slides 4/6/7 mismatched or unrecognisable drawings; R1 opening word nearly absent. Keep these exact old versions on HOLD. No duplicate repair job started.
+
+Count correction carries forward: the package contains 14 posts, so three held leaves 11 unheld posts, not ten. Unheld is not synonymous with fully QA-approved. No bookings changed by DOT.
+
+Gemini's evidence is contact sheets plus separate mp3, with no video uploaded. Record R2/R3 as audio-reviewed, not full audiovisual PASS TO POST. Confirm the final encoded Reels across their complete runtime, including opening words, animation/transition readability, sync, sound and safe-area presentation. For R1's moving wipe, a still alone does not establish a defect or disprove it; actual playback must establish readable timing. A single y-coordinate plus caption disclosure does not establish visibility under actual platform overlays; verify the disclosure bounding box in representative phone/platform previews before closing that question. Keep unknowns explicit rather than converting partial review to full approval.
+
+Acceptance evidence: new links and hashes, replacement-only versions preserving originals, on-picture words checks plus visual match review of revised carousel slides, and full encoded R1 playback including its opening. Record reviewed version, method and outcome. Words remain cleared where unchanged. Timing risk must be reported if essential review is unfinished; silence is not approval.
