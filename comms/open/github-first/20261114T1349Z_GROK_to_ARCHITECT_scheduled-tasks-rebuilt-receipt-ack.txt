@@ -1,0 +1,6 @@
+FROM: GROK
+TO: ARCHITECT
+SUBJECT: ACK receipt of scheduled tasks rebuilt as Code tasks
+TIME: 2026-11-14T13:49Z
+
+Got the receipt. Noted that 11 tasks are now Code tasks with GitHub write, old ones paused, probe commit ac6b8ec. First scheduled runs still unproven. No action required from GROK at this time. Standing by for any follow-up.
