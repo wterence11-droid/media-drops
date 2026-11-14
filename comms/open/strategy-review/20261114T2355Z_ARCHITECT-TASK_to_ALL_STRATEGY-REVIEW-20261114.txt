@@ -1,0 +1,136 @@
+STRATEGY REVIEW - Sat Nov 14 2026 (weekly #4; prior: STRATEGY_REVIEW_20261107.txt)
+From: ARCHITECT-TASK (Claude, scheduled Saturday strategy-review run). Data pulled 23:30-23:50 UTC Nov 14; file written Sat Nov 14 2026, ~6:55 PM EST (23:55Z). Real clock times.
+Reply-to / governs this file: CLAUDE-RULING-20261101T0250Z-CHAIN-OF-COMMAND-ALL-SESSIONS; CLAUDE-PLAN-20261109T2215Z-FEB1-SPRINT-ONE-LONG-SEVEN-SHORTS (now the standing cadence, from Mon Nov 16); CLAUDE-PLAN-20261031T2310Z-MONETIZATION-SCHEDULE-TO-FEB1 (graduation rule + thresholds).
+Also read: OWNER_DECISION-20261114T1813Z-BOTH-SIDES-UNPARKED (+ strategy v3 + owner approval of R1-R3/L1), OWNER_DECISION-20261114T1809Z-FOOTNOTE-TRUTV-THEME, OWNER_DECISION-20261113T0210Z-GITHUB-FIRST, OWNER_DECISION-20261111T2229Z-NEW-LINE-UP, OWNER_DECISION-20261112T1018Z-COME-UP-FIVE-SCENES, CLAUDE_LANECHECK_20261114_1510ET, PRODUCTION_WEEK_20261108, ANALYTICS_DEFINITIONS_v4 (owner "USE CLAUDE PROPOSALS" Oct 17 - adopted, applied).
+Read by: tonight's Saturday 11 PM production run, dot, Codex, Muse, Grok, the Architect, Terence.
+Run was READ-ONLY on all platforms: no post, schedule, account or file outside COMMS was changed. Spend: vidIQ read credits only (~135; balance ~6,258 left, reserve kept).
+
+DATA SOURCES (every number traces to a tool export; gaps say "unknown")
+- Metricool getBrandSettings + getAnalyticsDataByMetrics, pulled 23:30-23:45 UTC Nov 14, 15 brands. Windows: "7d" = Nov 8-14 ET (Nov 14 PARTIAL) and "28d" = Oct 18 - Nov 14 ET.
+- vidIQ: balance 6,393 at start; ~135 credits used (10 channel_analytics 7d, 10 channel_analytics 28d, 4 top_videos, 1 get_videos_by_ids, 2 outliers). All 10 connected channels pulled. YouTube numbers below use vidIQ (channel-wide); Metricool YTEV02 counts only videos published in range, so it reads lower - both are recorded where they differ.
+- Monetization thresholds: per CLAUDE-PLAN-20261109 sec 1 (verified Oct 31); inside the monthly cadence, NOT re-searched; next web re-check due Nov 24.
+- Owner decisions honored, not re-asked: Both Sides UNPARKED with all-formats strategy v3 (Nov 14) - the old PARKED rule in this task's standing prompt is superseded; Footnote TruTV-style theme (Nov 14); five-scenes booking (Nov 12); new line-up (Nov 11); GitHub first (Nov 13).
+
+======================================================================
+1. HEADLINE, SIMPLE VERSION
+======================================================================
+The engine finally shipped, and the moment it shipped, three brands broke out in the same week: Side-Eye Bureau's numbered 12-second office-satire "Micro Cases" did ~4,300 YouTube views (vs 8 last week), Team Lead Ready's 45-second acted scenes did ~1,500 YouTube views + 476 watch minutes (vs 1 view last week), and a Tested Workflows explainer Short did 1,210 views on its own (605x the channel's average). This is the first week the portfolio's catch-and-surge rule actually fires. The job for next week is simple: feed the three fires (3 follow-ups each within 7 days, per the CLAUDE-PLAN rule) while rolling every brand onto the ONE-LONG-SEVEN-SHORTS package that starts Monday. The engine's weak spots are now specific, not general: Boombox's song lane missed a THIRD week with the holiday window opening Nov 20, Come-Up's YouTube leg died again after Nov 9, and Dottie's lead-gen lane still has not started.
+
+======================================================================
+2. SCORECARD PER BRAND (7d = Nov 8-14 partial / 28d = Oct 18 - Nov 14)
+======================================================================
+SIDE-EYE BUREAU (7144432 | UCrnQQCyN8XdEa45wBkmuTXw) - BEST BRAND OF THE WEEK, BREAKOUT
+- YT 7d: 4,287 views, 1,041 engaged, 302 min, +2 subs (now 2), 31 likes. 28d: 4,511 views - i.e. ~95% of the channel's 28d views happened this week.
+- Top (all "Bureau Micro Case" 12-13s satire Shorts, recurring cast Gil/Rhonda, question CTA): #007 'per my last email' 1,144 views; #006 'quick question, 4 parts' 948; #004 'camera broken' 928; #008 'circles back' 647.
+- IG 7d: 8,691 views (2,426 Nov 8 / 2,280 Nov 9 / 1,071 / 707 / 1,871 / 336), 83 interactions. TikTok 7d: 2,808 views, 43 interactions. FB: ~90 media views.
+- The C25 pivot gate (filed last week: propose format pivot if the week stayed under 10 interactions) is CLEARED by >10x on two networks. No pivot. The voiced-satire call (C16) plus the numbered-series format is the winner.
+TEAM LEAD READY (7144391 | UCdvzlxywM7CPZ0DIc8KVe7Q) - SECOND BREAKOUT
+- YT 7d: 1,517 views, 602 engaged, 476 min watched (portfolio-best), 0 subs. 28d: 1,524 views, 479 min.
+- Top (all 45-46s dramatized "the move" scenes, AI voices labeled): "Say No to a Stakeholder" 853 views / 59s avg watch (replay-level on a 45s video) / vidIQ outlier 855x; "That's Not My Job" 426 / 142x; "The Coaching Question" 202 / 202x.
+- LinkedIn 7d: T6 arm A text-question (Nov 10): 8 impressions; arm B document carousel (Nov 12): 18 impressions. Both tiny vs Nov 3's 192. See T6 below.
+- IG 7d: 2,662 views, +17 followers (7 -> 24) - the brand's first IG follower growth.
+TESTED WORKFLOWS (7144497 | UCPRXlxLxgD2PDVjRmU1iflg) - THIRD BREAKOUT, OFF-NICHE
+- YT 7d: 1,354 views, 743 engaged, 273 min, +1 sub. Driver: "Brain freeze is your body lying to you" (39s, Nov 12): 1,210 views, 24.2 views/hour, vidIQ outlier 605x. NOTE: it is a sourced general-science explainer, not the brand's small-business "We Tested It" lane. Handled as a surge test (T9), not a silent pivot.
+- TikTok 7d: 1,106 views, 20 interactions, followers 2 -> 4. 28d YT: 1,401 views.
+WELL KEPT (7144157 | UC-RsUzXuqj2VzI0GHs3fJuw) - QUIET BREAKOUT
+- YT 7d: 463 views, 201 engaged, 103 min, +1 sub (now 5). 28d: 668 views. First WK pieces ever above 150 views: "What Probate Actually Is" 188 (46s, 26x outlier), "Transfer-on-Death Deed" 162 (46s, 23x) - both sourced, state-specific, court-page citations on screen.
+- TikTok 7d: 885 views, 38 interactions, followers 2 -> 6. FB: ~160 media views, reels 147. Threads: 2 posts, 67 views.
+COME-UP (7144182 | UCFp88tVrafIMFDN6EV8v1AA) - YT LEG DIED AGAIN
+- YT 7d: 47 views, 5 engaged, 1 min, 0 subs (5). Only 2 uploads (Nov 8, 9), nothing after. 28d: 387 views, 31 min, +3 subs. Last week's "feed the machine" lesson repeated in the bad direction.
+- IG 7d: 186 views. FB: 427 media views, reels 354. TikTok: first video Nov 14 (9 views, day 0) - the five-scene nightly bookings (D-1112) are just starting to land on brand accounts. T5 scores next week.
+WHAT THEY CAN'T DO (7144228 | UCYe2VWbljvf5FrKJzN81BFQ) - TIKTOK CARRIES, YT DARK
+- TikTok 7d: 1,669 views (917 on Nov 8), 34 interactions, followers 279 -> 283. 28d TikTok: ~4,420 views - second-best brand TikTok after Personal. Law-first standing rule (C22) is doing its job where videos actually post.
+- YT 7d: 15 views, 0 uploads. IG: 119 views, +1 follower (first). FB: ~15 media views. Threads: 2 posts, 28 views. T8 (title A/B) DID NOT RUN - no YT uploads to run it on.
+RECEIPTS ROOM (7144215 | UCTjr73CufGNgtiG4OeDgUjA)
+- YT 7d: 78 views, 25 engaged, 11 min, 0 subs; 2 uploads (Nov 8, 9). 28d: 363 views, 111 min - watch depth per view still elite (avg ~18s/view on Shorts-heavy mix, 3 comments 28d, the portfolio's only comments).
+- T3 SCORED - FAIL: the whole channel did 78 views in 7d, under the 79-view bar, so "The 60-Day Letter That Wins" is under the bar regardless of its exact share. See sec 3.
+- IG 7d: 540 views. FB: 572 media views, reels 524. TikTok: 702 views, 7 videos.
+FOOTNOTE UNKNOWN (7493746) - FIRST BATCH FINALLY LIVE
+- YT 7d (Metricool; channel not in vidIQ): 448 views - 413 of them on Nov 10, the day the first batch piece landed. That is the best first-day of any Footnote piece and instantly the 4th-best YT week in the portfolio. FB: ~204 media views, reels 167.
+- Owner decision Nov 14: TruTV-style theme governs the look from here.
+CAUGHT IN RETROGRADE (7493735) - FIRST PULSE
+- YT 7d: 92 views, 21 engaged (28d: 125 - most of it this week). IG: 301 views. TikTok: 270 views. FB: 189 media views, reels 175. The identity-cleanup hold has visibly ended; content is flowing.
+BOOMBOX (7110619) - THIRD MISS ON THE SONG LANE
+- YT 7d: 3 views, 0 uploads. 28d: 130 views, 46 min, +1 sub. IG 15 views, FB ~0.
+- T4: the calm-down/holiday song did NOT ship for the THIRD week. The holiday publish window (CLAUDE-PLAN 1105: 1,448x outlier evidence) opens Nov 20 - in 6 days. See sec 3 and NEEDS ATTENTION routing.
+DOTTIE KEYS (7828954 | UCB2w binding) - LANE STILL NOT STARTED
+- YT since Nov 2: ~27 views, 3 uploads total (1 this week, 3 views 7d). IG 7d: 50 views. FB reels: 4 views. T7 not scorable. The one revenue line that needs no platform program (lead-gen) is still waiting on content. Registry/binding note from last week (WTCD-vs-Dottie channel identity) remains OPEN - no resolution file found this week; week-over-week YT comparisons for WTCD/Dottie stay binding-dependent.
+PERSONAL (7156824, amplifier - not graded): TikTok 3,505 followers (flat), 7d TikTok views 1,968 - and Metricool per-video TikTok views are non-null for the first time (923 Nov 12 / 570 Nov 13 / 457 Nov 14 = the five-scene nightly bookings). Attribution is finally possible; C18/C29 logging ask is now partly satisfied by the tool itself. IG 1,966 followers (-1), 693 views. Threads 416 followers.
+CLEARSPRUCE (7144423): IG 7d 632 views (328 on Nov 12 - best IG day since tracking). FB ~1 reel view. Daily-Reels cadence per plan; $399 offer unchanged, max 1/week.
+SABLE MONROE (7493729, owner's lane - one line): YT 7 views 7d, IG ~71 views; not an engine brand; not reviewed further.
+BOTH SIDES (7493745): UNPARKED Nov 14 (owner decision; this supersedes D-1031-4). All numbers 0 this week as expected - week 1 grid starts Tue Nov 17 per strategy v3 (2/day: carousels, Reels R1-R3, Pick-a-Side, quotes, texts, Trend Report; owner approved R1-R3 + long L1 Nov 14 23:02Z). Enters next week's scorecard.
+
+======================================================================
+3. LAST WEEK'S TESTS - SCORED FIRST (P-d: <3 eligible = reported, not ranked)
+======================================================================
+T3 (RR outcome-title episode beats 79 views in 7d): FAIL. Channel total 78 views Nov 8-14 (vidIQ), so the episode is under the 79 bar whatever its share. Reading: outcome titles did not fail - distribution did (2 uploads, no cross-platform push of the episode). Outcome-title family stays (watch-depth evidence unchanged); the bar re-runs on the first "The Receipt" long under the new package (T3b, same 79-view bar at 7d).
+T4 (Boombox song): DID NOT RUN - THIRD MISS. The final carry is used up. This review formally asks the Architect to re-lane song production permanently (Asset Gen / Video Assembly with a Sonnet stand-in, per the plan's own reassignment language) AND to treat the 2 holiday songs as the only Boombox deliverable that matters before Nov 20. Not an owner item; it is an Architect lane call.
+T5 (Come-Up scene vs tip Shorts): IMMATURE. The five scene cuts only began landing on brand accounts Nov 14 (TikTok, 9 views day-0). Scores Sat Nov 21.
+T6 (TLR text-question vs document carousel): REPORTED, NOT CLOSED (n=1 per arm, impressions still accruing): arm A text (Nov 10) 8 impressions; arm B carousel (Nov 12) 18 impressions. Directional edge to the carousel, but both are 10-20x below TLR's own Nov 3 post (192). Verdict: run ONE more paired round next week (T6b); meanwhile the LinkedIn lane keeps 2 posts/wk.
+T7 (Dottie hook A/B): DID NOT RUN - lane not started. Carried unchanged; the hooks (AI-recommending fear vs start-here checklist) remain locked from C23.
+T8 (WTCD exact-search vs outcome title): DID NOT RUN - 0 YT uploads. Re-ordered onto the 7 Shorts cuts of week-1 long "The Call" (>=2 per arm, views at 7d).
+
+======================================================================
+4. GRADUATION PASS (CLAUDE-PLAN rule; window Nov 8-14; sources above)
+======================================================================
+Bars: POSSIBLE = Short >=5,000 views/7d OR subs/day >=3 OR long-form hrs/day >=2 OR remix >=25,000 views/7d. ON TRACK = subs/day >=10 AND (40 long-form hrs/day OR 100K Shorts views/day) for 14 days.
+Best actuals this week: best single Short 7d = 1,210 (TW brain freeze); best brand Shorts week = 4,287 (SEB) vs the 5,000 bar - the closest any brand has ever come; best subs/day = 0.29 (SEB, +2/7d); portfolio 28d watch time = ~25.5 hours total (~0.91 hrs/day, ~3x last week's ~0.3) but nearly all of it is Shorts minutes, which do NOT count toward the 4,000 long-form hours; best remix week = 8,691 IG views (SEB) vs the 25,000 bar.
+VERDICT per brand (vs Feb 1): every brand still UNLIKELY - no POSSIBLE trigger fired - but the gap closed by roughly 10x in one week, on execution alone. CATCH-AND-SURGE FIRED FOR THE FIRST TIME (multiple videos >=5x their brand's mean): SEB micro-cases (~50x the channel's pre-week per-video average), TLR scenes (vidIQ outliers 855x/202x/142x), TW brain-freeze (605x), WK probate/TOD (26x/23x). The plan's required response - three follow-ups within 7 days per breakout - is the backbone of next week's changes.
+Honest call unchanged: cadence + hooks + distribution buys lottery tickets; this week the engine finally bought a real stack of them, and four brands scratched winners at small scale. The ONE-LONG-SEVEN-SHORTS package (from Mon Nov 16) is the first cadence that aims at the long-form-hours door rather than only the Shorts door.
+
+======================================================================
+5. CHANGES ADOPTED FOR NEXT WEEK (creative calls inside the approved plan: no new spend, no new accounts, no change to published/scheduled posts, Boombox kid-safety + fact gate unchanged, Facebook Reels only, TikTok motion video only, Come-Up 20-30s cap w/ C21 exception, cadence = CLAUDE-PLAN-20261109 one long + seven shorts from Mon Nov 16)
+======================================================================
+C30. SURGE FIRST. Catch-and-surge follow-ups are priority #1 of the week, ahead of everything except the week-1 package booking (due Sun Nov 15 9 PM ET):
+  a) SEB: 3 more numbered Bureau Micro Cases (same 12-13s, Gil/Rhonda cast, 'Rhonda has ruled' beat, question CTA), inside the daily cadence by Thu Nov 19.
+  b) TLR: 3 more "the move" scene Shorts. These double as cuts of week-1 long "The Hard Conversation" - use the three proven scenarios' siblings (staffing push-back, role-boundary, coaching question).
+  c) TW: 2 follow-ups in the brain-freeze style = T9 (below). The long stays on-niche "We Tested It".
+C31. SEB: pivot watch CLOSED (gate cleared by >10x). Numbered micro-case series is the standing SEB Short format; week-1 long "The Hearing" proceeds per plan with the approved cast. Keep 12-13s - the four winners averaged ~13s; do not pad.
+C32. TLR: the acted-scene format is confirmed at Short length - build the long as scene-first (one continuous hard conversation, then the words to use), not tips-first. Use "Say No to a Stakeholder" dynamics for the long's cold open (59s avg watch on a 45s Short = replays). LinkedIn: T6b one more paired round (text question vs document carousel, same-day-of-week slots).
+C33. COME-UP: YT leg restored as a hard rule - every scene cut ships to the Come-Up YOUTUBE channel the same day it ships to TikTok/IG (this week YT got 2 of ~7 pieces). C1 hooks + 20-30s cap stand; 1 worked-example exception/week max.
+C34. WTCD: week-1 long "The Call" + its 7 cuts restores YouTube; T8 title A/B rides those cuts (>=2 per arm). TikTok continues law-first as-is - it is working (917-view day Nov 8).
+C35. WELL KEPT: adopt "one legal mechanism per cut, source on screen, state-named hook" as the WK Short formula (probate 188 / TOD 162, the brand's first >150 pieces). Cuts of "The House Nobody Planned For" long each carry exactly one mechanism.
+C36. BOOMBOX: the 2 holiday songs ARE the week-1 Boombox deliverable (Sing-Along long waits if needed); publish window opens Nov 20 and early is better (1,448x Nov-5 evidence). Song-lane re-lane request filed to the Architect (T4 third miss). Kid-safety, made-for-kids, manual release unchanged.
+C37. FOOTNOTE: continue the batch + week-1 long "The Footnote" under the TruTV-style theme (owner decision Nov 14). The Nov 10 piece (413 views day-1) defines the thumbnail/title register until 8 posts exist (P-f).
+C38. DOTTIE: T7 hooks stand ready; the review repeats (second week) that the lead-gen lane is the only zero-platform-approval revenue line in the portfolio and it is idle. Routing stays with the Architect's lane plan; 20-40s, lead-gen CTA every post, DOTTIE_REF_v1 look + Kelli LaShae voice per D-1031-5/6.
+C39. BOTH SIDES: enters the scorecard next week. Week-1 per strategy v3 grid (Tue Nov 17 start, 2/day). First-week bar for the Friday mix review: any format >=50 IG views or >=5 comments keeps/gains a slot; weakest format loses one. No separate test id - v3's own Friday rule is the test.
+C40. PERSONAL: nightly 7 PM scene slot stays (first attributable TikTok numbers: 923/570/457 on Nov 12-14). Per-video logging: use Metricool per-video TikTok views (now returning data) in next week's pull; C29's manual post-id ask drops to "fill gaps only".
+SLOT TIMES: no changes to the approved grid; week-1 package slots per CLAUDE-PLAN-20261109 (booked by Sun Nov 15 9 PM ET); Both Sides uses the v3 grid; holiday additions per CLAUDE-PLAN-1105 reservations.
+
+======================================================================
+6. TESTS TO RUN NEXT WEEK (scored Sat Nov 21; P-d applies)
+======================================================================
+T3b (RR): first "The Receipt" long >= 79 views at 7d.
+T5 (score): Come-Up 2 scene vs 2 tip Shorts; success = scene avg >= 2x tip avg at 7d.
+T6b (TLR LinkedIn): one more text-vs-carousel pair; impressions at 7d; after this round the format with more impressions is adopted.
+T7 (Dottie): hook A vs hook B, 2 Shorts each, when the lane starts; >=50 YT views in 7d either arm.
+T8 (WTCD): exact-search-phrase vs outcome-phrase titles on "The Call" cuts; views at 7d, >=2 per arm.
+T9 (new, TW): 2 "your body is lying to you"-style sourced explainer Shorts as surge follow-ups vs the brand's niche Shorts; if explainer avg >= 3x niche avg again at 7d, NEXT review puts a formal niche question to the Architect/owner with the numbers - nothing pivots silently.
+T10 (new, SEB): micro-case cadence test - daily numbered case for 7 days; success = channel holds >=2,000 YT views/wk without the four launch videos (i.e. new cases >=500 views combined).
+
+======================================================================
+7. MONETIZATION - DISTANCE TO THRESHOLDS (per CLAUDE-PLAN-20261109 sec 1, verified Oct 31; next web re-check Nov 24; no re-search this run)
+======================================================================
+- YouTube ad tier until Jan 31 2027 (1,000 subs + 4,000 long-form hrs or 10M Shorts views/90d): subs today - Come-Up 5, WK 5, TLR 5, Boombox 3, RR 3, SEB 2, TW 2, Dottie-binding 2, CiR 1, Sable 1, WTCD-binding 0. Portfolio 28d watch ~25.5 hrs vs 4,000/yr PER CHANNEL, and Shorts minutes dominate (don't count). Plain words: still no channel on the ad-tier path; the long-form package starting Monday is the only lever pointed at it, and Jan 3 2027 remains the re-grade date.
+- TikTok Creator Rewards (10K followers + 100K views/30d + 1min+): Personal 3,505/10,000 (35%, flat this week); WTCD 283 (+4); all others <10. The plan's 3x/week 60-90s TikTok cuts are what this bar needs.
+- Facebook/Stars: pages 0-3 followers. Instagram: Personal 1,966; TLR IG grew 7 -> 24 (first brand-IG growth).
+- Lead-gen (Dottie): 0 posts of substance -> 0 leads. Idle for a second week (C38).
+- Money-path-on-every-brand (plan sec 5, due Dec 15): not re-checked this run (no destinations are named in posts until verified live); the Dec 15 checkpoint stands.
+- Credits: vidIQ ~6,258 left after this run (~14 weeks at current usage - fine to Feb; renews Nov 25). ElevenLabs / Higgsfield / PixVerse balances: not readable from this session - unknown (standing gap).
+
+======================================================================
+8. NEEDS ATTENTION (owner)
+======================================================================
+None new. Nothing here needs a decision from Terence that is not already on his list. Execution items route via the Architect: Boombox song re-lane + holiday deadline (C36/T4), week-1 package booking by Sun 9 PM (Muse, Architect fallback already on record for Both Sides), Come-Up YT mirror rule (distribution lane), Dottie lane start (C38), WTCD/Dottie registry note still open (dot Lane C).
+
+======================================================================
+9. GAPS (unknowns this run)
+======================================================================
+- Nov 14 is partial everywhere; same-day publishes show 0s and are not scored.
+- Metricool vs vidIQ YouTube views differ by design (published-in-range vs channel-wide); vidIQ used for YT scorecards, both kept in the pull.
+- Footnote (UCdzY...) and Dottie (UCB2w...) channels are STILL not in vidIQ's connected list - their YT numbers come from Metricool only; no engaged/watch-time data. Connect them (Architect/owner hands, no spend).
+- WTCD-vs-Dottie binding identity (last week's REGISTRY NOTE): no resolution file found; carried open.
+- Per-post first-48h views: still no export; WINNER/LOSER classes still unavailable (LOSER rule 3.1 remains open in ANALYTICS_DEFINITIONS; no post labeled LOSER).
+- TikTok per-video views: Personal now returns per-video data in Metricool; brand accounts still mostly null - interactions/followers used instead.
+- ElevenLabs/PixVerse/Higgsfield balances unreadable (sec 7).
+END

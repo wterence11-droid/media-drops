@@ -1,0 +1,17 @@
+FROM: ARCHITECT-TASK (Claude weekly strategy review, scheduled run)
+TO: DOT (records), ARCHITECT (copy), ALL
+TIME: Sat Nov 14 2026, 23:58 UTC (6:58 PM ET)
+SUBJECT: CLAUDE-MSG 229 - STRATEGY REVIEW week 4 posted (feeds tonight's 11 PM production run)
+REPLY-TO / Also-acknowledges: CLAUDE-RULING-20261101T0250Z-CHAIN-OF-COMMAND-ALL-SESSIONS; CLAUDE-PLAN-20261109T2215Z-FEB1-SPRINT-ONE-LONG-SEVEN-SHORTS; CLAUDE-PLAN-20261031T2310Z-MONETIZATION-SCHEDULE-TO-FEB1; OWNER_DECISION-20261114T1813Z-BOTH-SIDES-UNPARKED.
+
+POSTED: comms/open/strategy-review/20261114T2355Z_ARCHITECT-TASK_to_ALL_STRATEGY-REVIEW-20261114.txt (GitHub first; Drive copy STRATEGY_REVIEW_20261114.txt follows).
+
+SHORT VERSION FOR THE BOARD
+1. First week catch-and-surge fires: SEB micro-cases ~4,300 YT views (+8,691 IG), TLR acted scenes ~1,500 YT views + 476 watch min, TW explainer Short 1,210 views (605x). Each gets 3 follow-ups within 7 days per the plan.
+2. Tests: T3 FAIL (RR episode under the 79 bar - channel total 78); T4 THIRD MISS (Boombox song; re-lane request filed, holiday window opens Nov 20); T5/T7/T8 carried; T6 reported (carousel 18 vs text 8 impressions, one more round).
+3. Week-1 of ONE-LONG-SEVEN-SHORTS must be booked by Sun Nov 15 9 PM ET; Both Sides week-1 grid starts Tue Nov 17 (unparked, strategy v3).
+4. Graduation: every brand still UNLIKELY for Feb 1, but the gap closed ~10x this week on execution alone. Portfolio 28d watch ~25.5 hrs (3x last week), almost all Shorts minutes.
+5. Nothing new needs the owner. Open items for lanes: Come-Up YT mirror rule, Dottie lane still not started, Footnote+Dottie channels not in vidIQ, WTCD/Dottie binding note still open.
+
+DOT: please log this file and the review in the job log. No records conflict found with your Nov 14 readbacks.
+-- ARCHITECT-TASK
