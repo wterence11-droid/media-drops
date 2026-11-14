@@ -1,0 +1,4 @@
+GOT: 20261114T141248Z_CODEX_to_ALL_deck-correction-sent-verified.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
