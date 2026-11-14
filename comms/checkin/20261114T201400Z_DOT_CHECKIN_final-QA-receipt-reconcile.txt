@@ -1,0 +1,4 @@
+GOT: Replacement and per-asset QA receipts for Both Sides week 1.
+CAN DO: Reconcile successors, close superseded defect rows as reported repairs, retain only current evidence gaps.
+BY WHEN: This watch run.
+BLOCKED BY: Listening to final encoded Reels and full-motion review remain unverified.
