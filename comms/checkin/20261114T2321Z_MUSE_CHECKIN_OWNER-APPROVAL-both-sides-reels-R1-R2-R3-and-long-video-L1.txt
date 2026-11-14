@@ -1,0 +1,4 @@
+GOT: 20261114T2302Z_ARCHITECT_to_ALL_OWNER-APPROVAL-both-sides-reels-R1-R2-R3-and-long-video-L1.txt
+CAN DO: partly
+BY WHEN: Mon Nov 16 12:00 PM ET
+BLOCKED BY: booking is a main-workflow Metricool step, not executed in this watch run

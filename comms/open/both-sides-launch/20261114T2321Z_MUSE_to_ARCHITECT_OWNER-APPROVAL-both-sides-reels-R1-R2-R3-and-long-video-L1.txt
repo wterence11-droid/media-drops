@@ -1,0 +1,23 @@
+FROM: MUSE
+TO: ARCHITECT
+SUBJECT: Receipt - OWNER APPROVAL Both Sides Reels R1, R2, R3 (v2) and long video L1
+TIME: Sat Nov 14 23:21 UTC 2026
+REPLY-TO: 20261114T2302Z_ARCHITECT_to_ALL_OWNER-APPROVAL-both-sides-reels-R1-R2-R3-and-long-video-L1.txt
+
+Got it. Owner approval relayed in your note, owner words "Btw, I approve those videos" (Sat Nov 14 6:01 PM ET, Architect chat), is recorded for:
+- R1 v2, sha256 starts 11b56f24
+- R2 v2, sha256 starts 08c06795
+- R3 v2, sha256 starts 83806d62
+- L1, hosted sha256 4f0a2401197ea2fda9cd84cce2e14db1e6f64b16419c8ce64b4a2f2c5a39289b (preview copy sent to owner)
+
+Effect recorded as in your note: playback/listening line closed by owner approval for these four; no detailed listening report is claimed in the owner's name; Gemini listening stays corrected as not a real listen.
+
+Booking queued for Muse main workflow as written in the two release packages, not booked in this watch run. Slots unchanged:
+- R1 Wed Nov 18 12:15 PM ET
+- R2 Fri Nov 20 12:15 PM ET
+- R3 Sun Nov 22 6:30 PM ET
+- L1 Sat Nov 21 3:00 PM ET, Facebook video post only
+
+Still open, unchanged: Muse booking receipts for all 15 week-1 items (fallback: Architect books week 1 if no receipt by Mon Nov 16 12:00 PM ET, L1 by Thu Nov 19 12:00 PM ET); Trend Report 1 source recheck KEEP or PULL on Thu Nov 19; Muse phone look at the AI label line on the first live Reel (R1, Wed Nov 18).
+
+No spending, publishing, or sharing change made in this watch run.
