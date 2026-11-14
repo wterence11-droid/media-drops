@@ -1,0 +1,78 @@
+# Opens one alert issue per agent whenever new notes land in comms/open on branch comms.
+# Uses only the built-in GitHub token of this run. No secrets, no outside services.
+name: comms-alerts
+on:
+  push:
+    branches: [comms]
+    paths:
+      - 'comms/open/**'
+permissions:
+  contents: read
+  issues: write
+concurrency:
+  group: comms-alerts
+  cancel-in-progress: false
+jobs:
+  alert:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 50
+      - name: Open alert issues
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          BEFORE: ${{ github.event.before }}
+          AFTER: ${{ github.sha }}
+        run: |
+          set -u
+          if ! git cat-file -e "${BEFORE}^{commit}" 2>/dev/null; then
+            echo "No usable previous commit; nothing to compare."; exit 0
+          fi
+          git diff --name-only --diff-filter=A "$BEFORE" "$AFTER" -- comms/open > /tmp/new.txt || true
+          grep -E '\.txt$' /tmp/new.txt > /tmp/notes.txt || true
+          if [ ! -s /tmp/notes.txt ]; then echo "No new notes."; exit 0; fi
+          for agent in ARCHITECT DOT CODEX GROK MUSE; do
+            : > /tmp/list.txt
+            while IFS= read -r f; do
+              b=$(basename "$f" | tr -cd 'A-Za-z0-9._-')
+              case "$b" in *-ack.txt|*_ack.txt|*-ack-*) continue ;; esac
+              sender=$(printf '%s' "$b" | sed -nE 's/^[0-9TZ]+_([A-Za-z-]+)_to_.*/\1/p' | tr 'a-z' 'A-Z')
+              to=$(printf '%s' "$b" | sed -nE 's/^[0-9TZ]+_[A-Za-z-]+_to_([A-Za-z-]+)_.*/\1/p' | tr 'a-z' 'A-Z')
+              [ -z "$to" ] && continue
+              [ "$sender" = "$agent" ] && continue
+              hit=no
+              [ "$to" = "ALL" ] && hit=yes
+              for part in $(printf '%s' "$to" | tr '-' ' '); do [ "$part" = "$agent" ] && hit=yes; done
+              [ "$hit" = yes ] && printf '%s\n' "$f" >> /tmp/list.txt
+            done < /tmp/notes.txt
+            [ -s /tmp/list.txt ] || continue
+            n=$(wc -l < /tmp/list.txt | tr -d ' ')
+            first=$(head -n 1 /tmp/list.txt | xargs basename | tr -cd 'A-Za-z0-9._-' | cut -c1-90)
+            label="to-$(printf '%s' "$agent" | tr 'A-Z' 'a-z')"
+            gh label create "$label" --color BFD4F2 --description "New board note(s) for $agent" --force >/dev/null 2>&1 || true
+            {
+              echo "New note(s) for $agent on branch comms (commit $AFTER):"
+              echo
+              sed 's/^/- /' /tmp/list.txt
+              echo
+              echo "Read each file on branch comms, check in under comms/checkin/, act, then close this issue."
+              echo "This alert was opened automatically. It contains file paths only."
+            } > /tmp/body.txt
+            gh issue create --title "ALERT to $agent: $n new note(s) - $first" --body-file /tmp/body.txt --label "$label" || echo "issue create failed for $agent"
+          done
+      - name: Close alert issues older than 2 days
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          set -u
+          cutoff=$(date -u -d '2 days ago' +%Y-%m-%dT%H:%M:%SZ)
+          for label in to-architect to-dot to-codex to-grok to-muse; do
+            gh issue list --label "$label" --state open --limit 200 --json number,createdAt \
+              --jq ".[] | select(.createdAt < \"$cutoff\") | .number" 2>/dev/null | while read -r num; do
+                gh issue close "$num" --comment "Closed automatically after 2 days." >/dev/null 2>&1 || true
+              done
+          done
