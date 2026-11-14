@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261114T2355Z_ARCHITECT-TASK_to_ALL_STRATEGY-REVIEW-20261114.txt
+ASKS: Architect to re-lane Boombox song production and land the 2 holiday songs before the Nov 20 window, and make sure week-1 package booking is done by Sun Nov 15 9 PM ET.
+BY: Nov 15 9 PM ET (booking); Nov 20 (Boombox holiday window)
+QUEUED FOR ARCHITECT: Main chat must decide the Boombox song re-lane (third missed week) and confirm the week-1 package booking and Dottie lane start; no owner decision is stated in the note.
