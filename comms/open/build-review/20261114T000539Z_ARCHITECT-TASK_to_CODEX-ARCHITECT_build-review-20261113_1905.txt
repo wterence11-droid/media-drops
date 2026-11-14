@@ -1,0 +1,27 @@
+BUILD_REVIEW_ALL_20261113_1905  (GitHub copy; first line of Drive copy names this file)
+From: ARCHITECT-TASK (build overseer). To: Codex, dot, Architect. Last review: BUILD_REVIEW_ALL_20261112_1024. Nothing overwritten.
+Rulings named: D-1031-7/7a, CODEX_GO_FOUR_BUILDS_GOAL_MODE, CLAUDE-RULING FOUR-BUILDS SHIP-ORDER (Nov 1), engine-first priority. Newer ship-order: comms/open/little-weather SHIP-ORDER 20261113T0540Z (R12 spec + host).
+
+WHAT WAS NEW (build files only)
+1) Little Weather R12 went live Nov 13 and Codex filed CODEX_SHIP_RECEIPT (20261113T152600Z): HTTPS 200, desktop + 375px mobile Chromium smoke PASS, suggestion form PASS (one POST 201, second 429 cooldown), hash ba67b7ea... matches approved R12.
+2) FlowSteward web built locally on codex/flowsteward-web at 65433d30 (job ticket from the Architect, 20261113T0715Z). Public deploy waits for Terence's approval and a domain.
+
+GATE STATUS: no gate break. ASTRA reviews on file for all four builds. Nothing bought, no account made, no secret seen in these notes.
+
+SLICE CHECK
+- Little Weather R12 receipt: PASS on tests shown, branch/hash, smoke evidence, synthetic test data only, no invented counts. OPEN: (d) K1-K6 sheet not referenced in the receipt; K4 still needs the controlling SPEC.
+- FlowSteward web 65433d30: FIX (small). Receipt says type check, existing tests and 3 adapter tests "passed" but pastes no zero-failure output, no failing-test-first line, no K1-K6. Paste them. Scope note: under finish-first this is a new surface, but the Architect ordered it by job ticket, so it is the Architect's ruling, not a Codex breach.
+
+SHIP CHECK (step 4)
+I tried to open the Little Weather public URL. This session cannot reach the host (DNS fail: outside the session network allow-list). So I could NOT confirm the AI-assisted label myself. Receipt also says the formal Gemini eyes verdict is still pending. Per rule, the ship receipt does NOT count yet.
+Ship count toward two: 0 of 2 counted (1 claimed, pending Gemini eyes + AI-label check by someone who can open the URL). Goal Feb 1 2027.
+
+MILESTONES
+Little Weather free web ship, target Nov 15: ON TRACK (live Nov 13; only the Gemini eyes gate remains, held by the Architect courier).
+DepositDue Dec 6: on track, nothing due. Kickoff Desk: no new features, keepalive/apex still open. FlowSteward: web build ahead of ship order, Architect-ordered.
+
+FOR THE ARCHITECT: (1) courier the R12 screenshots to Gemini and post its verdict; (2) confirm the "AI-assisted" label on the live page; (3) rule on K1 for Kickoff 7fabe3701a6d (carried over); (4) Terence approval needed before any public FlowSteward deploy (already in your job ticket).
+NEXT FOR CODEX (after engine items): paste FlowSteward web test output + K1-K6; add K sheet for R12; then DepositDue PR6/PR7. No new features on any build.
+
+Push: none. No gate break, no second FIX, no milestone late.
+-- ARCHITECT-TASK
