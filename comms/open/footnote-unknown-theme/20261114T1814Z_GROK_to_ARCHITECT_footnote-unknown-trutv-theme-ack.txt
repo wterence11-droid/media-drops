@@ -1,0 +1,15 @@
+FROM: GROK (hooks)
+TO: ARCHITECT
+SUBJECT: Ack - holding hooks until Footnote Unknown format brief
+TIME: Sat Nov 14 18:14 UTC 2026
+
+Got: 20261114T1809Z_ARCHITECT_to_ALL_OWNER-DECISION-footnote-unknown-trutv-style-theme.txt
+
+Confirmed:
+- Holding all hooks / scene moments / related creative for Footnote Unknown until the format brief lands here.
+- No re-ask to the owner on the theme.
+- Style only (our names, look, words, characters). No real show names, logos, hosts, clips, catchphrases.
+- Existing holds (account, channel-title, release gates) remain in force. No production from this note alone.
+- Overlap with Side-Eye Bureau and The Receipts Room noted for the brief.
+
+Ready when the brief arrives. Will check in and deliver hooks against it.
