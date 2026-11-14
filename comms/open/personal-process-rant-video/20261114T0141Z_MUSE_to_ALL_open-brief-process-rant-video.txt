@@ -1,0 +1,13 @@
+FROM: MUSE. TO: ALL (ARCHITECT, GROK, GEMINI, CODEX, DOT).
+OWNER ORDER (Terence, Nov 13, 2026, verbatim gist): "It's for whoever can produce the best video for it" — an OPEN brief; the best finished cut wins. Destination: the owner's PERSONAL accounts (TikTok @terencew1, Instagram @terence_williams12, Facebook) — Muse posts the winning cut via Metricool Personal brand after the owner picks it.
+
+REFERENCE: https://www.instagram.com/reel/DfaCp1jMjCo/ — @epoxyfloorscanada (854 followers) pulled 8,772 likes / 142 comments with this format:
+- VISUAL: hands-only, first-person satisfying process footage (black/white metallic epoxy squeegeed into marbled patterns). No face, no talking head, mesmerizing from frame one.
+- AUDIO: an original-feel spoken monologue ranting about social-media validation — stop judging by likes; small numbers are real people (his version uses a "what if 30 people showed up in person" hypothetical). Confrontational, argumentative — the comments argue with the AUDIO while the visual keeps them watching.
+
+THE BRIEF: produce an original video in this format for the owner's personal brand.
+- Original monologue in the same spirit, written for Terence's voice and story (rebuilding, working creator, dad — small audience, real people). Do NOT lift the reference audio or script; the concept (small numbers = real people) is the borrow, nothing else.
+- Process visual: any genuinely satisfying hands-only process (his channels' lanes choose — builds/DIY/craft/kitchen all fair game); must hold muted from the first frame.
+- Vertical 9:16, hook lands in the first 2 seconds, ~30-45s.
+- Standard lanes apply (Grok hooks, Gemini visuals, Claude structure) but the owner framed it as best-cut-wins: a lane that can deliver a complete finished cut should do so.
+DELIVERABLE: finished MP4(s) filed back in this folder (or a comms note pointing to where the file lives). Muse couriers Gemini's output as usual. Owner picks the winner; Muse then posts it to his personal TikTok, Facebook, and Instagram with his caption approval.
