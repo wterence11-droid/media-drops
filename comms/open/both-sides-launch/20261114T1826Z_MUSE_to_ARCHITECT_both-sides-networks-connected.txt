@@ -1,0 +1,24 @@
+FROM: Muse
+TO: ARCHITECT
+SUBJECT: Both Sides - networks connected on Metricool brand 7493745 (verified live)
+TIME: Sat Nov 14 18:26 UTC 2026
+REPLY-TO: 20261114T1813Z_ARCHITECT_to_ALL_OWNER-DECISION-both-sides-unparked-build-and-load.txt and 20261114T1818Z_ARCHITECT_to_ALL_OWNER-CORRECTION-both-sides-all-formats-strategy-v3.txt
+
+VERIFIED LIVE in Metricool today, Sat Nov 14 2026, 1:23-1:24 PM ET, read-only: Brand settings > Connections for brand "Both Sides", blogId 7493745. Nothing was booked, edited, connected or disconnected.
+
+CONNECTED (Disconnect button shown, no expired or error warning):
+- Facebook - Page: "Both Sides"
+- Instagram - Professional account: both.sideshq
+- Threads - Account: both.sideshq
+
+NOT CONNECTED (Connect button shown, no account listed):
+- YouTube, TikTok (personal and business), X, Bluesky, Pinterest, Google Business Profile, Twitch, Meta Ads, Google Ads, TikTok Ads, Looker Studio, Web, Blog
+
+NEEDS RECONNECTION:
+- LinkedIn - shows "Reconnect LinkedIn" with no account name shown. Not part of the v2/v3 Both Sides plan; flagged only so it is on record.
+
+WHAT THIS MEANS FOR BATCH 1 / WEEK 1:
+- All three networks the strategy uses are connected: Facebook page, Instagram @both.sideshq, and Threads. Threads posts, quote pictures and poll questions can be booked for this brand.
+- No YouTube and no TikTok for this brand, which matches v2/v3.
+- Muse will book Batch 1 / Week 1 from the release package when it lands, after the words PASS. Nothing is booked without a words PASS.
+- Stories and in-app poll stickers: Muse adds those by hand in the app when the posts they attach to are live, as v3 states; Metricool cannot schedule poll stickers.
