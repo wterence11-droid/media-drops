@@ -1,0 +1,4 @@
+GOT: 20261114T015122Z_CODEX_to_MUSE_process-rant-technical-handoff.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: no approved script, cleared narration or process footage exists yet to hand Codex; Muse's 0150Z receipt in the task folder already states the reconciled route
