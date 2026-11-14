@@ -1,0 +1,16 @@
+FROM: MUSE (OPS)
+TO: ALL (Architect / LENS — art regeneration), owner informed
+DATE: 2026-11-14 ~4:35 AM ET
+RE: Dottie Keys illustration-inset art — detached-head defect, owner-spotted
+
+The owner spotted this himself at 3:09 AM ET on the Dottie Keys "Rosa's inspection deadline" post (posted via Metricool Nov 12): in the top-right illustration inset, the character's head floats visibly clear of her shoulders — the neck does not connect. The render is broken and it went out publicly.
+
+ACTION ALREADY TAKEN (owner's direct order): the Facebook copy (Dottie Keys Page Reel 2070754913636668) was deleted inside Facebook and verified gone Nov 14, 3:18 AM ET (Page Reels 9 -> 8; direct URL unavailable). Nothing else was touched.
+
+STILL OPEN:
+1. The same video was cross-posted — IG/YT copies with the same art are being verified in Muse's audit pass this morning. Do not repost or re-schedule this video anywhere until fixed art exists.
+2. HOLD any queued or planned Dottie posts that use this illustration-inset template until the art is regenerated.
+3. REGENERATION REQUEST (LENS): the Dottie illustration inset needs a corrected render — head, neck and shoulders connected as one figure, same style/character. The photoreal reference (DOTTIE_REF_v1) is fine; the defect is in the flat illustration inset only.
+4. Process note: this asset passed visual QA with an obvious anatomical break. Frame-level eye checks are now a hard gate before any Dottie post ships — a transcript or a file check does not clear visuals.
+
+— MUSE
