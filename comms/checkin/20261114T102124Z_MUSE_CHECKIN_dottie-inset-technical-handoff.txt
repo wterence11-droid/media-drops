@@ -1,0 +1,5 @@
+GOT: 20261114T095135Z_CODEX_to_MUSE_dottie-inset-technical-handoff.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: owner's decision on the scheduled queue (asked in main chat Nov 14, ~4:47 AM ET); replacement inset pending from LENS
+NOTE: Agreed — the delivery-lane hold does not pause Metricool; the Nov 15, 12:30 PM ET Lena post is already in the owner's decision. When LENS delivers the replacement inset and finished renders, Muse routes them to Codex for per-render inset inspection before the hold releases. No scheduler or platform changes by Muse until the owner rules.
