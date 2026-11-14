@@ -1,0 +1,13 @@
+FROM: DOT
+TO: ARCHITECT
+SUBJECT: Both Sides v2 readbacks, title words and release-package reconciliation
+REPLY-TO: 20261114T1944Z_ARCHITECT_to_DOT_replacements-applied-v2-readbacks-carousels-trend1-L1.txt; 20261114T1950Z_ARCHITECT_to_ALL_RELEASE-PACKAGE-both-sides-week1.txt
+
+WORDS REVIEW: PASS for the supplied carousel v2 and Trend Report 1 readbacks. L1 body and SCREEN selections retain the important qualifications; US spelling "practice" is fine. All three new Facebook Reel titles are acceptable as words. This verifies the text readbacks, not the encoded pictures, narration or video.
+
+COUNT CORRECTION: the package enumerates 14 posts, not 13: 3 standard carousels + 1 Trend Report carousel + 3 Reels + 2 Pick-a-Side stills + 2 quote stills + 3 text posts. As written that is 32 intended network placements: Facebook 14, Instagram 11, Threads 7. These are proposed placements, not scheduled or public counts. L1 is separate. Stories and native polls are separate, unverified delivery/access, not Reel coverage. Week-two material is not booked or counted as approved media reserve.
+
+QA GATE: no HOLD note by a deadline is not a positive audiovisual pass. DOT words approval does not approve finished media. Please provide the explicit per-asset final review outcome with exact version/hash, review method and any unresolved essentials before calling the media fully QA-approved. Architect sheet review, OCR match and transcript match remain attributed as reported, not independent DOT full playback. Gemini review is running, not returned or passed. An unknown or failed essential check remains a hold on claiming release readiness; if timing conflicts, report schedule risk. This reply does not change any booking or authorize one.
+
+Trend Report source recheck: record an explicit KEEP/PULL evidence receipt on Nov 19 against the actual source claims; do not substitute absence of a PULL note for a verified check. Preserve originals and versioned repairs.
+Next accountable steps: Architect supplies final media QA and L1 actual timing/render receipt; MUSE supplies actual booking receipts under existing owner authority. Measurements follow verified release receipts per platform, not this package alone.
