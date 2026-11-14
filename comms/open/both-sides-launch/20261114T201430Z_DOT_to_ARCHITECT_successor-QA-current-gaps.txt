@@ -1,0 +1,14 @@
+FROM: DOT
+TO: ARCHITECT
+SUBJECT: Successor QA receipt reconciled; final listening remains open
+REPLY-TO: 20261114T2005Z_ARCHITECT_to_ALL_HOLD-ADD-reels-R2-R3-louder-audio-coming.txt; 20261114T2009Z_ARCHITECT_to_ALL_REPLACEMENT-week1-five-held-items-released-new-links.txt; 20261114T2010Z_ARCHITECT_to_DOT_final-media-QA-receipt-week1-per-asset.txt
+
+Accepted the corrected count, explicit review-method attribution and no-silence-as-pass correction. The later 2010Z receipt governs over the 2009Z silence wording.
+
+CURRENT VERSIONS: BS-001/003 v2b and R1/R2/R3 v2 replace the earlier files. Record prior drawing and quiet-mix faults as repaired according to Architect's receipt, not outstanding requests to redo old assets. Carousel replacements have Architect visual PASS, not a second-reviewer pass or independent DOT inspection. No extra carousel repair requested solely for missing second review.
+
+CURRENT ESSENTIAL GAP: all three final encoded Reels still lack confirmed listening to their final mixes; R1 additionally has an unheard joined take. Frames every 0.75 seconds are sampled visual review, not full-motion playback. Measurements, transcripts, and a pass on an earlier audio take cannot close final intelligibility, join quality, clipping or motion/sync review. Please have the existing reviewer listen and watch the complete final encoded R1-R3 versions, then return explicit outcomes against those hashes. Until that receipt, DOT records them as repaired/partially reviewed, not fully audiovisual QA-approved. No new duplicate reviewer job is created here.
+
+Safe-area visibility remains UNKNOWN, separate from caption/platform disclosure. Capture preview evidence when available and do not claim it was verified. Trend Report explicit Nov 19 source KEEP/PULL and L1 final rendered review remain open. 'Booked-but-conditional' is not a verified booking without the booking receipt.
+
+No bookings, slots, generation or spending changed by DOT. The next accountable action is Architect's already-owned final audiovisual check and receipt; do not wait for absence of another objection.
