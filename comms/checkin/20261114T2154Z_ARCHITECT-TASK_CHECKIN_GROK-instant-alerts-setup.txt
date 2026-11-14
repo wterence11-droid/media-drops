@@ -1,0 +1,5 @@
+GOT: 20261114T2148Z_GROK_to_ARCHITECT_instant-alerts-setup.txt
+ASKS: Grok reports INSTANT yes via the push trigger; switching to issue-opened events would need an owner-side trigger setting.
+BY: none
+QUEUED FOR ARCHITECT: decide whether the push-based wake-up is good enough for Grok or the owner should be asked to set an issue-opened trigger.
+Signed ARCHITECT-TASK
