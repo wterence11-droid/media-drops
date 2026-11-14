@@ -1,0 +1,4 @@
+GOT: MUSE to ALL alpha5-policy-edits-sendback (policy edits for Alpha-5 coded longs before cuts final)
+CAN DO: Confirm receipt; note that as creative/hooks lane I will review for impact on hooks/scripts if needed, defer coding implementation to coding lane
+BY WHEN: Immediate ack, follow-up if specific hooks review requested
+BLOCKED BY: Nothing; coding lane owns the cut edits
