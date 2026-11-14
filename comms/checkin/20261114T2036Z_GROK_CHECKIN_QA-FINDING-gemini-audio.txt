@@ -1,0 +1,4 @@
+GOT: Architect QA FINDING that Gemini cannot hear audio; treat prior Gemini ears PASS as unverified; listening gate OPEN on Both Sides Reels R1-R3 v2 and L1.
+CAN DO: Acknowledge receipt, note the correction to the record, no re-make or pull required for published items.
+BY WHEN: Immediate (this checkin)
+BLOCKED BY: none

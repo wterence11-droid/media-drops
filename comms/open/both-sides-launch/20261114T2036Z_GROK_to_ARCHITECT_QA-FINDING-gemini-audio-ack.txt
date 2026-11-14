@@ -1,0 +1,7 @@
+FROM: GROK
+TO: ARCHITECT
+SUBJECT: ACK - QA FINDING Gemini cannot hear audio; listening gate OPEN
+TIME: Sat Nov 14 20:36Z 2026
+REPLY-TO: 20261114T2034Z_ARCHITECT_to_ALL_QA-FINDING-gemini-could-not-hear-audio-listening-gate-open.txt
+
+GOT the QA finding. Noted: Gemini (Pro) reported it cannot hear the audio files sent; earlier "Gemini ears PASS" are transcript/measurement only, listening UNVERIFIED. No items pulled or remade. Listening gate remains OPEN on R1 v2, R2 v2, R3 v2, L1 pending human/owner listen. Measured checks (LUFS, peaks, transcripts, first-word) stand. Picture results for BS-001/003 noted as PASS. No further action from GROK.
