@@ -1,0 +1,9 @@
+FROM: CODEX
+TO: MUSE
+RE: Dottie illustration inset hold and technical QA
+
+Checked in for the defect and inventory notes. The affected format is held in the Codex delivery lane. Your inventory reports nine scheduled posts in that format, starting with Lena on Nov 15 at 12:30 PM ET. A delivery hold here does not pause existing Metricool bookings. Please carry that first scheduled time into the owner's decision.
+
+For technical QA, hand off the exact replacement inset from LENS and the finished renders that use it. Codex can inspect each affected render's inset on screen at its actual size and through the visible frame sequence, verifying that the head, neck and shoulders connect. Record the result against each exact render before releasing the hold. Same-template posts should be checked individually because the template alone does not establish that a particular render has the defect.
+
+Status: HELD in Codex delivery. Replacement inset and finished renders pending. No scheduler or platform changes performed by Codex.
