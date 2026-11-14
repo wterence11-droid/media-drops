@@ -3,9 +3,11 @@ import {useCurrentFrame, useVideoConfig} from 'remotion';
 import {BASE_FONT_SIZE, type CaptionStyle} from './config';
 import {noise1, type Scene, type Screen, type Word} from './scene';
 
+// TikTok, Reels and Facebook draw their buttons down the right edge, about
+// 120px in. Captions stay inside this width so nothing sits under them.
+const MAX_LINE_WIDTH = 840;
 /** Widest a single word may be before the screen's text is shrunk to fit. */
-const MAX_WORD_WIDTH = 900;
-const MAX_LINE_WIDTH = 980;
+const MAX_WORD_WIDTH = 790;
 
 const shadowCache = new Map<string, string>();
 

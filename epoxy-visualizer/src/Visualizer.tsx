@@ -157,7 +157,7 @@ const Stage: React.FC<{scene: Scene}> = ({scene}) => {
 				>
 					<div
 						style={{
-							maxWidth: 940,
+							maxWidth: 840,
 							textAlign: 'center',
 							fontFamily: style.font,
 							fontSize: BASE_FONT_SIZE * style.scale,

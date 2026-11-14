@@ -101,6 +101,10 @@ preview exactly.
 
 ## Notes
 
+- **Posting to TikTok, Reels and Facebook.** The render is 1080x1920, 30fps,
+  H.264 with AAC audio, which all three accept as is. Captions and the closing
+  line sit in the middle of the frame and stay 120px clear of each side, so the
+  apps' buttons, username and description do not cover them.
 - **Rendering without a GPU** (a server or CI box): `npm run render -- --gl=swangle`.
 - **Font.** Anton is bundled in `public/fonts` under the SIL Open Font License,
   so renders do not depend on a font CDN.
