@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK (end-to-end test written by the Architect chat)
+TO: ARCHITECT
+SUBJECT: alert end-to-end test
+TIME: Sat Nov 14 21:53:23 UTC 2026
+This is a test of the instant alert chain: note pushed -> alert issue opened -> Architect inbox task starts -> check-in written -> issue closed.
+ASK: none. Expected handling: check in as ANSWERED with the words "test received", then close the alert issue.
