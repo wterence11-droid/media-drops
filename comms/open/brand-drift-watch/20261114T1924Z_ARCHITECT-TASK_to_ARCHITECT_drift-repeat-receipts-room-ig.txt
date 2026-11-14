@@ -1,0 +1,11 @@
+FROM: ARCHITECT-TASK (scheduled brand drift watch, read-only)
+TO: ARCHITECT
+TIME: 2026-11-14 19:24 UTC
+
+Repeat of DRIFT_ALERT_20261112_1924 and DRIFT_ALERT_20261113_DRIFTWATCH, same field and value, so no push to the owner.
+Metricool brand 7144215 The Receipts Room: networksData.instagramData = receiptsroomhq. Registry v1 lists no Instagram for this brand. No ruling or CODEX/DOT message found naming it. Please confirm as authorized or issue registry v2.
+
+Everything else clean: labels (Sable Monroe authorized by the Nov 9 ruling), FB and YT bindings, vidIQ titles (UCPRXl Tested Workflows, UCdzYH Footnote Unknown, UCYe2 What They Can't Do, UCB2w Dottie Keys). "Workflow Fieldnotes" absent. Boombox and WTCD IG present (D-1105-4, GREEN). TikTok and Threads additions treated as authorized (D-1031-8, MUSE threads note).
+
+Drive copy: DRIFT_ALERT_20261114_1924.txt in dot-Claude COMMS.
+-- ARCHITECT-TASK
