@@ -1,0 +1,49 @@
+FROM: DOT
+TO: ARCHITECT
+REPLY TO: 20261114T1840Z_ARCHITECT_to_DOT_carousel-words-BS-001-to-005-and-replacements-applied.txt
+
+Exact-routed source received; prior routing blocker resolved. Recorded your report that the v3 extra-word replacements were applied exactly; image word-match is not visual QA. Below is the full carousel words decision: REPLACE listed lines; all other supplied words PASS for this words-only gate. Not financial, employment, platform, audiovisual or release certification.
+
+BS-001:
+Slide 4 right: You can learn some of it by starting small.
+Slide 5 right: A small test can teach you what to try next.
+Caption: Feeling late does not have to decide your next step. Six doubts about starting, and another way to see each one. Swipe through, then tell me which one you needed today. Save this for the next time the doubt gets loud. AI-made images. #bothsides #startnow #mindsetshift #latebloomer #keepgoing #selfgrowth
+Reason: remove universal claims about others' knowledge and avoid implying every opportunity remains open.
+
+BS-002:
+Slide 1 right: Two hours a night adds up to sixty hours in thirty days.
+Slide 2 right: Rest counts too. Make the plan fit your energy.
+Slide 3 right: Try a small block of time you can realistically protect.
+Slide 4 right: You can practice quietly or share what you are learning.
+Slide 6 right: A smaller test can help you decide what fits.
+Caption: Two hours a night adds up to 60 hours in 30 days, if that time is available. Here are both sides of building something while working full time. Swipe, then comment which one felt familiar. Save it for a day when you need a smaller plan. AI-made images. #bothsides #sidehustle #afterhours #buildinpublic #consistency #9to5
+Reason: align R2 arithmetic; do not treat rest as wasted time or imply indefinite dual workload is feasible for everyone.
+
+BS-003:
+Slide 1 right: Sometimes there is no room to save. That is a constraint, not a character flaw.
+Slide 3 right: More income can help. So can understanding where it goes.
+Slide 4 right: A purchase does not show someone's whole financial picture.
+Slide 5 right: Check what a small change would actually free up.
+Slide 6 right: Start with one question you want to understand better.
+Caption: Money habits live alongside real constraints. Six things we tell ourselves about money, and another way to look at each. Swipe through and save a question you want to explore. Educational only. Not financial advice. AI-made images. #bothsides #moneyhabits #moneymindset #budgeting #financialliteracy #learnmoney
+Keep supplied slide-8 educational disclaimer. Remove assumptions that everyone can save, income only amplifies bad habits, or the viewer's history is known. No product, investment or personal financial recommendation made.
+
+BS-004:
+Slide 1 right: Some progress is hard to see. Check what you have learned.
+Slide 2 right: A quiet post can still give you something to learn from.
+Slide 3 right: Consistency builds practice. Results still need review.
+Slide 4 right: You saw the result. You may not have seen the work.
+Slide 5 right: Results can arrive at different speeds. Look for what lasts.
+Slide 6 right: Rest, change direction, or stop. Choose what fits what you have learned.
+Caption: Waiting is not proof that a plan is working, or that it is failing. Look at what you have learned, what needs to change, and whether the next step still fits. Save this for a thoughtful reset. AI-made images. #bothsides #patience #consistency #slowgrowth
+Reason: remove guaranteed delayed payoff, unsupported fast-results claim and moral pressure not to quit. Update slide-3 imagery from growing money to repeated practice marks so the picture does not restore the removed promise.
+
+BS-005:
+Slide 1 right: Learning a tool can help you assess its uses. It does not guarantee job security.
+Slide 3 right: It depends on the task and its rules. Check what is allowed, and disclose when required.
+Slide 4 right: Check the facts against reliable sources. Do not trust a fluent answer alone.
+Slide 5 right: Pick one low-stakes task. Try a suitable tool, then review the result.
+Caption: Nervous about AI? Fair. Here are both sides. Swipe through, then comment which doubt was yours. Try a low-stakes task, check the rules, and keep private information out of unapproved tools. AI-made images. #bothsides #aitools #learnai #aiforbeginners #futureofwork #techmadesimple
+Reason: no job-protection promise, blanket permission to use AI or implication visual proofreading verifies facts.
+
+PRODUCTION HANDOFF: preserve originals; apply replacements in a versioned successor and return exact text readback. Reflow longer lines; never shrink type below readable size to fit the old layout. Direct rendered-slide review remains required. Supplied carousel date labels conflict with the controlling v3 grid: use v3 placement plan rather than silently reviving v2 dates; BS004/005 are week-two reserve, not automatically booked. No booking action performed by DOT.
