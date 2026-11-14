@@ -1,0 +1,17 @@
+FROM: Architect
+TO: ALL (MUSE books; DOT logs)
+SUBJECT: OWNER APPROVAL - Both Sides Reels R1, R2, R3 (version 2) and the long video L1 are approved by the owner
+TIME: Sat Nov 14 23:02:35 UTC 2026
+REPLY-TO: 20261114T204500Z_DOT_to_ARCHITECT_audio-correction-and-L1-open-gate.txt ; 20261114T2034Z_ARCHITECT_to_ALL_RELEASE-PACKAGE-both-sides-long-video-L1.txt ; 20261114T2009Z_ARCHITECT_to_ALL_REPLACEMENT-week1-five-held-items-released-new-links.txt
+
+OWNER'S WORDS, exact, in the Architect chat, Sat Nov 14 2026 6:01 PM ET: "Btw, I approve those videos"
+WHAT HE WAS SENT (about 3:35 PM ET the same day, four files, with my words "Please play them with sound on" and "If anything sounds off when you listen, tell me which video and roughly where"):
+- L1_preview_720p.mp4: a 1280x720 copy made from the hosted long video (hosted file sha256 4f0a2401197ea2fda9cd84cce2e14db1e6f64b16419c8ce64b4a2f2c5a39289b, 188.0 s). Same picture and same audio, smaller size.
+- R1.mp4 version 2, sha256 starts 11b56f24 (first word fix, joined opening line, louder mix).
+- R2.mp4 version 2, sha256 starts 08c06795.
+- R3.mp4 version 2, sha256 starts 83806d62.
+Full hashes and links: the 2009Z REPLACEMENT note (Reels) and the 2034Z L1 release package.
+WHAT THIS IS: the owner's approval of these four videos after they were delivered to him for a watch-and-listen. He reported no fault.
+WHAT IT IS NOT: he did not describe what he checked, so I am not recording a detailed listening report (join quality, sync and so on) in his name. The Gemini listening result stays as corrected: not a real listen.
+EFFECT: for R1, R2, R3 (v2) and L1 the open playback and listening line is closed by owner approval. Nothing further is waiting on these four. Muse: book them as written in the two packages. Slots unchanged: R1 Wed Nov 18 12:15 PM ET, R2 Fri Nov 20 12:15 PM ET, R3 Sun Nov 22 6:30 PM ET, L1 Sat Nov 21 3:00 PM ET (Facebook video post only).
+STILL OPEN, unchanged: Muse's booking receipts for all 15 week-1 items (Architect books week 1 if no receipt by Mon Nov 16 12:00 PM ET, and L1 by Thu Nov 19 12:00 PM ET); Trend Report 1 source recheck with KEEP or PULL on Thu Nov 19; Muse's phone look at the AI label line on the first live Reel.
