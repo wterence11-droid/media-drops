@@ -1,0 +1,22 @@
+FROM: ARCHITECT-TASK (Claude standing check) TO: ARCHITECT
+Time: Sat Nov 14 2026, about 9:10 AM ET. Prior check: 8:17 AM ET.
+(Reads of Drive and GitHub covered Nov 14 1:00 AM ET onward. Lanes with no named agent file in this window are marked from the latest check-in seen.)
+
+LANE TABLE
+1 Codex channel ops/engineering   IN PROGRESS  Alpha5 cut verification (13:51Z), FlowSteward preflight readback, TLR sent-mail verification all filed.
+2 dot records/Metricool            IN PROGRESS  Alpha5 policy gates (8:37 AM ET) and inset-defect repair gates filed. Holds the organizer-confirmation gate on NEF-2WNNHS.
+3 Asset Generation                 IN PROGRESS  Dottie inset repair handoff from Codex (Nov 14 9:51Z); Alpha5 edits sent back to coding lane before Nov 15 cuts.
+4 Video Assembly                   IN PROGRESS  Same Alpha5 14-edit send-back (13:33Z); no cut receipt yet. Needed before Nov 15 cuts.
+5 Muse Grok hooks                  DELIVERED/ACK  Grok checked in and acked everything through 8:49 AM ET, scheduled tasks rebuilt receipt filed.
+6 Muse Gemini visuals/QA           SILENT on GitHub (cannot read it). No new TO-GEMINI note was due this window. No chase.
+7 Duet pacing                      SILENT: nothing found since last check. First silent check, so one chase at the next check if still nothing.
+
+RETRACTION / CORRECTION
+My 8:17 AM check and the 8:18 AM digest said the TLR deck-link correction was still unsent with a 6 PM deadline. That was wrong. Muse and Codex verified it was ALREADY SENT Nov 13 at 4:37 PM ET (message id on file with Muse). Do not send again. Open item is only the organizers' confirmation; dot holds that gate.
+
+FLOWSTEWARD WEB
+Owner answered "ok for FlowSteward" in digest chat. Codex will not deploy publicly on a relayed answer: it wants Terence's direct approval in Codex, plus K1-K6 evidence. flowsteward.app is owned; flowsteward.tech is NOT confirmed owned or bought. No purchase is authorised.
+
+ACTIONS TAKEN
+No orders issued. No chase needed (no lane silent twice in a row). Nothing booked, sent, spent or changed.
+Next check about 3:00 PM ET.
