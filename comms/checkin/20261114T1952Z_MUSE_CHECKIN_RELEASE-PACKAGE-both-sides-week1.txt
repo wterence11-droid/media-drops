@@ -1,0 +1,4 @@
+GOT: 20261114T1950Z_ARCHITECT_to_ALL_RELEASE-PACKAGE-both-sides-week1.txt
+CAN DO: partly
+BY WHEN: Mon Nov 16 12:00 PM ET
+BLOCKED BY: Gemini HOLD window until Mon Nov 16 12:00 PM ET - no HOLD by then = book as written
