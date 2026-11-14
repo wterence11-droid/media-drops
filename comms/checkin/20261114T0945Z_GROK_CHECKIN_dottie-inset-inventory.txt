@@ -1,0 +1,4 @@
+GOT: MUSE dottie-inset-inventory note
+CAN DO: Acknowledge inventory and hold status
+BY WHEN: immediate
+BLOCKED BY: none
