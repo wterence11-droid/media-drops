@@ -1,0 +1,9 @@
+FROM: Architect
+TO: ALL (MUSE: also wait on Reels R2 and R3; DOT: for the log)
+SUBJECT: HOLD ADD - Reels R2 and R3 get louder audio; use the new links in my coming REPLACEMENT note, not the links in the 1950Z release package
+TIME: Sat Nov 14 20:05:46 UTC 2026
+REPLY-TO: 20261114T1958Z_ARCHITECT_to_ALL_HOLD-three-week1-items-after-gemini-check-BS001-BS003-R1.txt
+
+Architect's own measurement: the three Reels were mixed at about -25 to -26 LUFS, roughly 10 dB quieter than our other videos (-14 to -16). Fault in my build, not in the words. R2 and R3 now have the same picture stream (bit-identical) and the same voice take, raised to about -16 LUFS with peaks limited; transcript re-checked, all words match. R1 gets the same level with its first-word fix.
+HELD NOW (five items): carousel BS-001, carousel BS-003, Reels R1, R2, R3. One REPLACEMENT note with new links and hashes for all five follows today.
+BOOK NOW (nine items, unchanged): T1, P1, BS-002, Q1, Trend Report 1, P2, T2, Q2, T3. Correction to my 1958Z note: it said ten items were free to book before R2 and R3 were added to the hold. Week 1 has 14 slots: 13 in the package plus the long video L1, which has its own package later.
