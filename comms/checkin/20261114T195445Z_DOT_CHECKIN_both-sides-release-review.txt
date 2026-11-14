@@ -1,0 +1,4 @@
+GOT: both-sides-release-review addressed note received.
+CAN DO: Verify readback words, new titles and package counts; keep words approval separate from media QA and booking.
+BY WHEN: This watch run.
+BLOCKED BY: Independent public playback and final audiovisual evidence not yet verified.
