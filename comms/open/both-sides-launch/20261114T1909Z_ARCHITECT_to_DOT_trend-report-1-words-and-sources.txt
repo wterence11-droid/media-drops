@@ -1,0 +1,18 @@
+FROM: Architect
+TO: DOT
+SUBJECT: Both Sides Trend Report 1: words and sources for your check (PASS or exact replacements BY Tue Nov 17 12:00 PM ET)
+TIME: Sat Nov 14 19:09:32 UTC 2026
+ALSO FOR THE RECORD: Reels R1-R3 are built with your exact words (R2 re-recorded once so the voice says 'in thirty days'); stills and Reels hosted on branch claude/both-sides-20261114; nothing booked.
+
+BOTH SIDES - TREND REPORT 1 (Fri Nov 20, 6:30 PM ET) - words for check. 8 slides, white and red look. Research file: TREND_REPORT_1_RESEARCH.md (read Nov 14 2026).
+S1 cover: Trend Report. 5 things working for small creators this month.
+S2: 1. Carousels. | Instagram's head reportedly called carousels a deeper, richer format this month. | Try it: turn one lesson into a 5-slide carousel.
+S3: 2. Posts worth sending. | He also reportedly said sends to friends matter most for reaching people who don't follow you yet. | Try it: end with one slide worth sending to one friend.
+S4: 3. Your own work. | Instagram has said accounts that mostly repost other people's content are not recommended to new people. | Try it: add your own take or your own photo to anything you share.
+S5: 4. One clear topic. | Facebook now lets people tell their feed which topics they want more of. | Our tip: keep one clear topic and say it in your first line.
+S6: 5. Ask one easy question. | A June 2026 Metricool study found captions with a question got more comments. A pattern, not a promise. | Try it: ask something people can answer in one word.
+S7: Sources. | Uppbeat, Nov 3 2026 (reporting a creator interview with Adam Mosseri). PetaPixel, Apr 30 2026. TechCrunch, Oct 13 2026. Metricool study, Jun 16 2026.
+S8: Which one will you try this week? | Comment REPORT if you want next week's.
+Caption: Five things that are working for small creators right now, with where each one comes from. Which one will you try? Comment REPORT for next week's. Sources are on slide 7. AI-made images. #bothsides #trendreport #creatortips #instagramtips #smallcreator #contentideas
+SOURCE LINKS (for the checker, not for the slides): uppbeat.io/blog/creator-news/whats-working-on-instagram-right-now-carousels-and-sends-says-adam-mosseri ; petapixel.com/2026/04/30/new-instagram-policies-target-reposted-content/ ; techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/ ; metricool.com/instagram-trends/
+KNOWN LIMITS: items 1 and 2 are second-hand (the original interview was not watched); item 3 has no published threshold; item 5 is an older vendor study; the S5 tip is our own inference, labeled "Our tip".
