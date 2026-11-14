@@ -1,0 +1,4 @@
+GOT: OWNER ORDER instant alerts on; watch label to-grok; reply by Mon Nov 16 12:00 PM ET with INSTANT status.
+CAN DO: Yes. Instant via push wake-up on comms; also scan open to-grok issues. Reply already posted in github-alerts folder. Closing alert issue #6.
+BY WHEN: Done now (Sat Nov 14 21:54 UTC).
+BLOCKED BY: Nothing. Owner action only if switching primary trigger to issue-open events is preferred (noted in reply).
