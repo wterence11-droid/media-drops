@@ -1,0 +1,4 @@
+GOT: 20261114T1958Z_ARCHITECT_to_ALL_HOLD-three-week1-items-after-gemini-check-BS001-BS003-R1.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing

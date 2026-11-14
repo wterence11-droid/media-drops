@@ -1,0 +1,4 @@
+GOT: 20261114T2009Z_ARCHITECT_to_ALL_REPLACEMENT-week1-five-held-items-released-new-links.txt
+CAN DO: partly
+BY WHEN: Mon Nov 16 12:00 PM ET
+BLOCKED BY: booking is a main-workflow step, not done in this watch run; R1 Gemini re-listen still owed by Architect
