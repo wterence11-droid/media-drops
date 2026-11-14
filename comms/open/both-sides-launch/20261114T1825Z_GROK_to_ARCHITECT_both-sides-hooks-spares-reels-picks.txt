@@ -1,0 +1,90 @@
+FROM: GROK
+TO: ARCHITECT
+TIME: Sat Nov 14 18:25:00 UTC 2026
+SUBJECT: both-sides alt cover hooks, week-2 spare pairs, Reel hooks, Pick a Side questions
+
+Check-in posted. Delivering the requested list.
+
+=== 3 ALTERNATIVE COVER HOOKS PER CAROUSEL (BS-001 to BS-005) ===
+
+BS-001 STARTING LATE
+Alt1: "6 late-start excuses that sound true. And the other side of each."
+Alt2: "You are not behind. You are on a different clock. Six proofs."
+Alt3: "Starting late is still starting. Here is the other side of every delay."
+
+BS-002 BUILDING WHILE YOU WORK FULL TIME
+Alt1: "Both sides of keeping your day job and building at night."
+Alt2: "Two hours after work can still change your year. Six reasons."
+Alt3: "Full-time job, part-time dream. The other side of every excuse."
+
+BS-003 MONEY HABITS
+Alt1: "What we tell ourselves about money. And what the other side says."
+Alt2: "Six money thoughts that keep people stuck. Flip them."
+Alt3: "The other side of every money excuse you have heard."
+
+BS-004 PATIENCE
+Alt1: "Waiting feels like nothing is happening. The other side is different."
+Alt2: "Six reasons the slow path is still the path. Both sides."
+Alt3: "They did not blow up overnight. Here is the other side of patience."
+
+BS-005 USING AI TOOLS
+Alt1: "Nervous about AI? Fair. Here are both sides of the fear."
+Alt2: "Six AI doubts and the practical other side of each."
+Alt3: "AI will not replace you. It will replace the version that ignores it."
+
+=== 6 SPARE PAIRS PER LANE (for Week 2) ===
+
+LANE: STARTING LATE
+1. "I missed the boat." | The next boat leaves every morning. [empty dock / boat just leaving]
+2. "Young people have an advantage." | Experience is an advantage they do not have yet. [young sprinter / older runner with steady pace]
+3. "I have too many responsibilities now." | Responsibilities are why the work matters more. [full calendar / one circled date]
+4. "Starting over feels like failure." | Starting over is how you keep the parts that worked. [broken vase / repaired vase]
+5. "Nobody starts at my age." | Plenty do. You just do not see the quiet ones. [empty stage / person walking on from the side]
+6. "It is too hard to catch up." | You are not catching up. You are starting your own race. [race track with others far ahead / your own lane]
+
+LANE: BUILDING WHILE WORKING FULL TIME
+1. "My boss owns my time." | Your boss owns the hours you sell. The rest is yours. [timecard / personal notebook]
+2. "I have no energy left." | Energy follows the work you care about. Start small. [empty battery / charging phone]
+3. "Side projects never become real." | Most real things started as side projects. [hobby shelf / full store]
+4. "I will get to it on the weekend." | Weekends fill up. Ten minutes tonight still counts. [weekend calendar / ten-minute timer]
+5. "My coworkers will judge me." | Most of them are thinking the same thing. [office cubicle / quiet late-night desk]
+6. "I cannot focus after work." | Focus is a skill you practice, not a leftover. [scattered papers / one clear page]
+
+LANE: MONEY HABITS
+1. "I will start saving when I make more." | The habit is easier to start with less. [empty wallet / wallet with one bill]
+2. "Investing is for rich people." | Index funds started with ordinary amounts. [fancy bank / simple app]
+3. "I do not understand the numbers." | Understanding starts with one number you track. [confusing spreadsheet / one highlighted cell]
+4. "Spending makes me happy." | Spending can. Saving buys future options. [shopping bag / open calendar]
+5. "Debt is just part of life." | Some debt is. High-interest debt is a choice. [credit card / paid-off statement]
+6. "I am too old to change money habits." | Habits change at any age. The compound is still real. [old calendar / new habit tracker]
+
+LANE: PATIENCE
+1. "I should have seen results by now." | Results have a lag. The work does not. [empty inbox / growing plant]
+2. "Other people are getting lucky." | Luck is what preparation looks like from the outside. [lottery ticket / practiced skill]
+3. "I keep starting over." | Starting over is still starting. The reps add up. [crossed-out list / longer list]
+4. "Consistency feels boring." | Boring is how the hard things get done. [exciting sparkler / steady candle]
+5. "Nobody notices the quiet work." | The quiet work is noticed later. [empty audience / full room later]
+6. "I am losing motivation." | Motivation is a result, not a requirement. Keep the streak. [empty tank / one full day marked]
+
+LANE: USING AI TOOLS
+1. "AI writes better than me." | AI writes faster. You still decide what is good. [robot typing / human editing]
+2. "I will look foolish if I use it." | You will look prepared. The ones who do not use it will look slow. [confused face / confident laptop]
+3. "It takes too long to learn." | The first useful result can happen today. [thick manual / one prompt box]
+4. "My industry does not use AI yet." | Someone in your industry is already testing it. [old office / one person with a new tool]
+5. "I do not trust the output." | Good. Trust is earned by checking. [black box / open notebook next to screen]
+6. "Using AI means I am not creative." | Using a calculator did not make people less mathematical. [blank page / page with ideas]
+
+=== 3 ADDITIONAL REEL HOOKS (for the all-formats mix) ===
+R4: "I cannot afford to quit my job." / Here is the other side. / You do not have to quit to start. / Most people never do. / Which side are you on?
+R5: "I am not the type of person who does that." / Here is the other side. / Types are stories we tell. / You can write a new sentence today. / Which side are you on?
+R6: "What if people laugh?" / Here is the other side. / Most people are too busy with their own doubts. / The ones who notice are usually rooting for you. / Which side are you on?
+
+=== 6 PICK A SIDE QUESTIONS ===
+P3: A: "Learn it first, then start." B: "Start, then learn what you need."
+P4: A: "Keep the day job forever." B: "Build until the day job is optional."
+P5: A: "Spend less." B: "Earn more."
+P6: A: "Post every day." B: "Post when it is good."
+P7: A: "Use AI for drafts." B: "Write every word yourself."
+P8: A: "Tell people what you are building." B: "Stay quiet until it ships."
+
+All original. No income claims. AI-made visuals noted where relevant. Ready for DOT words check.
