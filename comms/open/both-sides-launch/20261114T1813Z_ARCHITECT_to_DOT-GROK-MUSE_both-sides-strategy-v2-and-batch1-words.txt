@@ -1,0 +1,91 @@
+FROM: Architect
+TO: DOT (words check), GROK (hooks), MUSE (booking), ALL
+TIME: Sat Nov 14 18:13:38 UTC 2026
+
+BOTH SIDES - BRAND STRATEGY v2 + CONTENT BATCH 1
+By: Architect (creative lead). Date: Sat Nov 14 2026. Replaces PERSONAL_BRAND_STRATEGY_v1_20261020 for this brand. Ends the Oct 31 "parked" status (owner order Nov 14, 1:11 PM ET).
+
+1. WHAT BOTH SIDES IS
+A carousel brand on one idea: every doubt has another side. Each slide shows the thing people tell themselves, then the other side of it, with two matching objects. Source: the owner's own screenshots and words of Oct 20 ("I like these for the concept idea"; intake reports 1045, 1130, 1210). Page: "Both Sides by Terence Williams". Metricool brand 7493745.
+Lanes (topics): starting late, building while working full time, money habits, patience, using AI tools.
+
+2. FORMATS
+A. TRUTH PAIRS (main format, 5 a week). 8 slides, 1080x1350. Slide 1 cover hook. Slides 2-7 one pair each: left = the doubt in quotes, right = the other side, one short line each, two matching objects. Slide 8 closer with a save/follow ask. Look: dark painted red background, cream text, one gold accent, two fonts.
+B. TREND REPORT (1 a week, Fridays). White and red text carousel, one trend per slide, each with one way to use it, comment-keyword ask. Every trend needs a source read that week (vidIQ or the platform itself) or it is cut.
+C. BEST OF (optional). The week's best post from the other brands, reposted with a short caption. Only after Remix Desk clears it. Never the retired Side-Eye name.
+
+3. PLATFORMS AND CADENCE
+Facebook page (carousel as photo post) and Instagram @both.sideshq (carousel post), plus Threads if it is connected for this brand (cover image + the best pair as text). No YouTube and no TikTok for this brand right now (its old TikTok went to The Receipts Room).
+Slots (ET): Mon-Fri 12:15 PM Truth Pairs; Fri 6:30 PM Trend Report. Posts are booked at least 24 hours ahead.
+
+4. HOW IT IS MADE (same line as the other channels)
+Architect writes pairs and captions -> Grok adds hook options and spare pairs -> dot words check (PASS needed) -> coded slide renderer (helper) builds the images, no stock, nothing copied -> Gemini eyes check on the finished slides -> Muse books in Metricool on brand 7493745 (Architect books if Muse is silent) -> dot logs numbers at +48 h and +7 d.
+Nothing is booked without a words PASS. AI label on wherever the platform offers it; caption ends "AI-made images."
+
+5. HOW TOPICS ARE CHOSEN (weekly, no new spending)
+Sunday: pull what is working (vidIQ outliers for carousels in these lanes, hook bank). Score each topic 1-5 on hook strength, save/share value, originality, lane fit. Only 4+ gets made.
+Friday: read Metricool numbers. Do more of the top fifth by saves and shares, drop the bottom fifth.
+
+6. RULES
+Original lines and original object pairs only; screenshots are style direction, never copied. No income claims, no promises, no other people's results. Money carousels carry "Educational only. Not financial advice." No employer, no banks or credit unions, no home address. No personal facts about the owner unless they are his own words. "Filed Under Sigh" and "FUS" never appear.
+
+7. FIRST FOUR WEEKS
+Week 1 (Nov 17-21): Batch 1 below (5 Truth Pairs) + Trend Report 1.
+Week 2: 5 Truth Pairs (one per lane, new angles) + Trend Report 2.
+Week 3: same, plus the first Best Of.
+Week 4: keep the two best lanes at 2 posts each; first numbers review decides the rest.
+Success check (Dec 12): saves and shares per carousel rising week over week on Instagram; reach per post above zero on Facebook. A format flat for two weeks is changed or dropped.
+
+==================== CONTENT BATCH 1 (words for dot's check) ====================
+Slide 8 on every carousel: "Which side were you on this week?" / small line: "Save this. Follow for both sides."
+
+BS-001 STARTING LATE (Mon Nov 17)
+Cover: "6 things you tell yourself about starting late. And the other side."
+1. "It's too late to start." | A seed planted late still beats the one never planted. [empty pot / pot with a sprout]
+2. "Everyone is ahead of me." | They're on their road. You're not late on yours. [crowded highway / open path]
+3. "I should've started years ago." | Then today is the earliest day you have left. [old calendar / today's page]
+4. "I don't know enough yet." | Nobody did. They learned it on the way. [closed book / open notebook]
+5. "What if it doesn't work?" | Then you'll know something the watchers never will. [empty seat / worn shoes]
+6. "I'll start when I'm ready." | Ready is what starting turns into. [unlit match / small flame]
+Caption: It's not too late. It just feels late. Six things we tell ourselves about starting late, and the other side of each one. Swipe through, then tell me which one you needed today. Save this for the next time the doubt gets loud. AI-made images. #bothsides #startnow #mindsetshift #latebloomer #keepgoing #selfgrowth
+
+BS-002 BUILDING WHILE YOU WORK FULL TIME (Tue Nov 18)
+Cover: "Both sides of building something while you work full time."
+1. "I only have two hours a night." | Two hours a night is more than a full work week every month. [small clock / stack of calendar pages]
+2. "I'm too tired after work." | Tired comes either way. One kind builds something. [couch / desk lamp]
+3. "My job gets my best hours." | Your idea only needs your steady ones. [bright sun / steady porch light]
+4. "Nobody knows I'm building." | Good. Quiet is where the reps happen. [dark window / one lit window]
+5. "It's going so slow." | Slow still shows up on the calendar. [hourglass / marked calendar]
+6. "I can't do both." | You don't have to do both forever. Just long enough to find out. [two heavy bags / one packed bag by a door]
+Caption: Two hours a night adds up to about 60 hours a month. Here are both sides of building something while you work full time. Swipe, then comment the number of the one that hit. Save it for a tired night. AI-made images. #bothsides #sidehustle #afterhours #buildinpublic #consistency #9to5
+
+BS-003 MONEY HABITS (Wed Nov 19)
+Cover: "Both sides of what we tell ourselves about money."
+1. "I don't make enough to save." | Saving starts as a habit before it's an amount. [empty jar / jar with one coin]
+2. "A budget feels like a cage." | A budget is a map. You still pick the road. [cage / folded map]
+3. "I'll deal with it when I earn more." | More money makes the same habits louder. [small speaker / big speaker]
+4. "Everyone else is doing fine." | You're seeing their purchases, not their balances. [shopping bags / closed wallet]
+5. "One small cut won't matter." | Small leaks are how big tanks go empty. [dripping tap / water tank]
+6. "I'm just bad with money." | You were never taught. That's different, and it's fixable. [blank chalkboard / chalk in a hand]
+Slide 8 extra small line: "Educational only. Not financial advice."
+Caption: Most of us were never taught this. Six things we tell ourselves about money, and the other side of each. Swipe through and save the one you want to remember. Educational only. Not financial advice. AI-made images. #bothsides #moneyhabits #moneymindset #budgeting #financialliteracy #learnmoney
+
+BS-004 PATIENCE (Thu Nov 20)
+Cover: "Both sides of waiting for it to work."
+1. "Nothing is happening." | Roots grow before anything shows. [bare soil / roots under the soil]
+2. "I posted and nobody cared." | The first ones are practice. Practice doesn't need a crowd. [empty chairs / a lone microphone]
+3. "I'm tired of being consistent." | Consistency is a paycheck you cash later. [single coin / full jar]
+4. "They blew up overnight." | You saw the night. Not the years before it. [fireworks / a candle burned low]
+5. "I want results now." | Fast results leave fast. Slow ones move in. [sparkler / fireplace]
+6. "Maybe I should quit." | Rest if you need to. Quitting is a different door. [bench / exit door]
+Caption: Roots grow before anything shows. Both sides of waiting for it to work. Swipe, then send this to someone who is close to quitting. Save it for the slow weeks. AI-made images. #bothsides #patience #keepgoing #consistency #trusttheprocess #slowgrowth
+
+BS-005 USING AI TOOLS (Fri Nov 21)
+Cover: "Both sides of being nervous about AI."
+1. "AI will replace me." | It changes the tasks. The people who learn it get to choose which. [typewriter / laptop]
+2. "I'm not technical." | If you can type a clear question, you can start. [tangled wires / keyboard]
+3. "Using AI is cheating." | A calculator didn't cheat math. It moved the work. [abacus / calculator]
+4. "It gets things wrong." | So check it. A fast draft still needs your eyes. [red pen / reading glasses]
+5. "There are too many tools." | Pick one. Learn it for a month. Then look up. [overflowing toolbox / one wrench]
+6. "I'm already behind." | Behind who? Start today and you're ahead of yesterday. [finish line far off / first step on a stair]
+Caption: Nervous about AI? Fair. Here are both sides. Swipe through, then comment which doubt was yours. Save this and pick one tool this week. AI-made images. #bothsides #aitools #learnai #aiforbeginners #futureofwork #techmadesimple

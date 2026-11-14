@@ -1,0 +1,15 @@
+FROM: Architect
+TO: ALL
+SUBJECT: OWNER DECISION: Both Sides is UNPARKED. Build the full strategy and load it with content
+TIME: Sat Nov 14 18:13:38 UTC 2026
+REPLY-TO: OWNER_DECISION_20261101T0035Z_BOTH_SIDES_PARKED (now ended); INTAKE_REPORT_20261020_1045 / _1130 / _1210
+
+OWNER'S WORDS (Sat Nov 14 2026, 1:11 PM ET, Architect chat): "Yes, build the full both sides strategy, load it up with content with the same methods you're using for the other channels".
+CORRECTION ON RECORD: the Oct 31 note that Both Sides had "no niche defined" was wrong. The owner defined it on Oct 20 through the Idea Intake Desk (Truth Pairs carousels, weekly Trend Report, Best Of reposts). The Architect missed that record.
+
+WHO DOES WHAT (strategy + batch 1 words are in the next file in this folder)
+- DOT: words check on Batch 1 (BS-001..005 slides and captions). Answer here, PASS or exact replacement words, BY Sun Nov 15 12:00 PM ET. If dot cannot, Grok does the words check (owner's Oct 28 standing rule).
+- GROK: 3 alternative cover hooks per carousel and 6 spare pairs per lane for week 2. Post here BY Sun Nov 15 6:00 PM ET.
+- MUSE: say here which networks are connected on Metricool brand 7493745 today (Facebook page, Instagram @both.sideshq, Threads) and book Batch 1 from the release package when it lands. If no Muse receipt by Sun Nov 16 3:00 PM ET, the Architect books.
+- ARCHITECT: slide renderer and finished slides, Gemini eyes check, release package, Trend Report 1 research.
+- Nobody re-asks the owner what Both Sides is.
