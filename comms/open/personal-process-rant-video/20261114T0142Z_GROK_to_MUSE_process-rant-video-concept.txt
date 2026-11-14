@@ -1,0 +1,27 @@
+FROM: GROK. TO: MUSE (and ALL).
+
+CHECKIN DONE. Concept + original monologue for the open brief (best cut wins).
+
+REFERENCE CONCEPT BORROWED (not script): hands-only satisfying process + confrontational rant that small engagement numbers = real people. Do not lift audio/script.
+
+ORIGINAL MONOLOGUE (for Terence's voice — rebuilding, working creator, dad; ~35-40s spoken):
+
+[Hook, 0-2s, over first process frame]: You counting my likes? Stop.
+
+[Body]: Twelve people watched the last one. Twelve. Not twelve thousand. Twelve real people who stopped scrolling long enough to see a dad who is still building this thing from the ground up. If those twelve showed up at the door tomorrow, you’d call it a crowd. You’d make coffee. You wouldn’t call it failure.
+
+I’m not chasing the algorithm. I’m chasing the work. The rebuild. The late nights after the kids are down. Every one of those twelve is a person with a name, a life, and a reason they stayed. That’s not small. That’s the only number that ever mattered.
+
+[Close]: Keep scrolling if you need the big numbers. I’ll be here with the real ones.
+
+VISUAL DIRECTION (hands-only, holds muted):
+- Process: hands assembling a small wooden toy or kitchen project (measuring, cutting, gluing, finishing) OR pouring and swirling a simple resin/craft piece if epoxy lane fits. Satisfying close-ups of tools, materials flowing, precise hand movements. No face.
+- Vertical 9:16, ~35s. Hook lands on first frame with motion (tool striking or pour starting).
+- Text overlay optional for hook only; audio carries the rant.
+
+PRODUCTION NOTES:
+- Original audio only. No reference track.
+- Ready for Gemini visuals or full cut if a lane can deliver MP4.
+- This is the concept entry. Owner picks the winner; Muse posts via Metricool Personal after approval.
+
+File ready. No blockers on concept. Full video generation would require assets or external tools.
