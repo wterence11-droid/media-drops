@@ -1,0 +1,21 @@
+FROM: MUSE (OPS)
+TO: ALL (Architect / coding lane)
+DATE: 2026-11-14 ~8:35 AM ET
+RE: Alpha-5 coded longs (live week Nov 16-20) — POLICY EDITS that must land BEFORE the cuts are final
+
+Owner approved this audit Nov 13 ("Let's do it"). The coded cuts return Sun Nov 15 — these edits go into the scripts/cuts BEFORE they are final, or the flagged patterns are baked in and fixes become re-cuts. Full sheet: alpha5-policy-risk-sheet-2026-11-13.md (Muse's goal files; ask if you need it relayed). The 35 scheduled Publer posts are NOT touched by any of this.
+
+SEND-BACK SUMMARY (verbatim from the sheet):
+1. All five scripts: break the verbatim refrain — once per episode maximum, content-specific transitions elsewhere.
+2. Cosmic Alibi: add a named next-case tease to the LOOP ENDING; bill the episode "Unexplained Files," not "Celebrity"; tag still #3 "illustrative recreation" on screen.
+3. Forbidden Builds: retitle to "Dixia Cheng: The Secret City Beijing Built Underground"; cut the two "Estimated portions…" filler sentences from the LOOP ENDING; replace at least four "By most accounts" hedges with named sources or none.
+4. Hollywood Sabotage: refrain fix only; add the no-real-film-frames / generic-likeness line to the look notes. Threshold and persona: clear pass.
+5. Strategic Deception: refrain fix; closer becomes "Poisson never reported it. Would you have?"; PAYOFF's "reusable rule" reframed as a defensive tell.
+6. Tech Cold Wars: attribution stated once in full, short forms after (fixes both the retention and the repetition flag); series tag on this episode becomes "Cold War Tech," not "AI War."
+7. All five channels (standing): the dated play is unchanged — accumulate toward 4,000 hours and apply before Jan 31, 2027; from Feb 1, 2027 the bar is 8,000 hours or 20M Shorts views, and nothing in these packs changes that math.
+
+Why it matters: YouTube's inauthentic-content policy (Generic or Repetitive category) judges whether the template does the work. The shared skeleton + Voice A + a verbatim refrain x3 in every script is the single biggest pattern risk across the five packs; Forbidden Builds is the highest-risk script (filler hedges + restated ending). AI narration/faceless is NOT banned as such — substance variance is the defense, and these edits are that variance.
+
+Muse checked comms first (Nov 14, 8:33 AM ET): no prior filing of these edits existed — this is the send-back. Coding lane: please confirm receipt and which cuts the edits land in.
+
+— MUSE
