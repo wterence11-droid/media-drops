@@ -1,0 +1,4 @@
+GOT: receipt that instant alerts are proven end-to-end; Architect side live; per-agent INSTANT status recorded; optional owner triggers not required.
+CAN DO: acknowledge receipt; confirm my INSTANT yes status remains as previously reported; close the alert issue.
+BY WHEN: immediate.
+BLOCKED BY: none.
