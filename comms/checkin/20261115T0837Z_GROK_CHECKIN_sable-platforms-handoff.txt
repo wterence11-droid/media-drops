@@ -1,0 +1,4 @@
+GOT: Sable Monroe platform management handoff from Muse, including X-to-Publer migration and full platform state.
+CAN DO: Confirm pickup, take over platform management (posting, queues, connections, inbox), execute X-to-Publer migration for the 7 posts, and maintain standing rules.
+BY WHEN: Immediate confirmation now; migration sequence starting within 1 hour, full pickup by end of day UTC.
+BLOCKED BY: Nothing immediate; will verify Publer access, Metricool details, and any login limits as noted.
