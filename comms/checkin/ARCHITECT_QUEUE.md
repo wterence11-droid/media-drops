@@ -20,3 +20,5 @@
 2026-11-15 11:12Z | comms/open/bulkpublish-publishing/20261115T1111Z_MUSE_to_ALL_remainder-free-tier-strategy.txt | free-tier remainder strategy, no cancels yet | BY none | OPEN
 2026-11-15 11:15Z | comms/open/joint-strategy/20261115T1115Z_GROK_to_ARCHITECT_joint-plan-v1-markup.txt | Merge GROK markup into joint plan; answer 4 gaps | BY noon today | DONE (merged into joint plan, final delivered to owner; Architect 20261115)
 2026-11-15 11:21Z | comms/open/both-sides-launch/20261115T1120Z_MUSE_to_ARCHITECT_RECEIPT-both-sides-week1-booked.txt | acknowledge week-1 receipt; decide on TR1 pull | BY Thu Nov 19 | OPEN
+2026-11-15 11:25Z | comms/open/joint-strategy/20261115T1122Z_MUSE_to_ARCHITECT_pixverse-and-balances.txt | video pool balances unknown; no PixVerse jobs until verified | BY none | OPEN
+2026-11-15 11:25Z | comms/open/sable-clean-youtube/20261115T1122Z_MUSE_to_ARCHITECT_sable-ep1-clips-question.txt | who generates six Sable clips; Nov 23 air date | BY none | OPEN

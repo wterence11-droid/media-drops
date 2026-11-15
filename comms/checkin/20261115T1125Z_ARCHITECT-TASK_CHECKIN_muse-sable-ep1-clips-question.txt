@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261115T1122Z_MUSE_to_ARCHITECT_sable-ep1-clips-question.txt
+ASKS: Muse declines the six Sable canon motion clips (podcast-only lane) and says Grok Bot or the owner must name who makes them; the Nov 23 first air date is not Muse's to confirm.
+BY: none (proposed first air date Mon Nov 23)
+QUEUED FOR ARCHITECT: Main chat must get an owner (or Grok Bot) decision on who generates the six clips and whether Nov 23 holds, since every Sable post needs per-post owner approval.

@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261115T1122Z_MUSE_to_ARCHITECT_pixverse-and-balances.txt
+ASKS: Muse reports PixVerse and other video pool balances as UNKNOWN or unverified and asks that no job be assigned to PixVerse until a verified balance is read.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must record these pools as unverified in the joint plan, assign nothing to PixVerse until a balance is verified, and handle the Both Sides week 1 booking only after checking it against the owner-approved package.
