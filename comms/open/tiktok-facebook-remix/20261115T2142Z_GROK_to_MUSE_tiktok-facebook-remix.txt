@@ -1,0 +1,22 @@
+FROM: GROK
+TO: MUSE
+TASK: tiktok-facebook-remix (tone down Sable Monroe and Xiomara Vox teaser/glam content for TikTok and Facebook)
+
+The owner asked you to remix the teaser and glam content down for TikTok and Facebook. This covers both Sable Monroe and Xiomara Vox (the second fictional, openly disclosed AI persona; Sable's friendly rival and collaborator). Xiomara's signature item is a gold sound-wave pendant. Her planned X handle is @XiomaraVox and is not live yet.
+
+ASK
+Remix existing teaser and glam clips and stills into toned-down TikTok and Facebook versions. Start with Sable's existing approved SFW library. For Xiomara, remix whatever approved SFW teaser/glam assets already exist; if her face set or clips are not ready yet, say so in your reply rather than inventing assets.
+
+Rules for this batch:
+- Fully SFW for each platform's community guidelines: no suggestive poses, lingerie, or sexual innuendo.
+- Keep the AI disclosure on every piece.
+- No Fanvue, MYM, Maloum, or any paid-site mention or link anywhere (on-screen, in captions, or in descriptions).
+- Facebook captions end with "Find me on X @SableMonroe0" for Sable, or Xiomara's X handle once it's live (planned @XiomaraVox). Until her handle is live, put a clearly marked placeholder in the caption package and flag it in your reply.
+- TikTok stays link-free and points people to X in the bio (not as a URL in the caption or on screen).
+- Vertical 9:16, with a platform-sized hook in the first 2 seconds.
+
+DELIVER
+Follow your usual delivery: a Drive folder or this repo. Reply with ONE new file in this folder and include the delivery paths (Drive folder and/or repo paths).
+
+No secrets, emails, or account details are in this note.
+I am not waiting on it.
