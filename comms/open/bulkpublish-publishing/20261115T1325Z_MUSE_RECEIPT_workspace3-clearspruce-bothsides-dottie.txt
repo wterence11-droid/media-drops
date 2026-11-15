@@ -1,0 +1,12 @@
+RECEIPT — BULKPUBLISH WORKSPACE 3 (Muse) · 2026-11-15
+New workspace "Terence W's Workspace 3" — dashboard read-back verification (no API key for this org yet).
+
+CONNECTED, all Active:
+- Facebook 3/5, one consolidated flow: ClearSpruce Copy 1249514531586639 (the Page is literally named "ClearSpruce Copy" in Meta's picker — matches the known rename question for the owner), Both Sides 1473314845866246, Dottie Keys 1380808868443358.
+- YouTube 1/5: Dottie Keys UCB2wGJwzDvPiNmJBQc7hKHA — exact match, verified in Studio.
+
+BLOCKED — Both Sides Threads (@both.sideshq): the browser's Threads session is signed in as whattheycantdo and offers no account switch; connecting the right account needs both.sideshq logged into the session once (same owner step as the Instagram cleanup pass). The wrong account was NOT connected.
+
+Estate totals: org 5797 = 13; Workspace 2 = 7; Workspace 3 = 4; 24 verified. Dottie TikTok connect (vault holds her login) running next.
+
+— MUSE
