@@ -1,0 +1,70 @@
+From: CLAUDE-DUET (Claude, the owner's Claude Duet task "Draft two-person Come-Up money scenes")
+To: ARCHITECT
+Job: JOB-20261112-CU01 (more like the salary scene)
+Sent (ET): Sun Nov 15 2026, about 1:30 PM EST
+Subject: three more two-person scene scripts, owner said yes to production. Please run them down the job line as S06-S08.
+
+OWNER APPROVAL (not to be re-asked)
+- Nov 3 2026: Claude drafted three two-person Come-Up money scenes for test T5 (STRATEGY_REVIEW_20261031) and asked the owner in his Claude Duet task: "Should I send these three scripts into production?"
+- Sun Nov 15 2026, 1:09 PM ET, the owner answered, word for word: "Yes"
+- That yes covers production (voices, pictures, render, checks). It is not a booking order: line step 11 (owner yes to the cuts and the slots) still applies, as the job ticket says.
+
+WHY NOW
+- PRODUCTION_WEEK_20261115 (gap 1): the Personal nightly 7 PM scene slot is EMPTY Nov 17-23. The last booked scene is S05 (Personal Nov 16, Come-Up Nov 17 7 PM).
+- These three can fill the next nightly scene slots (Personal 7 PM, then Come-Up 7 PM the next day, Come-Up YouTube same day per C33). The dates are yours to set.
+
+OVERLAPS YOU SHOULD KNOW ABOUT
+- S07 is the same moment as Grok's #10 "RAISE - COUNTER" (20261112T1010Z note). Use this script for it, or drop one.
+- S06 is the same topic as the Come-Up week-1 long "How to Negotiate Salary" (Nov 16). If a cut of that long already covers "that's our best offer", say which one ships first.
+- S08 is a bills scene, not a work scene. It fits Come-Up's #2 Short ("bills that wreck your month", 501 views) and the week-3 "Late Bill Call" theme.
+
+FORMAT: copied from LOCKED SCRIPTS v1 (THEM/YOU, RULE, END, FOOTER). Voices as v1: THEM = Matilda, YOU = Mike, model eleven_multilingual_v2, free credits first. On-screen text = the spoken words. These use dollar figures, so the footer adds "Example numbers." No real company, person, bank, credit union or contact center. Workplaces are neutral.
+Words drafted by Claude for the owner; please lock or edit them as Architect, then send to DOT for the words check as usual.
+
+CU-SCENE-S06   header: "That's our best offer."   (about 64 spoken words)
+  THEM  We can do fifty-two thousand. That's our best offer.
+  YOU   Thank you, I'm excited about this role. Based on the range for this job, I was targeting fifty-six to fifty-eight. Is the base flexible?
+  THEM  Let me check with the hiring manager. ... We can do fifty-five.
+  RULE  Thank them, name a range, ask one question.
+  END   One calm question can move the number.
+  END   Follow for the next scene.
+  FOOTER  Dramatized scene. Example numbers. Educational only, not financial or career advice. AI voices.
+  CAPTION POV: they say "that's our best offer" and you actually know what to say. Full scene, word for word. Dramatized scene, example numbers, educational only. AI voices. #salarynegotiation #careertok #jobsearch
+  YT TITLE "That's our best offer" (Scene) #shorts
+  TAKEAWAY Thank them, name a researched range, ask one question, then wait.
+  NOTE  Pause beat (about 1 s) between "hiring manager" and "We can do fifty-five" so it reads as a later call.
+
+CU-SCENE-S07   header: "We can only do three percent."   (about 68 spoken words)
+  THEM  We can only do three percent this year.
+  YOU   Understood. Can I show you what changed since my last review first?
+  THEM  Go ahead.
+  YOU   I took over our biggest account and cut callbacks to same day. This role pays sixty-one to sixty-five. I'm at fifty-eight.
+  THEM  Put that in writing. I'll take it to HR.
+  RULE  Bring proof, not feelings.
+  END   Three percent can be a starting point.
+  END   Follow for the next scene.
+  FOOTER  Dramatized scene. Example numbers. Educational only, not financial or career advice. AI voices.
+  CAPTION POV: they say everyone gets three percent and you actually know what to say. Full scene, word for word. Dramatized scene, example numbers, educational only. AI voices. #raise #careertok #worktips
+  YT TITLE "We can only do 3%" (Scene) #shorts
+  TAKEAWAY Answer a flat raise with your results and the role's pay range, calmly, and ask for the next step in writing.
+
+CU-SCENE-S08   header: "$180, due Friday?"   (about 67 spoken words)
+  THEM  A hundred eighty for car registration? Due Friday?
+  YOU   Same month every year. It's just not monthly.
+  THEM  So what do I do?
+  YOU   List the once-a-year bills. Divide each by twelve. Move that much to savings every month.
+  THEM  So a hundred eighty is just fifteen a month.
+  RULE  Split yearly bills into monthly.
+  END   Fifteen a month beats a hundred eighty on Friday.
+  END   Follow for the next scene.
+  FOOTER  Dramatized scene. Example numbers. Educational only, not financial advice. AI voices.
+  CAPTION POV: a once-a-year bill shows up and you actually know what to do. Full scene, word for word. Dramatized scene, example numbers, educational only. AI voices. #budgeting #moneytips #personalfinance
+  YT TITLE $180 due Friday? (Scene) #shorts
+  TAKEAWAY Add up the yearly bills, divide by twelve, and set that aside every month.
+  MATH CHECK 180 / 12 = 15.
+
+ASK
+1. Check in per the README.
+2. Lock or edit S06-S08, then run line steps 6-11 as for S01-S05. Owner yes to the cuts and slots at step 11.
+3. Reply in this folder with ONE file: locked or edited, and the planned slots. CLAUDE-DUET reads replies here.
+This note asks for work. It books nothing, spends nothing, and changes no post, schedule or account.
