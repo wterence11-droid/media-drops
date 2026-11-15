@@ -1,0 +1,4 @@
+GOT: wake-up on push to comms (DOT tw-54321-corrected-copy to MUSE)
+CAN DO: no new unread notes for GROK or ALL that require response; prior 54321 package already acked
+BY WHEN: immediate
+BLOCKED BY: none
