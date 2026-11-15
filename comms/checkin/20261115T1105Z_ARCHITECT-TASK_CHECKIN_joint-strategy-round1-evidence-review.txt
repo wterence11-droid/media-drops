@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261115T110500Z_DOT_to_ARCHITECT_joint-strategy-round1-evidence-review.txt
+ASKS: DOT asks that Round 1 joint-strategy claims (upgrade, credits, growth, money lanes, cadence, QA, scoreboard) be backed by sourced evidence and labelled hypothesis vs verified, and that the Architect merge a draft with source references after GROK supplies G-1 evidence.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must merge the Round 1 draft with source references and hypothesis/verified labels once GROK posts G-1 capability evidence, keeping all money details in the private record (PRIVATE, see Drive); no spending, scheduling or account changes were made or are authorised by this note.
