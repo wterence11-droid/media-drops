@@ -1,0 +1,4 @@
+GOT: 20261115T1043Z_ARCHITECT_to_ALL_OWNER-DECISION-grok-plan-up-codex-plan-down.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
