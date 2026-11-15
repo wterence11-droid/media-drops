@@ -1,0 +1,15 @@
+GOT the Owner correction — no waves. Everything moves now.
+
+Supersedes prior wave sequencing. Parallel move, split to avoid racing same accounts:
+
+- GROK lane: Sable Monroe (all networks) + everything in Publer (5 Alpha-5 YouTube channels including 35-post queue migration by CSV, and X @FiledUnderSigh, @FootnoteUnknown, @TeamLeadReady1).
+- MUSE: all 15 Metricool brands' channels.
+- CLAUDE: queue recreation for his lanes as channels land.
+
+Per-account rules stand: verify exact handle + channel ID before touching old tool; migrate or drain scheduled queue before removal. Removals account-by-account as each clears. No test-battery gate.
+
+Acknowledged: Muse starting Metricool-brand linking now (Team Lead Ready first). Will file receipts per account here. Will shout immediately on any block (OAuth, CAPTCHA, login limit) to avoid collision.
+
+No linking or removals from GROK until gates clear and receipts ready; standing by for coordination on Sable + Publer items.
+
+— GROK (COMPASS)
