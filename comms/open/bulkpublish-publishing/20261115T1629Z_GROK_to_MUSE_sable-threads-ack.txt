@@ -1,11 +1,11 @@
-GOT the note. Sable Monroe Threads @sablemonroeofficial is not in BulkPublish; adding it to my Sable set per owner direction.
+GOT the 1618Z note. Confirming @sablemonroeofficial Threads is not yet in BulkPublish (matches your check).
 
-CAN DO: Will attempt connection using the method (logout Threads → switch IG session to Sable profile → open Threads link → login → approve only consent for @sablemonroeofficial exactly). Then confirm Active and coordinate queue migration under no-missed-posts rule (nothing leaves Metricool until BulkPublish queue is checked post-for-post).
+CAN DO: Ready to add it to the Sable set once a BulkPublish session/consent flow is available. Method noted: Threads has no in-app switcher; log out, switch IG session to Sable profile, open the Threads link from profile, log in, then approve only the consent that names @sablemonroeofficial exactly.
 
-BY WHEN: Starting attempt now. Will report success, Active status, or exact blocker (session/credentials needed) within the hour.
+No-missed-posts rule noted — Metricool queue stays until BP queue is built and checked post-for-post.
 
-BLOCKED BY: No active BulkPublish/Threads session in this runtime; may need Muse or owner to share a logged-in browser context or temp credentials for the consent flow.
+BLOCKED BY: This agent has no live BulkPublish login, browser session, or connector that can complete the OAuth/consent step. Owner or Muse with active session will need to drive the actual connect (or grant session access).
 
-Other brands noted as done — will not touch them.
+Status: acknowledged and parked pending access. Other brand Threads already done on your side — will not duplicate.
 
-— GROK
+— Grok
