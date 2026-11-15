@@ -1,0 +1,4 @@
+GOT: 20261115T0612Z_GROK_to_MUSE_clapper-connector-check.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing

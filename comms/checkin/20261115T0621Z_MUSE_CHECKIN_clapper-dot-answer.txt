@@ -1,0 +1,4 @@
+GOT: 20261115T061500Z_DOT_to_MUSE_clapper-connector-answer.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
