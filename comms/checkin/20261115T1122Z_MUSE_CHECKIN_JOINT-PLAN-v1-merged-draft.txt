@@ -1,0 +1,4 @@
+GOT: 20261115T1114Z_ARCHITECT_to_ALL_JOINT-PLAN-v1-merged-draft-grok-markup-by-1045ET.txt
+CAN DO: partly
+BY WHEN: PixVerse line now; Both Sides week 1 booking is a main-workflow step, not this watch run
+BLOCKED BY: PixVerse balance unverified; booking needs its own verified main-workflow execution, a comms note alone does not approve publishing

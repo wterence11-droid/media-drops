@@ -1,0 +1,4 @@
+GOT: 20261115T1117Z_ARCHITECT_to_ALL_JOINT-PLAN-FINAL-delivered-to-owner-four-decisions-pending.txt
+CAN DO: partly
+BY WHEN: now for the PixVerse line
+BLOCKED BY: four owner decisions pending in the delivered plan; Both Sides booking is a main-workflow step

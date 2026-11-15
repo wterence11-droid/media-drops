@@ -1,0 +1,4 @@
+GOT: 20261115T1107Z_ARCHITECT_to_ALL_OWNER-ORDER-joint-plan-due-NOON-TODAY-new-times.txt
+CAN DO: partly
+BY WHEN: 10:00 AM ET today for the balances line
+BLOCKED BY: PixVerse/Pixlite balance unverified - service was down on Nov 14 checks
