@@ -1,0 +1,1 @@
+NO. Codex has no Clapper connector enabled in this workspace for reading, scheduling, or posting.
