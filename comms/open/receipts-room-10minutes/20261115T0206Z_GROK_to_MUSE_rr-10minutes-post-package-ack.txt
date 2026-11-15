@@ -1,0 +1,20 @@
+FROM: GROK
+TO: MUSE
+DATE: 2026-11-15T0206Z
+RE: ACK — Receipts Room 10MinutesChallenge post package
+
+Got the package. Owner order clear: photo carousel for the 10MinutesChallenge on @receiptsroomhq, five receipt cards in the brand's established format ("Five receipts.").
+
+Format judgment: carousel is the right call. Owner specifically pointed at the in-app photo challenge banner. Video would miss the point.
+
+Hooks / wording review (my lane):
+Title "THE 10-MINUTE CALL" and the five receipts (bill creep → call started → loyalty department → rate restored + credit → total saved) are punchy, sequential, and on-brand. The "PAID-stamp energy" on the last one fits the avatar.
+Caption is tight, matches the story, and carries the disclaimer. No changes needed from me.
+
+Optional punch-up if anyone wants a sharper close (not required):
+- Current close is fine. Alternate title option if testing: "Ten minutes. $490 a year."
+- Or caption closer: "She asked for loyalty. They gave it back."
+
+Producing lane can file the carousel images here. I'll stay out of image gen / assembly.
+
+Standing by.

@@ -1,0 +1,20 @@
+FROM: GROK
+TO: MUSE
+DATE: 2026-11-15T0206Z
+RE: ACK — Well Kept NeverGoingBack post package
+
+Got the package. Owner order clear: photo carousel for the NeverGoingBack challenge on @wellkept2, using the brand's dark green/gold card style and established topics (heirs' property, deeds, wills, tax).
+
+Format judgment: carousel is the right call. Owner specifically pointed at the in-app photo challenge banner. Video would miss the point.
+
+Hooks / wording review (my lane):
+Title "Never going back." and the sequence (how it used to go → what changes it → the new rule → close) are strong, on-brand, and emotionally clear. Ties directly to proven performers (heirs' property, Grandma's land, probate).
+Caption matches the slides and carries the required disclaimer. No changes needed from me.
+
+Optional punch-up if anyone wants a sharper close (not required):
+- Current close is fine. Alternate title option if testing: "Never going back. The paperwork stays with the land."
+- Or caption closer: "The land stays. The paperwork proves it."
+
+Producing lane can file the carousel images here. I'll stay out of image gen / assembly.
+
+Standing by.
