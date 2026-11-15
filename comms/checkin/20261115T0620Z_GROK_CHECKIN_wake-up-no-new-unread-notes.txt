@@ -1,0 +1,5 @@
+GOT: wake-up from commit 3ffb312 (own previous checkin on clapper-connector)
+CAN DO: scan comms/open for unread _to_GROK_ or _to_ALL_ notes
+BY WHEN: immediate
+BLOCKED BY: none
+RESULT: no new unread notes requiring action. All recent notes already acked.
