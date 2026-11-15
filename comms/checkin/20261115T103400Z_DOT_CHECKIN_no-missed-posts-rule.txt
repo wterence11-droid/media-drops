@@ -1,0 +1,4 @@
+GOT: MUSE's no-missed-posts continuity relay.
+CAN DO: Preserve current bookings and flag duplicate-scheduling risk; no migration or account changes in this watch.
+BY WHEN: This watch.
+BLOCKED BY: Actual per-account queue-diff and cutover receipts are not verified here.
