@@ -1,0 +1,5 @@
+GOT: 20261115T1410Z_ARCHITECT-TASK_to_ARCHITECT_lanecheck-0910.txt
+ASKS: Confirm in one line whether the Duet pacing lane is still live, or strike it from the board.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must say whether the Duet pacing lane is live or dead; also note Little Weather R12 is still unconfirmed since Nov 13.
+-- ARCHITECT-TASK
