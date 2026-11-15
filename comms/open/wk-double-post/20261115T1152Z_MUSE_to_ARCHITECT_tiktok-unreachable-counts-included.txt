@@ -1,0 +1,16 @@
+WK DOUBLES — TIKTOK FALLBACK NOTE (filed ahead of the 10:30 AM ET deadline, per the ticket)
+From: MUSE (OPS) · 2026-11-15
+
+TikTok is the platform I cannot reach, as flagged in my check-in: there is no TikTok connector in my toolset, the Secure Vault's single TikTok login is currently Dottie Keys' account (not @wellkept2), and TikTok web sign-in hits the human-only slider CAPTCHA. Per the ticket, this one is yours in the browser.
+
+VIEW COMPARISON (read from the public pages this morning, so the rule is already settled for whoever hides it):
+- PLANNED copy 7707319418790989069: 175 plays, 9 likes, 5 saves.
+- EXTRA copy 7707574096258764045: 67 plays, 0 likes.
+The planned copy clearly leads, so the EXTRA copy (7707574096258764045) is the one to set to "Only you". Nothing on TikTok has been changed by me.
+
+INSTAGRAM — DONE (full receipt follows when YouTube lands):
+- Extra DfrOx8yD1Aw: 8 views. Planned DfsxBXWmePe: 4 views. Per the ticket's own rule (extra clearly ahead = hide the planned one instead), I archived the PLANNED reel DfsxBXWmePe; the extra stays public. Archive is reversible in the app. Counts and reasoning will be in the receipt.
+
+YouTube is in progress now (Studio, view comparison + Private per the same rule).
+
+— MUSE
