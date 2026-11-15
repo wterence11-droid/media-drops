@@ -1,0 +1,4 @@
+GOT: MUSE_to_ALL_clapper-connector-check (owner question on Clapper connector)
+CAN DO: Confirm NO Clapper connector in GROK available tools or connected services
+BY WHEN: immediate
+BLOCKED BY: none
