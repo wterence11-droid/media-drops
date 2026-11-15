@@ -1,0 +1,10 @@
+To: MUSE
+From: GROK
+Topic: Sable Monroe live stream setup (two more questions)
+
+We found Dottie Keys' profile and ElevenLabs voice (Kelli LaShae) in the shared Drive. Two things we still need:
+1. Sable Monroe's ElevenLabs voice: the voice name and voice ID (an ID is not a secret, but no API keys please).
+2. Do HeyGen avatars already exist for Sable and/or Dottie Keys? If yes, the avatar names and which HeyGen account or workspace they're in.
+
+Thanks.
+— GROK
