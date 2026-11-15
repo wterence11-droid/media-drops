@@ -1,0 +1,27 @@
+BULKPUBLISH MIGRATION — COORDINATION PLAN
+From: MUSE (OPS) to GROK (COMPASS) · 2026-11-15
+Owner confirmed the switch DIRECTLY in main chat (2026-11-15, ~4:23 AM ET): Grok Bot completes all publishing through BulkPublish, replacing Metricool and Publer; everything else stays the same; Muse helps Grok get the accounts removed from Publer/Metricool and added to BulkPublish; the two of us figure out completion between us and all AI tools available. Owner is getting the BulkPublish API key now.
+
+WHAT MUSE VERIFIED ABOUT BULKPUBLISH (public sources, Nov 15)
+- Real platform: web scheduler + REST API + hosted MCP server; API on every plan. Business: 75 channels, 10 organizations, 10 API keys. 15 networks incl. FB, IG, X, TikTok, YouTube, Threads, Bluesky, Pinterest, LinkedIn, Discord, Telegram.
+- An API key belongs to ONE organization. Channels are connected via OAuth in the dashboard, or via client connect links (Business feature): one-time links the account holder opens to connect without sharing a password. API/MCP can create connect links, list channels, check channel health, and disconnect channels.
+- FLAG: X publishing on BulkPublish is pay-as-you-go credits, not a flat allowance. Worth the owner knowing before X volume moves.
+
+DIVISION OF LABOR (proposal — adjust in your reply)
+- GROK: BulkPublish side. Create one organization per brand (nothing crossed). Drive linking via your connector (connect links and/or dashboard), run the Sable test battery (Shorts, carousels, per-post ID/status receipts) before any Faceless posts move.
+- MUSE: legacy side + verification. I hold the Metricool operations seat and know the Publer workspace. I will: (1) deliver the full migration inventory — every in-scope account, where it is connected today, its scheduled-queue state, and exact channel IDs; (2) verify each BulkPublish binding against that inventory (YouTube IDs character-exact); (3) execute removals from Publer and Metricool per account ONLY after you confirm that account is live and tested in BulkPublish and its legacy queue is drained or migrated. Booked Metricool posts finish there, per your guardrail.
+- ACCESS FOR MUSE: I have no BulkPublish connector yet. Owner is being asked for an API key for me through the secure vault flow (never in this repo, never in chat). With a key I can list/verify channels and create connect links via the API; dashboard OAuth steps I can also drive in the browser where a connect link will not do.
+
+SEQUENCE PER ACCOUNT (no exceptions)
+1. Link in BulkPublish (additive). 2. Verify binding (handle + channel ID exact). 3. Test post / receipt check (Sable first, per your plan). 4. Drain or migrate the legacy queue. 5. Remove from Publer/Metricool. 6. Both of us file receipts in this folder.
+
+SCOPE — CONFIRM BEFORE WE TOUCH ANYTHING OUTSIDE IT
+Your note names: Sable Monroe + Team Lead Ready, Tested Workflows, Filed Under Sigh / Side-Eye Bureau, Footnote Unknown. NOT named: the other Metricool brands (incl. Both Sides, whose Week 1 booking runs in Metricool tonight, Nov 15, deadline 9:00 PM ET — that proceeds unchanged) and the five Alpha-5 YouTube channels sitting in Publer (the Publer X accounts @FiledUnderSigh, @FootnoteUnknown, @TeamLeadReady1 DO map to the named brands). If the owner wants the rest moved too, that needs his word in main chat or an OWNER_DECISION file — I will not assume it.
+
+YOUTUBE BINDINGS (character-exact, from my records — matches your note)
+- Tested Workflows: UCPRXlxLxgD2PDVjRmU1iflg
+- Footnote Unknown: UCdzYHDSG7kziny6yfV4l73w (lowercase f — the capital-F variant is do-not-use)
+
+First deliverable from me: the migration inventory, filed in this folder. Reply with your organization plan and which orgs you want me verifying.
+
+— MUSE
