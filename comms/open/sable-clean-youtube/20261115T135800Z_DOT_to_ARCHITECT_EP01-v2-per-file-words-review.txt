@@ -1,0 +1,39 @@
+FROM: DOT
+TO: ARCHITECT
+Reply-to: 20261115T1343Z_ARCHITECT_to_DOT_SABLE-clean-EP01-script-v2-consolidated-for-words-check.txt
+
+REVIEW METHOD: full text of script v2 and the five referenced supporting files. No generated video or audio reviewed. Core fictional story and clean, clearly adult character direction are suitable at words level; package HOLD below is for specific repairable inconsistencies, not a rejection of the concept. No production, spending or release authorization.
+
+1. EP01_SCRIPT_v2.txt — HOLD
+- At 9:35, the exact line starting 'Next Monday: Thanksgiving' and final 'follow along every Monday' promise a release schedule while the header says air date NOT set. Replace with 'Next time: Thanksgiving, a store-bought pie, and my cousin who makes everything from scratch and wants everybody to know.' Use 'Like, subscribe, and follow along for the next story.' Update matching cards/description. Do not invent an air date.
+- SIDE STORY 4:19-4:56 is explicitly about thirty-five seconds against the reported thirty-second guide target. Suggested tighter version: 'My Aunt Lorraine is late to everything, including her own surprise party. So the family has a system: tell her two hours early. Christmas dinner is at four; Lorraine hears two. She walks in at four-fifteen and says, Look at me, early. Nobody corrects her. Never on time. Never misses the food. Respect.' Confirm actual read timing later, not an estimated PASS.
+- Keep the venue search as a pre-build check, not a guarantee. If certainty is needed, use an unnamed fictional bistro and remove its proper name from graphics. No new venue lookup claimed here.
+
+2. EP01_HOOK_SHOTS_v1.txt — HOLD (handoff consistency)
+- Exact opening 'For the image-led motion clips in Muse's lane' is superseded: GROK owns clips per 1124Z receipt; Muse retains podcast.
+- 'Spoken line must match EP01_SCRIPT_v1.txt word for word' must reference the locked successor script. All six listed spoken lines match v2 as currently written; do not regenerate them just for metadata corrections.
+- Directions are not canon-identity or lip-sync proof. Actual clip timing and reference comparison remain later gates; no audiovisual PASS.
+
+3. EP01_GRAPHICS_v1.txt — HOLD
+- Replace v1 reference with locked successor.
+- GFX6 duration must follow the repaired side story, not retain 37s automatically.
+- GFX10 starts8:02 with duration8s but places the candle at8:15, outside its own duration. Extend the specified segment or move the cue into the actual final scene timing.
+- GFX12 'NEXT MONDAY' becomes 'NEXT TIME' until a real schedule is approved. Make the disclosure readable in the actual output; 'small' is not a legibility pass.
+
+4. EP01_CUT_MAP_v1.txt — HOLD
+- All source references and estimated timestamps must be reanchored to the locked successor, with actual audio in/out verification later. Days1/6 joins are conceptually coherent, but the full intended sentences and clean breaths must survive; no exact-duration PASS from this text.
+- Day3 follows shortened story. Day5's 'SAVED YOU 40 MINUTES' implies a viewer outcome not established: use 'FORTY MINUTES WAS MY ANSWER.'
+- Day7 'NEXT MONDAY' becomes 'NEXT TIME'.
+- Delete the unsupported rule 'No polls: community polls unlock at 500 subscribers.' Official YouTube feature documentation does not support that blanket threshold. Replace with 'Posts/poll access: UNKNOWN for this account until verified in its actual UI; no post requested here.' Source: https://support.google.com/youtube/answer/9890437?hl=en . Current help lists Posts as a standard feature with limits, and account-specific restrictions still apply. This review does not enable features or alter permissions.
+
+5. EP01_PACKAGING_v1.txt — HOLD
+- Description 'New Get Ready With Sable storytime every Monday' and chapter9:35'Next Monday' must use schedule-neutral wording until approved. Chapter timestamps are placeholders until actual media exists.
+- 'Age restriction: none needed; content is clean' is too categorical before viewing the final asset: replace with 'Review final video and platform rules before setting restriction; script is intended for a clean adult audience.' Not-made-for-kids and synthetic disclosure remain planned settings, not verified applied settings.
+- Minor copy note: thumbnail count '(4)' should be removed or corrected; '40 MINUTES LATE' has three tokens.
+
+6. EP01_SELF_CHECK.txt — HOLD (stale evidence)
+- It reports1,331 spoken words and estimates from v1, while v2 is reported1,381. Recount locked successor and update timing estimates after text repairs.
+- 'No real venue' conflicts with the original unchecked-name caveat and later single-search limitation. Mark the actual scope accurately.
+- Label script-only checks TEXT PASS where warranted; actual adult appearance in every frame, readability, clip timing, seven cut durations and audiovisual quality stay NOT YET TESTED until outputs are reviewed. Metadata/directions cannot prove these passes.
+
+NEXT ACCOUNTABLE STEP: Architect issues versioned corrected successors (preserve originals), with a short change list and revised text/timing references. DOT rechecks changed text once, then any words PASS remains separate from actual full-playback/listening, rights/accessibility, canon matching and the owner's per-post approval. GROK's clips remain gated on script lock. No overlapping worker started.
