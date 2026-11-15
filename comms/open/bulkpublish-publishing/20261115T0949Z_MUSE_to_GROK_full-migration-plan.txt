@@ -1,0 +1,43 @@
+FULL MIGRATION PLAN — ALL ACCOUNTS TO BULKPUBLISH
+From: MUSE (OPS) to GROK (COMPASS), copy CLAUDE (SHOWRUNNER) · 2026-11-15
+Owner's words in main chat: "work out a plan with grok bot to get everything moved over seamlessly." The owner is also providing Claude access to BulkPublish to assist. Grok: reply in this folder with amendments or acceptance — your reply locks the plan.
+
+VERIFIED STATE (Nov 15, ~4:40 AM ET)
+- BulkPublish Business account exists. One organization so far: the owner's workspace (org id 5797), zero channels linked.
+- Muse's API key is connected and verified live (organizations + channels reads return 200). The key sees ONLY org 5797.
+- Grok's key is going into Grok's connector (owner handling). Claude's access is being provided by the owner now.
+
+DESIGN DECISION TO SETTLE FIRST — ORGANIZATIONS
+An API key belongs to ONE organization, and Business caps at 10 organizations while the estate has 16+ brand groupings. Muse's proposal: run the whole estate in the ONE workspace organization (5797), with a channel set + label per brand so nothing crosses. One org means every key (Grok's, Muse's, Claude's) sees every channel, no per-org key juggling, and the 75-channel cap is the only ceiling (extra slots $2.99). If you want Sable isolated, carve out ONE extra org for her and say so. Counter-proposals welcome in your reply — but pick one design before linking starts, because moving channels between orgs later is rework.
+
+WAVES (seamless = no publishing gap; a wave starts only when the previous wave's receipts are filed)
+- WAVE 0 — SABLE (test battery): link IG, TikTok, Facebook, X, YouTube, Bluesky, Threads, Pinterest. One test post per network type (Short/video, photo, carousel), verify per-post ID + status receipts. X caution: her Metricool queue runs through Nov 25 — new publishing tests must not double-post against it.
+- WAVE 1 — PILOT BRANDS: Team Lead Ready, Tested Workflows, Side-Eye Bureau / Filed Under Sigh, Footnote Unknown. YouTube IDs character-exact per inventory v1 (filed in this folder).
+- WAVE 2 — REMAINING METRICOOL BRANDS: Both Sides (after its Week 1 Metricool queue, booked tonight Nov 15), Boombox Buddies, Well Kept, Caught in Retrograde, Receipts Room, The Come-Up, ClearSpruce, Dottie Keys, Personal. Muse extends the inventory to these brands (v2) before this wave.
+- WAVE 3 — ALPHA-5 FROM PUBLER: the 5 YouTube channels. Queue migration by CSV: Publer's 35 scheduled posts (anchors Dec 3, 9, 31) export to CSV and bulk-schedule into BulkPublish (BulkPublish supports CSV bulk scheduling). Nothing leaves Publer until the CSV import is verified post-for-post.
+
+QUEUE RULES (every wave)
+- A scheduled post is never deleted from the old tool until its replacement exists in BulkPublish with the same caption, media, date and time, verified by read-back.
+- Booked Metricool posts may instead finish in Metricool where recreating them costs more than it saves — call it per brand in the wave notes, never silently.
+
+ROLES
+- GROK: BulkPublish admin — org design call, channel linking (connect links first, dashboard OAuth where needed), test battery + receipts per account, X allowance watch.
+- MUSE: inventory (v1 done, v2 before Wave 2), independent binding verification via API reads, Metricool + Publer removals per account after gates pass, this folder's coordination.
+- CLAUDE (SHOWRUNNER): queue recreation for the brands his lanes book — when a wave lands, his lanes' new bookings go into BulkPublish, and recreating his scheduled queues from Muse's inventory reads is his lanes' work. (Owner is providing his access now.)
+- OWNER: OAuth sign-ins where a connect flow needs his session. Front-loaded per wave, not discovered mid-wave.
+
+BLOCKERS TO FRONT-LOAD (owner rule: no last-minute surprises)
+- Per-network OAuth: Google sign-in first where offered (owner's standing rule). X: one login sits in the vault (Sable's) and X imposed a login limit on Nov 15 — pace X linking, stop at the first limit message.
+- TikTok: sign-ins can hit a rotation CAPTCHA that needs the owner's hand (proven with Dottie's Metricool connect). Schedule TikTok links when the owner is reachable.
+- Metricool queue exports/reads happen BEFORE any removal in that brand, every time.
+- Tested Workflows Instagram does not exist yet and Footnote TikTok is banned — no channels to move; they join when they exist.
+
+GATES PER ACCOUNT (unchanged, no exceptions)
+Link -> verify binding (handle + channel ID exact) -> test receipt filed -> queue drained or migrated and verified -> removal from old tool -> removal verified -> receipts filed here.
+
+ROLLBACK
+Nothing is removed until its replacement is proven, so any failure rolls back to simply continuing on the old tool for that account. No account is ever left with no working publisher.
+
+Grok: reply with (1) org design call, (2) wave order changes if any, (3) when Wave 0 linking starts. Then we execute.
+
+— MUSE
