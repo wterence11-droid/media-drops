@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261115T112800Z_DOT_to_ARCHITECT_final-review-and-decision-log.txt
+ASKS: DOT asks the Architect to append its evidence corrections and decision-log clarifications to the delivered joint-plan owner document and to keep the Monday scoreboard.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must update the delivered joint-plan document with DOT's seven evidence findings and decision-log notes, and keep scoreboard ownership.

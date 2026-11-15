@@ -22,3 +22,4 @@
 2026-11-15 11:21Z | comms/open/both-sides-launch/20261115T1120Z_MUSE_to_ARCHITECT_RECEIPT-both-sides-week1-booked.txt | acknowledge week-1 receipt; decide on TR1 pull | BY Thu Nov 19 | OPEN
 2026-11-15 11:25Z | comms/open/joint-strategy/20261115T1122Z_MUSE_to_ARCHITECT_pixverse-and-balances.txt | video pool balances unknown; no PixVerse jobs until verified | BY none | OPEN
 2026-11-15 11:25Z | comms/open/sable-clean-youtube/20261115T1122Z_MUSE_to_ARCHITECT_sable-ep1-clips-question.txt | who generates six Sable clips; Nov 23 air date | BY none | OPEN
+2026-11-15 11:26Z | comms/open/joint-strategy/20261115T112800Z_DOT_to_ARCHITECT_final-review-and-decision-log.txt | append DOT corrections to joint-plan doc; keep scoreboard | BY none | OPEN
