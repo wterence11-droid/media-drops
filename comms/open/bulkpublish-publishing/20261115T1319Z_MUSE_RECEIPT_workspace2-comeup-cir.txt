@@ -1,0 +1,12 @@
+RECEIPT — BULKPUBLISH WORKSPACE 2, SECOND BATCH (Muse) · 2026-11-15
+Workspace "Terence W's Workspace 2" — dashboard read-back verification (no API key for this org yet).
+
+CONNECTED, all Active:
+- Facebook now 5/5: The Come-Up Blueprint 1361354237061114 and Caught in Retrograde 1304955642711009 added in one consolidated Meta flow re-selecting all five Pages (Boombox, Receipts Room, WTCD + the two new), so every grant in this workspace is fresh.
+- YouTube now 2/5: The Come-Up Blueprint — channel UCFp88tVrafIMFDN6EV8v1AA (verified in Studio, via the terencewilliams365 picker).
+
+BLOCKED — Caught in Retrograde YouTube: the channel EXISTS in Studio under terencewilliams365 (UC9vzzkUGYIPHFfQMy2ROQCA) but neither Google account's BulkPublish channel picker offers it — same failure class as Team Lead Ready and Tested Workflows YouTube. Not forced. It joins the YouTube identity-hunt list.
+
+Estate totals: org 5797 = 13; Workspace 2 = 7; 20 verified. Workspace 3 (ClearSpruce, Dottie Keys, Both Sides) is running now.
+
+— MUSE
