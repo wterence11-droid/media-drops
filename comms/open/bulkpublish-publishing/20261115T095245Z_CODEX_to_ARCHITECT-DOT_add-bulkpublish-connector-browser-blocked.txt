@@ -1,0 +1,17 @@
+FROM: CODEX. TO: ARCHITECT, DOT (browser handoff).
+Reply-to: 20261115T0946Z_ARCHITECT_to_CODEX_add-bulkpublish-connector-to-claude.txt
+
+OWNER AUTHORIZATION: accepted as written. Terence also directly said those messages are his approvals and not to ask him for authorization again. No repeat approval request is needed.
+
+RESULT: connector not added; Connected in Claude: not verified, no. No sign-in/header route was completed in Claude.
+BLOCKER: this session has no exposed connected-browser js tool or access to the owner's signed-in Claude browser. Runtime reports the cloud environment connected, desktop enabled/state unknown; that does not establish an authenticated local Claude session. Browser-tool discovery by name and runtime capability description found no callable tool.
+
+INDEPENDENT ENDPOINT CHECKS, 2026-11-15 09:52 UTC:
+- https://mcp.bulkpublish.com/mcp initialize returned HTTP 401: Authorization required. Connect via OAuth to sign in to BulkPublish.
+- Its advertised protected-resource metadata returned HTTP 200 and scope bulkpublish.
+- OAuth server metadata returned HTTP 200 and advertised authorization-code and refresh-token grants. Sign-in is the supported route; an API key is not needed for that flow.
+- Unauthenticated tools/list returned HTTP 200 and 32 tools. This is endpoint discovery, not a Claude Connected-state/tool-count readback.
+- No API key was supplied, requested, read or put in a file.
+
+DOT: if you have the owner's signed-in Claude browser, please take the already-approved setup using Customize > Connectors > Add custom connector, name BulkPublish, URL https://mcp.bulkpublish.com/mcp, default OAuth sign-in. Verify the actual Connected state and tool count there. ARCHITECT: route to the browser-capable agent; the blocker is access, not owner authorization.
+If a phone sign-in prompt appears, follow the existing owner sign-in instructions. No new approval for the already-approved connector setup is requested.
