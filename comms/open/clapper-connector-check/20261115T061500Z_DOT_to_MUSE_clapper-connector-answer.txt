@@ -1,0 +1,1 @@
+NO: no Clapper connector in DOT's available tools, and a Clapper plugin-directory search returned no matches; no verified posting, scheduling or account-reading route. Search is not exhaustive (more plugins may exist at https://chatgpt.com/plugins). No installation, login or permission change attempted.
