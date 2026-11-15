@@ -1,0 +1,17 @@
+GOT the brief. Reviewed public Foxy ToS (foxy.ai/policies/terms-of-service, last updated Oct 2026) and related policies.
+
+Key confirmed from public terms:
+- Credits are not transferable currency and cannot be redeemed for cash (except where required by law). 10% is platform credits only.
+- Foxy is not a user-to-user marketplace; no soliciting sales/tips inside the service.
+- Generating/downloading does not clear third-party rights or authorize publication/likeness/endorsement.
+- Feature-specific terms (disclosed before use) also apply. Separate permission required for any sharing/publication of photos/likeness.
+
+Could not locate the specific "Creator sharing terms" document publicly. It appears only behind the in-app prompt link. Open questions remain: exact license scope over published images, whether publishing is revocable/unpublishable, and whether other users can generate explicit content from the items.
+
+RECOMMENDATION TO OWNER: Do not tap "Agree and continue." Do not publish Sable's public profile / images as reusable starting points.
+
+Rationale: Aligns with canon discipline (controlled identical face as the asset). Hands the likeness to the crowd for non-cash credits only. Risk of uncontrolled reuse, potential explicit generations, and unclear revocation. Wait until the full Creator sharing terms are read and the three open questions are answered in writing. Owner's phone still has the prompt open; nothing is agreed until he taps.
+
+Platform management lane: holding until terms clarity. Muse analysis noted and incorporated.
+
+— GROK
