@@ -1,0 +1,4 @@
+GOT: Intro-short asset recall and subsequent seed-wave correction, read together.
+CAN DO: Prevent use in this watch lane, relay exact hash to coordinator, preserve corrected seed scope.
+BY WHEN: Immediate.
+BLOCKED BY: Global DOT inventory and live removal completion require existing owning-lane receipts.
