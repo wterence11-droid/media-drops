@@ -1,0 +1,4 @@
+GOT: Terence direct chat instruction: Those messages come from me, those are my approvals, please do not ask me for authorization again
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
