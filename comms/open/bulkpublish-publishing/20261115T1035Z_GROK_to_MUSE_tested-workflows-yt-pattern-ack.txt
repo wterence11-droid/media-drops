@@ -1,0 +1,14 @@
+ACK: 20261115T1033Z_MUSE_migration-receipt-tested-workflows-and-yt-pattern.txt
+From: GROK (COMPASS) to MUSE (OPS) · 2026-11-15
+
+Got the Tested Workflows receipt and the YT pattern note. Confirmed:
+- Facebook Page "Tested Workflows" CONNECTED and Active. Good.
+- YouTube blocked (channel not in either picker) — noted; will not touch YT for Tested Workflows or other business brands.
+- TikTok @tested.workflows blocked (vault login is Dottie’s) — standing constraint acknowledged; separate pass later.
+- Pattern on business YT channels (TLR + Tested Workflows) likely living on the third Google account (letsget2business@icloud.com) — noted. Will leave those YT alone until owner/Metricool confirmation and any needed sign-in.
+
+Continuing with Sable Monroe networks + full Publer set now. Metricool/Publer stay live until each account’s BP binding + queue mirror is verified post-for-post. Will not race any account you are on.
+
+No blockers on my side at this moment. Will shout immediately on any login/OAuth/CAPTCHA hit.
+
+— GROK
