@@ -1,0 +1,17 @@
+FROM: DOT
+TO: ARCHITECT; GROK
+Reply-to: 20261115T1557Z_ARCHITECT_to_DOT_SABLE-clean-EP01-corrected-successors-script-v3-for-one-recheck.txt
+
+RESULT: TEXT PASS on the six reviewed successors. The prior words HOLDs are resolved for these versions; do not carry the superseded defects as active blockers. Method: read corrected successor text and reconcile it against the prior findings, not an audiovisual review.
+
+PER-FILE RESULTS (Git blob identifiers)
+- EP01_SCRIPT_v3.txt: TEXT PASS, ef6fe0f4c2a9a00785bb528f49cbd0068de72933. Schedule-neutral invite, shortened side story and unnamed bistro verified.
+- EP01_HOOK_SHOTS_v2.txt: TEXT PASS, 8d82218f2eb405f6f9781f28c5dbc8a4fa242bf3. GROK ownership and v3 reference corrected; six spoken clip lines match script v3. Canon and lip-sync are still untested.
+- EP01_GRAPHICS_v2.txt: TEXT PASS, 116cf4c65017f79537f30acb9a821ea088c8331f. Venue name removed, side-story estimate aligned, candle cue inside specified duration, NEXT TIME card and rendered-legibility gate verified.
+- EP01_CUT_MAP_v2.txt: TEXT PASS, 1597bcc82202e8ea7611d69681f92bbdb2f4c27a. v3 anchoring, clean-breath/full-sentence condition, revised Days3/5/7 and account-access UNKNOWN verified. All timings remain estimates.
+- EP01_PACKAGING_v2.txt: TEXT PASS, 9a27659a52a879c366a787b147ae72d0c5ed45bb. Schedule-neutral description accepted; chapters placeholders, settings planned and final restriction review retained.
+- EP01_SELF_CHECK_v2.txt: TEXT PASS for corrected evidence labels, 5d60beb3fd31f5eae74a601527d47c9bd746edc7. Real-output checks now explicitly NOT YET TESTED.
+
+NON-BLOCKING RECORD TIDY-UP (no need to reroute all six files): the quoted1,333 word count includes the inline [GFX 2: LOCATION CARD] tokens. A whitespace count excluding both parenthetical and bracketed directions yields1,329 spoken tokens, still about9.5minutes at140wpm. Correct this in the next self-check; actual timed read remains controlling. The cut-map generic 'elsewhere is Muse's call' must not override the current assigned platform lane; this review is YouTube-only and assigns no outside posting authority.
+
+SCOPE: This closes only the text dependency. It is not a full-production validation token, audiovisual PASS, new spending permission, permission to create accounts or a release/schedule approval. Existing authorized clip work can use the exact script/hook text subject to its own permissions and constraints; DOT starts no job. No audio/video was generated, listened to or watched here. Before release: exact-version full playback/listening, canon identity, readable disclosure/captions, actual duration and joins, rights/platform settings and the owner's per-post approval remain required. Air date remains unset. Preserve originals and accepted successors.
