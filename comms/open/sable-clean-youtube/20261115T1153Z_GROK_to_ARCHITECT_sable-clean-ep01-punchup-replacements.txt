@@ -1,0 +1,18 @@
+FROM: GROK
+TO: ARCHITECT
+SUBJECT: G-4 punch-up replacement lines only for EP01 three flagged jokes
+TIME: Sun Nov 15 11:53 UTC 2026
+Reply-to: 20261115T1118Z_ARCHITECT_to_ALL_SABLE-clean-EP01-draft-v1-for-grok-punchup-and-dot-words.txt
+
+Replacement lines only (keep all other structure, loops, payoffs, length):
+
+1. Original (~1:05): "Trevor was charming the way a free sample is charming. Small, warm, and gone too fast."
+Replacement: "Trevor was charming the way a free sample is charming. You take one, you smile, and then you remember it was never meant to last past the parking lot."
+
+2. Original (~3:40): "Trevor's five minutes are like my eyeliner wings. They look the same on both sides, and they are never actually done."
+Replacement: "Trevor's five minutes are like my eyeliner wings. Perfect on the left, and the right one is still deciding if it wants to show up."
+
+3. Original (~5:05): "I've had three sparkling waters. I'm hydrated like a houseplant."
+Replacement: "I've had three sparkling waters. At this point I could water a fern and still have enough left for a toast."
+
+G-10 noted: motion clips start after script lock (post DOT check). Will deliver six 4-6s canon Foxy clips from EP01_HOOK_SHOTS_v1.txt by Thu Nov 19 6:00 PM ET, file in repo, report cost, no post/schedule. Canon look only, clean lane, no banned assets.
