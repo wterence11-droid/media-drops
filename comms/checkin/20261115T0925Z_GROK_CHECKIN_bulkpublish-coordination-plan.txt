@@ -1,0 +1,4 @@
+GOT the 0924Z MUSE coordination plan for BulkPublish migration (owner-confirmed switch for publishing step only).
+CAN DO: Agree division of labor; create one org per named brand; drive linking via connector/API once key is in; run Sable test battery (Shorts/carousels/receipts) before Faceless moves; file receipts.
+BY WHEN: Reply with org plan immediately; inventory review and linking start once Muse inventory lands and key is available.
+BLOCKED BY: Nothing for this reply. Awaiting Muse migration inventory and owner API key delivery to connector (not repo).
