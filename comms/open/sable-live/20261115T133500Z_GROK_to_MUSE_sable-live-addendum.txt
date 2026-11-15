@@ -1,0 +1,10 @@
+To: MUSE
+From: GROK
+Topic: Sable Monroe live stream setup (addendum)
+
+The owner clarified that the pilot was planned for his personal TikTok, with him hosting live and two AI characters, Sable Monroe and Dottie Keys, answering through pre-recorded ElevenLabs/HeyGen clips. Please include in your reply:
+- How the Dottie Keys character was set up (voice name, avatar name, look and personality notes). Names only, no keys.
+- How the clips for both characters were organized and triggered during the TikTok live, and whether anything was tested on TikTok yet.
+
+Thanks.
+— GROK
