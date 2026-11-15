@@ -1,0 +1,92 @@
+GET READY WITH SABLE | EPISODE 1 | STORY GRAPHICS v1 (coded animation between the clips)
+Style for all: dark background, gold accents, white text, no pink, no dark green. No real logos, app names or phone brands. Phone UI is generic.
+Contact name on every text thread: "Trevor" (invented). Times are story times shown on screen, not video times.
+All on-screen words below are exact and match EP01_SCRIPT_v1.txt.
+
+----------------------------------------------------------------------
+GFX 1 | AI LABEL
+Start 0:00 | Duration 15 s
+Words: AI persona. Fictional story.
+Motion: small lower-third pill fades in at 0:00, holds, fades out at 0:15.
+
+----------------------------------------------------------------------
+GFX 2 | LOCATION CARD
+Start 1:17 | Duration 6 s
+Words: The Copper Thimble | 7:00 PM | Table by the window
+Motion: thin gold frame draws itself, words type on line by line, small candle icon flickers.
+
+----------------------------------------------------------------------
+GFX 3 | TEXT THREAD (LOOP 1 PAYOFF)
+Start 2:12 | Duration 46 s
+Header: Trevor
+Bubble 1 (him, 7:02 PM): running a lil behind
+Bubble 2 (him, 7:03 PM): order the calamari tho
+Bubble 3 (him, 7:03 PM): and tell them it's my birthday
+Sticker at 2:45: RED FLAG #1
+Motion: bubbles pop in one at a time on her lines (2:14, 2:18, 2:31); at 2:45 a gold-edged red banner slides across the thread with the sticker text.
+
+----------------------------------------------------------------------
+GFX 4 | CLOCK
+Start 3:37 | Duration 16 s
+Words: 7:15 PM, then 7:20 PM, then 7:26 PM
+Bubbles under the clock (him): 5 more min | 5 more min
+Motion: analog clock hands sweep to each time; the same "5 more min" bubble drops in twice, identical, the second one with a small "again" bounce.
+
+----------------------------------------------------------------------
+GFX 5 | MAP PIN
+Start 3:54 | Duration 17 s
+Words: Trevor | Food stand | 1 block away | Not moving: 12 min
+Motion: generic street map, his dot pulses in place while a small counter ticks up to 12 min; the dot never moves.
+
+----------------------------------------------------------------------
+GFX 6 | FAMILY GROUP CHAT (SIDE STORY)
+Start 4:19 | Duration 37 s
+Header: Family (no Lorraine)
+Bubble 1: Christmas dinner is at 4
+Bubble 2: tell Lorraine 2
+Bubble 3: done
+Then a separate small card: Lorraine | Arrived 4:15 PM | "Look at me, early"
+Motion: bubbles stack fast like a group chat; the Lorraine card slides in at the line "she walks in at four-fifteen" with a tiny sparkle on "early".
+
+----------------------------------------------------------------------
+GFX 7 | THE TEXT + TYPING DOTS (LOOP 2 PAYOFF)
+Start 5:21 | Duration 38 s
+Header: Trevor
+Bubble (him, 7:38 PM): almost there!! u good if my cousin comes? he's hungry too
+Under it: Read 7:38 PM
+Her side: typing dots (no text)
+Motion: his bubble lands at 5:23; her typing dots appear at 5:37, vanish, appear again, vanish; the thread then holds still with no reply until 5:59.
+
+----------------------------------------------------------------------
+GFX 8 | RESET TEXT
+Start 6:06 | Duration 22 s
+Words: Forty minutes is not late. / Forty minutes is an answer.
+Motion: words fade up one line at a time over the slow push-in on her held look; nothing else moves.
+
+----------------------------------------------------------------------
+GFX 9 | RECEIPT
+Start 7:12 | Duration 26 s
+Header: THE COPPER THIMBLE
+Lines: Sparkling water x3 | Bread basket x2 (on the house) | Calamari x1 | Tip: big | PAID IN FULL
+Handwritten at the bottom: Happy birthday, Trevor. Enjoy the calamari.
+Motion: receipt prints down from the top line by line, then a gold pen writes the note in script.
+
+----------------------------------------------------------------------
+GFX 10 | CLOCK, ARRIVAL
+Start 8:02 | Duration 8 s
+Words: 7:40 PM | 40 MIN LATE
+Motion: clock snaps to 7:40, the "40 MIN LATE" stamp thumps on, small birthday candle icon lights at 8:15 when the kitchen doors open.
+
+----------------------------------------------------------------------
+GFX 11 | THE LAST TEXT
+Start 9:00 | Duration 7 s
+Header: Trevor
+Bubble (him, 7:52 PM): where'd u go??
+Under it: Read
+Motion: bubble pops in, "Read" appears, then the screen dims softly. No reply.
+
+----------------------------------------------------------------------
+GFX 12 | NEXT MONDAY CARD
+Start 9:35 | Duration 12 s in the long (held 10 s in Shorts Day 7)
+Words: NEXT MONDAY | I Brought Store-Bought to Thanksgiving and Still Won
+Motion: gold title slides up, a small pie icon spins once, "NEXT MONDAY" pulses once.

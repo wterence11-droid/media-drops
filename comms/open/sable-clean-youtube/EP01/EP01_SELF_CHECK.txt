@@ -1,0 +1,48 @@
+GET READY WITH SABLE | EPISODE 1 | SELF CHECK
+
+LENGTH
+Spoken words (every SABLE: line, labels removed): 1,331
+Estimated runtime at 140 words per minute: 9:30 of speech. With the reset hold (about 15 s), graphic beats and the final mirror look, the cut lands at about 10:00. Above the 8:00 minimum.
+Pace notes: hook line (0:06-0:15) and setup (0:15-1:00) run brisk, about 150-160 wpm; that is normal for an opening. Side story runs about 35 s against a "thirty seconds" target.
+
+GUARD CHECK (guide section 8, line by line)
+1. CLEAN ON YOUTUBE, ALWAYS. Fully clothed, comedy first, nothing sexual in video, title, thumbnail, description or comments.
+   PASS. Wardrobe in every clip is a high-neck top, trousers, coat. No suggestive word in script, graphics, title, thumbnail or description. Searched for flagged words; the only hit was "my whole body remembered something" (setup), which is about memory, not a body. Kept.
+2. NO PATH FROM YOUTUBE TO THE PAID PLATFORMS (no links, no spoken directions, no profiles on other sites).
+   PASS. No platform, link, handle or "find me on" anywhere. The invite says only "Like, subscribe, and follow along every Monday" (follow along = keep watching the series). Packaging bars off-YouTube links.
+3. FLAG ON THE LAUNCH PACK (hub URL in About).
+   PASS for this episode: nothing here adds a link. The About-links question is outside this script and stays with the owner/Muse.
+4. SAY SHE IS AN AI PERSONA (About, every description, on screen in the first 15 s, synthetic setting ON).
+   PASS. GFX 1 "AI persona. Fictional story." 0:00-0:15; description says it; packaging lists altered/synthetic ON; every Short carries the label.
+5. SHE IS A CHARACTER, NOT AN EXPERT. No money, legal, health or relationship advice.
+   PASS. Every judgment is about her own night ("I don't wait at a table for anybody", "Forty minutes is an answer. And I heard it."). No "you should", no "ladies, never". The receipt line "I paid for all of it" is story, not money advice.
+6. Every story invented and labeled fiction. No real people, no real businesses named or mocked, no "true story".
+   PASS. All names invented (list below). No real venue, city, app or brand. The phrase "true story" appears nowhere. Note: the guide's own H1 example names a real city; the script deliberately names none.
+7. Jokes aim at situations and bad manners, never race, body, accent, job or money.
+   PASS after one fix. Draft line "Julian nods the way a doctor nods" leaned on a job; changed to "Julian nods like he has seen this movie before and knows how it ends." The pretzel "the size of a steering wheel" is about the snack, not anyone's body. Trevor is never mocked for money; the joke is that he orders from the car and fakes a birthday.
+8. She must look clearly adult in every frame. No youthful styling.
+   PASS. Every hook-shot direction states "clearly adult", grown-up wardrobe, no youthful styling.
+9. Not made for kids on every upload.
+   PASS. In packaging settings.
+10. Total separation from every other brand: no shared links, shout-outs, sounds or logins.
+   PASS. No other brand or channel named or hinted.
+11. Triggers allowed: Curiosity, Belonging, Joy. One per piece.
+   PASS. The long uses H1, Curiosity. The cuts each lean on one: Days 1, 2, 4, 6, 7 Curiosity; Day 3 (Aunt Lorraine) Belonging; Day 5 Curiosity.
+
+OTHER GUIDE ITEMS
+- Timed structure 0:00 / 0:06 / 0:15 / 1:00 / 3:00 / 6:00 / 6:30 / 9:00 / 9:35: PASS.
+- Three loops planted in setup, paid off near 30 / 60 / 90 percent: PASS (2:14-2:59, 5:23-5:59, 8:02-8:59).
+- 3:00 re-hook line verbatim: PASS. Re-hooks at about 2:07, 3:00, 4:12, 5:20, 6:00 (reset), 7:08, 8:02, 9:00 (every 60-90 s).
+- Week-2 cliffhanger line verbatim from the ending rule: PASS.
+- Catchphrases exact: "Fashionable, funny, and unbothered." and "I don't chase, I arrive.": PASS.
+- Six motion clips, 4-6 s, canon look stated in each: PASS.
+- Seven Shorts, 20-45 s each: PASS (22 / 44 / 38 / 39 / 22 / 36 / 21 s).
+
+PROPER NOUNS IN THE SCRIPT (all invented)
+- Sable Monroe / Sable: the fictional AI persona (the channel's character).
+- Trevor: invented date. No surname.
+- Julian: invented waiter. No surname.
+- Aunt Lorraine: invented relative. No surname.
+- The Copper Thimble: invented bistro. Not checked against real venue listings (no web browsing on this task); no city is named, so it points to no real place. Rename if a reviewer finds a real one.
+- "Family (no Lorraine)": invented group-chat name (graphics only).
+Not invented but not names of people or businesses: Monday, Christmas, Thanksgiving, March (calendar words); "Happy Birthday" is the public-domain song, referenced, not sung on the track.

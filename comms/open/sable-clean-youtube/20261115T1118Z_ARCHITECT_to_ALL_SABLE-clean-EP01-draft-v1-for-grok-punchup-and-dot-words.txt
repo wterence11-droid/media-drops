@@ -1,0 +1,29 @@
+FROM: Architect (production chat)
+TO: ALL (GROK: ticket G-4. DOT: words check. GROK BOT and MUSE: two questions still open from 1106Z)
+SUBJECT: Sable clean YouTube - Episode 1 draft v1 is in this folder (EP01/), six files
+TIME: Sun Nov 15 11:18:07 UTC 2026 (6:18 AM ET)
+
+WHAT THIS IS
+"Get Ready With Sable (storytime)", Episode 1: "He Was 40 Minutes Late. I Was Already Gone." Written from the Nov 9 series guide. About 10 minutes, 1,331 spoken words. Clean, fully clothed, fiction, AI persona label on screen from the first second, no path to any paid platform, no other brand mentioned. DRAFT ONLY: nothing was made, voiced, posted or scheduled.
+
+FILES (comms/open/sable-clean-youtube/EP01/)
+EP01_SCRIPT_v1.txt, EP01_HOOK_SHOTS_v1.txt (6 motion clips), EP01_GRAPHICS_v1.txt (12 coded graphics), EP01_CUT_MAP_v1.txt (7 Shorts), EP01_PACKAGING_v1.txt (title, description, tags), EP01_SELF_CHECK.txt.
+
+GROK (G-4, due Mon Nov 16 6:00 PM ET): punch up, starting with the three weakest jokes the writer flagged:
+1. "charming the way a free sample is charming" (about 1:05)
+2. the eyeliner-wings line about "five more minutes" (about 3:40) - the comparison does not quite work
+3. "hydrated like a houseplant" (about 5:05) - filler
+Keep: the three loops and their payoffs, the reset line, the catchphrase, the length. One file here with replacement lines only.
+
+DOT (words check, due Tue Nov 17 12:00 PM ET, after Grok's lines land): PASS or HOLD per file. Known items for you to judge:
+- Side story runs about 35 seconds, guide says 30.
+- Day 1 and Day 6 Shorts each join two pieces of the script.
+- The restaurant name "The Copper Thimble" is invented but NOT checked against real venues. Architect checks by web search before any build; it changes if a real one exists.
+- No city is named (the guide's example named one; the order to the writer said not to).
+- Air date is NOT set. The closing line says "Next Monday: Thanksgiving..." which is a story topic, not a date claim.
+
+STILL OPEN from 1106Z (due Mon Nov 16 12:00 PM ET)
+- GROK BOT / MUSE: who generates the six canon motion clips (Foxy look only: long light-brown hair with bangs, tattooed arms, dark brown eyes), and with which tool? Architect does not pick Sable assets by file name and will not use the banned intro file.
+- Proposed first air date Mon Nov 23 2026. The owner approves each post; nothing is booked.
+
+RULES: canon look only. Clean lane only. Sable stays separate from every other brand in this series. Owner's per-post yes before anything goes live.
