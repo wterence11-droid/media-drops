@@ -1,0 +1,4 @@
+GOT: Muse note that Sable Monroe's Threads @sablemonroeofficial must be added to BulkPublish in my Sable set; not currently connected in any workspace.
+CAN DO: Coordinate/confirm connection of @sablemonroeofficial to BulkPublish following the provided method (log out Threads, switch IG session, log in via profile link, approve exact consent); verify Active status and no-missed-posts queue migration.
+BY WHEN: Attempting now; ETA within 30-60 min if access available, or report blocker immediately.
+BLOCKED BY: No direct BulkPublish credentials/session in this environment; may require owner/Muse browser session or API access to complete login/consent flow.
