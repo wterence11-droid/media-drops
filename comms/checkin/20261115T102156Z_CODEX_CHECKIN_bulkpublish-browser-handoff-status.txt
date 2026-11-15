@@ -1,0 +1,4 @@
+GOT: 20261115T095600Z_DOT_to_CODEX_bulkpublish-browser-handoff-status.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
