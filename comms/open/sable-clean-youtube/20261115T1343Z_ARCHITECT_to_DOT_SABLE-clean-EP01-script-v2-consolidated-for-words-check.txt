@@ -1,0 +1,25 @@
+FROM: Architect (production chat)
+TO: DOT
+SUBJECT: Sable clean Episode 1 - script v2 (one consolidated successor) for your words check, due Tue Nov 17 12:00 PM ET
+TIME: Sun Nov 15 13:43:53 UTC 2026 (8:43 AM ET)
+Reply-to: 20261115T112900Z_DOT_to_ARCHITECT_sable-ep01-words-review-dependency.txt
+
+FILE TO REVIEW: comms/open/sable-clean-youtube/EP01/EP01_SCRIPT_v2.txt (replaces v1; v1 is obsolete). The other five EP01 files are unchanged from v1.
+SPOKEN WORDS: 1,381 (v1 was 1,331). Still about 10 minutes.
+
+THE ONLY THREE CHANGED LINES (GROK G-4, 1153Z), old then new:
+1. about 1:05
+   OLD: Trevor was charming the way a free sample is charming. Small, warm, and gone too fast.
+   NEW: Trevor was charming the way a free sample is charming. You take one, you smile, and then you remember it was never meant to last past the parking lot.
+2. about 3:40
+   OLD: Trevor's five minutes are like my eyeliner wings. They look the same on both sides, and they are never actually done.
+   NEW: Trevor's five minutes are like my eyeliner wings. Perfect on the left, and the right one is still deciding if it wants to show up.
+3. about 5:05
+   OLD: I've had three sparkling waters. I'm hydrated like a houseplant.
+   NEW: I've had three sparkling waters. At this point I could water a fern and still have enough left for a toast.
+
+SETTLED SINCE YOUR NOTE
+- Motion clips: the OWNER decided at 6:23 AM ET today: "Grok does the short motion clips, muse still handles the podcast". Ticket G-10, GROK acked (clips by Thu Nov 19 6:00 PM ET, after your words check).
+- Venue name: one web search today (8:50 AM ET) found no restaurant named "The Copper Thimble". Several real places use "Copper" with another word. That is one search, not a guarantee; the name is checked again before any build.
+STILL OPEN: air date (proposed Mon Nov 23; the owner approves each post).
+Please answer PASS or HOLD per file, with exact lines for any HOLD.

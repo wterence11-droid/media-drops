@@ -1,0 +1,176 @@
+GET READY WITH SABLE (storytime) | EPISODE 1 | SCRIPT v2
+Title: He Was 40 Minutes Late. I Was Already Gone. | Get Ready With Me Storytime
+Channel: Sable Monroe (YouTube only). Week 1. Air date NOT set (proposed Mon Nov 23 2026; the owner approves each post). Her origin story for "I don't chase, I arrive."
+Host: Sable Monroe, a FICTIONAL AI persona. Every person, place and event in this story is invented.
+Hook family: H1, THE WORST MOMENT, SAID FLAT. Trigger: Curiosity (one trigger only).
+Target: about 10:00. Spoken words: see EP01_SELF_CHECK.txt. Graphics fill the pauses between lines.
+
+Key: SABLE: = spoken line. [CLIP n] = 4-6 s motion clip (see EP01_HOOK_SHOTS_v1.txt). [GFX n] = coded story graphic (see EP01_GRAPHICS_v1.txt).
+LOOP plants and payoffs, re-hooks and cut points are marked in >> brackets.
+
+======================================================================
+0:00-0:06  HOOK SHOT   [CLIP 1]
+======================================================================
+[GFX 1] ON SCREEN 0:00-0:15 (lower third, small, white on dark): AI persona. Fictional story.
+
+SABLE: He was forty minutes late. And he walked in eating.
+
+======================================================================
+0:06-0:15  HOOK LINE
+======================================================================
+SABLE: By then I was across the street, eating lemon cake, watching a restaurant sing him happy birthday. Not his birthday. Get ready with me.
+
+>> CUT MAP Day 1 = 0:00-0:17 joined to 0:54-0:59.
+
+======================================================================
+0:15-1:00  SETUP
+======================================================================
+SABLE: Hi. It's Sable. Fashionable, funny, and unbothered.
+
+SABLE: Tonight I have dinner with my girls. Reservation at eight. I will be seated at seven fifty-five, because I'm a professional. And about ten minutes ago my friend texted me, "running a lil behind." Four words. And my whole body remembered something.
+
+SABLE: So while I do my face, I'm telling you about the night I stopped waiting for anybody.
+
+>> LOOP 1 PLANT
+SABLE: The first red flag came in a text, before he ever walked in the door.
+
+>> LOOP 2 PLANT
+SABLE: There's a text from that night I never answered. It is still sitting in my phone. Read. Never answered.
+
+>> LOOP 3 PLANT
+SABLE: And the way I left? The waiter still tells people about it.
+
+SABLE: Okay. Primer.
+
+======================================================================
+1:00-3:00  CHAPTER 1: STEP ONE, SKIN AND BASE   [CLIP 2]
+======================================================================
+SABLE: (clip line) Skin first. The story needs a smooth base, and so do I.
+
+SABLE: So. A while back, I met a man I'll call Trevor. Trevor was charming the way a free sample is charming. You take one, you smile, and then you remember it was never meant to last past the parking lot.
+
+SABLE: He asks me to dinner. He picks the place. [GFX 2: LOCATION CARD] A little bistro called the Copper Thimble. Candles, cloth napkins, and a bread basket that comes out on a tiny wooden board like it's being presented at court. He says, "Seven o'clock. I'll be there early." Write that down. He said early.
+
+SABLE: So I get ready. Full face. Hair laid, bangs behaving, a black dress with long sleeves, gold earrings, the good coat. I walk in at six fifty-five. The host seats me by the window. I order a sparkling water with lime, because I'm classy. I sit up straight. I do the thing where you look at the menu like you're reading it, but you're really watching the door.
+
+>> RE-HOOK (about 2:07)
+SABLE: Seven o'clock comes. No Trevor. Seven-oh-two. Fine. People park. People find themselves. And then my phone lights up.
+
+[GFX 3: TEXT THREAD, "Trevor"]
+>> LOOP 1 PAYOFF (about 2:14-2:59, 30 percent mark)
+SABLE: Text one. "running a lil behind." Okay. Text two. "order the calamari tho." Excuse me? You're not here, and you're ordering? You're placing an order like I'm a drive-through window. Sir, this is a bistro. There are cloth napkins.
+
+SABLE: And text three. "and tell them it's my birthday."
+
+SABLE: It was not his birthday. I know, because his birthday is in March. He told me. On the first phone call. Unprompted. With a countdown.
+
+SABLE: That was red flag number one. A man trying to get free dessert from a restaurant he has not entered yet. That's not a red flag. That's a red banner with a marching band.
+
+>> CUT MAP Day 2 = 2:14-2:58.
+
+======================================================================
+3:00  RE-HOOK (guide line, verbatim)
+======================================================================
+SABLE: And I stayed. Because I was hungry. Keep listening.
+
+SABLE: I did order the calamari. I'm hungry, not petty. Not yet.
+
+======================================================================
+3:00-6:00  CHAPTER 2: STEP TWO, EYES   [CLIP 3]
+======================================================================
+SABLE: (clip line) Eyes take focus. So did waiting for this man.
+
+SABLE: This is where I need steady hands. That night is where I needed a steady spirit. The waiter comes over, sweet guy, I'll call him Julian. Julian says, "Are we waiting on someone?" And I say, "We are waiting on someone." And Julian nods like he has seen this movie before and knows how it ends.
+
+[GFX 4: CLOCK]
+SABLE: Seven-fifteen. Nothing. Seven-twenty, he sends "5 more min." Seven twenty-six. "5 more min." Same text. Same five minutes. Trevor's five minutes are like my eyeliner wings. Perfect on the left, and the right one is still deciding if it wants to show up.
+
+[GFX 5: MAP PIN]
+SABLE: So I open the location he shared with me back when we were being cute. And his little dot? Not moving. It is sitting at a food stand one block away. For twelve minutes. That dot is not driving. That dot is snacking.
+
+>> RE-HOOK (about 4:12)
+SABLE: Now. Before I tell you what he texted next, you need to know about my Aunt Lorraine.
+
+>> SIDE STORY (about 4:19-4:56, about thirty-five seconds, stands alone)   >> CUT MAP Day 3
+[GFX 6: FAMILY GROUP CHAT]
+SABLE: My Aunt Lorraine is late to everything. Weddings. Graduations. Her own surprise party. We had to stall her surprise party for an hour, because the guest of honor was running behind. So the family has a system. Whatever time it is, we tell Lorraine two hours earlier. Christmas dinner is at four, Lorraine hears two. She walks in at four-fifteen, says "Look at me, early," and nobody corrects her. That woman has never been on time in her life, and she has never once missed the food. Respect.
+
+SABLE: Anyway.
+
+SABLE: Seven-thirty. Julian brings a second bread basket. I did not ask. Julian is just doing what he can with what he has. Seven thirty-five. I've had three sparkling waters. At this point I could water a fern and still have enough left for a toast. The couple at the next table are on dessert. They sat down after me. They probably met after me.
+
+>> RE-HOOK (about 5:20)
+SABLE: And then. Seven thirty-eight. The text.
+
+[GFX 7: TEXT THREAD + TYPING DOTS]
+>> LOOP 2 PAYOFF (about 5:23-5:59, 60 percent mark)   >> CUT MAP Day 4
+SABLE: "almost there!! u good if my cousin comes? he's hungry too"
+
+SABLE: Almost there. His cousin. Who is hungry. Too. Too! Meaning somebody in that car had already been eating, and we both know who.
+
+SABLE: So I start typing. Dot, dot, dot. And I stop. Dot, dot, dot. And I stop. Because there is no sentence for this. I always have a sentence. I had none. Those dots just sat there and never became a reply. That is the text I never answered. It is still there.
+
+======================================================================
+6:00-6:30  RESET   [CLIP 4]   >> CUT MAP Day 5
+======================================================================
+(She sets the brush down and looks straight into the lens. Clip 4 runs 6:00-6:06; then a slow push-in on her held look with [GFX 8: RESET TEXT] over it. Pattern break: no chat bubbles, no clock.)
+
+SABLE: Forty minutes is not late. Forty minutes is an answer.
+
+(beat)
+
+SABLE: And I heard it.
+
+======================================================================
+6:30-9:00  CHAPTER 3: STEP THREE, LIPS AND THE OUTFIT   [CLIP 5]
+======================================================================
+SABLE: (clip line) Lips last. The last word is always mine.
+
+SABLE: Liner first, always, because structure matters. And that night, I gave the evening some structure.
+
+SABLE: I wave Julian over. Calm. I'm not upset. I'm not crying in a bistro. These lashes took too long to cry on. I say, "Julian, please keep that calamari warm. When a man walks in eating, that's him. And it's his birthday."
+
+SABLE: Now, Julian understands. Julian has seen things. Julian says, "Would he like a candle?" And I say, "He would love a candle."
+
+>> RE-HOOK (about 7:08)
+SABLE: Here's the part the waiter still tells people about.
+
+[GFX 9: RECEIPT]
+SABLE: I ask for my check. Sparkling water, three. Bread basket, two, on the house, courtesy of Julian. Calamari, one. I paid for all of it. Every bit. Big tip, because Julian was the only man who showed up for me that night. And on the receipt I wrote, "Happy birthday, Trevor. Enjoy the calamari."
+
+SABLE: Then I put on my coat, said goodnight to the host, and walked out at seven thirty-nine. Not angry. Not fast. I walked out like I was the one who'd been waited on. Which I was. By Julian.
+
+SABLE: And right across the street, there's a little dessert spot with a window seat. So I ordered a slice of lemon cake, sat down, and watched.
+
+>> RE-HOOK + LOOP 3 PAYOFF (about 8:02-8:59, 90 percent mark)   >> CUT MAP Day 6 (8:02-8:28 joined to 9:17-9:27; ends two seconds before the catchphrase)
+[GFX 10: CLOCK, 7:40]
+SABLE: Seven-forty. Trevor walks in. Forty minutes late. Eating a soft pretzel the size of a steering wheel. His cousin is right behind him, also eating a pretzel. Family business.
+
+SABLE: He looks at the empty table. He looks around. And then the kitchen doors swing open, and here comes Julian, with the calamari, one candle in the middle, and the entire staff behind him singing happy birthday.
+
+SABLE: The full song. Clapping. Somebody had a tambourine. I don't know where a bistro gets a tambourine. And Trevor just stood there, holding his pretzel, getting sung to, on a day that was not his birthday, at a table that was already paid for, by a woman across the street eating lemon cake.
+
+SABLE: He got everything he asked for. The calamari. The birthday. He just didn't get me.
+
+======================================================================
+9:00-9:35  THE LINE   [CLIP 6, final mirror look]
+======================================================================
+[GFX 11: TEXT, "where'd u go??"]
+SABLE: Later he texted, "where'd u go??" I didn't answer that one either. And honestly? I didn't go anywhere. I was there at seven. He's the one who wasn't.
+
+SABLE: That's the night I made myself a promise. I don't wait at a table for anybody. Not at a bistro. Not anywhere.
+
+(final look in the mirror, then to camera)
+SABLE: I don't chase, I arrive.
+
+======================================================================
+9:35-10:00  CLIFFHANGER + INVITE
+======================================================================
+[GFX 12: NEXT MONDAY CARD]
+SABLE: So that is why I do not wait. Next Monday: Thanksgiving, a store-bought pie, and my cousin who makes everything from scratch and wants everybody to know.
+
+SABLE: And my friend running a lil behind tonight? Love her. I'll be at the table at seven fifty-five, with the bread. Like, subscribe, and follow along every Monday. I'm Sable. Fashionable, funny, and unbothered.
+
+>> CUT MAP Day 7 = 9:35-9:46 plus the GFX 12 card held 10 s.
+
+END OF SCRIPT. All names, places and events are fiction. Sable Monroe is an AI persona.
