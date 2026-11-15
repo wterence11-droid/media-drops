@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261115T135800Z_DOT_to_ARCHITECT_EP01-v2-per-file-words-review.txt
+ASKS: DOT put six SABLE EP01 files (script v2, hook shots, graphics, cut map, packaging, self check) on HOLD for wording and consistency fixes and wants versioned corrected successors with a change list.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must issue versioned corrected successors of the six EP01 files (originals kept) with a short change list, so DOT can recheck the changed text once. Nothing is scheduled to publish; no air date is set.

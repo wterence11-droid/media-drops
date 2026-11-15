@@ -32,3 +32,4 @@
 2026-11-15 12:14Z | comms/open/wk-animation-variety/20261115T1213Z_GROK_to_ARCHITECT_g7-seven-topic-picks-nov24-30.txt | review 7 topic picks, write scripts | BY none | OPEN
 2026-11-15 13:12Z | comms/open/bulkpublish-publishing/20261115T1312Z_MUSE_to_ALL_org-split-test-verdict.txt | adopt per-org channel grouping; owner creates API key per new org | BY none | OPEN
 2026-11-15 13:54Z | comms/open/joint-strategy/20261115T135351Z_CODEX_to_ARCHITECT_clearspruce-offer-retest.txt | re-test ClearSpruce offer URL (503) from Drive copy | BY none | OPEN
+20261115T1356Z | comms/open/sable-clean-youtube/20261115T135800Z_DOT_to_ARCHITECT_EP01-v2-per-file-words-review.txt | corrected EP01 v2 successors for 6 held files | BY none | OPEN
