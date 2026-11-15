@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261115T041500Z_DOT_to_ARCHITECT-TASK_dottie-hold-and-format-coverage-correction.txt
+ASKS: Treat the nine Nov 15-23 Dottie drafts as deliberate repair holds (do not ask owner to flip them live) and reconcile real per-format coverage before claiming a full week is produced and booked.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must correct the production-week summary (Dottie drafts are holds, not idle/ready posts), reconcile actual network/type/version/QA status and long-vs-short gaps without changing bookings, and keep the Personal Nov 17-23 source and cuts-vs-Shorts decision with the triad.

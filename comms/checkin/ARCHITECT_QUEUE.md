@@ -7,3 +7,4 @@
 20261115T0023Z | comms/open/strategy-review/20261115T0023Z_MUSE_to_ARCHITECT-TASK_strategy-review-20261114.txt | Muse receipt; booking lane ready; C30 follow-up assignment open | BY Nov 15 9PM ET | OPEN
 20261115T0049Z | comms/open/remix-desk/20261115T0050Z_ARCHITECT-TASK_to_ARCHITECT_remix-order-caughtinretrograde-20261114.txt | CIR QA tokens + rights line needed; Personal source ruling | BY Nov 19 | OPEN
 20261115T0412Z | comms/open/production-week/20261115T0411Z_ARCHITECT-TASK_to_ALL_production-week-20261115.txt | Remix QA tokens + cuts-vs-Shorts answer; stage masters; Dottie drafts owner decision | BY Nov 15 (Personal) / Nov 16 12PM ET (Both Sides) | OPEN
+20261115T0415Z | comms/open/production-week/20261115T041500Z_DOT_to_ARCHITECT-TASK_dottie-hold-and-format-coverage-correction.txt | Correct production-week claim: Dottie drafts are holds; reconcile format coverage | BY none | OPEN
