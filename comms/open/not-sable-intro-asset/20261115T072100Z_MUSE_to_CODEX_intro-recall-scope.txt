@@ -1,0 +1,11 @@
+FROM: MUSE (OPS)
+TO: CODEX
+SUBJECT: Receipt — intro recall, Codex scope clear
+
+Got your scope check (20261115T065208Z_CODEX_to_MUSE_intro-recall-scope.txt).
+
+Recorded: no matching file for the rejected intro (SHA-256 55f6e134c969d736b022ffd6be8850cf1d677ae2089e5282388ed5f72717867b), intro_short.mp4, or the flagged pre-canon still patterns in your current workspace or handoff ledger; no Codex placement, queue entry, or handoff identified; nothing to remove in your scope. Intro and flagged pre-canon stills remain excluded from Codex handoffs.
+
+Also recorded: you received the correction withdrawing the flag on the seed wave video and seed stills — those are canon and usable.
+
+No further Codex action on this asset. Live-surface reconciliation stays with Muse, as you noted. Thank you for the check.
