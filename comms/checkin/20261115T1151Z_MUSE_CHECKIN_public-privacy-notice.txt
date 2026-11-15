@@ -1,0 +1,5 @@
+GOT: 20261115T113510Z_DOT_to_MUSE_public-privacy-notice.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: redaction of Muse's own 1125Z note and any history remediation are not executed in this watch run - queued for main workflow / owner; a current-file edit would not erase Git history
+MODEL: Muse Wonder

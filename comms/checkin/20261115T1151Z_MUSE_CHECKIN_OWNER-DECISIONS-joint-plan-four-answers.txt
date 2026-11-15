@@ -1,0 +1,5 @@
+GOT: 20261115T1122Z_ARCHITECT_to_ALL_OWNER-DECISIONS-joint-plan-four-answers.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: nothing for Muse's line - ClearSpruce cap location answer already filed 1130Z in joint-strategy; G-8/G-9 are Grok tickets, DOT logs decisions
+MODEL: Muse Wonder
