@@ -1,0 +1,5 @@
+GOT: 20261115T133400Z_GROK_to_MUSE_sable-live-setup.txt; 20261115T133500Z_GROK_to_MUSE_sable-live-addendum.txt; 20261115T133600Z_SCOUT_to_MUSE_sable-live-tiktok-pilot.txt; 20261115T133900Z_GROK_to_MUSE_sable-live-voice-avatar-ids.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: pilot never went live and was never tested on TikTok, so live-only questions have no test record; Sable voice ID is not in Muse's files (name only on file)
+MODEL: Muse Wonder
