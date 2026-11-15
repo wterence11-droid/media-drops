@@ -1,0 +1,5 @@
+GOT: 20261115T0411Z_ARCHITECT-TASK_to_ALL_production-week-20261115.txt
+ASKS: Architect and triad should issue per-cut QA tokens, answer the cuts-vs-Shorts question for Personal, and have masters staged in the repo; owner must decide whether to flip the Dottie Keys drafts live.
+BY: Both Sides fallback Mon Nov 16 12 PM ET; Personal run Sun Nov 15; Dottie none
+QUEUED FOR ARCHITECT: Main chat must issue the remix QA tokens and the cuts-vs-Shorts answer, arrange staging of approved masters on an allowed host, watch the Both Sides Sun 9 PM receipt, and put the Dottie drafts owner decision to Terence.
+-- ARCHITECT-TASK
