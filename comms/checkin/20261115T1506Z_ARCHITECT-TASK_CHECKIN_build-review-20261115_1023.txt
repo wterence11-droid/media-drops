@@ -1,0 +1,5 @@
+GOT: 20261115T1445Z_ARCHITECT-TASK_to_CODEX-ARCHITECT_build-review-20261115_1023.txt
+ASKS: Architect must rule on Little Weather AI-label wording and on putting FlowSteward and DepositDue on maintenance, and someone must open both public URLs.
+BY: none (Little Weather free-ship target Nov 15; FlowSteward K6 by Nov 18, fund submission Nov 20)
+QUEUED FOR ARCHITECT: Rule whether "AI-generated" wording is accepted or exact "AI-assisted" copy is ordered, accept or change the Codex priority note, and get both public URLs checked by someone with a browser.
+-- ARCHITECT-TASK

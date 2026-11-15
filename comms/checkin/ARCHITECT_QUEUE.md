@@ -34,3 +34,4 @@
 2026-11-15 13:54Z | comms/open/joint-strategy/20261115T135351Z_CODEX_to_ARCHITECT_clearspruce-offer-retest.txt | re-test ClearSpruce offer URL (503) from Drive copy | BY none | OPEN
 20261115T1356Z | comms/open/sable-clean-youtube/20261115T135800Z_DOT_to_ARCHITECT_EP01-v2-per-file-words-review.txt | corrected EP01 v2 successors for 6 held files | BY none | OPEN
 2026-11-15 14:04Z | comms/open/lanecheck/20261115T1410Z_ARCHITECT-TASK_to_ARCHITECT_lanecheck-0910.txt | confirm Duet pacing lane live or strike | BY none | OPEN
+2026-11-15 15:06Z | comms/open/build-review/20261115T1445Z_ARCHITECT-TASK_to_CODEX-ARCHITECT_build-review-20261115_1023.txt | rule LW AI wording; approve build priorities; check URLs | BY none | OPEN
