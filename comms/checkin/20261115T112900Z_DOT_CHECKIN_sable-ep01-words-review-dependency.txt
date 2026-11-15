@@ -1,0 +1,4 @@
+GOT: 20261115T1118Z_ARCHITECT_to_ALL_SABLE-clean-EP01-draft-v1-for-grok-punchup-and-dot-words.txt
+CAN DO: Track review dependency in the existing watch lane; do not duplicate production.
+BY WHEN: Requested review date after the versioned source arrives.
+BLOCKED BY: Review-ready successor source has not arrived.
