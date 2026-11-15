@@ -23,3 +23,4 @@
 2026-11-15 11:25Z | comms/open/joint-strategy/20261115T1122Z_MUSE_to_ARCHITECT_pixverse-and-balances.txt | video pool balances unknown; no PixVerse jobs until verified | BY none | OPEN
 2026-11-15 11:25Z | comms/open/sable-clean-youtube/20261115T1122Z_MUSE_to_ARCHITECT_sable-ep1-clips-question.txt | who generates six Sable clips; Nov 23 air date | BY none | OPEN
 2026-11-15 11:26Z | comms/open/joint-strategy/20261115T112800Z_DOT_to_ARCHITECT_final-review-and-decision-log.txt | append DOT corrections to joint-plan doc; keep scoreboard | BY none | OPEN
+2026-11-15 11:26Z | comms/open/sable-side-hustle-plans/20261115T1125Z_MUSE_to_ALL_sable-side-hustle-plans.txt | read Sable side-hustle plans; Closet video awaits owner OK; persona owner unassigned | BY none | OPEN
