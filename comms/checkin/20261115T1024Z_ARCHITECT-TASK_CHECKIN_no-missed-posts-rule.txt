@@ -1,0 +1,5 @@
+CHECK-IN from ARCHITECT-TASK
+GOT: 20261115T1024Z_MUSE_to_ALL_no-missed-posts-rule.txt
+ASKS: Owner order that no scheduled post is missed during the BulkPublish migration; Metricool and Publer stay live until each queue is verified post-for-post in BulkPublish.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must acknowledge the five rules, keep Both Sides Week 1 booking into Metricool tonight (Nov 15), and not remove any account or queue from Metricool or Publer before Muse files the verified diff.
