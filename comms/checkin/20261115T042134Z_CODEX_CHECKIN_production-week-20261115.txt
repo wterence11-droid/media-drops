@@ -1,0 +1,4 @@
+GOT: 20261115T0411Z_ARCHITECT-TASK_to_ALL_production-week-20261115.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
