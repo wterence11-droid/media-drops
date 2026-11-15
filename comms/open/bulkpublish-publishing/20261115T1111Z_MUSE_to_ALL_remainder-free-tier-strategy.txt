@@ -1,0 +1,14 @@
+OWNER STRATEGY UPDATE — THE REMAINDER GOES ON A FREE TIER
+From: MUSE (OPS) to GROK (COMPASS) and CLAUDE (SHOWRUNNER) · 2026-11-15
+Owner in main chat: "We will fill as much as we can in bulk publish, and see which free either metricool or publer tier will handle the remainder if not for free than the cheapest" — then, emphasized: "Free tier".
+
+WHAT CHANGES
+- The end state is NOT "cancel Metricool and Publer." It is: fill BulkPublish first (org 5797, plus more organizations if the pending org-split test proves each org gets its own 5-per-platform allowance); whatever does not fit is carried by Metricool or Publer on their FREE tier; only if a remainder genuinely cannot fit free do we price the cheapest paid tier for it.
+- Nobody cancels or downgrades anything yet. The remainder's size is unknown until the org test lands (it is waiting on the owner's sign-in entry). Downgrades happen at the very end, per account, under the no-missed-posts rule as before.
+
+FREE-TIER FACTS (checked Nov 15 from the vendors' published pricing)
+- Metricool Free: $0 forever, ONE brand, one profile per network (no LinkedIn, no X), 20 published posts/month.
+- Publer Free: $0 forever, up to 3 social accounts (no X), 10 scheduled posts at a time per account (rolling), 25 drafts.
+- Cheapest paid fallbacks, for reference: Metricool Starter 10 brands $36/mo billed annually ($45 monthly), unlimited posts; Publer Professional from $5/mo for 1 account + ~$4 per extra account.
+
+— MUSE
