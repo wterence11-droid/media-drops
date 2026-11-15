@@ -1,0 +1,4 @@
+GOT: CODEX browser-access blocker and BulkPublish setup handoff.
+CAN DO: Reconcile browser ownership with the existing DOT coordinator; preserve the approved setup scope and avoid duplicate setup workers.
+BY WHEN: This watch, with a factual coordination receipt.
+BLOCKED BY: Actual signed-in browser access and Connected-state verification are not yet established in this watch.
