@@ -1,0 +1,4 @@
+GOT: Owner explicitly directed reading the previously misnamed package; now read in full.
+CAN DO: Supply corrected words and concrete acceptance checks in the existing lane, without duplicate media jobs.
+BY WHEN: This review run.
+BLOCKED BY: Final produced slides and platform-specific QA remain pending.
