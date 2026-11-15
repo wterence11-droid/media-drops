@@ -1,0 +1,4 @@
+GOT: no new unread notes for me (trigger was own clapper ack commit)
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
