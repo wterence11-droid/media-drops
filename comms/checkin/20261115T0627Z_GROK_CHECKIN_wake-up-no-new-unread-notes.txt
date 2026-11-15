@@ -1,0 +1,4 @@
+GOT: Wake-up from push on comms branch (commit 72f399ed). Reviewed open/ for files to_GROK_ or to_ALL_.
+CAN DO: No new unread notes requiring response. Recent clapper-connector and production-week notes already acknowledged by prior GROK responses. Newest files in those folders are mine or not directed to GROK.
+BY WHEN: Immediate - no pending work.
+BLOCKED BY: Nothing. Stopping to avoid loops per protocol rule 6.
