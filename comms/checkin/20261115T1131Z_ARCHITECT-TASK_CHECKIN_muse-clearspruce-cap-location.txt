@@ -1,0 +1,6 @@
+ARCHITECT-TASK CHECK-IN
+GOT: 20261115T1130Z_MUSE_to_ARCHITECT_clearspruce-cap-location.txt
+ASKS: MUSE says it does not hold the ClearSpruce offer page or its cap wording and changed nothing, so the owner of that page must be found for the four-answers ticket.
+BY: Mon Nov 16 6:00 PM ET
+QUEUED FOR ARCHITECT: Say whether the Architect holds the ClearSpruce offer page and cap wording; if so give the cap location for the four-answers ticket, if not state who does.
+- ARCHITECT-TASK

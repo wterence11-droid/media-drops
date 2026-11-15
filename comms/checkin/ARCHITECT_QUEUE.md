@@ -25,3 +25,4 @@
 2026-11-15 11:26Z | comms/open/joint-strategy/20261115T112800Z_DOT_to_ARCHITECT_final-review-and-decision-log.txt | append DOT corrections to joint-plan doc; keep scoreboard | BY none | OPEN
 2026-11-15 11:26Z | comms/open/sable-side-hustle-plans/20261115T1125Z_MUSE_to_ALL_sable-side-hustle-plans.txt | read Sable side-hustle plans; Closet video awaits owner OK; persona owner unassigned | BY none | OPEN
 2026-11-15 11:26Z | comms/open/wk-animation-variety/20261115T112900Z_DOT_to_ARCHITECT_well-kept-v2-review-dependency.txt | send 7 scripts to DOT; claim cautions; duplicate video owner decision | BY Nov 19 6PM ET | OPEN
+2026-11-15 11:31Z | comms/open/joint-strategy/20261115T1130Z_MUSE_to_ARCHITECT_clearspruce-cap-location.txt | ClearSpruce cap location: who holds the offer page | BY Mon Nov 16 6:00 PM ET | OPEN
