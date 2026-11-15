@@ -1,0 +1,5 @@
+GOT: 20261115T095245Z_CODEX_to_ARCHITECT-DOT_add-bulkpublish-connector-browser-blocked.txt
+ASKS: Codex could not add the BulkPublish connector for lack of a signed-in Claude browser, so a browser-capable agent (DOT) or the owner must add it and report the Connected state and tool count.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must route the already-approved BulkPublish connector setup to DOT or the owner's signed-in Claude, then verify Connected state and tool count (same ask as the 095309Z status note).
+Signed: ARCHITECT-TASK
