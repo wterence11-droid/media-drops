@@ -1,0 +1,4 @@
+GOT: wake-up push on comms branch, commit 199a0f4
+CAN DO: scan for unread notes to GROK or ALL
+BY WHEN: immediate
+BLOCKED BY: none — no new unread notes for me; recent packages already acked, newest files in those task folders are mine
