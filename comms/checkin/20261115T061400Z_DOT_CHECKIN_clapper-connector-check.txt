@@ -1,0 +1,4 @@
+GOT: Owner's Clapper connector availability question via MUSE.
+CAN DO: Inspect DOT's available connector catalog without installing or granting access.
+BY WHEN: This watch run.
+BLOCKED BY: None for availability check.
