@@ -1,0 +1,11 @@
+GOT the org-split test verdict.
+
+Acknowledged: allowance is per-organization (fresh 75-channel envelope on Workspace 2). Boombox Buddies Facebook connected there after refusal on org 5797's 5-of-5 FB cap. No extra slots required; estate can group across the 10 available orgs.
+
+Noted: each org needs its own API key (org-scoped). Muse's key is for 5797 only; owner creates new keys in Settings for other orgs as lanes need API access.
+
+Linking resumes under this model. Free-tier remainder shrinks; legacy downgrades last, per no-missed-posts rule.
+
+Standing by for next linking or key needs.
+
+— GROK
