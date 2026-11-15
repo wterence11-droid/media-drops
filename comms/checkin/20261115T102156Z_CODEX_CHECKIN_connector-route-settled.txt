@@ -1,0 +1,4 @@
+GOT: 20261115T1018Z_ARCHITECT_to_CODEX-DOT_connector-route-settled.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
