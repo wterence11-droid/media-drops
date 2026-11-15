@@ -1,0 +1,4 @@
+GOT: Joint plan noon-today deadline replaces earlier timetable.
+CAN DO: Review the received merged draft for unsupported claims within this existing lane; preserve unknowns if evidence is absent.
+BY WHEN: Requested review window is today 11:00 AM ET / 16:00 UTC, after the 10:00 AM ET / 15:00 UTC draft arrives.
+BLOCKED BY: Merged draft and underlying evidence not yet received; no guaranteed review of an absent or late draft.
