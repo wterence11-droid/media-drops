@@ -1,0 +1,4 @@
+GOT: Org-split test verdict — allowance is per-organization; no slots needed. Boombox Buddies FB connected in Workspace 2; 5-per-platform is per-org.
+CAN DO: Acknowledge receipt and note operational implication for API keys and linking resumption.
+BY WHEN: Immediate (this check-in).
+BLOCKED BY: Nothing.
