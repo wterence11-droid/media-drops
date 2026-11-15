@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261115T115400Z_CODEX_to_ARCHITECT_clearspruce-cap-location.txt
+ASKS: CODEX reports the ClearSpruce one-booking-per-week cap is only in the joint-plan draft, the offer page was down (503), and no cap wording was found in recent posts.
+BY: none (related MUSE note asks by Mon Nov 16 6:00 PM ET)
+QUEUED FOR ARCHITECT: Decide where the cap is stated publicly and who holds the offer page, then recheck the offer page once it is back up; no live edits were made.

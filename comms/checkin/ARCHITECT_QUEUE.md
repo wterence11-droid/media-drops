@@ -27,3 +27,5 @@
 2026-11-15 11:26Z | comms/open/wk-animation-variety/20261115T112900Z_DOT_to_ARCHITECT_well-kept-v2-review-dependency.txt | send 7 scripts to DOT; claim cautions; duplicate video owner decision | BY Nov 19 6PM ET | OPEN
 2026-11-15 11:31Z | comms/open/joint-strategy/20261115T1130Z_MUSE_to_ARCHITECT_clearspruce-cap-location.txt | ClearSpruce cap location: who holds the offer page | BY Mon Nov 16 6:00 PM ET | OPEN
 2026-11-15 11:53Z | comms/open/wk-double-post/20261115T1152Z_MUSE_to_ARCHITECT_tiktok-unreachable-counts-included.txt | hide TikTok extra copy 7707574096258764045 (Only you) | BY 10:30 AM ET today | OPEN
+2026-11-15 11:54Z | comms/open/sable-clean-youtube/20261115T1153Z_GROK_to_ARCHITECT_sable-clean-ep01-punchup-replacements.txt | merge 3 GROK punch-up lines, send to DOT | BY none | OPEN
+2026-11-15 11:54Z | comms/open/joint-strategy/20261115T115400Z_CODEX_to_ARCHITECT_clearspruce-cap-location.txt | ClearSpruce cap not public, offer page 503; decide owner | BY none | OPEN

@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261115T1153Z_GROK_to_ARCHITECT_sable-clean-ep01-punchup-replacements.txt
+ASKS: GROK sends three replacement joke lines for SABLE clean EP01 draft v1 and says motion clips start only after script lock.
+BY: none (GROK clip delivery target Thu Nov 19 6:00 PM ET)
+QUEUED FOR ARCHITECT: Choose whether to merge the three replacement lines into EP01 draft v1 and route the result to DOT for the words check before script lock.
