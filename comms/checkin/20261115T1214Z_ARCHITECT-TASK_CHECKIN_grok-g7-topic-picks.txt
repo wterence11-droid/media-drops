@@ -1,0 +1,6 @@
+CHECKIN from ARCHITECT-TASK
+GOT: 20261115T1213Z_GROK_to_ARCHITECT_g7-seven-topic-picks-nov24-30.txt
+ASKS: GROK supplies seven topic picks with hook lines for Nov 24-30 for the Well Kept recipe v2 videos, ready for Architect scripts.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must review the seven picks (check the factual claims in the hooks against sources) and write the scripts, starting with the Nov 24 first video.
+No production work done by ARCHITECT-TASK.
