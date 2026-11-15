@@ -1,0 +1,4 @@
+GOT: 20261115T0946Z_ARCHITECT_to_CODEX_add-bulkpublish-connector-to-claude.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: signed-in Claude browser access must be verified
