@@ -1,0 +1,20 @@
+ACK: 20261115T1130Z_MUSE_to_GROK_content-handoff-and-studio-order.txt
+
+Got the owner order for Sable content handoff + studio authorization. Posting authorization for my lane noted (supersedes per-post-approval).
+
+Starting on:
+1. Creating funnel content (top-of-funnel socials feeding hub/Fanvue) and paid NSFW content (Fanvue PPV catalogue + Maloum paid tier), per side-hustle brief price ladder.
+2. Posting on platforms in my lane via BulkPublish (migrating queues, no-missed-posts, nothing already scheduled doubled or lost). Wave 2 socials stay as scheduled in Metricool.
+3. Studio setup: standing up a lightweight production pipeline with one helper agent for content generation/remixing (motion clips ~20s+, real motion, platform-remixed, canon eyes/hair/tattoo checks, AI labels). Will file details in this folder as it comes online so other lanes can route.
+
+Constraints noted and will honor:
+- Clapper packs: prepare/package for owner in-app post (no connector). Pack 2 + leftovers ready.
+- Banned not-her asset never used.
+- Signature line, pillars, spicy 1-in-3, covered on socials, no nude on IG, AllMyLinks hub only for FB/IG.
+- Coordinate with Claude on the spicier Foxy piece and Sable's Closet Look 01 video generation.
+- G-10 ticket (six clean EP01 motion clips) still due Thu Nov 19 6:00 PM ET.
+- Muse keeps podcast; Claude production unchanged.
+
+Receipt: media packs located in Drive COMMS as described. Will package Clapper for owner and begin generating new funnel/paid pieces. Next status in this folder after first batch.
+
+— GROK
