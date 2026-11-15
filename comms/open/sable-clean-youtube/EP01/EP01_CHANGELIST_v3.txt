@@ -1,0 +1,299 @@
+GET READY WITH SABLE | EPISODE 1 | CHANGELIST v3
+Implements the numbered findings in 20261115T135800Z_DOT_to_ARCHITECT_EP01-v2-per-file-words-review.txt (finding N = the Nth file in that review). Originals are untouched; every change below is OLD line then NEW line (exact text). Entries marked (consistency) only keep file names, version numbers or wording in step with the findings.
+
+======================================================================
+EP01_SCRIPT_v3.txt  (from EP01_SCRIPT_v2.txt)
+======================================================================
+[1] Finding 1 (consistency)
+OLD: SCRIPT v2
+NEW: SCRIPT v3
+
+[2] Finding 1 (consistency)
+OLD: Spoken words: see EP01_SELF_CHECK.txt.
+NEW: Spoken words: see EP01_SELF_CHECK_v2.txt.
+
+[3] Finding 1 (consistency)
+OLD: (see EP01_HOOK_SHOTS_v1.txt)
+NEW: (see EP01_HOOK_SHOTS_v2.txt)
+
+[4] Finding 1 (consistency)
+OLD: (see EP01_GRAPHICS_v1.txt)
+NEW: (see EP01_GRAPHICS_v2.txt)
+
+[5] Finding 1, third bullet (unnamed bistro)
+OLD: A little bistro called the Copper Thimble.
+NEW: A little bistro, the kind with no sign you can read from the street.
+
+[6] Finding 1, second bullet (side story timing)
+OLD: >> SIDE STORY (about 4:19-4:56, about thirty-five seconds, stands alone)   >> CUT MAP Day 3
+NEW: >> SIDE STORY (starts about 4:19; about thirty seconds, estimate only, to be confirmed on the actual read; stands alone)   >> CUT MAP Day 3 = about 4:19-4:49 (estimate)
+
+[7] Finding 1, second bullet (tighter side story)
+OLD: SABLE: My Aunt Lorraine is late to everything. Weddings. Graduations. Her own surprise party. We had to stall her surprise party for an hour, because the guest of honor was running behind. So the family has a system. Whatever time it is, we tell Lorraine two hours earlier. Christmas dinner is at four, Lorraine hears two. She walks in at four-fifteen, says "Look at me, early," and nobody corrects her. That woman has never been on time in her life, and she has never once missed the food. Respect.
+NEW: SABLE: My Aunt Lorraine is late to everything, including her own surprise party. So the family has a system: tell her two hours early. Christmas dinner is at four; Lorraine hears two. She walks in at four-fifteen and says, Look at me, early. Nobody corrects her. Never on time. Never misses the food. Respect.
+
+[8] Finding 1, first bullet (card marker)
+OLD: [GFX 12: NEXT MONDAY CARD]
+NEW: [GFX 12: NEXT TIME CARD]
+
+[9] Finding 1, first bullet (schedule-neutral next-story line)
+OLD: Next Monday: Thanksgiving, a store-bought pie
+NEW: Next time: Thanksgiving, a store-bought pie
+
+[10] Finding 1, first bullet (schedule-neutral invite)
+OLD: Like, subscribe, and follow along every Monday.
+NEW: Like, subscribe, and follow along for the next story.
+
+======================================================================
+EP01_HOOK_SHOTS_v2.txt  (from EP01_HOOK_SHOTS_v1.txt)
+======================================================================
+[1] Finding 2 (consistency)
+OLD: EPISODE 1 | HOOK SHOTS v1 (six motion clips
+NEW: EPISODE 1 | HOOK SHOTS v2 (six motion clips
+
+[2] Finding 2, first bullet (clip owner)
+OLD: For the image-led motion clips in Muse's lane. Directions only; nothing generated here.
+NEW: For the image-led motion clips, made by GROK (owner decision Sun Nov 15 2026; Muse keeps the podcast). Directions only; nothing generated here.
+
+[3] Finding 2, second bullet (locked successor script) + third bullet (added line)
+OLD: Spoken line must match EP01_SCRIPT_v1.txt word for word.
+NEW: Spoken line must match EP01_SCRIPT_v3.txt word for word.
+NEW: Directions are not proof of canon identity or lip-sync; clip timing and reference comparison are later checks.
+
+======================================================================
+EP01_GRAPHICS_v2.txt  (from EP01_GRAPHICS_v1.txt)
+======================================================================
+[1] Finding 3 (consistency)
+OLD: STORY GRAPHICS v1 (coded
+NEW: STORY GRAPHICS v2 (coded
+
+[2] Finding 3, first bullet (locked successor script)
+OLD: match EP01_SCRIPT_v1.txt.
+NEW: match EP01_SCRIPT_v3.txt. All start times and durations are estimates until the final audio exists.
+
+[3] Finding 3, last bullet (disclosure must be readable, no 'small')
+OLD: Motion: small lower-third pill fades in at 0:00, holds, fades out at 0:15.
+NEW: Motion: lower-third pill fades in at 0:00, holds, fades out at 0:15.
+NEW: Legibility: the AI persona / fiction disclosure must be readable in the actual output (text size, contrast and hold time all sufficient on a phone screen). It is checked on the rendered video; this spec is not proof of legibility.
+
+[4] Finding 3 + 1, third bullet (no restaurant name on the card)
+OLD: Words: The Copper Thimble | 7:00 PM | Table by the window
+NEW: Words: A little bistro | 7:00 PM | Table by the window
+
+[5] Finding 3, second bullet (GFX 6 follows shortened story)
+OLD: Start 4:19 | Duration 37 s
+NEW: Start 4:19 | Duration about 30 s (follows the shortened side story in EP01_SCRIPT_v3.txt; to be confirmed on the actual read)
+
+[6] Finding 1, third bullet (no restaurant name on the receipt)
+OLD: Header: THE COPPER THIMBLE
+NEW: Header: A LITTLE BISTRO
+
+[7] Finding 3, third bullet (GFX 10 candle cue inside its own duration)
+OLD: Start 8:02 | Duration 8 s
+NEW: Start 8:02 | Duration 20 s (extended so the candle cue at 8:15 falls inside; timing to be confirmed against the final audio)
+
+[8] Finding 3, fourth bullet (NEXT TIME)
+OLD: GFX 12 | NEXT MONDAY CARD
+NEW: GFX 12 | NEXT TIME CARD
+
+[9] Finding 3, fourth bullet (NEXT TIME)
+OLD: Words: NEXT MONDAY | I Brought
+NEW: Words: NEXT TIME | I Brought
+
+[10] Finding 3, fourth bullet (NEXT TIME)
+OLD: "NEXT MONDAY" pulses once
+NEW: "NEXT TIME" pulses once
+
+======================================================================
+EP01_CUT_MAP_v2.txt  (from EP01_CUT_MAP_v1.txt)
+======================================================================
+[1] Finding 4 (consistency)
+OLD: SEVEN-SHORT CUT MAP v1
+NEW: SEVEN-SHORT CUT MAP v2
+
+[2] Finding 4, first bullet (re-anchor, estimates, verify on audio)
+OLD: Timestamps are from EP01_SCRIPT_v1.txt (estimated at 140 words per minute; confirm against the final audio and move in/out points to the nearest breath).
+NEW: Source: EP01_SCRIPT_v3.txt. All timestamps and durations below are ESTIMATES (140 words per minute), to be verified against the actual audio in/out points. Move in/out points to the nearest clean breath so each full intended sentence survives. No exact-duration PASS comes from this text.
+
+[3] Finding 4, second bullet (Day 3 follows shortened story)
+OLD: DAY 3 | THE SIDE STORY | about 38 s
+NEW: DAY 3 | THE SIDE STORY | about 30 s (estimate)
+
+[4] Finding 4, second bullet (Day 3 follows shortened story)
+OLD: In/out: 4:19-4:57
+NEW: In/out: about 4:19-4:49 (estimate)
+
+[5] Finding 4, second bullet (Day 5 text)
+OLD: New on-screen words: SAVED YOU 40 MINUTES.
+NEW: New on-screen words: FORTY MINUTES WAS MY ANSWER.
+
+[6] Finding 4, second bullet (Day 7 NEXT TIME, spoken line)
+OLD: Next Monday: Thanksgiving, a store-bought pie
+NEW: Next time: Thanksgiving, a store-bought pie
+
+[7] Finding 4, second bullet (Day 7 NEXT TIME, on-screen words)
+OLD: New on-screen words: NEXT MONDAY: I Brought
+NEW: New on-screen words: NEXT TIME: I Brought
+
+[8] Finding 4, third bullet (poll rule replaced)
+OLD: No polls: community polls unlock at 500 subscribers.
+NEW: Posts/poll access: UNKNOWN for this account until verified in its actual UI; no post requested here.
+
+======================================================================
+EP01_PACKAGING_v2.txt  (from EP01_PACKAGING_v1.txt)
+======================================================================
+[1] Finding 5 (consistency)
+OLD: EPISODE 1 | PACKAGING v1
+NEW: EPISODE 1 | PACKAGING v2
+
+[2] Finding 5, third bullet (remove '(4)' count)
+OLD: Words (4): 40 MINUTES LATE.
+NEW: Words: 40 MINUTES LATE.
+
+[3] Finding 5, first bullet (schedule-neutral description)
+OLD: New Get Ready With Sable storytime every Monday.
+NEW: More Get Ready With Sable storytimes to come.
+
+[4] Finding 5, first bullet (chapter label)
+OLD: 09:35 Next Monday
+NEW: 09:35 Next time
+
+[5] Finding 5, first bullet (chapters are placeholders)
+OLD: #storytime #grwm #getreadywithme
+NEW: #storytime #grwm #getreadywithme
+NEW: 
+NEW: NOTE (not part of the description): chapter timestamps above are placeholders until the real video exists; re-time them on the final cut.
+
+[6] Finding 5, last bullet (planned, not applied)
+OLD: - Audience: Not made for kids.
+NEW: - Audience: Not made for kids (planned setting, not yet applied).
+
+[7] Finding 5, last bullet (planned, not applied)
+OLD: - Altered or synthetic content: ON (realistic AI-generated person).
+NEW: - Altered or synthetic content: ON (realistic AI-generated person) (planned setting, not yet applied).
+
+[8] Finding 5, second bullet (age restriction line)
+OLD: - Age restriction: none needed; content is clean.
+NEW: - Age restriction: Review final video and platform rules before setting restriction; script is intended for a clean adult audience.
+
+======================================================================
+EP01_SELF_CHECK_v2.txt  (from EP01_SELF_CHECK.txt)
+======================================================================
+[1] Finding 6 (consistency, status labels)
+OLD: GET READY WITH SABLE | EPISODE 1 | SELF CHECK
+NEW: GET READY WITH SABLE | EPISODE 1 | SELF CHECK v2 (checks EP01_SCRIPT_v3.txt)
+NEW: Status labels: TEXT PASS = the script or spec text passes on reading. NOT YET TESTED = needs real outputs. Nothing here is an audiovisual PASS.
+
+[2] Finding 6, first bullet (recount)
+OLD: Spoken words (every SABLE: line, labels removed): 1,331
+NEW: Spoken words (counted by script: only the text after "SABLE:" on lines that start with "SABLE:", parenthetical stage directions such as "(clip line)" excluded): 1,333 in EP01_SCRIPT_v3.txt. The same method gives 1,331 for v1 and 1,359 for v2; the review's 1,381 for v2 was not reproduced by this method.
+
+[3] Finding 6, first bullet (timing re-estimate)
+OLD: Estimated runtime at 140 words per minute: 9:30 of speech. With the reset hold (about 15 s), graphic beats and the final mirror look, the cut lands at about 10:00. Above the 8:00 minimum.
+NEW: Estimated runtime at 140 words per minute: 1,333 / 140 = 9.52 minutes, about 9:31 of speech. With the reset hold (about 15 s), graphic beats and the final mirror look, the cut is estimated at about 10:00. This is an estimate from the word count; actual length is NOT YET TESTED against real audio. The estimate is above the 8:00 minimum.
+
+[4] Finding 6, first bullet (side story, estimate only)
+OLD: Pace notes: hook line (0:06-0:15) and setup (0:15-1:00) run brisk, about 150-160 wpm; that is normal for an opening. Side story runs about 35 s against a "thirty seconds" target.
+NEW: Pace notes (estimates from the section windows and word counts): hook line (24 words in 0:06-0:15) and setup (114 words in 0:15-1:00) run brisk, about 150-160 wpm; that is normal for an opening. The side story is shortened in v3: 53 words, about 23 s of speech at 140 wpm, about 30 s with the group-chat graphic beats, against the thirty-second target. Actual read timing is NOT YET TESTED.
+
+[5] Finding 6, third bullet (TEXT PASS, item 1)
+OLD:    PASS. Wardrobe in every clip is a high-neck top, trousers, coat. No suggestive word in script, graphics, title, thumbnail or description. Searched for flagged words; the only hit was "my whole body remembered something" (setup), which is about memory, not a body. Kept.
+NEW:    TEXT PASS. Wardrobe directions for every clip are a high-neck top, trousers, coat. No suggestive word in script, graphics, title, thumbnail or description text. The one phrase flagged in the earlier check, "my whole body remembered something" (setup), is about memory, not a body; kept (line unchanged in v3). The rendered video, thumbnail and comments are NOT YET TESTED.
+
+[6] Finding 6, third bullet (TEXT PASS, item 2; invite wording)
+OLD:    PASS. No platform, link, handle or "find me on" anywhere. The invite says only "Like, subscribe, and follow along every Monday" (follow along = keep watching the series). Packaging bars off-YouTube links.
+NEW:    TEXT PASS. No platform, link, handle or "find me on" anywhere. The invite now says only "Like, subscribe, and follow along for the next story" (no schedule promise, no air date invented). Packaging bars off-YouTube links.
+
+[7] Finding 6, third bullet (TEXT PASS, item 3)
+OLD:    PASS for this episode: nothing here adds a link.
+NEW:    TEXT PASS for this episode: nothing here adds a link.
+
+[8] Finding 6, third bullet (TEXT PASS, item 4; readability and settings not tested)
+OLD:    PASS. GFX 1 "AI persona. Fictional story." 0:00-0:15; description says it; packaging lists altered/synthetic ON; every Short carries the label.
+NEW:    TEXT PASS (specs only). GFX 1 "AI persona. Fictional story." is specified for 0:00-0:15; the description says it; every Short spec carries the label. The label must be readable in the actual output: NOT YET TESTED on the rendered video. The altered/synthetic setting is a planned setting, not yet applied (packaging lists it).
+
+[9] Finding 6, third bullet (TEXT PASS, item 5)
+OLD:    PASS. Every judgment is about her own night
+NEW:    TEXT PASS. Every judgment is about her own night
+
+[10] Finding 6, second bullet (venue claim replaced)
+OLD:    PASS. All names invented (list below). No real venue, city, app or brand. The phrase "true story" appears nowhere.
+NEW:    TEXT PASS. All names invented (list below). The restaurant is unnamed in v3 ("a little bistro"), so no venue-name check is needed. No city, app or brand is named. The phrase "true story" appears nowhere.
+
+[11] Finding 6, third bullet (TEXT PASS, item 7)
+OLD:    PASS after one fix.
+NEW:    TEXT PASS after one fix.
+
+[12] Finding 6, third bullet (TEXT PASS, item 8; adult appearance not tested)
+OLD:    PASS. Every hook-shot direction states "clearly adult", grown-up wardrobe, no youthful styling.
+NEW:    TEXT PASS (directions only). Every hook-shot direction states "clearly adult", grown-up wardrobe, no youthful styling. Adult appearance in every frame is NOT YET TESTED until the clips exist; directions are not proof.
+
+[13] Finding 6, third bullet (item 9, planned not applied)
+OLD:    PASS. In packaging settings.
+NEW:    PLANNED, NOT YET APPLIED. Listed as a planned setting in packaging; not verified as applied on any upload.
+
+[14] Finding 6, third bullet (TEXT PASS, item 10)
+OLD:    PASS. No other brand or channel named or hinted.
+NEW:    TEXT PASS. No other brand or channel named or hinted.
+
+[15] Finding 6, third bullet (TEXT PASS, item 11)
+OLD:    PASS. The long uses H1, Curiosity.
+NEW:    TEXT PASS. The long uses H1, Curiosity.
+
+[16] Finding 6, third bullet (other guide items, structure)
+OLD: - Timed structure 0:00 / 0:06 / 0:15 / 1:00 / 3:00 / 6:00 / 6:30 / 9:00 / 9:35: PASS.
+NEW: - Timed structure 0:00 / 0:06 / 0:15 / 1:00 / 3:00 / 6:00 / 6:30 / 9:00 / 9:35: TEXT PASS (section markers in the script; actual timing NOT YET TESTED).
+
+[17] Finding 6, third bullet (other guide items, loops)
+OLD: - Three loops planted in setup, paid off near 30 / 60 / 90 percent: PASS (2:14-2:59, 5:23-5:59, 8:02-8:59).
+NEW: - Three loops planted in setup, paid off near 30 / 60 / 90 percent: TEXT PASS (estimated marks 2:14-2:59, 5:23-5:59, 8:02-8:59; re-time on the actual audio, since the shortened side story sits between the first two).
+
+[18] Finding 6, third bullet (other guide items, re-hooks)
+OLD: - 3:00 re-hook line verbatim: PASS. Re-hooks at about
+NEW: - 3:00 re-hook line verbatim: TEXT PASS. Re-hooks (estimates) at about
+
+[19] Finding 6, third bullet (other guide items, cliffhanger line changed)
+OLD: - Week-2 cliffhanger line verbatim from the ending rule: PASS.
+NEW: - Week-2 cliffhanger line: changed per review finding 1 to schedule-neutral wording ("Next time: Thanksgiving, a store-bought pie, and my cousin who makes everything from scratch and wants everybody to know."). It no longer matches the guide's original ending-rule wording, by the reviewer's instruction. TEXT PASS against the review; no air date is invented.
+
+[20] Finding 6, third bullet (other guide items, catchphrases)
+OLD: "I don't chase, I arrive.": PASS.
+NEW: "I don't chase, I arrive.": TEXT PASS.
+
+[21] Finding 6, third bullet (other guide items, clips)
+OLD: - Six motion clips, 4-6 s, canon look stated in each: PASS.
+NEW: - Six motion clips, 4-6 s, canon look stated in each: TEXT PASS (directions only). Actual clip timing and canon look match are NOT YET TESTED.
+
+[22] Finding 6, third bullet (seven cut durations not tested) + NOT YET TESTED list
+OLD: - Seven Shorts, 20-45 s each: PASS (22 / 44 / 38 / 39 / 22 / 36 / 21 s).
+NEW: - Seven Shorts, 20-45 s each: NOT YET TESTED. Planned estimates only: 22 / 44 / 30 / 39 / 22 / 36 / 21 s (Day 3 follows the shortened side story). Actual durations need the final audio and the real cut points.
+NEW: 
+NEW: NOT YET TESTED (needs real outputs; metadata and directions cannot prove these)
+NEW: - Adult appearance in every frame.
+NEW: - On-screen readability, including the AI persona / fiction label.
+NEW: - Clip timing (six motion clips, 4-6 s each).
+NEW: - The seven cut durations.
+NEW: - Audio and video quality.
+NEW: - Canon look match.
+
+[23] Finding 6, second bullet (venue note, proper nouns list)
+OLD: - The Copper Thimble: invented bistro. Not checked against real venue listings (no web browsing on this task); no city is named, so it points to no real place. Rename if a reviewer finds a real one.
+NEW: - The restaurant: unnamed in v3 ("a little bistro, the kind with no sign you can read from the street"; graphics say "A little bistro"). It has no proper name, so no venue-name check is needed.
+
+[24] Finding 6 (consistency, calendar words)
+OLD: Monday, Christmas, Thanksgiving, March
+NEW: Christmas, Thanksgiving, March
+
+======================================================================
+NOTES
+======================================================================
+- The review's other points are gating, not text edits: DOT re-check, actual full-playback and listening, rights/accessibility, canon matching and the owner's per-post approval remain separate.
+- No air date is set or invented in any file.
+
+ADDED BY ARCHITECT AFTER REVIEW (finding 3, disclosure readability, applied to the two remaining mentions)
+EP01_SCRIPT_v3.txt line 14
+  OLD: [GFX 1] ON SCREEN 0:00-0:15 (lower third, small, white on dark): AI persona. Fictional story.
+  NEW: [GFX 1] ON SCREEN 0:00-0:15 (lower third, white on dark, sized to be readable on a phone; checked on the rendered video): AI persona. Fictional story.
+EP01_CUT_MAP_v2.txt line 4
+  OLD: ... as a small lower-third for the first 3 s ...
+  NEW: ... as a lower-third for the first 3 s, readable on a phone and checked on the rendered cut ...

@@ -1,0 +1,23 @@
+FROM: Architect (production chat)
+TO: DOT
+SUBJECT: Sable clean Episode 1 - corrected successors for all six held files (script v3), for your one recheck
+TIME: Sun Nov 15 15:57:10 UTC 2026 (10:57 AM ET)
+Reply-to: 20261115T135800Z_DOT_to_ARCHITECT_EP01-v2-per-file-words-review.txt
+
+All six HOLDs are answered with versioned successors. Originals are kept. Everything is in comms/open/sable-clean-youtube/EP01/:
+- EP01_SCRIPT_v3.txt (replaces v2)
+- EP01_HOOK_SHOTS_v2.txt, EP01_GRAPHICS_v2.txt, EP01_CUT_MAP_v2.txt, EP01_PACKAGING_v2.txt, EP01_SELF_CHECK_v2.txt (replace the v1 files)
+- EP01_CHANGELIST_v3.txt: every change as OLD line then NEW line, keyed to your finding numbers. Start there.
+
+WHAT CHANGED, BY YOUR FINDING
+1. Script: "Next time" replaces "Next Monday"; "follow along for the next story" replaces "every Monday"; your tighter Aunt Lorraine text is in word for word; the restaurant has NO name now (an unnamed bistro), so the venue-name question is closed rather than searched. Only four spoken lines differ from v2.
+2. Hook shots: clips are GROK's (owner decision, 1124Z); references point to script v3; the six spoken clip lines are unchanged, byte for byte; added the line that directions are not proof of canon look or lip-sync.
+3. Graphics: v3 references; location card and receipt card show no venue name; GFX 6 follows the shorter side story; GFX 10 runs 20 seconds so the candle cue sits inside it; GFX 12 reads NEXT TIME; the AI and fiction label must be readable on a phone and is checked on the rendered video (the word "small" is gone from all files).
+4. Cut map: re-anchored to v3, every time marked as an estimate to verify on real audio; Day 5 text is "FORTY MINUTES WAS MY ANSWER."; Day 7 reads NEXT TIME; the poll rule is deleted and replaced with your UNKNOWN line.
+5. Packaging: no schedule promise (description now says "More Get Ready With Sable storytimes to come." - my helper's wording, since you gave none; change it if you prefer); chapter times are placeholders; your age-restriction line is in; kids and AI-disclosure settings are marked planned, not applied; the "(4)" count is removed.
+6. Self check: recounted. Script-only items say TEXT PASS; everything that needs a real output says NOT YET TESTED.
+
+CORRECTION OF MY OWN NUMBER: my 1343Z note said v2 had 1,381 spoken words. That count was wrong (it included stage directions). Counting only the words Sable speaks: v1 1,331, v2 1,359, v3 1,333. v3 is about 9.5 minutes of speech at 140 words a minute, about 10 minutes with pauses. That is an estimate, not a timed read.
+
+NOT CLAIMED: no audio, video, timing, canon-look or readability pass. Those come when real outputs exist. Air date is still not set. Nothing was made, posted or booked.
+ASK: one recheck of the changed text, PASS or HOLD per file, by Tue Nov 17 12:00 PM ET. GROK's clips (G-10) start only after your PASS on the script and hook shots.
