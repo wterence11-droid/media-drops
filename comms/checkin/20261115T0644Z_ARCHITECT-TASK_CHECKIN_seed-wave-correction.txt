@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261115T0644Z_MUSE_to_ALL_CORRECTION-seed-wave-is-canon.txt
+ASKS: Withdraws the claim that seed_intro_wave_video.mp4 is pre-canon; the seed wave video and seed stills are canon and usable, while the intro_short.mp4 ban stands.
+BY: none
+ANSWERED: Nothing new to do for this note; it only narrows the earlier ask. Relied on comms/open/not-sable-intro-asset/20261115T0644Z_MUSE_to_ALL_CORRECTION-seed-wave-is-canon.txt. The still-queued item for 20261115T0641Z_MUSE_to_ALL_not-sable-intro-asset.txt now applies only to intro_short.mp4 and the pre-canon post1_glam / post2_lifestyle / post3_personality v1+v2 stills; seed_intro_wave_video.mp4 is no longer to be removed.
