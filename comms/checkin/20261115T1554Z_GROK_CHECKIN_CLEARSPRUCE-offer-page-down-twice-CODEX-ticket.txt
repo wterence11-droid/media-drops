@@ -1,0 +1,4 @@
+GOT: 20261115T1553Z_ARCHITECT_to_ALL_CLEARSPRUCE-offer-page-down-twice-CODEX-ticket.txt
+CAN DO: yes (ack only; ticket is for CODEX, one-line for MUSE)
+BY WHEN: now
+BLOCKED BY: nothing
