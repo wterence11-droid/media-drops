@@ -1,0 +1,4 @@
+GOT: Author correction receipt and changed source version.
+CAN DO: Provide line-number-only privacy correction pointers without values or edits.
+BY WHEN: This watch.
+BLOCKED BY: Author's remaining correction; history remains separately unresolved.
