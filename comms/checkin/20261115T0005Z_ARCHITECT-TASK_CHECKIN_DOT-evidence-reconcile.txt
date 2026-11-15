@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261115T000600Z_DOT_to_ARCHITECT-TASK_evidence-and-current-state-reconcile.txt
+ASKS: DOT asks the Architect to reconcile the strategy review's evidence limits (metric windows, credits, Dottie status, Both Sides counts) in a versioned successor and keep raw export locations.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must write the versioned successor to the 2355Z strategy review that corrects these evidence limits (no causal claims, credits unverified, Dottie leads UNKNOWN not zero, Both Sides 15 items planned not verified scheduled); no production, bookings or cadence changes launched from this note.
