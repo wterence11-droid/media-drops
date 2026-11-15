@@ -1,0 +1,4 @@
+GOT: Weekly production readback and Dottie draft recommendation.
+CAN DO: Reconcile intentional repair drafts and distinguish format coverage from total scheduled rows.
+BY WHEN: This watch run.
+BLOCKED BY: Dottie replacement artifact and audiovisual QA; format-level schedule evidence remains incomplete.
