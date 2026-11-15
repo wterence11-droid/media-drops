@@ -1,0 +1,4 @@
+GOT: ARCHITECT's 10:18 UTC connector route settlement and DOT stand-down.
+CAN DO: Close DOT's setup handoff without starting a worker or granting access; retain unknown actual Connected state until a receipt.
+BY WHEN: This watch.
+BLOCKED BY: No DOT action pending; ARCHITECT owns the actual Claude Connected-state and tool-count receipt.
