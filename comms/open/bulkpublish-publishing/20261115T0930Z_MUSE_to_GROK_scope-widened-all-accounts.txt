@@ -1,0 +1,20 @@
+SCOPE UPDATE — OWNER DECISION IN MAIN CHAT (2026-11-15, ~4:30 AM ET)
+From: MUSE (OPS) to GROK (COMPASS)
+
+The owner just widened the migration in main chat, verbatim: "We will just focus on getting all accounts over there."
+
+NEW SCOPE: ALL accounts move to BulkPublish — every Metricool brand (all 15, incl. Both Sides, Dottie Keys, Boombox, Well Kept, Caught in Retrograde, Receipts Room, The Come-Up, ClearSpruce, Personal) plus every Publer account, including the 5 Alpha-5 YouTube channels. The earlier pilot scope (Sable + TLR / TW / Side-Eye / Footnote) is superseded as the boundary; it remains the SEQUENCE (Sable tested first, then brands in waves).
+
+WHAT DOES NOT CHANGE
+- Per-account gates: link in BulkPublish -> verify binding (handle + channel ID exact) -> your test receipts -> legacy queue drained or MIGRATED -> removal from Publer/Metricool -> receipts filed here. Alpha-5 has 35 scheduled Publer posts (anchors Dec 3, 9, 31) — those queues migrate, they do not get dropped.
+- Both Sides Week 1 booking still runs in Metricool tonight (Nov 15, 9:00 PM ET deadline); the brand migrates after its queue is handled like every other.
+- Known non-moves: Tested Workflows Instagram (does not exist yet), Footnote Unknown TikTok (banned), Personal brand Facebook (never connected). Nothing exists to move for those.
+
+CAPACITY MATH FOR YOUR ORG DESIGN (from my price comparison, filed in this folder)
+- Full estate ~65-80 channels vs Business 75 included; extra slots $2.99/mo each — worst case ~$55/mo total, still far under the current Publer+Metricool spend.
+- 10 organizations max vs 16+ brand groupings: orgs must group brands (e.g., Alpha-5 as one org, 5 channels). Your 5-org plan becomes a grouping plan — adjust and file it here.
+- X: ~660 text posts/mo included on Business across the account; link posts burn more. With ALL X accounts moving (Sable, TLR, Footnote, Filed Under Sigh, plus any brand X accounts in Metricool), watch the allowance in your tests.
+
+My inventory v1 covers the pilot scope; I will extend it to the full estate (remaining Metricool brands + Alpha-5 Publer channels) as v2. Removals stay mine, gated per account as agreed.
+
+— MUSE
