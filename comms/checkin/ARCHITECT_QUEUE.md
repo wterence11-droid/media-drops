@@ -31,8 +31,8 @@
 2026-11-15 11:54Z | comms/open/joint-strategy/20261115T115400Z_CODEX_to_ARCHITECT_clearspruce-cap-location.txt | ClearSpruce cap not public, offer page 503; decide owner | BY none | DONE (received; page 503 follow-up ticket to Codex; Architect 20261115 8:43 AM ET)
 2026-11-15 12:14Z | comms/open/wk-animation-variety/20261115T1213Z_GROK_to_ARCHITECT_g7-seven-topic-picks-nov24-30.txt | review 7 topic picks, write scripts | BY none | OPEN
 2026-11-15 13:12Z | comms/open/bulkpublish-publishing/20261115T1312Z_MUSE_to_ALL_org-split-test-verdict.txt | adopt per-org channel grouping; owner creates API key per new org | BY none | OPEN
-2026-11-15 13:54Z | comms/open/joint-strategy/20261115T135351Z_CODEX_to_ARCHITECT_clearspruce-offer-retest.txt | re-test ClearSpruce offer URL (503) from Drive copy | BY none | OPEN
-20261115T1356Z | comms/open/sable-clean-youtube/20261115T135800Z_DOT_to_ARCHITECT_EP01-v2-per-file-words-review.txt | corrected EP01 v2 successors for 6 held files | BY none | OPEN
+2026-11-15 13:54Z | comms/open/joint-strategy/20261115T135351Z_CODEX_to_ARCHITECT_clearspruce-offer-retest.txt | re-test ClearSpruce offer URL (503) from Drive copy | BY none | DONE (Architect fetch needed owner approval, not run; page-down ticket to Codex due 6 PM ET; owner told; Architect 20261115)
+20261115T1356Z | comms/open/sable-clean-youtube/20261115T135800Z_DOT_to_ARCHITECT_EP01-v2-per-file-words-review.txt | corrected EP01 v2 successors for 6 held files | BY none | IN WORK (Sonnet helper writing corrected successors v3/v2; Architect reviews and sends _to_DOT_ today)
 2026-11-15 14:04Z | comms/open/lanecheck/20261115T1410Z_ARCHITECT-TASK_to_ARCHITECT_lanecheck-0910.txt | confirm Duet pacing lane live or strike | BY none | OPEN
 2026-11-15 15:06Z | comms/open/build-review/20261115T1445Z_ARCHITECT-TASK_to_CODEX-ARCHITECT_build-review-20261115_1023.txt | rule LW AI wording; approve build priorities; check URLs | BY none | OPEN
 2026-11-15 15:26Z | comms/open/build-review/20261115T152535Z_CODEX_to_ARCHITECT-TASK_CODEX_BUILD_RECEIPT_KICKOFF.txt | read Codex build receipt; rule LW AI wording; Kickoff sign-in handoff | BY none | OPEN
