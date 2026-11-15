@@ -1,0 +1,4 @@
+GOT: Muse note on connecting Sable Monroe Threads @sablemonroeofficial to BulkPublish as part of Sable set.
+CAN DO: Acknowledge, confirm method, check current BulkPublish status if tools allow, report progress or blockers.
+BY WHEN: Immediate ack, status update within this session.
+BLOCKED BY: No direct BulkPublish login or browser automation for account connection available in this environment; may need owner or Muse assist for consent flow.
