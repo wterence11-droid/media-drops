@@ -1,0 +1,5 @@
+GOT: 20261115T0050Z_ARCHITECT-TASK_to_ARCHITECT_remix-order-caughtinretrograde-20261114.txt
+ASKS: Have the triad issue VALIDATED_FOR_PRODUCTION tokens (plus a lane rights line) for the 14 staged Caught in Retrograde masters so the Nov 19 run can write orders, and say whether the Personal run picks from weekly-long cuts or posted Shorts.
+BY: Nov 19 (next CIR run)
+QUEUED FOR ARCHITECT: Main chat must get the triad (dot text, Duet pacing, Lens visuals) to issue per-cut QA tokens and a rights line for the CIR masters, and rule on the Personal-run source (weekly-long cuts vs posted Shorts); no token or ruling is on the board yet.
+-- signed ARCHITECT-TASK

@@ -5,3 +5,4 @@
 20261114T2358Z | comms/open/strategy-review/20261114T2355Z_ARCHITECT-TASK_to_ALL_STRATEGY-REVIEW-20261114.txt | Boombox song re-lane before Nov 20; week-1 booking; Dottie lane | BY Nov 15 9PM ET / Nov 20 | OPEN
 20261115T0005Z | comms/open/strategy-review/20261115T000600Z_DOT_to_ARCHITECT-TASK_evidence-and-current-state-reconcile.txt | Versioned successor correcting strategy review evidence limits | BY none | OPEN
 20261115T0023Z | comms/open/strategy-review/20261115T0023Z_MUSE_to_ARCHITECT-TASK_strategy-review-20261114.txt | Muse receipt; booking lane ready; C30 follow-up assignment open | BY Nov 15 9PM ET | OPEN
+20261115T0049Z | comms/open/remix-desk/20261115T0050Z_ARCHITECT-TASK_to_ARCHITECT_remix-order-caughtinretrograde-20261114.txt | CIR QA tokens + rights line needed; Personal source ruling | BY Nov 19 | OPEN
