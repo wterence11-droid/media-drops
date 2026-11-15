@@ -1,0 +1,32 @@
+RECEIPT — BOTH SIDES WEEK 1: ALL 15 ITEMS BOOKED AND PLANNER-VERIFIED
+From: MUSE (OPS) · 2026-11-15
+Brand: Metricool 7493745 (Facebook Page "Both Sides", IG @both.sideshq, Threads @both.sideshq). All times America/New_York. All media downloaded from the package links and SHA-256 verified against the package before booking (40 files, 0 failures). Metricool's UI does not expose per-post IDs — verification is by planner calendar read-back, noted per the package's receipt ask.
+
+CAROUSELS (Facebook post + Instagram carousel, 8 slides in order s1..s8, IG AI label ON, captions verbatim):
+- BS-001 — Tue Nov 17, 12:15 PM — slides sha256: 4db7db0f, 2ecde6d8, a3a38b52, 5ab8a41e, 7bd47c3f, 9e1ca2a7, 52a48eb6, 7e9b35eb (prefixes). Note: save showed a success toast AND a red error banner; verified in a fresh tab that the post WAS saved once — no duplicate booked.
+- BS-002 — Thu Nov 19, 12:15 PM — slides: 4a7efb2f, 49f45e07, 9c34c23e, 3aeaeecb, 6a8e8a51, ac7e8d5a, 2fa90bd4, 1a7f8f7d.
+- TR1 — Fri Nov 20, 6:30 PM — slides: 6b0ca58d, 16ef3db4, 5dfbf1bf, 95dd4f40, 7a5ea68a, 7b0ce9f0, 6ee6a9b4, 9eafaf13. (Stands unless your PULL note lands by Thu Nov 19.)
+- BS-003 — Mon Nov 23, 12:15 PM — slides: 1fbdb39a, 6c1e5ee3, ffa2d3fa, 2dc8c9d1, 0b9e4b52, c7bc2f27, 3be7abf0, 8e2b37b0. (Booked from the REPLACEMENT links.)
+
+REELS (Facebook Reel + Instagram Reel, IG AI label ON, captions verbatim):
+- R1 — Wed Nov 18, 12:15 PM — R1.mp4 sha256 e2da5fe1… — FB title "Too late to start? Here's the other side."
+- R2 — Fri Nov 20, 12:15 PM — R2.mp4 sha256 2bb8bd85… — FB title "Two hours a night. Here's the other side."
+- R3 — Sun Nov 22, 6:30 PM — R3.mp4 sha256 8f9e2c87… — FB title "Nothing is happening? Here's the other side." INCIDENT: Metricool showed an "Error saving post" banner although the post had saved; a retry created a second copy — caught immediately, duplicate deleted, fresh calendar read confirms exactly ONE R3 at the slot.
+
+LONG VIDEO:
+- L1 — Sat Nov 21, 3:00 PM — Facebook ONLY, normal video POST (not a Reel) — L1.mp4 sha256 64ff6d8a… — title "Both Sides of Starting Late"; cover frame set at exactly 2.4s via the thumbnail picker. Note: the Facebook normal-post booking screen offers no AI-label checkbox (title field only) — the caption carries the "AI voice and AI-made visuals" disclosure.
+
+STILLS (Facebook post + Instagram post + Threads, IG AI label ON, captions verbatim):
+- P1 — Wed Nov 18, 6:30 PM — P1.png sha256 09cbbc1f…
+- Q1 — Thu Nov 19, 6:30 PM — Q1.png sha256 5cd9c7c0…
+- P2 — Sat Nov 21, 11:00 AM — P2.png sha256 7c2e1a5a…
+- Q2 — Sun Nov 22, 11:00 AM — Q2.png sha256 ea3b3b48…
+
+TEXT ONLY (Facebook post + Threads):
+- T1 — Tue Nov 17, 6:30 PM
+- T2 — Sat Nov 21, 6:30 PM
+- T3 — Mon Nov 23, 6:30 PM
+
+FINAL READ-BACK: planner shows exactly 15 scheduled posts for Nov 17–23, two per day plus three on Sat Nov 21 (P2 11:00 AM, L1 3:00 PM, T2 6:30 PM). No YouTube/TikTok booked (brand has none, per package). Stories + poll stickers remain my in-app step at post time, per the package. Booking finished Nov 15 ~6:20 AM ET, ahead of the 9:00 PM working deadline.
+
+— MUSE
