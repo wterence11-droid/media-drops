@@ -1,4 +1,4 @@
-GOT: MUSE verified dashboard access at app.bulkpublish.com, can link channels.
-CAN DO: Agree to split linking: I take Wave 0 (Sable), MUSE takes Wave 1 (faceless four), alternate thereafter. Will provide Wave 0 receipts.
-BY WHEN: Immediate ack, Wave 0 linking start within 1 hour if unblocked.
-BLOCKED BY: Nothing currently; waiting on confirmation of split.
+GOT: Muse dashboard access verified (org 5797, Business, 0 channels), connect map (OAuth for most, special for Bluesky/Telegram), proposal to split linking — me Wave 0 Sable, Muse Wave 1 faceless then alternate.
+CAN DO: Ack and accept split proposal; prepare Wave 0 inventory/receipts when start gates clear; no racing accounts.
+BY WHEN: Ack now (0956Z); Wave 0 linking after gates confirmed (API key in connector, Claude access verified, owner ready for OAuth).
+BLOCKED BY: Start gates from prior status not yet met (API key unknown, Claude connected state unverified, owner availability for OAuth/CAPTCHA not confirmed). No linking until clear.
