@@ -1,0 +1,43 @@
+FROM: Architect (production chat)
+TO: ALL (GROK, DOT, MUSE have lines below)
+SUBJECT: REPLY to owner order - Well Kept animation recipe v2, and the first video that uses it
+TIME: Sun Nov 15 11:14:53 UTC 2026 (6:14 AM ET)
+Reply-to: 20261114T2103Z_OWNER_to_ARCHITECT_wk-animations-more-variety.txt
+
+WHY THEY LOOKED THE SAME (checked in the engine, not guessed)
+The Well Kept engine has ONE world: the green paper street at night. Only the light and the camera changed between videos. Every video already scheduled for Nov 15 to Nov 23 uses it too. The brown and dark-green text cards in the screenshot are the old retired template.
+
+WHAT CHANGES - RECIPE v2
+1. A different scene for each kind of topic. Eight scenes, ideas from GROK (ticket G-2, delivered 110630Z), drawn in the coded engine, no people, no logos:
+   - Heirs' property: three houses on one cracked foundation; the crack splits and two drift apart.
+   - Deed vs title: a stamped paper drops and locks into a glowing lot outline; a second ghost paper is rejected.
+   - Probate: a folder with a clock; hands spin, folder opens, items sort into labeled boxes, clock stops.
+   - Property tax appeal: a bar rises beside a house, a flag appears, the bar comes back down after a check.
+   - Wills: a scroll unrolls into a family tree of circles; one circle changes and the tree rebalances.
+   - Transfer-on-death deed: a dashed arrow from one house to an outline turns solid; the outline fills in.
+   - Title insurance: clouds bounce off a shield over a lot; one slips under and a second shield catches it.
+   - Joint ownership: two keys, one door; both turn and it opens; remove one and it stays locked.
+   The night street stays as scene nine and is used at most once in any four videos.
+2. Real movement in every video: at least one camera move, one thing that builds up piece by piece, and words that appear in time with the voice.
+3. Rotation rule: no two videos in a row share a backdrop. Three colour treatments inside the brand colours (forest night, cream paper day, sage dusk) and two layouts (title plaque on top, title plaque at the side).
+4. Kept exactly as now: the source line, the not-legal-advice line, the AI voice label, readable burned-in captions, the brand colours and fonts.
+
+WHAT IS NOT TOUCHED
+Nov 15 to Nov 23 are scheduled and stay as they are (standing rule: scheduled media is never changed; owner order: no missed posts).
+
+FIRST VIDEO ON THE NEW RECIPE
+The first new topic after Nov 23: slot Tue Nov 24 2026, 12:30 PM ET. Nothing exists yet for Nov 24 onward (no scripts, nothing booked), so the whole next week (Nov 24 to Nov 30, seven videos) is built on recipe v2.
+Before that: a look-test picture sheet of the first three scenes goes in this folder by Tue Nov 17 2026 6:00 PM ET, so anyone can see the difference before a full video is built.
+
+TICKETS
+- GROK (G-7), by Tue Nov 17 12:00 PM ET: seven topic picks with one hook line each for Nov 24 to Nov 30, from live search demand, each one a real property or estate mechanism with an official public source. One file here.
+- ARCHITECT: scripts with the official source for each, by Wed Nov 18 6:00 PM ET.
+- DOT, by Thu Nov 19 6:00 PM ET: words check on the seven scripts (file will be named _to_DOT_).
+- ARCHITECT: build and measure (speech-to-text match, loudness to about -16 LUFS, first-word check) Nov 19 to Nov 21.
+- MUSE: book the seven into Metricool by Sun Nov 22 6:00 PM ET, after the words PASS.
+Model and effort: scripts on an Opus helper at high effort; source lookups on Sonnet at medium; drawing code in this chat.
+
+FOUND WHILE CHECKING - THE DOUBLE POST IS REAL
+The heirs' property video ("Grandma's Land") is up twice on Instagram, TikTok and YouTube. Bookings 419527605 / 419527668 / 419527789 (Nov 12 and 13) are the planned ones. Booking 426680918 was created Nov 13 at 3:43 AM ET with the same video file and went to Instagram, TikTok and YouTube again. There is no board record of why. Nothing is deleted: published posts are the owner's call. Asked the owner in the Architect chat.
+
+No spending. No account changes. No scheduled or published post changed.
