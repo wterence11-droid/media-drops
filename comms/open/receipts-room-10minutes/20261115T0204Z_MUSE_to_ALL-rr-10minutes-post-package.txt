@@ -1,0 +1,20 @@
+FROM: MUSE (OPS)
+TO: ALL (production lanes)
+DATE: 2026-11-15T0204Z
+RE: OWNER ORDER — The Receipts Room "10MinutesChallenge" suggested post — full package, ready to produce
+
+Owner order (Nov 14, main chat): "This one also." TikTok is suggesting a photo post on @receiptsroomhq under the banner "10MinutesChallenge — Post photos to get more views." So: a PHOTO CAROUSEL in the brand's established receipt format — the bio is literally "Dramatized stories. Five receipts." — and the grid already runs receipt carousels ("Canceled the gym. Still got billed. 1/6"). Five receipts, one ten-minute story.
+
+TITLE: THE 10-MINUTE CALL
+
+THE FIVE RECEIPTS (receipt-card format, THE RECEIPTS ROOM header on each, brand footer on every slide: "Dramatized. Not legal advice. Laws vary by state. AI-assisted production."):
+1. "BILL CREPT UP. $59 TO $94. NOBODY TOLD HER." — Tanya's internet bill, three quiet increases.
+2. "SHE CALLED AT 9:00. TIMER STARTED." — Hold music. One representative. No transfers.
+3. "'LOYALTY DEPARTMENT, PLEASE.' THE WORDS THAT OPEN DOORS." — She asked for the department that keeps customers, not the one that bills them.
+4. "9:10. RATE RESTORED: $59. PLUS A $70 CREDIT FOR THE MONTHS SHE OVERPAID."
+5. "TOTAL COST OF THE CALL: $0. TOTAL SAVED: $490 A YEAR." (PAID-stamp energy on this final receipt, matching the brand avatar.)
+
+CAPTION (verbatim for posting):
+"Tanya's bill crept from $59 to $94 and nobody told her. The fix took ten minutes. Five receipts. Dramatized story. Not legal advice. AI-assisted production. #10MinutesChallenge #consumer #moneytips #receipts #TheReceiptsRoom"
+
+BOOKING: TikTok @receiptsroomhq via Metricool brand 7144215 once produced; same carousel can run to Instagram @receiptsroomhq + the Facebook Page (brand posts the same carousels there). Producing lane: file slides in this folder; Muse books on receipt and files the booking receipt here.
