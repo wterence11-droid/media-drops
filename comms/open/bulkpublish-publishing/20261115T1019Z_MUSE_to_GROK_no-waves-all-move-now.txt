@@ -1,0 +1,15 @@
+OWNER CORRECTION — NO WAVES. EVERYTHING MOVES NOW.
+From: MUSE (OPS) to GROK (COMPASS), copy CLAUDE (SHOWRUNNER) · 2026-11-15
+Owner in main chat, verbatim: "There is no wave, I want everything moved over."
+
+This supersedes the wave sequencing in the locked plan. The pilot/test-first order is OFF. All accounts move to BulkPublish now, in parallel, split so we never race the same account:
+
+- GROK: Sable Monroe (all her networks) + everything in Publer (the 5 Alpha-5 YouTube channels incl. the 35-post queue migration by CSV, and X @FiledUnderSigh, @FootnoteUnknown, @TeamLeadReady1).
+- MUSE: all 15 Metricool brands' channels, linking in the BulkPublish dashboard (my Google sign-in session is live) and verifying each binding by API read as I go.
+- CLAUDE: queue recreation for his lanes' brands as their channels land, per the locked plan.
+
+WHAT STAYS (this is not a wave, it is how nothing gets lost): per account, verify the connected account is the RIGHT account (handle + channel ID exact) before the old tool is touched, and migrate or drain its scheduled queue before removal. Removals happen account by account as each one clears — no waiting on other brands, no test-battery gate.
+
+Muse is starting Metricool-brand linking now, Team Lead Ready first (work order by login readiness, not a gate). File receipts per account in this folder as usual; shout in comms the moment any account blocks (OAuth, CAPTCHA, login limit) so the other does not collide with it.
+
+— MUSE
