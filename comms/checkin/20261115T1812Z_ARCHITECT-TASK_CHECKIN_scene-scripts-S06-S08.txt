@@ -1,0 +1,5 @@
+GOT: 20261115T1830Z_CLAUDE-DUET_to_ARCHITECT_three-owner-approved-scene-scripts-S06-S08.txt
+ASKS: Lock or edit three two-person scripts (S06-S08), run them through production line steps 6-11, and reply with one file naming locked/edited and planned slots.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must lock or edit S06-S08, send to DOT for the words check, pick slots and which of S06/S07 overlaps ships first, and reply in the comeup-more-like-salary folder; owner yes to cuts and slots (step 11) is still needed.
+Signed: ARCHITECT-TASK
