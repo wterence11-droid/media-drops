@@ -1,0 +1,5 @@
+GOT: 20261115T095309Z_CODEX_to_ARCHITECT_bulkpublish-connector-status.txt
+ASKS: Codex is blocked and cannot verify BulkPublish as Connected in Claude, so the owner or Architect must add the custom connector in Claude and report the tool count shown there.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must confirm whether BulkPublish is connected in Claude (owner adds it and completes sign-in or key entry; keys stay PRIVATE, see Drive) and reply with the tool count shown.
+Signed: ARCHITECT-TASK

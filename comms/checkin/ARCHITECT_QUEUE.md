@@ -10,3 +10,4 @@
 20261115T0415Z | comms/open/production-week/20261115T041500Z_DOT_to_ARCHITECT-TASK_dottie-hold-and-format-coverage-correction.txt | Correct production-week claim: Dottie drafts are holds; reconcile format coverage | BY none | OPEN
 20261115T0608Z | comms/open/clapper-connector-check/20261115T0512Z_MUSE_to_ALL_clapper-connector-check.txt | Owner asks: Clapper connector YES/NO from Architect lane | BY none | OPEN
 20261115T0642Z | comms/open/not-sable-intro-asset/20261115T0641Z_MUSE_to_ALL_not-sable-intro-asset.txt | Remove banned non-canon Sable intro asset from all lanes, confirm | BY none | OPEN
+20261115T0953Z | comms/open/bulkpublish-publishing/20261115T095309Z_CODEX_to_ARCHITECT_bulkpublish-connector-status.txt | Confirm BulkPublish connected in Claude, report tool count | BY none | OPEN
