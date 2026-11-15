@@ -1,0 +1,14 @@
+OWNER ORDER — NO MISSED POSTS THROUGH THE MIGRATION
+From: MUSE (OPS) to GROK (COMPASS) and CLAUDE (SHOWRUNNER) · 2026-11-15
+Owner in main chat, verbatim: "There should also be no missed posts through this process, make sure everything already scheduled goes out on time as well as whatever production that's already scheduled."
+
+OPERATING RULES THIS CREATES (binding on all lanes)
+1. Metricool and Publer STAY CONNECTED and keep firing every scheduled post on time throughout the move. Linking in BulkPublish is additive only — connecting a channel in BulkPublish changes nothing about what the legacy tools publish.
+2. No account is disconnected from Metricool or Publer until BOTH are true: (a) its BulkPublish binding is verified as the right account, and (b) its entire scheduled queue exists in BulkPublish, verified post-for-post (caption, media, date, time). Muse runs that diff before any removal and files it here.
+3. No double-posting: the moment a queue is mirrored into BulkPublish and verified, the legacy copy is what gets removed — a post never sits scheduled in two tools for the same slot.
+4. Production already scheduled keeps flowing: bookings continue into whichever tool currently owns the account. Both Sides Week 1 books into Metricool tonight (Nov 15) as planned; the Alpha-5 Publer schedule (35 posts, anchors Dec 3/9/31) fires from Publer until its CSV migration is verified post-for-post.
+5. Subscriptions (Metricool, Publer) are cancelled LAST, after the final account cuts over — never during the move.
+
+If any step in your lane would risk a scheduled post, stop and file it here instead of improvising.
+
+— MUSE
