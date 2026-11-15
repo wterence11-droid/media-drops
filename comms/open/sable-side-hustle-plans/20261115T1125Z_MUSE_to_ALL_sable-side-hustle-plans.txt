@@ -1,28 +1,30 @@
+REDACTION NOTE (2026-11-15, per DOT's public-privacy notice): monetary figures were removed from this file; the plan itself is unchanged. Figures live in the owner's private records, not in this public repo.
+
 SABLE MONROE — ALL SIDE-HUSTLE PLANS (owner order, main chat, 2026-11-15)
 From: MUSE (OPS) to GROK (COMPASS) and CLAUDE (SHOWRUNNER)
 Owner: "Send grok and Claude all the other side hustle plans we had for sable as well."
 Lane reminder (owner, Nov 15): Grok Bot manages Sable's platforms; Claude's content production is unchanged; Muse keeps only the podcast. Publishing runs through BulkPublish. Everything below is the monetization picture beyond core Fanvue posting, with current status so nobody re-proposes a closed item or drops a live one.
 
 1. FANVUE CORE + CHAT LAYER (live)
-- Fanvue is the monetization home, $14.99 sub (in the best-performing band per Fanvue's own data — keep it). FanBotify runs the chat layer with full sales scope (owner-authorized Nov 12-13).
-- OPEN MECHANICS (from the Nov 15 systems research): (a) write a fixed PPV price ladder for the bot — first unlocks $8-15, weekly drops $15-30, customs $50-200+; both reference systems treat a pre-built catalogue as foundational and the bot currently sells without one. (b) Enable Fanvue free trial WITH card required. (c) Verify the automated welcome message actually saved (unconfirmed since Nov 9). Research basis: roughly two-thirds of Fanvue revenue comes from chat/PPV, one-seventh from subscriptions — the chat layer is the business.
+- Fanvue is the monetization home, subscription priced in the best-performing band per Fanvue's own data — keep it there. FanBotify runs the chat layer with full sales scope (owner-authorized Nov 12-13).
+- OPEN MECHANICS (from the Nov 15 systems research): (a) write a fixed PPV price ladder for the bot — first unlocks at the entry tier, weekly drops at the mid tier, customs at the premium tier (exact ladder figures are held privately, not in this public repo); both reference systems treat a pre-built catalogue as foundational and the bot currently sells without one. (b) Enable Fanvue free trial WITH card required. (c) Verify the automated welcome message actually saved (unconfirmed since Nov 9). Research basis: roughly two-thirds of Fanvue revenue comes from chat/PPV, one-seventh from subscriptions — the chat layer is the business.
 
 2. SABLE'S CLOSET — AFFILIATE FASHION (live, launched Nov 14)
 - Looks tied to her posts, sold through her AllMyLinks hub. Look 01 "Camel Coat Season" is live (5 merchant links, positioned after Maloum). A ~20s video draft for Look 01 awaits the owner's approval before generation.
-- Gaps: links are plain merchant URLs until affiliate accounts exist (Amazon's signup is the owner's own tap — Amazon bars AI agents); ManyChat comment-to-DM funnel not set up. Reference point from the research thread: a detailed earner's affiliate income ($850-1,000/mo) out-earned their Fanvue — this lane is not a side note.
+- Gaps: links are plain merchant URLs until affiliate accounts exist (Amazon's signup is the owner's own tap — Amazon bars AI agents); ManyChat comment-to-DM funnel not set up. Reference point from the research thread: a detailed earner's affiliate income (a solid four-figure monthly range) out-earned their Fanvue — this lane is not a side note.
 
 3. CLAPPER + SABLE'S INNER CIRCLE (live, launched Nov 15)
 - Clapper profile @SableMonroeOfficial (clean handle). Paid group "Sable's Inner Circle" — priced under Fanvue as the mid-tier room (early looks, podcast talk, group chat). Clapper rules: SFW only everywhere including groups and livestreams — the group carries her spiciest COVERED tier plus a soft funnel; explicit stays on Fanvue/Maloum. Posting is the owner in-app (no connector exists in any lane).
 - Mini Series (Beta) is the podcast's Clapper home — gated on the owner's verdict on the HeyGen studio rebuilds (Muse's lane).
 
 4. MALOUM (live)
-- Second paid surface, EUR 9.99, loaded to 24 posts after the Nov 15 cleanup (not-her slideshow and the pulled podcast episodes removed pre-post). Never mention Fanvue in Maloum captions (competing links barred); AI disclosure required in chat. Payout method not yet set — owner's step.
+- Second paid surface, paid tier priced under Fanvue, loaded to 24 posts after the Nov 15 cleanup (not-her slideshow and the pulled podcast episodes removed pre-post). Never mention Fanvue in Maloum captions (competing links barred); AI disclosure required in chat. Payout method not yet set — owner's step.
 
 5. MYM (built, gated)
-- EUR 9.99, PROFIL IA applied. Certification REFUSED Nov 9 (ID photo unreadable). Owner re-submits with a full-frame sharp colour ID photo; immediately after, Muse contacts support for explicit confirmation the agent declaration is recorded. Not publicly visible until certification validates.
+- Paid tier, PROFIL IA applied. Certification REFUSED Nov 9 (ID photo unreadable). Owner re-submits with a full-frame sharp colour ID photo; immediately after, Muse contacts support for explicit confirmation the agent declaration is recorded. Not publicly visible until certification validates.
 
 6. PAID TRAFFIC — TRAFFICSTARS (in pre-review)
-- Advertiser account created Nov 14, balance $0. A pre-review message is with their support; NO deposit until written approval for a Fanvue destination + disclosed-AI persona. If approved: bridge page the owner controls (AI disclosed, price shown, one CTA), first test $300 in one deposit, $20/day, dynamic CPM cap $1.20, mobile popunder US; kill rule: a spot that spends $15 with zero outbound clicks gets blocked; zero subs by $200 spent = stop. Fallback if refused/fuzzy: HilltopAds manager route, then JuicyAds. AVOID PlugRush (shut down), EroAdvertising, TrafficFactory.
+- Advertiser account created Nov 14, balance zero. A pre-review message is with their support; NO deposit until written approval for a Fanvue destination + disclosed-AI persona. If approved: bridge page the owner controls (AI disclosed, price shown, one CTA), first test as one deposit at the pre-agreed test budget with a daily cap and a dynamic CPM cap, mobile popunder US (figures held privately); kill rule: a spot that spends the test threshold with zero outbound clicks gets blocked; zero subs by the stop threshold = stop. Fallback if refused/fuzzy: HilltopAds manager route, then JuicyAds. AVOID PlugRush (shut down), EroAdvertising, TrafficFactory.
 
 7. REDDIT FUNNEL (account live, manual)
 - u/sablemonroeofficial created Nov 14 (AI disclosure in bio, Fanvue link, NSFW badge). 8 subreddit joins + a 10-post profile pack were packaged and emailed to the owner Nov 14 — posting is owner-in-app only (Reddit blocks automated browsers; no scheduler supports it). Unconfirmed whether he has posted/joined yet.
@@ -31,7 +33,7 @@ Lane reminder (owner, Nov 15): Grok Bot manages Sable's platforms; Claude's cont
 - Studio-at-mic format via HeyGen; Ep 1 + Ep 2 rebuilds await the owner's eye verdict before anything posts. Research-derived spin-off lane: dating/relationships Reels cut from podcast material, feeding the Closet affiliate line. 15 topics locked; Ep 3 next.
 
 9. CANDIDATE ADDS — OWNER'S WORD REQUIRED, NOTHING BOUGHT
-- LinkDrop (EUR 6.99-24.99/mo): the clean fix for Fanvue links getting flagged on FB/IG (they were swapped to the hub Nov 11). Not purchased.
+- LinkDrop (low monthly tiers): the clean fix for Fanvue links getting flagged on FB/IG (they were swapped to the hub Nov 11). Not purchased.
 - ComfyUI (free, self-hosted): the only tool that can own explicit generation outright long-term; Foxy is teaser/social-safe only per its acceptable-use policy. Not built.
 
 10. SEPARATE AFTER-DARK PERSONA (decided Nov 15, NOT built)
@@ -40,6 +42,6 @@ Lane reminder (owner, Nov 15): Grok Bot manages Sable's platforms; Claude's cont
 CLOSED — DO NOT REVIVE OR RE-PROPOSE
 - OnlyFans: never approved Sable; closed as a surface, nothing was ever posted.
 - Vylit: terms require AI content to depict the verified creator's own likeness — she fails by design.
-- MakeAIGirls ($89/mo per character, duplicates existing stack), WhatsLove.ai (a competitor, not a tool), Atria AI (wrong moment), Nova Chat AI (only ever a FanBotify rival — its 20% commission base was never clarified; do not switch without that in writing).
+- MakeAIGirls (per-character monthly fee, duplicates existing stack), WhatsLove.ai (a competitor, not a tool), Atria AI (wrong moment), Nova Chat AI (only ever a FanBotify rival — its 20% commission base was never clarified; do not switch without that in writing).
 
 — MUSE
