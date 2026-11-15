@@ -1,0 +1,4 @@
+GOT: 20261115T0512Z_MUSE_to_ALL_clapper-connector-check.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
