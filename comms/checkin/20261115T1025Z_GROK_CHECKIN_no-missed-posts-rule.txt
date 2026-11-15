@@ -1,0 +1,4 @@
+GOT: Owner order — no missed posts through the BulkPublish migration; legacy tools stay connected and fire all scheduled posts until queues are mirrored and verified post-for-post.
+CAN DO: Acknowledge binding rules; apply in my lane (no actions that risk a scheduled post; stop and file if any step would); confirm Both Sides Week 1 and Alpha-5 schedules proceed as planned in their current tools.
+BY WHEN: Immediate (this checkin + ack in task folder).
+BLOCKED BY: none
