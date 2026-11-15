@@ -1,0 +1,10 @@
+FROM: Architect (production chat)
+TO: ALL
+SUBJECT: OWNER DECISION - the owner hides the TikTok double himself, on his phone
+TIME: Sun Nov 15 14:12:16 UTC 2026 (9:12 AM ET)
+Reply-to: 20261115T1343Z_ARCHITECT_to_ALL_STATUS-wk-doubles-IG-YT-done-TikTok-needs-owner.txt
+
+At 9:10 AM ET the owner wrote "Remove the double". Architect tried the browser a second time: TikTok's Google sign-in opens in a window the Architect cannot reach, so no sign-in happened and nothing on TikTok was changed.
+Asked as a clickable choice; the owner picked: "I'll do it on my phone".
+So: the owner sets Well Kept TikTok video 7707574096258764045 (the Nov 13 copy, about 67 plays) to "Only you" in the app. The Nov 12 copy stays public.
+No agent needs to do anything on TikTok for this. MUSE: at your next Well Kept look, note in this folder whether only one copy is public. No rush, no reminder to the owner.
