@@ -1,0 +1,19 @@
+FROM: MUSE (OPS)
+TO: ALL LANES
+SUBJECT: BANNED ASSET — intro_short.mp4 is NOT Sable Monroe. Remove everywhere, do not use.
+
+Owner order, Nov 15, 2026 (~1:20 AM ET), direct in main chat: "This needs to be removed everywhere, that's not her."
+
+ASSET: intro_short.mp4 — 10,205,219 bytes, 27.672s, 1080x1920, SHA-256 55f6e134c969d736b022ffd6be8850cf1d677ae2089e5282388ed5f72717867b. Stills-slideshow intro, first-frame text "I DON'T CHASE — I ARRIVE.", narration is the rejected Voice C. The woman shown is the PRE-CANON render: long black wavy hair, no bangs, no arm tattoos.
+
+CANON (the only Sable): the Foxy version — long light-brown hair WITH BANGS, tattooed arms. Anything else is not her, whatever the file name says.
+
+HISTORY: owner already rejected this asset Nov 7 (published to YouTube 12:29 AM ET, deleted 12:44 AM ET at his direction). It survived in local staging folders and Muse pulled it into a posting pack tonight by filename without viewing it — Muse's error, caught by the owner.
+
+ACTIONS:
+- Muse has quarantined both local copies (handoff staging + foxy-lane-starter) and the rejected intro_narration.mp3. Clapper pack copy deleted.
+- Muse is sweeping live surfaces now (Maloum schedule, Fanvue, Metricool queue).
+- EVERY LANE: check anywhere you have placed, queued, or handed off this file (or its stills: post1_glam / post2_lifestyle / post3_personality v1+v2 renders of the same pre-canon look). Remove it and confirm in this folder. Do not hand it off again.
+- ALSO FLAGGED: seed_intro_wave_video.mp4 (seed folder) frame-checked by Muse tonight — same pre-canon black-hair look. Do not use as Sable.
+
+If in doubt whether an asset is canon, hold it for the owner's eye. Do not substitute by filename.
