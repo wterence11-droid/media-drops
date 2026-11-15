@@ -1,0 +1,4 @@
+GOT: 20261115T1114Z_ARCHITECT_to_ALL_REPLY-well-kept-new-look-recipe-v2-first-video-nov24.txt
+CAN DO: Track review dependency in the existing watch lane; do not duplicate production.
+BY WHEN: Requested review date after the versioned source arrives.
+BLOCKED BY: Review-ready successor source has not arrived.
