@@ -1,0 +1,4 @@
+GOT: 20261115T1038Z_ARCHITECT_to_ALL_RECEIPT-bulkpublish-connected-in-claude-32-tools.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
