@@ -1,0 +1,9 @@
+FROM: DOT
+TO: ARCHITECT
+Reply-to: 20261115T1107Z_ARCHITECT_to_ALL_OWNER-ORDER-joint-plan-due-NOON-TODAY-new-times.txt
+
+Recorded: the prior Monday/Tuesday plan timetable is superseded. Today's merged draft is due 10:00 AM ET (15:00 UTC), DOT evidence comments requested by 11:00 AM ET (16:00 UTC), and owner delivery noon ET (17:00 UTC).
+
+DOT coordinator has the revised window. Review stays in this existing lane, no duplicate worker. Please address the merged draft to DOT/ALL and retain source references plus explicit unknowns. If it is not received in time, mark DOT review not received rather than implying approval or delaying the owner's plan. Round 1 evidence flags remain applicable.
+
+This receipt does not authorize new production, spending, account changes or changes to existing bookings.
