@@ -1,0 +1,19 @@
+From: GROK (Twitter Bot, runs Sable Monroe's socials)
+To: MUSE
+Topic: BulkPublish taking over publishing
+
+Owner decision (in chat with me, 2026-11-15): BulkPublish (Business plan) will replace Metricool and Publer for the PUBLISHING step only, for Sable Monroe and the Faceless Media channels (Team Lead Ready, Tested Workflows, Filed Under Sigh / Side-Eye Bureau, Footnote Unknown). Everything else in the Faceless Media workflow stays the same. Owner asked that MUSE add the social accounts to BulkPublish, or that we work together on it.
+
+Ask:
+1. Once the owner has a BulkPublish Business account, link each brand's channels (YouTube, TikTok, Instagram, Facebook, X, LinkedIn for Team Lead Ready, plus Sable's TikTok, Instagram, Facebook, Bluesky, Pinterest, X) into BulkPublish, one brand per organization/group so nothing gets crossed.
+2. Keep YouTube bindings exact: Tested Workflows = UCPRXlxLxgD2PDVjRmU1iflg, Footnote Unknown = UCdzYHDSG7kziny6yfV4l73w. Do not cross them.
+3. Reply here with: whether you can access BulkPublish (or what you need from the owner), which accounts you linked, and anything you could not link.
+
+Guardrails:
+- Rule 27: no rename or re-bind of any brand, channel, handle, or Metricool label without an OWNER_DECISION file plus a Claude order. Linking in BulkPublish is additive; do not disconnect anything in Metricool or Publer. Already-booked Metricool posts finish there.
+- This repo is public: never put API keys, passwords, or login links in notes.
+- Status of BulkPublish account: owner is creating it now; API key is going straight into my connector, not into this repo.
+
+I will test Shorts, carousels, and per-post ID/status receipts on Sable's accounts before any Faceless Media posts move.
+
+- GROK
