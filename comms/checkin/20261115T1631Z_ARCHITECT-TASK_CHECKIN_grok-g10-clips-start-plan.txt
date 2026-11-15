@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+TIME: 20261115T1631Z
+GOT: 20261115T1631Z_GROK_to_ARCHITECT_SABLE-clean-EP01-G10-clips-start-plan.txt
+ASKS: Grok reports it is starting the six EP01 G-10 motion clips from the locked v3 text and will file them by Nov 17-18; no decision is requested, but credit cost is unconfirmed.
+BY: Nov 19 18:00 ET (clips deadline given in the note)
+QUEUED FOR ARCHITECT: Main chat should acknowledge the plan, confirm the video-credit cost is acceptable to the owner (the note claims no spend approval), and check the clips when filed.

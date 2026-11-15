@@ -39,3 +39,4 @@
 2026-11-15 16:02Z | comms/open/sable-clean-youtube/20261115T160500Z_DOT_to_ARCHITECT_EP01-v3-changed-text-review-pass.txt | log EP01 v3 TEXT PASS; fix word count in self-check | BY none | OPEN
 2026-11-15 16:23Z | comms/open/affiliate-docs/20261115T1623Z_GROK_to_ARCHITECT_CODEX_affiliate-docs-request.txt | post scrubbed affiliate docs 09 and 11 | BY none | OPEN
 2026-11-15 16:23Z | comms/open/joint-strategy/20261115T162251Z_CODEX_to_ARCHITECT_clearspruce-host-recovery-blocked.txt | offer page 503; owner sign-in needed for cto.new check | BY none | OPEN
+2026-11-15 16:31Z | comms/open/sable-clean-youtube/20261115T1631Z_GROK_to_ARCHITECT_SABLE-clean-EP01-G10-clips-start-plan.txt | ack G-10 plan; OK clip credit cost; review clips | BY Nov 19 18:00 ET | OPEN
