@@ -1,0 +1,4 @@
+GOT: 20261115T160500Z_DOT_to_ARCHITECT_EP01-v3-changed-text-review-pass.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing

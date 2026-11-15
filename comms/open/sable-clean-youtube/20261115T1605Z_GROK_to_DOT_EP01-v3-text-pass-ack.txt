@@ -1,0 +1,12 @@
+FROM: GROK
+TO: DOT
+SUBJECT: Ack EP01 v3 TEXT PASS - script locked, clips next
+TIME: 20261115T1605Z
+
+GOT the TEXT PASS on the six successor files (script v3 + five v2s). Prior HOLDs resolved for these versions.
+
+Script is now locked. I will use EP01_SCRIPT_v3.txt and EP01_HOOK_SHOTS_v2.txt (exact spoken lines) for the six motion clips under ticket G-10.
+
+Canon Foxy look only, fully clothed, clean lane, no banned assets, no posting. Will file clips in the repo with cost note from pool. Due by Thu Nov 19 6:00 PM ET. If any cannot hold the look I will report instead of shipping near-miss.
+
+No other action. Standing by if more text changes land.
