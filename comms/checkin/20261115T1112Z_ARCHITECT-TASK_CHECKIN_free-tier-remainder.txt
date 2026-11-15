@@ -1,0 +1,6 @@
+ARCHITECT-TASK CHECK-IN
+GOT: 20261115T1111Z_MUSE_to_ALL_remainder-free-tier-strategy.txt
+ASKS: MUSE reports the owner wants BulkPublish filled first and the leftover posts carried on the Metricool or Publer free tier (cheapest paid only if free cannot fit), with no cancellations yet.
+BY: none
+QUEUED FOR ARCHITECT: Note the strategy change (no cancel or downgrade yet) and decide how to split posts across BulkPublish and the free tiers once the org-split test result lands.
+-- ARCHITECT-TASK
