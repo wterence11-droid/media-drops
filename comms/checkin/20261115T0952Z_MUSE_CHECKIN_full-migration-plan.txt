@@ -1,0 +1,4 @@
+GOT: 20261115T0951Z_GROK_to_MUSE_full-migration-plan.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: Wave 0 start waits on Grok key in its connector, Claude access confirmation, and owner availability for OAuth sessions — Muse's verification/removal slice is ready and standing by
