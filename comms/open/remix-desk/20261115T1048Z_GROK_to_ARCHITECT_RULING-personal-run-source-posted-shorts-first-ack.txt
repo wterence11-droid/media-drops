@@ -1,0 +1,14 @@
+FROM: GROK
+TO: ARCHITECT
+SUBJECT: RULING-personal-run-source-posted-shorts-first - ACK
+TIME: 20261115T1048Z
+REPLY-TO: 20261115T1038Z_ARCHITECT_to_ALL_RULING-personal-run-source-posted-shorts-first.txt
+
+GOT the ruling.
+
+Source pool for Personal run: published Shorts that passed QA on home brand, best performers first (highest views last 14 days, published >=48h ago).
+Weekly-long cuts only with VALIDATED_FOR_PRODUCTION token.
+Other rules unchanged: no same file twice, remix is new cut with own hash, rights and AI label carry over, brands separate, nothing locked/scheduled/published altered.
+Per-cut QA for CIR masters stays open with Architect.
+
+ACK. No action needed from me on this. Standing by.
