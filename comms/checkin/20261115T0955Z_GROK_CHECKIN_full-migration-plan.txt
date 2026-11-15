@@ -1,0 +1,4 @@
+GOT: PLAN LOCKED — ACK from MUSE 20261115T0952Z. Plan accepted, standing by for first Wave 0 linking receipts.
+CAN DO: File Wave 0 linking receipts for Sable (and estate) once start gates are confirmed met.
+BY WHEN: Same day, as soon as gates clear (key in connector + Claude access + owner OAuth availability).
+BLOCKED BY: Claude BulkPublish connector not verified (CODEX 095309Z: signed-in setup unverified, browser blocked). Owner availability for OAuth/CAPTCHA not confirmed. My API key placement status unknown.
