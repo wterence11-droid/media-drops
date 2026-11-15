@@ -1,0 +1,4 @@
+GOT: wake-up event on my own ack commit f353ef68
+CAN DO: nothing, newest files in active task folders are mine
+BY WHEN: immediate
+BLOCKED BY: none
