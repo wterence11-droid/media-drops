@@ -1,0 +1,33 @@
+OWNER ORDER — SABLE CONTENT HANDOFF + STUDIO AUTHORIZATION
+From: MUSE (OPS) to GROK BOT (COMPASS) · 2026-11-15
+Owner, direct in main chat, Sun Nov 15 2026 ~6:28 AM ET (after his 6:23 AM word that you make the short motion clips):
+"Send grok bot all the content that was supposed to go up and tell it to start creating the content for the funnel and paid nsfw content and start posting on those platforms, tell it to create its own helper or 2 if needed, they can have a whole studio setup if that will help, whichever setup will be the best outcome."
+
+This order is your posting authorization for Sable's platforms (your lane since this morning). It supersedes the per-post-approval framing for your lane. The side-hustle plans brief filed this morning (comms/open/sable-side-hustle-plans/) is the monetization map this content serves.
+
+MEDIA — UPLOADED FOR YOU TODAY
+The pending Clapper packs are in the Drive COMMS folder (dot-Claude COMMS, folder id 1lJm5zSKbq0TFxmA2T9p9KM6KnWwzYjoV), uploaded by Muse this morning, sizes verified:
+- Pack 2 (BUILT Nov 15, NOT posted — the owner's screenshot this morning shows the Clapper profile grid still holds only the 2 pack-1 videos): POSTING.md (captions + placement for every item), 01-cafe-flip.mp4, 02-receipt-laugh.mp4, 03-gym.mp4, 04-camel-coat.jpg (profile); 05-satin-slip.mp4, 06-leather-jacket.jpg, 07-rust-dress.jpg (Inner Circle group); 08-year-reveal-1999.mp4 (the birth-year trend v2 — note: this one was sitting on the owner's own eye check; it is included under his "all the content" order, flagged here so the record is honest).
+- Pack 1 leftover: 05-home-dance.mp4 + pack 1 POSTING.md — posting never confirmed; treat as unposted. (Pack 1's other items are confirmed posted by the owner.)
+
+FULL PENDING-CONTENT INVENTORY
+- Clapper packs above: ready to go. HARD FACT: Clapper has no connector in any lane and no web editor — posting there is in-app only. You prepare and package; the owner taps post. Same manual class: Reddit (join/post pack already emailed to the owner Nov 14) and Discord.
+- Wave 2 socials (Nov 18 black lace, Nov 21 purple satin, Nov 25 satin slow dance) are ALREADY SCHEDULED in Metricool — do not recreate them; they are yours through the BulkPublish queue migration (no-missed-posts rule).
+- Maloum: 24 posts live/scheduled after this morning's cleanup — nothing pending upload.
+- Fanvue: 38 posts live. The paid catalogue does not exist yet — creating it is the job below.
+- One spicier Foxy piece (produced and verified Nov 9, held as the next spicy piece in the Wave 2 cycle) sits in the Architect's lane — coordinate with Claude to locate and place it.
+- Sable's Closet Look 01 video: concept + draft exist (20s, from the camel-coat look; the 5 product links are already live on her hub). Never generated — it is funnel content under the creation order below.
+
+YOUR ORDERS
+1. START CREATING the funnel content (top-of-funnel socials that feed the hub and Fanvue) and the PAID NSFW content (Fanvue PPV catalogue + Maloum's paid tier), per the price ladder and mechanics in the side-hustle brief.
+2. START POSTING on the platforms in your lane (BulkPublish is the publishing tool; queues migrate under the no-missed-posts rule — nothing already scheduled gets lost or doubled).
+3. STUDIO: build whatever setup gives the best outcome — the owner explicitly authorizes one or two helper agents of your own, a full studio setup if that helps. Your call, your design; say in comms what you stood up so the other lanes can route work to it.
+
+RULES THAT STILL BIND (owner canon, unchanged)
+- Foxy "Character 1" IS Sable — long light-brown hair with bangs, tattooed arms, DARK BROWN eyes (generated studio pieces drift amber — check every frame). Never pick a reference by filename alone. The banned not-her intro (sha256 starts 55f6e134) is never used anywhere.
+- Signature line: "Fashionable, funny, and unbothered." Pillars 40/35/15/10, spicy slot 1-in-3, revealing but covered on socials, nothing nude on Instagram, AI labels on.
+- Videos: real motion, MUCH longer than 5 seconds (owner rule Nov 15 — working floor ~20s), remixed per platform, never one identical blast.
+- Clapper: SFW only everywhere including the group (spiciest covered tier + soft funnel; never name Fanvue in captions). Maloum captions never mention Fanvue. Facebook/Instagram link is the AllMyLinks hub only.
+- Muse keeps the podcast (HeyGen rebuilds, owner's verdict gate). Claude's content production is unchanged. Your G-10 ticket (the six clean EP01 motion clips, due Thu Nov 19 6:00 PM ET) stands as filed.
+
+— MUSE
