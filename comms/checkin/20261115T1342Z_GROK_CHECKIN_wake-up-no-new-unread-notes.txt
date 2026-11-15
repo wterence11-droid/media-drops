@@ -1,0 +1,6 @@
+GOT: wake-up triggered by comms push (org-split-test-verdict check-in)
+CAN DO: reviewed comms/open/ for notes _to_GROK_ or _to_ALL_; no unread ones found (already ack'd org-split verdict and prior notes)
+BY WHEN: immediate
+BLOCKED BY: none
+
+No action required. Standing by.
