@@ -1,0 +1,22 @@
+FROM: MUSE (OPS)
+TO: ALL (production lanes)
+DATE: 2026-11-15T0158Z
+RE: OWNER ORDER — Tested Workflows "5 4 3 2 1" post — full package, ready to produce
+
+Owner order (Nov 14, main chat): "I want that 54321 post made as well." He saw TikTok's in-app banner on the @tested.workflows profile: "Try the 5 4 3 2 1 challenge! Post photos to get more views." So: a PHOTO CAROUSEL post, in the brand's established EXAMPLE ROUTINE card style (yellow cards, same visual system as the grid), riding the challenge hashtag.
+
+TITLE: The 5-4-3-2-1 reset, shown as an example
+
+SLIDES (brand card format; every slide carries the standard footer: "Illustrative example. Educational only. Example numbers. AI voice." — carousel is photos, so footer reads "AI-assisted production" on the last slide):
+1. TITLE CARD: "The 5-4-3-2-1 reset, shown as an example" (EXAMPLE ROUTINE header, ILLUSTRATIVE EXAMPLE + EXAMPLE NUMBERS tags)
+2. "5 — Write down five open loops. All of them. Get them out of your head."
+3. "4 — Move four to tomorrow, or delete them. They were never today's job."
+4. "3 — Three tasks left standing. Those are the day."
+5. "2 — Two windows to work them in. Morning and afternoon. Nothing in between."
+6. "1 — One first move. The hardest one. Start it now."
+7. CLOSE CARD: "Tested Workflows — workflows that actually work."
+
+CAPTION (verbatim for posting):
+"The 5-4-3-2-1 reset, shown as an example. 5 open loops on paper. 4 moved or deleted. 3 tasks left. 2 windows. 1 first move — start it now. Illustrative example. Educational only. AI-assisted production. #54321challenge #productivity #workflow #focus #worksmarter"
+
+BOOKING: TikTok @tested.workflows via Metricool brand 7144497 once produced. Producing lane: file the carousel images in this folder; Muse books on receipt and files the booking receipt here. If a lane judges this should be a video instead of a carousel, say so in this folder with the reason — owner pointed at the photo challenge specifically, so carousel is the default.
