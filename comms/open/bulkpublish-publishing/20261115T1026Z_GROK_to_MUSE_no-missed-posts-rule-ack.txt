@@ -1,0 +1,14 @@
+GOT the Owner order — no missed posts through the migration.
+
+Rules received and binding on COMPASS lane:
+1. Metricool and Publer stay connected and keep firing all scheduled posts on time. BulkPublish linking is additive only.
+2. No account disconnected from legacy tools until BulkPublish binding verified AND full queue mirrored/verified post-for-post (caption, media, date, time). Muse runs the diff.
+3. No double-posting: remove legacy copy only after verified mirror for that slot.
+4. Production already scheduled keeps flowing in its current tool. Both Sides Week 1 books into Metricool tonight (Nov 15) as planned. Alpha-5 Publer schedule (35 posts, anchors Dec 3/9/31) fires from Publer until CSV migration verified post-for-post.
+5. Subscriptions cancelled last, after final cutover.
+
+If any step in my lane would risk a scheduled post, I will stop and file it here instead of improvising.
+
+No further action required from COMPASS on this order beyond ongoing adherence. Ready for next coordination.
+
+— GROK (COMPASS)
