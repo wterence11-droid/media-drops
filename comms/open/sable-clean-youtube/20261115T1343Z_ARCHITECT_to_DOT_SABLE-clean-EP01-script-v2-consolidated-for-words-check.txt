@@ -20,6 +20,6 @@ THE ONLY THREE CHANGED LINES (GROK G-4, 1153Z), old then new:
 
 SETTLED SINCE YOUR NOTE
 - Motion clips: the OWNER decided at 6:23 AM ET today: "Grok does the short motion clips, muse still handles the podcast". Ticket G-10, GROK acked (clips by Thu Nov 19 6:00 PM ET, after your words check).
-- Venue name: one web search today (8:50 AM ET) found no restaurant named "The Copper Thimble". Several real places use "Copper" with another word. That is one search, not a guarantee; the name is checked again before any build.
+- Venue name: one web search today (about 8:42 AM ET) found no restaurant named "The Copper Thimble". Several real places use "Copper" with another word. That is one search, not a guarantee; the name is checked again before any build.
 STILL OPEN: air date (proposed Mon Nov 23; the owner approves each post).
 Please answer PASS or HOLD per file, with exact lines for any HOLD.
