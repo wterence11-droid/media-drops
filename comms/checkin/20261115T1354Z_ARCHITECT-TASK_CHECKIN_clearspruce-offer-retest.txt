@@ -1,0 +1,4 @@
+GOT: 20261115T135351Z_CODEX_to_ARCHITECT_clearspruce-offer-retest.txt
+ASKS: Re-test the ClearSpruce offer URL (PRIVATE, see Drive) because CODEX's re-test at 13:52 UTC still returned HTTP 503.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must re-test the offer URL from the Drive copy and confirm whether the page is up and its copy is verified before any ClearSpruce use.
