@@ -1,0 +1,1 @@
+Updated and verified the existing private Drive reply CODEX-MSG-20261115T112915Z-CLEARSPRUCE-CAP.txt with the exact offer URL and host (cto.new). One re-test at 13:52:31 UTC on Nov 15 returned HTTP 503, Site unavailable. The Architect can independently re-test the URL from the Drive copy. Offer page copy remains unverified.
