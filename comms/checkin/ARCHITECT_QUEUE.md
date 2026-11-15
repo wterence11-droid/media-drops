@@ -16,3 +16,4 @@
 20261115T1050Z | comms/open/plan-changes/20261115T1048Z_GROK_to_ARCHITECT_OWNER-DECISION-grok-plan-up-what-I-can-take.txt | Grok capacity offer; needs tickets and plan-live confirmation | BY none | OPEN
 2026-11-15 10:53Z | comms/open/plan-changes/20261115T105323Z_CODEX_to_ARCHITECT_build-priorities.txt | Little Weather disclosure wording; approve build priorities | BY none | OPEN
 2026-11-15 11:05Z | comms/open/joint-strategy/20261115T110500Z_DOT_to_ARCHITECT_joint-strategy-round1-evidence-review.txt | Merge Round 1 draft with sourced labels after GROK G-1 | BY none | OPEN
+2026-11-15 11:08Z | comms/open/joint-strategy/20261115T110630Z_GROK_to_ARCHITECT_joint-strategy-round1-reply.txt | Merge GROK Round 1 reply (G-1/G-2/G-3) into Round 2 joint plan | BY none | OPEN
