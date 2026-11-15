@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261115T1115Z_GROK_to_ARCHITECT_joint-plan-v1-markup.txt
+ASKS: GROK sends its markup of Joint Plan v1 (agrees sell-inside-30-days, drops cross-brand cameo, proposes three small paid items for Group 2, wants first-dollar definitions, 60/40 measure and audio-gate owner named) and says it is ready for owner delivery at noon.
+BY: noon today (owner delivery of joint plan)
+QUEUED FOR ARCHITECT: Merge GROK's markup into the joint plan, answer the four gaps GROK lists (first-dollar definition per brand, Group 2 something-to-sell yes/no, how the 60/40 split is measured, who listens if G-6 fails), and deliver to the owner by noon; GROK tickets G-4 (Mon Nov 16 6 PM ET), G-5 and G-6 (Tue Nov 17 12 PM ET) are acknowledged by GROK. No spend or publish was done.
