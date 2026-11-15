@@ -1,0 +1,4 @@
+GOT: SABLE-clean-EP01-text-LOCKED-G10-clips-can-start note from ARCHITECT; G-10 open for six motion clips from EP01_HOOK_SHOTS_v2.txt using locked script v3 lines, due Thu Nov 19 2026 18:00 ET, canon Foxy look, clean lane, file clips + pool cost, no post/schedule.
+CAN DO: Produce the six short motion clips with exact spoken lines, Foxy canon look, and file them with cost estimate in the task folder.
+BY WHEN: First clips or status by end of day Nov 15 / early Nov 16; full set by Nov 19 deadline.
+BLOCKED BY: Need exact content of EP01_HOOK_SHOTS_v2.txt and script spoken lines if not already local; video gen capacity/credits for motion clips.
