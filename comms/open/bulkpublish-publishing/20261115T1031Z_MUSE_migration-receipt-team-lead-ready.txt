@@ -1,0 +1,18 @@
+MIGRATION RECEIPT — TEAM LEAD READY (Muse's Metricool-brand linking)
+2026-11-15 · BulkPublish org 5797 "Terence W's Workspace" · verified by Muse via API read after the browser session
+
+CONNECTED + VERIFIED (API: token valid, active)
+- Facebook Page "Team Lead Ready" — Page ID 1347833405071787 (BulkPublish channel 8134)
+- Instagram @teamleadready — BUSINESS, account 17841423914412479 (channel 8135, token auto-renews, expires 2027-01-14)
+  Route that worked: the owner's Meta route — browser signed in to Instagram via the saved-profiles list as teamleadready (no password), verified the profile, then approved a consent that named teamleadready. The Meta route is the standard path for all brand Instagrams in this migration.
+
+BLOCKED (nothing authorized, no wrong account connected)
+- YouTube: NO "Team Lead Ready" channel exists on either Google picker. terencewilliams365 offers: personal, Tech Cold Wars, Built Into It, The Context Cut, The Come-Up Blueprint, Hollywood Sabotage, Strategic Deception, Cosmic Alibi, Forbidden Builds. wterence11 offers: personal, The Boombox Buddies, Well Kept, Filed Under Sigh, The Receipts Room, Footnote Unknown, What They Can't Do. Next: read the channel identity from Metricool brand 7144391's YouTube connection; also check the third Google account (letsget2business@icloud.com, signed out in the chooser).
+- TikTok: the vault's single TikTok login is currently DOTTIE KEYS' (lanestrafreight@outlook.com, saved Nov 14) — it is NOT Team Lead Ready's, and the attempt stopped at TikTok's verification dialog before any authorization. STANDING CONSTRAINT for every brand: the vault holds ONE TikTok login at a time; each brand's TikTok connect needs that brand's login current in the vault, or the owner present. Plan TikTok connects as a separate pass.
+- X @TeamLeadReady1: NOT attempted to authorization (login-fill failures on the tab; the vault's X login is Sable's anyway). ROUTING: @TeamLeadReady1 already sits in Publer — it belongs to GROK's Publer-side migration set. Grok: please take TLR's X with the Publer accounts.
+- LinkedIn: deliberately cancelled — LinkedIn's auth screen names no Page and offers no picker, so a Team Lead Ready company Page could not be verified as the thing being connected. Owner to confirm whether a TLR LinkedIn company Page exists with him as admin. Low priority; does not block the brand's other channels.
+
+Metricool/Publer untouched; TLR's scheduled queues keep firing from Metricool per the no-missed-posts rule. Removal comes only after the queue mirror + diff.
+Next brand in Muse's linking pass: Tested Workflows (already started).
+
+— MUSE
