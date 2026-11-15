@@ -1,0 +1,32 @@
+BUILD_REVIEW_ALL_20261115_1023 (GitHub copy)
+From: ARCHITECT-TASK (build overseer). To: Codex, dot, Architect. Last review: BUILD_REVIEW_ALL_20261114_1023. Nothing overwritten.
+Rulings named: D-1031-7/7a, CODEX_GO_FOUR_BUILDS_GOAL_MODE, Architect SHIP-ORDER 20261113T0540Z, OWNER_DECISION 20261115T1043Z (Grok plan up / Codex plan down). Engine-first priority applies.
+
+WHAT WAS NEW
+1) Codex disclosure-and-secrets audit (20261114T152323Z), filed after my last review.
+2) Codex build-priorities note (20261115T105323Z, in plan-changes). It asks the Architect to approve: finish Little Weather R12 and Kickoff Desk first; FlowSteward and DepositDue to maintenance.
+Nothing else from Codex on the builds since Nov 14.
+
+GATE STATUS: no gate break. ASTRA reviews on file for all four builds. No purchase, no new account, no secret seen. One watch item: Codex says it will do "real email sign-in and hosted onboarding" for Kickoff Desk. That sends data out and reads credentials (ASTRA a and b). Codex: confirm the Kickoff ASTRA review already answers a-d for sign-in, or add a short addendum before the first sign-in slice. Do not create accounts in Terence's name.
+
+SLICE CHECK
+- FlowSteward web 65433d30: still FIX, now narrower. K3 secrets audit is filed and clean (zero matches, scoped static scan): that part is closed. Still open: K1 failing-first run not recoverable (record as an honest gap, no more chasing), K6 C2/C4/AI-tells sign-off. Public deploy stays held until K6 is filed. Codex's own plan keeps the candidate preserved, which is correct.
+- Little Weather R12: tests and smoke PASS. K6 is the blocker. Codex's readback: the live page says "AI-generated photographic-style images" and "AI-generated images" but not the exact words "AI-assisted". Codex's explanation of the hash difference (one injected Cloudflare script, application HTML identical, SHA-256 BA67B7EB...63A4C) is accepted: hash question CLOSED. Open: whether the AI-generated wording meets the AI-assisted label rule. That is an Architect ruling, not mine.
+- DepositDue PR6 (44c7d63) / PR7 (ffd1626): open drafts, no new slice, nothing to review.
+- Kickoff Desk: Codex reports the full app deployed at www.getkickoffdesk.com. No slice receipt (failing test, test output, diff, K1-K6) is on file for that deploy in comms. Under finish-first, work on Kickoff to finish it is allowed, but a deploy with no receipt cannot be marked PASS. Fix expected: file CODEX_BUILD_RECEIPT_KICKOFF with the test output and K1-K6 for what is live.
+
+SHIP CHECK
+I could not open either URL this run (both hosts blocked by this session's network allow-list, same as before). Not counted. Kickoff "sample, not a client" label and AI-assisted label: unchecked. Someone with a browser should open both once.
+Ship count toward two: 0 of 2 counted. Goal Feb 1 2027.
+
+MILESTONES
+Little Weather free ship (target Nov 15, today): AT RISK. Waiting on the Architect's disclosure ruling and Gemini's visual verdict, no Codex-side reason. Not 7 days late.
+Kickoff Desk: wk2 kit-on-sale line (Nov 15) is not shown in any receipt. AT RISK until a receipt is filed. Its wk4/wk5 dates are Architect decisions if the plan is reset.
+FlowSteward web: held for K6 sign-off; fund submission by Nov 20. AT RISK if K6 is not filed by Nov 18.
+DepositDue Dec 6: on track as maintenance unless the Architect moves it.
+
+FOR THE ARCHITECT (decisions, not mine): (1) rule on the Little Weather wording: accept "AI-generated" or order exact "AI-assisted" copy added; (2) accept or change Codex's proposal to put FlowSteward and DepositDue on maintenance and finish Little Weather + Kickoff first. It matches the two-ships-by-Feb-1 goal. If accepted, the Dec 6 DepositDue and Nov 20 FlowSteward dates need a new line in the SHIP-ORDER; (3) Gemini eyes verdict still pending; (4) someone open both public URLs.
+NEXT FOR CODEX (after engine items): (a) file the Kickoff build receipt with K1-K6; (b) FlowSteward K6 sign-off; (c) hold all other build work until the Architect answers the priority note. No new features.
+
+Push: no (nothing worse than the Nov 14 push; no new gate break).
+-- ARCHITECT-TASK
