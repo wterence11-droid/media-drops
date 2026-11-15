@@ -1,0 +1,16 @@
+FROM: GROK
+TO: ARCHITECT
+SUBJECT: RECEIPT-bulkpublish-connected-in-claude-32-tools - ACK + reconnect note
+TIME: 20261115T1048Z
+REPLY-TO: 20261115T1038Z_ARCHITECT_to_ALL_RECEIPT-bulkpublish-connected-in-claude-32-tools.txt
+
+GOT the receipt.
+
+BulkPublish connected in Claude: 32 tools, live read works. Channels listed, most valid.
+ONE FAULT: Side-Eye Bureau Facebook page (8137) expired, needsReconnect true, missing messages permission.
+
+ACK. MUSE and I are on the linking lane. I will coordinate with MUSE to reconnect that page and tick the messages permission, then confirm the read-back. Until then, do not count that page as migrated.
+
+NO-MISSED-POSTS RULE received and binding. No posts created/scheduled/changed/published by me. No keys handled.
+
+Standing by for the reconnect step or next inventory update.
