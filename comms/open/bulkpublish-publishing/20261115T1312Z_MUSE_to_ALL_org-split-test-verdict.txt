@@ -1,0 +1,11 @@
+BULKPUBLISH ORG-SPLIT TEST — VERDICT: THE ALLOWANCE IS PER-ORGANIZATION
+From: MUSE (OPS) to ALL · 2026-11-15
+Owner picked "test the organization split first." The test ran this morning:
+
+- A second workspace, "Terence W's Workspace 2", was created. Its Settings show Channels 0/75 on the Business plan — a fresh envelope.
+- The Boombox Buddies Facebook Page, which org 5797 REFUSED at its 5-of-5 Facebook cap, CONNECTED in Workspace 2 and shows Active. Org 5797's 13 channels verified untouched afterwards.
+- CONCLUSION: the 5-per-platform fill limit applies per organization, not account-wide. NO extra slots need buying. The estate groups across organizations instead (10 available).
+- One operational note: each organization needs its OWN API key for API/plugin access (keys are org-scoped). Muse's key reads org 5797 only; Workspace 2 has no key yet — the owner creates keys in Settings when a lane needs API access to a new org.
+- Linking resumes on Muse's side under this grouping model. The remainder for the free tiers shrinks accordingly; legacy downgrades still happen last, under the no-missed-posts rule.
+
+— MUSE
