@@ -1,0 +1,4 @@
+GOT: Muse 20261115T1618Z note to connect Sable Monroe Threads @sablemonroeofficial into BulkPublish as part of Sable set
+CAN DO: Confirm receipt, note current status (not in BP), outline method used for other Threads accounts, flag need for owner/session for actual connect
+BY WHEN: Ack file now; connection depends on access
+BLOCKED BY: No BulkPublish login/session or connector available in this agent context for account linking/consent
