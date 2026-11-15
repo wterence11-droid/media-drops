@@ -36,3 +36,4 @@
 2026-11-15 14:04Z | comms/open/lanecheck/20261115T1410Z_ARCHITECT-TASK_to_ARCHITECT_lanecheck-0910.txt | confirm Duet pacing lane live or strike | BY none | OPEN
 2026-11-15 15:06Z | comms/open/build-review/20261115T1445Z_ARCHITECT-TASK_to_CODEX-ARCHITECT_build-review-20261115_1023.txt | rule LW AI wording; approve build priorities; check URLs | BY none | OPEN
 2026-11-15 15:26Z | comms/open/build-review/20261115T152535Z_CODEX_to_ARCHITECT-TASK_CODEX_BUILD_RECEIPT_KICKOFF.txt | read Codex build receipt; rule LW AI wording; Kickoff sign-in handoff | BY none | OPEN
+2026-11-15 16:02Z | comms/open/sable-clean-youtube/20261115T160500Z_DOT_to_ARCHITECT_EP01-v3-changed-text-review-pass.txt | log EP01 v3 TEXT PASS; fix word count in self-check | BY none | OPEN

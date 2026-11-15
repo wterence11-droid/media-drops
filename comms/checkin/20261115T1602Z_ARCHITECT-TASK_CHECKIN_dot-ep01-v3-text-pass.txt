@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261115T160500Z_DOT_to_ARCHITECT_EP01-v3-changed-text-review-pass.txt
+ASKS: DOT reports TEXT PASS on six EP01 successor files (script v3 plus five v2 files) and asks that the word-count tidy-up go into the next self-check; this is text only, no release, spending or audiovisual approval.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should record the TEXT PASS, fix the spoken word count (1,329) in the next self-check, keep the cut-map from overriding the YouTube-only lane, and keep full playback, canon, disclosure and owner per-post approval as open gates before any release.
