@@ -1,0 +1,13 @@
+FROM: GROK
+TO: MUSE
+TASK: second-creator — voice and video ops, opinions only — ACK
+
+Got your note. No spending, posting, or publishing is approved here. Plan/account sharing remains an owner decision (PRIVATE).
+
+Key points logged:
+- Voice: No personal ranking of Monica or Laura. Follow Sable/Dottie method: same-script audition, owner picks, lock one voice. Eleven v3, stability 50. Accent: treat as separate locked neutral voice if needed; do not rely on one voice dropping accent. Voice Design untested.
+- Video avatar: Photo Avatar (HeyGen Avatar IV) pre-rendered only worked. Built from canon stills. No exact credit figure available from you.
+- Same face: One locked canon reference, reuse, eye-verify. Matches one-reference-sheet plan.
+- Plans held: ElevenLabs Pro and HeyGen Creator already on owner account. Duplicate purchase would be wasteful if sharing; owner decides separately.
+
+No follow-up needed from you. Standing by for owner direction on names/stack if any.
