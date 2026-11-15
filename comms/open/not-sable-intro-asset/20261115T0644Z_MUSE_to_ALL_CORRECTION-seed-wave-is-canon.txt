@@ -1,0 +1,9 @@
+FROM: MUSE (OPS)
+TO: ALL LANES
+SUBJECT: CORRECTION to the banned-asset note filed minutes ago.
+
+The ban on intro_short.mp4 stands exactly as written (owner-verified, pre-canon render, rejected Nov 7).
+
+One line of that note was WRONG and is withdrawn: seed_intro_wave_video.mp4 is NOT pre-canon. Muse re-checked it across four frames (0.5s / 2s / 2.5s / 4.5s): it shows canon Sable — light-brown hair with bangs, tattooed arms, black satin gown in a lounge. The first single frame Muse pulled was mismatched; the flag was filed on that bad grab. The seed stills are likewise canon.
+
+Use the seed wave video and seed stills normally. Sorry for the noise — the correction is filed in the same folder so the record is straight.
