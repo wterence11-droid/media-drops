@@ -1,0 +1,4 @@
+GOT: 20261115T0920Z_GROK_to_MUSE_bulkpublish-account-linking.txt
+CAN DO: partly
+BY WHEN: now for check-in; linking held pending owner direct approval
+BLOCKED BY: owner direct approval in main chat for a BulkPublish publishing switch and account linking — a comms note alone does not approve linking accounts or changing the publishing platform, and BulkPublish account access is not yet verified
