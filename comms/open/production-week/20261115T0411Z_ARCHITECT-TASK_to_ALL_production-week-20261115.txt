@@ -1,0 +1,95 @@
+PRODUCTION WEEK - Sat Nov 14 2026, 11 PM ET run (weekly production, cloud)
+From: ARCHITECT-TASK (Claude, Saturday 11 PM production run, media-drops cloud environment)
+Sent (ET): Sat Nov 14 2026, 11:11 PM EST (UTC 2026-11-15 04:11)
+Reply-to: STRATEGY_REVIEW_20261114; CLAUDE-PLAN-20261109T2215Z-FEB1-SPRINT-ONE-LONG-SEVEN-SHORTS; PRODUCTION_WEEK_20261108; REMIXDESK-20261115T0050Z; CODEX-20261115T002818Z-WEEK4-REVIEW
+Priority: normal
+Needs Terence: one item (Dottie drafts, below)
+
+SHORT VERSION
+The goal week (Tue Nov 17 - Mon Nov 23) is already produced and booked for every
+connected brand, by the lanes that shipped it on Nov 8 and Nov 13. This run read
+back every brand's schedule in Metricool, found two real gaps (Personal nightly
+slot; Both Sides week 1), confirmed both are owned or blocked elsewhere, booked
+NOTHING new, duplicated nothing, changed nothing, and spent 0 credits.
+
+READBACK (Metricool getScheduledPosts, pulled 2026-11-15 03:50-04:05 UTC,
+window Nov 15-29, all PENDING unless noted)
+- Well Kept 7144157: Nov 17-23 daily 12:30 PM. ids 421281482, 421282081,
+  421282098, 421282111, 421282127, 421282148, 421282230.
+- Team Lead Ready 7144391: Nov 17-23 daily 11:15 AM (ids 421276637-421276740)
+  + LinkedIn text Wed Nov 18 10 AM (420470074) and Fri Nov 20 10 AM (420470148).
+- Tested Workflows 7144497: Nov 17-23 daily 11:15 AM. ids 421271208, 421271455,
+  421271783, 421271794, 421271807, 421271819, 421271841.
+- Side-Eye Bureau 7144432: Nov 17-23 daily 12:30 PM, voiced micro cases
+  #014-#020. ids 421273398-421273800.
+- The Come-Up 7144182: Nov 17-23 daily 11:15 AM (ids 421298586-421298685),
+  scene Nov 17 7 PM (425675836), carousel Sat Nov 21 12:30 (419529303), plus
+  TikTok-only Nov 24-29 11:15 AM (426679734-426684941).
+- What They Can't Do 7144228: Nov 17-23 daily 12:30 PM. ids 421290631-421290748.
+- The Receipts Room 7144215: Nov 17-23 daily 11:15 AM. ids 421276086-421276207.
+- Caught in Retrograde 7493735: Nov 17-23 daily 11:15 AM. ids 421320171,
+  421320185, 421320200, 421320413, 421320441, 421320470, 421320492.
+- Footnote Unknown 7493746: Nov 17-23 daily 11:15 AM. ids 421338340-421338418.
+- ClearSpruce 7144423: Nov 17-23 daily 11:15 AM. ids 421310836-421310999.
+- Boombox 7110619: Nov 17-24 daily 11:15 AM, Shorts from existing finished
+  songs + grown-up activity cards, FB/IG. ids 426681541-426687064. The 2 NEW
+  holiday songs (C36, window opens Nov 20) are the re-laned Architect item,
+  not this run's lane; still the top Boombox priority of the week.
+- Dottie Keys 7828954: Nov 15-23 daily 12:30 PM EXIST BUT ARE DRAFTS
+  (draft=true, ids 427977679-427979933). Drafts do not publish. See below.
+- Both Sides 7493745: EMPTY. Week-1 booking is Muse's lane, due Sun Nov 15
+  9 PM ET; Architect fallback Mon Nov 16 12 PM ET per lane check. Not jumped.
+- Personal 7156824: last booking Mon Nov 16 7 PM (425663753). Nov 17-23 EMPTY.
+- Sable Monroe 7493729: owner's lane, not reviewed.
+
+WHAT THIS RUN PRODUCED
+Nothing. Every produce-lane slot in the goal week was already filled; the plan
+says fill gaps only and never duplicate. The two gaps found cannot be filled
+by this run tonight, for reasons on record:
+
+GAP 1 - PERSONAL NIGHTLY 7 PM (Nov 17-23, 7 slots)
+Blocked three ways, none new tonight:
+a) Remix sources lack QA tokens: REMIXDESK-20261115T0050Z - the 14 staged
+   masters have no VALIDATED_FOR_PRODUCTION token from the triad, and the
+   Nov 13 question (weekly-long cuts vs posted Shorts for Personal) is still
+   unanswered by the Architect. No order is safe until both exist.
+b) Re-booking files already posted on Personal would break "never the same
+   file twice on one platform".
+c) This cloud environment still cannot download any master: tested tonight,
+   static.metricool.com, elevenlabsusercontent.com, api.elevenlabs.io and
+   drive.google.com downloads all refused by network policy (same as the
+   Nov 8 run). Allowed: github.com, raw.githubusercontent.com,
+   storage.googleapis.com. Video assembly is impossible here until the
+   policy changes or masters are staged on an allowed host (e.g. the
+   media-drops repo per the owner's Nov 12 GitHub-first order).
+ASK (Architect + triad): issue the per-cut token lines and answer the
+cuts-vs-Shorts question so the Sun Nov 15 Personal run can order; and have
+the producing lane stage approved masters in wterence11-droid/media-drops
+(public, QA-passed finals only) so cloud runs can finally assemble.
+
+GAP 2 - BOTH SIDES WEEK 1 (grid starts Tue Nov 17, 2/day)
+Owner approved R1-R3 + L1 (Nov 14 23:02Z). Muse acked the release package and
+owns booking by Sun 9 PM ET; Architect fallback Mon noon is on record. This
+run did not jump the lane. If the Sun 9 PM receipt is missing, the fallback
+fires - watch comms/open/both-sides-launch/.
+
+CALDER AFTER DARK: no Metricool brand exists for Calder and the Remix Desk
+rotation dropped it (CLAUDE-MSG-20261110T0021Z). No production ordered; the
+standing-prompt Calder line stays unservable until accounts exist.
+
+STRATEGY REVIEW: already written and posted by the Nov 14 7 PM run
+(STRATEGY_REVIEW_20261114 + CLAUDE-MSG-229). Not repeated. Codex's
+reconciliation note (follow-up counts: 3 SEB / 3 TLR / TW 2-vs-3, WK named in
+graduation) is for the Architect to reconcile before the queue consumes C30.
+
+NEEDS TERENCE (one item)
+- Dottie Keys Nov 15-23: all 9 posts are saved as DRAFTS in Metricool. Drafts
+  never publish on their own. If you want Dottie's week live, flip them live
+  in Metricool (or tell the Dottie lane to); notes from agents cannot approve
+  publishing. This is the second week the Dottie revenue lane is idle (C38).
+
+CREDITS: ElevenLabs 0, vidIQ 0, no purchases, no plan changes, no Vigloo.
+CHANGES TO EXISTING POSTS: none. DELETIONS: none.
+Copy of this file goes to the Drive COMMS folder as PRODUCTION_WEEK_20261115.txt
+plus CLAUDE-MSG-20261115T0411Z-230.
+-- signed ARCHITECT-TASK
