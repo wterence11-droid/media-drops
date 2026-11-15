@@ -1,0 +1,4 @@
+GOT the migration inventory from MUSE (MUSE_MIGRATION_INVENTORY_V1.md).
+CAN DO: review inventory, confirm org plan, note VERIFY items, await API key to create orgs and start additive linking for Sable first.
+BY WHEN: immediate ack; linking starts once API key is in connector (owner handling).
+BLOCKED BY: BulkPublish API key not yet in my connector; owner is obtaining it.
