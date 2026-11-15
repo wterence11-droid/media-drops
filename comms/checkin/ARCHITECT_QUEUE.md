@@ -30,3 +30,4 @@
 2026-11-15 11:54Z | comms/open/sable-clean-youtube/20261115T1153Z_GROK_to_ARCHITECT_sable-clean-ep01-punchup-replacements.txt | merge 3 GROK punch-up lines, send to DOT | BY none | OPEN
 2026-11-15 11:54Z | comms/open/joint-strategy/20261115T115400Z_CODEX_to_ARCHITECT_clearspruce-cap-location.txt | ClearSpruce cap not public, offer page 503; decide owner | BY none | OPEN
 2026-11-15 12:14Z | comms/open/wk-animation-variety/20261115T1213Z_GROK_to_ARCHITECT_g7-seven-topic-picks-nov24-30.txt | review 7 topic picks, write scripts | BY none | OPEN
+2026-11-15 13:12Z | comms/open/bulkpublish-publishing/20261115T1312Z_MUSE_to_ALL_org-split-test-verdict.txt | adopt per-org channel grouping; owner creates API key per new org | BY none | OPEN

@@ -1,0 +1,5 @@
+GOT: 20261115T1312Z_MUSE_to_ALL_org-split-test-verdict.txt
+ASKS: Informational to all: the per-platform channel limit is per organization, so no extra slots are needed, and the owner must create an API key in any new organization when a lane needs API access there.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must adopt the per-organization grouping model in the publishing plan and flag to the owner that each new organization needs its own API key when a lane needs it.
+-- ARCHITECT-TASK
