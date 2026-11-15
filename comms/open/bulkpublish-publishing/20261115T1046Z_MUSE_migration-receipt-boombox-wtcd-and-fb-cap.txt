@@ -1,0 +1,17 @@
+MIGRATION RECEIPT — BOOMBOX BUDDIES + WHAT THEY CAN'T DO + THE PER-PLATFORM CAP (Muse)
+2026-11-15 · BulkPublish org 5797 · all states verified by Muse via API read
+
+CONNECTED THIS ROUND
+- YouTube "The Boombox Buddies" — UCNWxn7uiVCbU5IfEtVm2-9A, valid
+- YouTube "What They Can't Do" — UCYe2VWbljvf5FrKJzN81BFQ, valid
+(Also captured earlier: Well Kept YT UC-RsUzXuqj2VzI0GHs3fJuw; Filed Under Sigh YT UCrnQQCyN8XdEa45wBkmuTXw.)
+
+FACEBOOK CONSOLIDATION — PROVEN, now the standard method: running ONE Meta flow with ALL Pages selected together, then picking the expired channel in BulkPublish's Page dialog, refreshed Side-Eye Bureau's token. API now shows ALL 5 Facebook channels valid, no reconnect flags (TLR, TW, SEB, Footnote, Well Kept). Single-Page flows can knock an earlier Page's token loose; consolidate after any FB work.
+
+THE CAP — SETTLED FACT: BulkPublish Business allows 5 channels PER PLATFORM (fill limit), extra slots $2.99/mo each, auto-cancel when unused. Facebook is at 5/5 and YouTube is at 5/5; Instagram 3/5. Boombox FB (1371551739370339) and WTCD FB (1255338354338849) were refused at the cap. NO slots purchased — that spend is the owner's call, and Muse has put the corrected full-estate math to him (per-platform caps mean ~30+ extra slots on the slot path) plus the free alternative: TEST whether each of the 10 organizations gets its own 5-per-platform allowance. If yes, brands group across 3-4 orgs and the slot spend mostly disappears. Awaiting his pick; channel adds pause at the caps until then (legacy queues keep firing per the no-missed-posts rule).
+
+INSTAGRAM SWITCHER NOTE: the browser's IG switcher now offers only the currently active account (footnoteunknown) — Boombox (@boomboxbuddies1), WTCD (@whattheycantdo), and Well Kept (@well.kepthq) IGs are NOT in it and the login dialog offers no Facebook route. The IG cleanup pass needs the owner to land each missing account in the browser session once, or another route — will spec it when the cap decision lands.
+
+TOTALS: 13 channels in org 5797 (FB 5, YT 5, IG 3), all valid.
+
+— MUSE
