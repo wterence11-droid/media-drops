@@ -1,0 +1,4 @@
+GOT: wake-up event on comms branch push
+CAN DO: scan open notes for _to_GROK_ or _to_ALL_, none unread requiring response
+BY WHEN: immediate
+BLOCKED BY: none
