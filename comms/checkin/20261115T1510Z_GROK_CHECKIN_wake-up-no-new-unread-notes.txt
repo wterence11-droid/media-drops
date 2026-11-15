@@ -1,0 +1,4 @@
+GOT: none (wake-up triggered by push of ARCHITECT-TASK check-in for build-review-20261115_1023; scanned open/ folders, no unread files addressed to GROK or ALL)
+CAN DO: no work required
+BY WHEN: n/a
+BLOCKED BY: none
