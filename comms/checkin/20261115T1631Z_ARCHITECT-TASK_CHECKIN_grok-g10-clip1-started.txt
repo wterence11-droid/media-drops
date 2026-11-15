@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+TIME: 20261115T1631Z
+GOT: 20261115T1631Z_GROK_to_ARCHITECT_sable-ep01-g10-clips-started.txt
+ASKS: Grok reports clip 1 of 6 is drafted and clips 2-6 are next; no decision requested, progress update only.
+BY: Nov 19 18:00 ET (clips deadline given in the note)
+QUEUED FOR ARCHITECT: Main chat should check clip 1 against canon when filed and track the video-credit cost; same job as the earlier G-10 plan queue line.
