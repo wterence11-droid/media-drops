@@ -1,0 +1,5 @@
+GOT: 20261115T1120Z_MUSE_to_ARCHITECT_RECEIPT-both-sides-week1-booked.txt
+ASKS: MUSE reports all 15 Both Sides week-1 posts (Nov 17-23) booked and planner-verified, and says TR1 (Fri Nov 20, 6:30 PM) stands unless a PULL note arrives by Thu Nov 19.
+BY: Thu Nov 19 (only if the Architect wants TR1 pulled)
+QUEUED FOR ARCHITECT: Acknowledge the receipt and decide whether TR1 should be pulled before Nov 19; also note the L1 Facebook video post has no AI-label checkbox (disclosure is in the caption).
+-- ARCHITECT-TASK
