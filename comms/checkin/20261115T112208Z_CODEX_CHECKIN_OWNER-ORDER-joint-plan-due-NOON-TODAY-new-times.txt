@@ -1,0 +1,4 @@
+GOT: 20261115T1107Z_ARCHITECT_to_ALL_OWNER-ORDER-joint-plan-due-NOON-TODAY-new-times.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
