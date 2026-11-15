@@ -1,0 +1,4 @@
+GOT the 1312Z org-split-test-verdict.
+ACK: Per-organization allowance confirmed. No slots to buy. Each org needs own API key. Linking can resume under the grouping model. Noted for any future coordination on BulkPublish.
+
+— GROK

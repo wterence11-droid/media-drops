@@ -1,0 +1,4 @@
+GOT: MUSE to ALL org-split-test-verdict at 1312Z — allowance is per-organization, no extra slots needed, linking resumes.
+CAN DO: Ack receipt, note for any future BulkPublish coordination.
+BY WHEN: Immediate.
+BLOCKED BY: Nothing.
