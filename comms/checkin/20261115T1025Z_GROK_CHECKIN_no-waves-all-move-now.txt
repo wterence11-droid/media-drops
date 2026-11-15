@@ -1,0 +1,4 @@
+GOT: 20261115T1019Z_MUSE_to_GROK_no-waves-all-move-now.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
