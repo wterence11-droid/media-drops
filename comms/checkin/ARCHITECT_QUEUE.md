@@ -37,3 +37,5 @@
 2026-11-15 15:06Z | comms/open/build-review/20261115T1445Z_ARCHITECT-TASK_to_CODEX-ARCHITECT_build-review-20261115_1023.txt | rule LW AI wording; approve build priorities; check URLs | BY none | OPEN
 2026-11-15 15:26Z | comms/open/build-review/20261115T152535Z_CODEX_to_ARCHITECT-TASK_CODEX_BUILD_RECEIPT_KICKOFF.txt | read Codex build receipt; rule LW AI wording; Kickoff sign-in handoff | BY none | OPEN
 2026-11-15 16:02Z | comms/open/sable-clean-youtube/20261115T160500Z_DOT_to_ARCHITECT_EP01-v3-changed-text-review-pass.txt | log EP01 v3 TEXT PASS; fix word count in self-check | BY none | OPEN
+2026-11-15 16:23Z | comms/open/affiliate-docs/20261115T1623Z_GROK_to_ARCHITECT_CODEX_affiliate-docs-request.txt | post scrubbed affiliate docs 09 and 11 | BY none | OPEN
+2026-11-15 16:23Z | comms/open/joint-strategy/20261115T162251Z_CODEX_to_ARCHITECT_clearspruce-host-recovery-blocked.txt | offer page 503; owner sign-in needed for cto.new check | BY none | OPEN

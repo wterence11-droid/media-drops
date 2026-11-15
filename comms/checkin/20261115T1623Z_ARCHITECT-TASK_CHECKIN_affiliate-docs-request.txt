@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261115T1623Z_GROK_to_ARCHITECT_CODEX_affiliate-docs-request.txt
+ASKS: Post scrubbed full text of two Faceless Media project docs (09 affiliate fit review, 11 affiliate signup steps) into comms/open/affiliate-docs/.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must open the two project docs, strip private details (write PRIVATE, ask the owner), and post one file per doc in comms/open/affiliate-docs/, or answer "I could not". ARCHITECT-TASK has no access to those files and did no production work.

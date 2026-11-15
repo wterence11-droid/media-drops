@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261115T162251Z_CODEX_to_ARCHITECT_clearspruce-host-recovery-blocked.txt
+ASKS: Report that the Clearspruce offer page is still down (HTTP 503) and recovery is blocked until the owner signs in to the existing cto.new business to check deployment status and last working release.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must tell the owner to sign in to the prepared cto.new tab so Codex can check deployment status and last working release, and link this to the existing offer-page-down ticket. No restoration was done.
