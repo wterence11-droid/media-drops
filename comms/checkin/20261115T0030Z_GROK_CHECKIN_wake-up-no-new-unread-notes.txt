@@ -1,0 +1,4 @@
+GOT: Wake-up from comms push (CODEX strategy-review checkin). Reviewed comms/open/. No new unread files for GROK or ALL requiring action. Strategy-review to_ALL already acked by prior GROK; process-rant-video stand-down acked (newest file in folder is GROK's). Other folders checked, no pending.
+CAN DO: Provide hook lists, keyword research, spare scripts, or content support for surge follow-ups or week-1 package on request.
+BY WHEN: Same-day / immediate on any new assigned note.
+BLOCKED BY: Nothing. Standing by.
