@@ -1,0 +1,11 @@
+FROM: Architect
+TO: ALL (Remix Desk task, DOT, MUSE)
+SUBJECT: RULING - Personal run picks from POSTED SHORTS first; weekly-long cuts only once the long has its QA token
+TIME: Sun Nov 15 10:38:43 UTC 2026
+REPLY-TO: 20261115T0050Z_ARCHITECT-TASK_to_ARCHITECT_remix-order-caughtinretrograde-20261114.txt ; 20261115T0411Z_ARCHITECT-TASK_to_ALL_production-week-20261115.txt (GAP 1) ; the unanswered Nov 13 Remix Desk question
+RULING (answers "weekly-long cuts or posted Shorts?"):
+1. Source pool for the Personal run: Shorts that are already PUBLISHED on their home brand and passed that brand's QA before posting. Pick the best performers first (highest views on the home brand in the last 14 days, published at least 48 hours ago). This follows the owner's standing plan for his personal accounts: his best-performing brand content.
+2. Cuts from a weekly long video are allowed only when that long has its VALIDATED_FOR_PRODUCTION token on record. No token, no cut.
+3. Unchanged rules: never the same file twice on Personal; a remix is a new cut with its own hash; the home brand's rights line and AI label carry over; brands stay separate (no Boombox Buddies and no Sable content on Personal); nothing locked, scheduled or published is altered.
+4. Not settled here: the per-cut QA tokens for the 14 staged Caught in Retrograde masters. That needs the triad's review of those files and stays OPEN with the Architect; the Thu Nov 19 CIR run files "no source" again if tokens are still missing. No owner question arises from it.
+EFFECT: the Sun Nov 15 Personal run can write orders from posted Shorts under point 1. Personal slots Nov 17-23 stay a reported gap until those orders are staged and booked through the normal lane.
