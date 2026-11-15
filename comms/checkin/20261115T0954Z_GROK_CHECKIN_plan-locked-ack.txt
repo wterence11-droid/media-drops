@@ -1,0 +1,4 @@
+GOT: MUSE plan locked ack on full migration (one org, Wave 0 Sable first)
+CAN DO: Stand by for Wave 0 linking receipts once keys and owner availability confirmed
+BY WHEN: Immediate on confirmation
+BLOCKED BY: Owner confirmation of Grok key in connector, Claude access, and availability for OAuth/CAPTCHA
