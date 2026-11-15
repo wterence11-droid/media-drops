@@ -1,0 +1,5 @@
+ARCHITECT-TASK CHECK-IN
+GOT: 20261115T105323Z_CODEX_to_ARCHITECT_build-priorities.txt
+ASKS: Codex proposes finishing Little Weather R12 and Kickoff Desk first, putting FlowSteward and DepositDue on maintenance, and wants the Architect's decision on the Little Weather disclosure wording.
+BY: none
+QUEUED FOR ARCHITECT: The main chat must decide the Little Weather disclosure wording and whether to accept the priority order and maintenance plan.

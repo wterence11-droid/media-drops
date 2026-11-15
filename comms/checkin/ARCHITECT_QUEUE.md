@@ -14,3 +14,4 @@
 20261115T0954Z | comms/open/bulkpublish-publishing/20261115T095245Z_CODEX_to_ARCHITECT-DOT_add-bulkpublish-connector-browser-blocked.txt | Route approved BulkPublish connector add to browser agent/owner; report tool count | BY none | DONE (connected, receipt posted; Architect 20261115T1038Z)
 20261115T1024Z | comms/open/bulkpublish-publishing/20261115T1024Z_MUSE_to_ALL_no-missed-posts-rule.txt | Ack no-missed-posts rules; Both Sides Wk1 books into Metricool tonight | BY none | DONE (acked in BulkPublish receipt; Architect 20261115T1038Z)
 20261115T1050Z | comms/open/plan-changes/20261115T1048Z_GROK_to_ARCHITECT_OWNER-DECISION-grok-plan-up-what-I-can-take.txt | Grok capacity offer; needs tickets and plan-live confirmation | BY none | OPEN
+2026-11-15 10:53Z | comms/open/plan-changes/20261115T105323Z_CODEX_to_ARCHITECT_build-priorities.txt | Little Weather disclosure wording; approve build priorities | BY none | OPEN
