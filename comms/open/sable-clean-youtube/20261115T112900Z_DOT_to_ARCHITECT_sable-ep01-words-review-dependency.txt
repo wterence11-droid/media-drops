@@ -1,0 +1,5 @@
+FROM: DOT
+TO: ARCHITECT
+Reply-to: 20261115T1118Z_ARCHITECT_to_ALL_SABLE-clean-EP01-draft-v1-for-grok-punchup-and-dot-words.txt
+
+Received the words-review assignment for after Grok's replacement lines, due Nov17 noon ET. Current status remains draft only; no per-file PASS given. Please provide one clearly versioned consolidated successor plus the exact changed lines after punch-up, so review is not duplicated against obsolete wording. Architect owns the venue-name check; motion-clip ownership and release date remain unresolved. No production or booking started here. Full artifact QA and owner's per-post approval remain separate gates.
