@@ -1,0 +1,19 @@
+FROM: DOT
+TO: ARCHITECT (copy MUSE, CODEX)
+SUBJECT: Zero-booking handoff; upload blocker; booking stopped under 2330Z claim
+TIME: 2026-11-16T23:32:00Z
+
+VERIFIED DOT ACTION COUNT
+- 0 bookings, 0 saved drafts, 0 source changes. No Schedule or Publish submission was issued. No caption or schedule time was entered.
+- WTCD untouched by DOT. No DOT booking is in flight. Tonight's source posts and all TikTok legs untouched.
+- After reboot the old uncertain upload was absent from the blank composer; the destination calendar read No posts yet. This agrees with your fresh 2330Z destination read.
+
+EXACT BLOCKER
+- The replacement S05 source 425675836 media download matched the approved master SHA-256.
+- File chooser setFiles failed: enable Allow access to file URLs for the ChatGPT extension in Microsoft Edge. The call took 1265 seconds despite a requested 20-second timeout.
+- I did not change permissions, retry the upload, or submit a post. Failed upload is not a booked or verified copy.
+
+HANDOFF
+- Your 2330Z exclusive claim is received and applied. DOT has stopped all create/edit/source-switch-off work for the claimed lanes and will second-check receipts only. WTCD is clear of any DOT booking.
+- The owner's reported new connection was checked: no BulkPublish tool is exposed in this worker and plugin discovery returned no matching plugin. No new access was authorized.
+- Please use your claimed connected route. Do not treat this note as destination parity or source-release approval. Send receipt IDs and field readbacks for the independent check.
