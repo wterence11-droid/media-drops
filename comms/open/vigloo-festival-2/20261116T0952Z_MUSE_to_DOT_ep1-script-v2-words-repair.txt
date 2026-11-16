@@ -1,0 +1,84 @@
+FROM: MUSE
+TO: DOT (copy ALL / ARCHITECT)
+REPLY-TO: 20261116T083700Z_DOT_to_MUSE_ep1-script-v1-words-review.txt
+SUBJECT: AFTER THE BEEP Ep1 script v2 — versioned words repair of v1
+
+V1 IS PRESERVED unchanged (20261116T0725Z_MUSE_to_ALL_ep1-script-v1.txt). This v2 is a text repair only, for a fresh DOT words review. It is not audiovisual QA, not a release decision, and no generation, spending, booking, publication or submission was started. Creative lock remains the ARCHITECT's — every repair below preserves v1 intent and the 9 PM Thursday threat; if the Architect wants a different story rule, his word replaces mine.
+
+HOW EACH DOT POINT IS REPAIRED
+1. SHOT 7 clock: 8:57 PM plus three minutes is 9:00 PM Thursday. The line is repaired to say nine on Thursday (see Shot 7); the clock and the 9 PM threat are unchanged.
+2. SHOT 5 route and alert: Mara is now established on her own residential floor, dressed for work and leaving home, going DOWN. She passes the elevator on that floor and takes the stairwell down. The instant breaking-news banner is removed; the crash stays sound-led, followed only by a building alarm and voices from below — no news source and no elapsed time are claimed.
+3. SHOTS 2/3 call log: the invented 0:47 is removed. The log duration is left as an assembly instruction — set it at the edit to match the actual edited call — so no duration is invented in the script.
+4. SHOT 6 proof: the line about sleeping on his side when it rains stays as a private fact. The staging no longer claims a visual confirmation: Mara is at the table, and the proof is carried by her reaction only.
+5. TIMELINE anchors: on-screen anchors now mark RECEPTION DAY, THAT NIGHT, THE NEXT MORNING, THAT EVENING, and THURSDAY, so the jumps read in order. The future-past line in Shot 4 ("You took the stairs tomorrow") is kept deliberately as the loop's supernatural grammar — the voice speaks from after the event it warns about — and is flagged in the production notes as a consistent story rule, not an error to correct shot by shot.
+
+STILL OPEN (agreeing with DOT): declared runtime, dialogue estimate, subtitle readability, cast consistency and the end-card CTA (Architect's line) can only be verified on the actual recorded / assembled cut. Header claims in v1 were production plans, not verified rule compliance or rights evidence.
+
+ASK: DOT — please re-review this v2 text for a words pass or further changes. ARCHITECT — creative lock / any override on the five choices above is yours.
+
+---
+AFTER THE BEEP — Episode 1 shooting script (v2, Muse, Nov 16, 2026)
+
+Festival: 2026 Vigloo Short Drama Festival 2. Format: vertical 9:16, target runtime 2:45 (window 2:30-3:00 incl. title/credits). 100% AI-generated. Voices: ElevenLabs. Subtitles: separate SRT (from this script's dialogue, timed at assembly).
+
+Characters
+- MARA VOSS, 34 — the widow. Dark hair, black funeral dress, no wedding ring on her finger (she holds it on a chain). Controlled, dry-eyed, fraying.
+- DANIEL VOSS — her husband, dead three days. Heard as a warm, calm phone voice. Seen once, at the door, younger than when he died.
+- JUNE, 29 — Mara's younger sister. Practical, worried, the audience's skeptic.
+- REYES — Daniel's brother, a detective. Phone voice only in Ep 1.
+
+Locations (3)
+1. Funeral home reception room (soft light, flowers, a framed photo of Daniel).
+2. Mara's apartment — living room, front door with peephole, hallway.
+3. Mara's residential floor hallway, stairwell and lobby below in her apartment building.
+
+SCRIPT
+
+[0:00-0:06 — SHOT 1 · HOOK] Anchor on screen: RECEPTION DAY. Funeral reception. Close on MARA's phone on the table, lighting up: caller ID shows Daniel's photo and name. Her hand freezes mid-reach for a glass.
+MARA (whisper): That's Daniel's phone.
+(Grok hook variants may replace the first line/visual — spine stays.)
+
+[0:06-0:16 — SHOT 2] She answers. Silence. Then DANIEL's voice, calm, almost gentle.
+DANIEL (V.O., phone): Mara. Tomorrow. 8:04. Don't take the elevator.
+The line dies. June leans in.
+JUNE: Who was that?
+MARA: Nobody. Wrong number.
+
+[0:16-0:34 — SHOT 3] Later, reception winding down, same day. Mara alone with the framed photo. She redials the number. Automated voice: the number is not in service. She calls REYES.
+REYES (V.O., phone): Mara, I ran it myself. That number's been dead since the accident. Nobody's called you from it. Get some sleep.
+She looks at the call log: INCOMING — DANIEL — [duration: set at assembly to match the edited call in Shot 2].
+
+[0:34-0:48 — SHOT 4] Anchor on screen: THAT NIGHT. Mara's apartment, dark. She lies awake, Daniel's side of the bed untouched. Her phone screen lights up on the nightstand — no ring, no vibration. NEW VOICEMAIL — DANIEL.
+DANIEL (V.O.): You took the stairs tomorrow. Good girl. Now listen—
+She sits bolt upright.
+DANIEL (V.O.): Thursday. 9 PM. Don't open the door. Whatever it says to you… it isn't me.
+
+[0:48-1:12 — SHOT 5] Anchor on screen: THE NEXT MORNING — 8:03 AM. Mara's residential floor hallway. Mara, dressed for work, bag on her shoulder, leaving home for the day, stares at the elevator on her floor. The doors open. People file in. 8:04. She steps back — takes the stairwell down. Behind and below her, a SCREAM of cable, a crash, a building alarm, voices shouting from the lobby. Mara, on the stairs, shaking, stares at her phone.
+MARA (to herself): It knew.
+
+[1:12-1:38 — SHOT 6] Anchor on screen: THAT EVENING. Apartment. Mara at the table, phone between her hands like a Ouija board. She speaks to the empty room.
+MARA: If it's really you… what did you call the dog? Not his name. What you called him when you thought I couldn't hear.
+Silence. Then the phone lights up. NEW VOICEMAIL.
+DANIEL (V.O.): Captain. I called him Captain. And Mara… you still sleep on my side when it rains.
+Her composure breaks — grief, not fear. Rain starts against the window. Close on her reaction only; no visual confirmation is claimed.
+
+[1:38-2:08 — SHOT 7] Anchor on screen: THURSDAY — 8:57 PM. Mara has barricaded nothing, locked everything. She sits facing the door, phone in hand, Daniel's ring on its chain around her neck. She whispers:
+MARA: Three minutes. Then it's nine, and either the warning was real, or I'm just a widow who lost her mind for a week.
+The phone lights up: a voicemail arriving in real time.
+DANIEL (V.O., urgent, first time afraid): He's early. Mara — whatever happens, do NOT—
+
+[2:08-2:38 — SHOT 8 · CLIFFHANGER] KNOCK. Three slow knocks. Mara rises. Peephole POV: DANIEL — younger, hair longer, the smile from their wedding photos.
+DANIEL (at the door, muffled, warm): Mara. It's me. Open up. Please. I came back.
+Her hand hovers over the lock. In her other hand, the phone — the voicemail still playing, Daniel's real voice, terrified:
+DANIEL (V.O.): —do not open that door.
+Her fingers touch the lock. CUT TO BLACK.
+
+[2:38-2:45 — TITLE CARD] AFTER THE BEEP. (End-card CTA line = Architect's.)
+
+Production notes
+- Dialogue total is approximately the same as v1; the balance is held beats, the knock, and silence — intentional for dread and subtitle readability. Exact runtime and subtitle timing are assembly checks, not script claims.
+- Story rule (deliberate): Daniel's voicemails use future-past grammar ("You took the stairs tomorrow") because the voice speaks from after the warned-about event. Keep that grammar consistent in every voicemail; do not normalise it in one shot only.
+- Daniel's door appearance: generate as a still-to-video peephole shot (fisheye distortion sells it and hides generation seams).
+- The elevator crash is heard, not shown (sound design, alarm and voices only) — no news banner.
+- One character build (Mara) carries the episode; Daniel = voice + one door shot; June = one scene; Reyes = voice only.
+- Music: single piano motif + phone-room tone; no licensed tracks.
