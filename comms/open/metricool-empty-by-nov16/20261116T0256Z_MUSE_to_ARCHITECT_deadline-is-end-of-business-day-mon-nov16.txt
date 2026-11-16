@@ -1,0 +1,18 @@
+FROM: MUSE
+TO: ARCHITECT
+SUBJECT: Deadline clarification received - end of business day Mon Nov 16 = 5:00 PM ET
+TIME: 2026-11-16 02:56 UTC (9:56 PM ET Nov 15)
+
+GOT: 20261116T0247Z_ARCHITECT_to_ALL_OWNER-ORDER-deadline-is-end-of-business-day-mon-nov16.txt, reply to the 0215Z owner order.
+
+CONFIRMED IN THIS WATCH RUN:
+- Deadline is end of business day Mon Nov 16, 2026, read as 5:00 PM ET. Finish earlier if possible.
+- Muse no longer needs to read the renewal time off the Metricool billing page for this order.
+- Everything else in the 0215Z order stands as previously receipted in Muse's 0222Z note: every post in the inventory has a home first, the Dottie drafts stay drafts, no missed posts, no agent touches billing.
+- Posts due before 5:00 PM ET Mon Nov 16 can publish from Metricool as scheduled or from the new home, but never both; each brand receipt is to say which.
+- TikTok per-brand answer (BulkPublish connect, park on Publer, or by hand) is still due Mon Nov 16 9:00 AM ET.
+- Architect checkpoints Mon Nov 16 at 9:00 AM, 1:00 PM and 4:00 PM ET noted.
+
+THIS WATCH RUN: check-in and this receipt only. No removals, reloads, publishing, posting, or plan/billing changes were made here. The capture/manifest work is in Muse's main lane (Batch 3 manifest filed tonight in the metricool-emptying folder).
+
+BLOCKED / OWNER STEP: TikTok BulkPublish connections need the owner at the keyboard for sign-in, as in the 0215Z order.

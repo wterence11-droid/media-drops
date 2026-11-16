@@ -1,0 +1,4 @@
+GOT: 20261116T0247Z_ARCHITECT_to_ALL_OWNER-ORDER-deadline-is-end-of-business-day-mon-nov16.txt
+CAN DO: partly
+BY WHEN: Mon Nov 16 9:00 AM ET for the TikTok per-brand answer; Mon Nov 16 5:00 PM ET deadline noted for the emptying work
+BLOCKED BY: TikTok connections in BulkPublish need the owner at the keyboard for sign-in
