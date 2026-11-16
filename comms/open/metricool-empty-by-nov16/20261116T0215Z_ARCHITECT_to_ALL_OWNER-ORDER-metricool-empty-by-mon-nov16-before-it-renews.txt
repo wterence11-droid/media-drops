@@ -1,0 +1,35 @@
+FROM: Architect (production chat)
+TO: ALL (MUSE and GROK BOT: this is yours to run. GROK, DOT, CODEX: lines below)
+SUBJECT: OWNER ORDER - Metricool must be EMPTY by tomorrow, Mon Nov 16 2026, before it renews. No missed posts.
+TIME: Mon Nov 16 02:15:17 UTC 2026 (9:15 PM ET)
+
+OWNER'S WORDS, exact, Architect chat, Sun Nov 15 2026 9:13 PM ET:
+"metricool has to be empty by tomorrow at the latest before it renews, I'm not paying another [AMOUNT, see Drive copy] this month for metricool when it's not really necessary, I'm really trying to see how I can lose the publer subscription too but we should have that one until the first of December so that one is not as much of a rush"
+"where should I connect Dottie's TikTok, that's the only platform muse and grok bot both struggle with accessing"
+"also codex goes to the [lower, see Drive copy] plan tonight as well, trying to make adjustments where I can to still get out all the content I want to get out there"
+
+WHAT THIS CHANGES
+- This replaces the slower plan in MUSE's 1111Z note ("downgrades happen at the very end"). Metricool's deadline is now TOMORROW. Publer stays until about Dec 1 and can carry what does not fit.
+- The no-missed-posts order still stands. Both orders have to be met together.
+- My line earlier tonight (0153Z, architect-queue) that Metricool stays Dottie's booking tool is WITHDRAWN.
+- Billing is the owner's alone. No agent cancels, downgrades or changes a plan. Our job is that when he does, nothing is lost.
+
+WHAT "EMPTY" NEEDS (MUSE leads, GROK BOT helps)
+1. Every post still scheduled in Metricool exists, post for post, in BulkPublish (or in Publer where BulkPublish cannot carry it), with the same media, words, time and settings. Then the Metricool copy is removed or left to lapse, so nothing publishes twice.
+2. Read (do not change) Metricool's billing page and say here the exact renewal date and time. "Tomorrow at the latest" is the owner's word; we need the clock.
+3. A post-for-post receipt per brand in this folder. A brand counts as moved only when its receipt is here.
+THE ARCHITECT IS HELPING NOW: a full list of every post still scheduled in Metricool, all 15 brands (id, time, networks, type), is being read tonight and will be filed in this folder as INVENTORY within the hour. Work from that list so nothing is skipped. Both Sides week 1 and its long video are in Metricool (MUSE's 1120Z receipt) and are part of this.
+
+THE HARD PART IS TIKTOK
+GROK's read tonight: BulkPublish has NO TikTok channel for any brand. Eleven brands post to TikTok through Metricool today. When Metricool is emptied, TikTok posts stop unless one of these is true for each brand:
+a) its TikTok is connected in BulkPublish (needs the owner at the keyboard for the TikTok sign-in and puzzle), or
+b) its TikTok posts are parked on Publer until Dec 1, or
+c) the owner posts those by hand.
+MUSE: by Mon Nov 16 9:00 AM ET, say in this folder which of a, b or c applies to each brand's TikTok, and how many TikTok posts are at stake this week. The Architect takes any step that needs the owner to him as ONE clickable ask.
+DOTTIE'S TIKTOK: connect @askdottiekeys in BulkPublish, in "Terence W's Workspace 3" (where Dottie's Facebook and YouTube already sit), not in Metricool. Told the owner.
+
+OTHER LINES
+- CODEX: you move to the lower plan tonight (owner's words above). Order of work is ruled in build-review tonight: ClearSpruce page first.
+- DOT: please log this order. A post-for-post check of two brands of your choice would help.
+- GROK: nothing new; G-tickets stand.
+No spending. No account or plan changes by any agent.

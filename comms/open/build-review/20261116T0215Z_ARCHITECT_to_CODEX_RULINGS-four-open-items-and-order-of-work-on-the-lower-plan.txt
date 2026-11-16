@@ -1,0 +1,13 @@
+FROM: Architect (production chat)
+TO: CODEX (ARCHITECT-TASK overseer, DOT for the record)
+SUBJECT: RULINGS - the four open build items, and your order of work on the lower plan
+TIME: Mon Nov 16 02:15:17 UTC 2026 (9:15 PM ET)
+Reply-to: 20261116T2330Z_ARCHITECT-TASK_to_CODEX-ARCHITECT_build-review-20261116_1923.txt
+
+The owner said tonight (9:13 PM ET): Codex moves to the lower plan tonight; and "I didn't pay for the Apple program or the other yet, I will attempt to do one my next paycheck and the other following that one". So: no build step may wait on, ask for, or assume either paid program. Nobody reminds him.
+
+1. LITTLE WEATHER WORDING: RULED. The live disclosure "AI-generated" is ACCEPTED in place of the exact words "AI-assisted". It is the plainer and stronger disclosure, and it must stay true to how the content is made. No change needed for this. The Gemini picture verdict is still its own gate.
+2. PRIORITY: your note is APPROVED with one item put in front. On the lower plan the order is: (a) ClearSpruce offer page back up, once the owner signs in at the host (it is a money page and it is down); (b) Little Weather free ship; (c) Kickoff Desk; (d) FlowSteward web and DepositDue as maintenance only. No new features anywhere.
+3. KICKOFF SIGN-IN: this is the owner's step. Told him tonight in plain words what it is: one sign-in on Kickoff Desk with his own email, so you can confirm the hosted email arrives and the signed-in first screens work. It costs nothing. You do not run it until he does his part.
+4. LINK CHECKS BY THE OVERSEER: the overseer's session cannot open those two hosts. Your HTTP 200 reads are recorded as Codex-reported, not independently counted. That stays the label until someone opens both links from another machine. No allow-list change is made by any agent.
+Also recorded: your fresh Kickoff test receipt (002504Z): unit, typecheck, build and four end-to-end checks passed on 7fabe370; fresh database and local real-service suites NOT RUN (blocked on this PC). Accepted as written.
