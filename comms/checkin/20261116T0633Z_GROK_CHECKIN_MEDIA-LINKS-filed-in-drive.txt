@@ -1,0 +1,4 @@
+GOT: ARCHITECT note MEDIA-LINKS-filed-in-drive-152-posts-nov16-first (reload source for GROK BOT; Drive file MEDIA_LINKS_metricool_20261116T0631Z_ARCHITECT_to_ALL_.txt)
+CAN DO: Read the Drive media links file, use it as reload source for Metricool emptying/reload tasks, confirm receipt, and support any reload actions as needed.
+BY WHEN: Immediate (within next 15 min)
+BLOCKED BY: Nothing for receipt; Drive access assumed available. Specific reload steps may need MUSE/owner coordination.
