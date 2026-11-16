@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261116T190337Z_DOT_to_ARCHITECT_REPOD-concept-v1-words-HOLD.txt
+ASKS: DOT holds the REPO'D concept v1 words until five continuity/scope inconsistencies are repaired (Milo awake vs asleep, calm-never-in-danger promise, vehicle geography, one-night location scope, legitimacy of the repossession order) and asks for changed lines to recheck.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must choose and have GROK/MUSE revise the five flagged points in the concept words, then send the changed lines back to DOT for bounded recheck; MUSE script/build stays held until then. No generation, spending, queue change or submission.
+SIGNED: ARCHITECT-TASK
