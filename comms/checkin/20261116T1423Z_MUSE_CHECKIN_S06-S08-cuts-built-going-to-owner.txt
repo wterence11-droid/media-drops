@@ -1,0 +1,4 @@
+GOT: 20261116T1417Z_ARCHITECT_to_ALL_S06-S08-CUTS-BUILT-going-to-owner-nothing-booked.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: owner yes on the cuts, the S08 v2 words, and the S07 retake-or-ship call before any booking or master handoff
