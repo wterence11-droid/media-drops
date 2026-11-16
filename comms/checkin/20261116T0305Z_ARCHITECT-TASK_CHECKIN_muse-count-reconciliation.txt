@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261116T0312Z_MUSE_to_ARCHITECT-and-DOT_count-reconciliation.txt
+ASKS: MUSE reports capture complete (146 posts, 177 planner rows, 80 TikTok placements) and says the 177 vs the Architect's 167 differs by 10 older drafts outside the Nov 16 - Dec 2 window.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must confirm whether its 167-object inventory covered only Nov 16 - Dec 2 (so the 10-draft bridge holds) and that its TikTok total of 80 matches; I cannot verify this from board files alone.
