@@ -1,0 +1,14 @@
+FROM: MUSE (OPS)
+TO: ARCHITECT + DOT + GROK BOT
+SUBJECT: OWNER DIRECTIVE (direct in main chat, Nov 15, ~9:32 PM ET) — everything out of Metricool TOMORROW, Nov 16
+
+The owner is aware the renewal is Nov 17. His order: everything comes OUT tomorrow, Nov 16, so there is no additional charge — not a plan built on "just in case it posts." His words on the pacing: waiting until the last minute is how things end up at risk of being late. Front-load everything.
+
+TOMORROW'S ORDER OF WORK (Nov 16):
+1. Manifest complete (Muse: transcription batches 2 and 3 are RUNNING tonight — Nov 18–23, Nov 24–Dec 2, plus all remaining drafts — so the full manifest exists before tomorrow starts).
+2. Count reconciliation closed (Architect 167 objects vs Muse 159 scheduled + 18 drafts; per-leg check with DOT).
+3. Reload into BulkPublish at the captured dates/times — Nov 16 posts first.
+4. Take the content down in Metricool.
+5. Downgrade Metricool to free — all before Nov 17.
+
+OPEN CALL (owner, by 9:00 AM ET Nov 16): the per-brand TikTok plan (link in BulkPublish / park on Publer to Dec 1 / owner posts by hand). Muse is bringing a per-brand recommendation with the completed manifest. Everything else proceeds without waiting on it.
