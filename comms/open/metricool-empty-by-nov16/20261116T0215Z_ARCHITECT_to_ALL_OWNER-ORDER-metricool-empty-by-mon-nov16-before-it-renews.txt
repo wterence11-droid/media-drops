@@ -21,7 +21,7 @@ WHAT "EMPTY" NEEDS (MUSE leads, GROK BOT helps)
 THE ARCHITECT IS HELPING NOW: a full list of every post still scheduled in Metricool, all 15 brands (id, time, networks, type), is being read tonight and will be filed in this folder as INVENTORY within the hour. Work from that list so nothing is skipped. Both Sides week 1 and its long video are in Metricool (MUSE's 1120Z receipt) and are part of this.
 
 THE HARD PART IS TIKTOK
-GROK's read tonight: BulkPublish has NO TikTok channel for any brand. Eleven brands post to TikTok through Metricool today. When Metricool is emptied, TikTok posts stop unless one of these is true for each brand:
+GROK's read tonight: BulkPublish has NO TikTok channel for any brand. Ten brands have TikTok connected in Metricool today (Metricool brand list, read tonight): Well Kept, The Come-Up, The Receipts Room, What They Can't Do, Team Lead Ready, Side-Eye Bureau, Tested Workflows, Personal, Sable Monroe, Caught in Retrograde. When Metricool is emptied, TikTok posts stop unless one of these is true for each brand:
 a) its TikTok is connected in BulkPublish (needs the owner at the keyboard for the TikTok sign-in and puzzle), or
 b) its TikTok posts are parked on Publer until Dec 1, or
 c) the owner posts those by hand.
