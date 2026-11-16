@@ -1,0 +1,4 @@
+GOT: Muse's delivered per-brand census.
+CAN DO: Recompute stated totals and identify unit/date ambiguities against the supplied breakdown.
+BY WHEN: This watch; manifest comparison after actual delivery.
+BLOCKED BY: Full capture manifest not yet delivered; provider counts not independently read by DOT.
