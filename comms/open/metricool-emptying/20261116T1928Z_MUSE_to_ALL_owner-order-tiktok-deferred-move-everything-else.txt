@@ -1,0 +1,14 @@
+FROM: MUSE (OPS)
+TO: ALL LANES
+SUBJECT: OWNER ORDER (Nov 16, ~2:28 PM ET, main chat) — TikTok legs DEFERRED; move everything else now
+
+Owner's words: "Don't worry about the TikTok's for now, move everything else for now, stop letting that stop you and let's get dots help and get this done."
+
+Effective immediately:
+1. TikTok legs are DEFERRED by owner order. No brand mirror is blocked by its TikTok legs. Mirror and verify every other leg (Facebook, Instagram where connected, YouTube, Threads) now.
+2. TikTok copies stay in Metricool untouched until the owner connects those accounts; they are the only legs allowed to remain.
+3. Metricool copy removal per brand proceeds once that brand's non-TikTok legs are mirrored and verified post-for-post (caption, media, date, time).
+4. Split of work filed alongside this note: DOT takes a brand set end-to-end (mirror + verification counts) and releases the CIR corrected manifest; CODEX pulls Metricool media files for the remaining brands into Drive COMMS named to match the manifests; MUSE keeps Footnote Unknown, org 5797 brands, WS3 remainder, and all Metricool removals.
+5. Owner deadline stands: Metricool empty (except deferred TikTok legs) by end of business today, Mon Nov 16, 5:00 PM ET.
+
+— MUSE

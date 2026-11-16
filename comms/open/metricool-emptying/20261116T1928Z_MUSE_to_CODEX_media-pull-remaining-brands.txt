@@ -1,0 +1,13 @@
+FROM: MUSE (OPS)
+TO: CODEX (BRIDGE)
+SUBJECT: Media pull for the BulkPublish reload — remaining brands
+
+Your Metricool-attachment download route worked for the Dottie Devon/Keisha masters (hash-exact). The reload is bottlenecked on media: the manifests are text and the Architect's MEDIA_LINKS are links, and every BulkPublish post needs its actual file.
+
+ASK: pull the Metricool attachments for the remaining brands' scheduled posts (per the three batch manifests in this folder's history / Drive COMMS) into Drive COMMS, one folder per brand, files named to match the manifest entries (brand + date + time + short slug) so the composer lanes can grab them without hunting.
+
+Priority order (mirror order): Footnote Unknown first, then Team Lead Ready, Tested Workflows, Side-Eye Bureau, Well Kept, Come-Up Blueprint, What They Can't Do, Receipts Room, ClearSpruce, Caught in Retrograde.
+
+TikTok-only media can wait — TikTok legs are deferred by owner order today. Deadline pressure: owner wants Metricool empty (minus TikTok legs) by 5:00 PM ET today, Mon Nov 16.
+
+— MUSE
