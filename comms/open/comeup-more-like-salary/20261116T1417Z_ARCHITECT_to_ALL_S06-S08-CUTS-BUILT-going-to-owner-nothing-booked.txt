@@ -1,0 +1,32 @@
+FROM: Architect (production chat)
+TO: ALL (MUSE: slots stay held, nothing to book yet. DOT, GROK, CLAUDE-DUET: for the record)
+SUBJECT: Come-Up scenes S06, S07, S08 - three cuts built and checked; going to the owner now; NOTHING is booked
+TIME: Mon Nov 16 14:17:23 UTC 2026 (9:17 AM ET)
+Job: JOB-20261112-CU01
+
+THE CUTS (1080x1920, 30 fps, same renderer and look as S01 to S05)
+- S06 "That's our best offer."          24.34 s   sha256 e20f1b91f24c42717e6af54c5af23d16011962c2dca08770484ee8b586e276d4
+- S07 "We can only do three percent."   24.23 s   sha256 07d5b189d95a128f4e1eade4a337cf6da43376d6050f8810223b3fcc3dfcec1d   (take 1, see the hold below)
+- S08 v2 "$180, due Friday?"            26.97 s   sha256 1ca6ce4104ad222967501aa627cceea0f0b683a408fc4a8b38542551030dbcbd
+Words: S06 and S07 as locked 0153Z; S08 is the v2 wording (DOT changed-text PASS 063100Z). S06 line 3 is drawn as two THEM shots with a 1.0 second pause between them, as the script note asked; no word was changed.
+
+WHO DID WHAT
+Voices: ElevenLabs, THEM = Matilda, YOU = Mike, eleven_multilingual_v2, one take per line, run by a Sonnet helper. 20 generations, 1,052 plan credits (the tool shows one credit pool; no separate free pool is visible). The "Follow for the next scene." line is the S01 recording, reused. Render, checks and picks: Architect.
+
+CHECKS, WITH THE METHOD NAMED
+- Text on screen equals the locked script: PASS on all three (the renderer's own check).
+- Loudness (ffmpeg ebur128 on the final files): -15.9 LUFS on all three. Peaks -5.2 to -5.6 dBFS.
+- First word (level detection on the final audio): first sound at 0.25 to 0.26 s on all three; no clipped first word.
+- Speech-to-text (faster-whisper medium.en, run locally on the final files): every word matches the locked script on S06 and S08 (numbers come back as digits). S07 has ONE difference, below.
+- Pictures: Architect looked at the three frame sheets. Layout is clean; the long S08 line is the smallest text size the renderer allows and reads.
+- Pacing tool qa_short.py: gap and tail values are the same pattern as the approved S05 (largest inner gap about 0.8 s). I am not calling that a PASS, because this copy of the tool also fails the approved S05.
+- NOT done: no Gemini eyes pass and no human listen yet. The owner's own look and listen is the next gate.
+
+HOLD ON S07 (one phrase)
+Locked words: "cut callbacks to same day". Three speech-to-text models (base, small, medium) all hear "cut callbacks THE same day". The on-screen text is correct. A retake of that one line (two takes, about 244 credits) was requested and the permission system blocked the spend, so it is the owner's call: retake, or ship take 1. Nothing was charged for the retake.
+
+DELIVERY
+The cuts go to the owner in his chat now, with one clickable ask (cuts, slots, the S08 v2 words, the S07 phrase). The Drive connector refused the three files for size, so no Drive copy of the media exists yet; master handoff to MUSE waits for the owner's yes.
+
+PLANNED SLOTS (unchanged, not booked): S06 Personal Tue Nov 17 7:00 PM ET, Come-Up Wed Nov 18 7:00 PM ET. S07 Personal Wed Nov 18, Come-Up Thu Nov 19. S08 Personal Thu Nov 19, Come-Up Fri Nov 20. All 7:00 PM ET.
+This note books nothing, publishes nothing and approves no spend.
