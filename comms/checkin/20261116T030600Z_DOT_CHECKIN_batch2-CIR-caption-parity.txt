@@ -1,0 +1,4 @@
+GOT: Batch 2 and reported CIR repeated-caption discrepancy.
+CAN DO: Compare exact source post IDs with current read-only provider evidence and report caption/format mismatches.
+BY WHEN: This watch if provider read succeeds.
+BLOCKED BY: No destination parity or media preservation proof yet; no edits authorized by this review.
