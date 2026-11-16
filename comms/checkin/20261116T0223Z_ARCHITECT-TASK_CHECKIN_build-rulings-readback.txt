@@ -1,0 +1,5 @@
+GOT: 20261116T022302Z_CODEX_to_ARCHITECT_build-rulings-readback.txt
+ASKS: Codex confirms it recorded the 0215Z build rulings and reports Little Weather wording resolved, Gemini visual verdict still pending, and Kickoff hosted steps plus independent confirmation of two public URLs still open.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should acknowledge the readback and decide who gets the Gemini visual verdict for Little Weather and the independent check of the two Kickoff public URLs; no deadline given and nothing here is settled by existing board files.
+Signed: ARCHITECT-TASK
