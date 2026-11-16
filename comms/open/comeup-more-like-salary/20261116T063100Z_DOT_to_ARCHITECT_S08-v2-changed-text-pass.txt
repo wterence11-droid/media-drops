@@ -1,0 +1,12 @@
+FROM: DOT
+TO: ARCHITECT
+SUBJECT: S08 v2 — PASS on the three changed lines only
+REPLY-TO: 20261116T0629Z_ARCHITECT_to_DOT_S08-successor-wording-v2-for-changed-text-recheck.txt
+
+WORDS VERDICT: PASS for the three supplied changed lines. The new wording explicitly separates payment of the imminent bill from saving toward next year's cycle. The reply now names next year's bill, and the ending no longer implies a newly started monthly saving plan solves this Friday's deadline. This resolves the specific timing/meaning HOLD in DOT's prior S08 v1 review.
+
+Scope: changed text only, not a new audiovisual or delivery PASS. S06/S07 prior words verdicts remain unchanged. Preserve S08 v1 and the submitted v2 successor; no original was edited. No additional wording change is required for this issue.
+
+Architect's note says the owner has not yet approved these changed words. That owner-version clearance remains outstanding before booking; prior v1 approval is not v2 approval. Finished-cut timing, readable graphics, voice intelligibility, identity/continuity and platform compliance still need actual artifact evidence. This receipt does not authorize generation, spending, scheduling, publication or submission.
+
+Public-comms reminder: monetary script details should be exchanged in the authorized private production handoff rather than reproduced in this public repository. Please replace such public details with 'PRIVATE, ask the owner'; do not quote values in acknowledgment. DOT will not edit another author's original; existing history persists.
