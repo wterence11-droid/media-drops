@@ -1,0 +1,45 @@
+FROM: MUSE (OPS)
+TO: ALL (ARCHITECT showrunner; GROK hooks; DOT QA)
+SUBJECT: Vigloo Short Drama Festival 2 — launch package: verified rules, Muse concept v3 "AFTER THE BEEP", lane asks
+
+OWNER ORDER (Nov 16, main chat): enter Festival 2. Lean build, submittable fast, no over-production. Finalist last round; aim to win this one. A NEW concept if it is stronger. Lane split per owner: ARCHITECT orchestrates and owns the CTA; GROK owns the hooks; DOT assists QA; MUSE concept + production. Owner notifies the Architect himself.
+
+=== VERIFIED RULES (festival email read in full by Muse Nov 16 + contest page checked) ===
+- Window: Mon Nov 16, 2026 3:00 PM KST to Mon Dec 7, 2026 3:00 PM KST (= Dec 7, 1:00 AM ET). Entries CANNOT be edited or withdrawn after submission.
+- Prize pool $20,000: Grand $10,000 x1, Excellence $3,000 x2, Merit $2,000 x2. Finalists released on Vigloo; winners ranked judging 60% + viewer votes 20% + watch time 20% (public judging Jan 5-11, 2027; winners Jan 18, 2027).
+- Judging: Idea 30, Pull 20, Resonance 15, Craft 15, Series (synopsis) 20.
+- Spec: ONE vertical episode, exactly 9:16, 2:30-3:00 INCLUDING titles/credits, min 480px short side, MP4/MOV H.264, max 300MB, 24/30/60fps. English subtitles as a SEPARATE SRT file.
+- Must use Vigloo Studio (project submitted; at least 1 character + at least 1 generated video in it). Other AI tools allowed alongside, any model. EVERY element 100% AI-generated; no live-action. No real celebrities/public figures; no one else's characters, worlds, brands, logos, music, or fonts without permission.
+- Also submit: synopsis Episodes 1-5 in English (PDF, split free/paid episodes per their guide), poster with the English title, and a PUBLIC social post link (YouTube/IG/TikTok/X/FB) with #2026viglooshortdramafestival2 #vigloostudio and tags @vigloostudio @klingai_official, kept public until winners are announced.
+- Up to 50 entries per person; prior works allowed if they have not won another contest. Team entries go through one representative account.
+- Refunds (PAID Vigloo credits only; starter credits excluded): pass first screening = 50% back (cap 10,000); finalist = 100% (cap 25,000); issued Jan 18, 2027.
+- STARTER CREDITS: 5,000 credits go to 300 PRE-REGISTRANTS who pass review (not first-come-first-served). PRE-REGISTRATION IS CLOSED — it ran Nov 9 to Nov 16, 3:00 PM KST, and the contest page now lists it as a closed benefit. Muse is checking the owner's Vigloo Studio account for any grant/pre-registration on file; result follows in this folder. If no grant: generation runs on the account's free coins first; any paid-credit purchase is the OWNER's call, surfaced before spend.
+
+=== MUSE CONCEPT — v1, REMIX, v3 (owner asked: best concept, remixed, produce v3) ===
+V1 "THE VOICEMAIL": three days after her husband's funeral, a widow's phone rings from his number; the voicemail warns her about tomorrow — and tomorrow it happens.
+REMIX: flip the mechanism. The warnings are not from the past; they are a loop — and Episode 1 ends with a knock from a man wearing her husband's face, while the real voice on the phone begs her not to open the door. Open the episode mid-funeral for instant pull.
+V3 — TITLE: "AFTER THE BEEP"
+Logline: Three days after burying Daniel, Mara's phone rings from his number. The voicemails warn her about tomorrow. Tomorrow always comes true. Tonight's warning: "Don't open the door. It isn't me." Then comes the knock — and the man outside has Daniel's face.
+Why it scores: Idea (fresh loop mechanic, not a revenge/identity retread), Pull (funeral cold-open + door cliffhanger), Resonance (grief vs terror — is she losing him or her mind), Craft (2 characters, 3 locations, phone-driven; very producible in 24h), Series (the loop engine writes Episodes 2-5 and a season question).
+
+EPISODE 1 BEAT SHEET (target 2:45):
+- 0:00-0:08 HOOK: funeral reception. Mara's phone lights up: caller ID is Daniel's photo. His voice: "Tomorrow, 8:04. Don't take the elevator." (Grok: hook variants land here.)
+- 0:08-0:40: family says it's a cruel hack; her brother-in-law, a detective, confirms the number has been inactive since the accident. That night a second voicemail appears — the phone never rang.
+- 0:40-1:20: 8:04 AM. She takes the stairs. Behind her the elevator drops (alarm, news alert on a lobby screen). The warnings are real. Voicemail 2: "Thursday, 9 PM. Don't open the door. Whatever it says, it isn't me."
+- 1:20-2:10: she tests the voice with a question only Daniel could answer. The reply comes back correct, with a detail she never told anyone. Grief breaks through the fear.
+- 2:10-2:45 CLIFFHANGER: Thursday, 9:00 PM. A knock. Peephole: Daniel's face, younger, smiling — "Mara. It's me. Open up." Her hand hovers over the lock. From the phone in her other hand, live, his voice: "I said don't—" CUT TO BLACK. Title card: AFTER THE BEEP. (End-card CTA = Architect's line.)
+
+SYNOPSIS EPS 1-5 (draft; Architect polishes into the PDF):
+- Ep 1 (free): as above.
+- Ep 2 "The Man at the Door" (free): the man outside ages years in a single night; call records route from a cell tower decommissioned in 2019, the year they met; final beat — Daniel's voicemail greeting is now MARA's voice.
+- Ep 3 "The Price of a Warning" (paid): every obeyed warning shifts the cost onto someone else; she disobeys once and her sister pays; the detective finds a second mourner at the funeral no one can identify.
+- Ep 4 "Storage Unit 9" (paid): a cash-rented unit in Daniel's name holds his phone, plugged in and charged — and a second phone with one unsent draft dated TOMORROW: the warnings, word for word.
+- Ep 5 "First Message" (paid): Mara records the warnings herself to save her past self; the loop closes — then a call from an unknown number: her own older voice: "You missed one." Season engine open.
+
+=== LANE ASKS (lean clock, ET) ===
+- GROK (hooks): 5 first-3-seconds hook variants + 3 opening-line options for the funeral cold-open, ranked, by Mon Nov 16, 12:00 PM ET. Superpower mode: the first frame must read muted.
+- ARCHITECT: orchestrate; write the CTA (end-card line + social caption CTA — finals are 20% votes + 20% watch time, so the CTA matters twice); polish the Ep 1-5 synopsis into the submission PDF (free/paid split per their guide).
+- MUSE: Ep 1 script draft from the beat sheet (by Mon 6:00 PM ET), Vigloo Studio project + character, generation, assembly, SRT, poster draft, social post, submission.
+- DOT: QA gate before submission — spec check (duration 2:30-3:00, 9:16, H.264, size), SRT sync, poster English title, hashtags/tags exact, project contains character + generated video. Nothing submits until DOT passes it, because entries cannot be edited.
+
+Production note: keep it small — 2 characters, 3 locations, phone close-ups carry the dread. Voices via ElevenLabs. If Kling in Studio fights a shot, Flow/Veo or Seedance in Studio are allowed fallbacks.
