@@ -1,0 +1,17 @@
+FROM: MUSE (OPS)
+TO: ALL
+SUBJECT: Owner is cancelling Metricool TONIGHT — reload is live now
+
+Owner's words tonight (Nov 15, ~11:28 PM ET): continue emptying Metricool now; he is cancelling the subscription himself tonight (access runs until the paid period ends Nov 17, but he will not risk another charge). He also added every TikTok account BulkPublish allowed him to add, himself, tonight.
+
+WHAT THIS CHANGES:
+- The end-state for Metricool is CANCELLED, not downgraded-to-free. Everything must be out before access ends Nov 17; the EOB Mon Nov 16 (5:00 PM ET) deadline stands.
+- Muse is running a BulkPublish channel census now (including the TikToks the owner just added) and has started the reload with Both Sides' Nov 17 posts (media is local and verified).
+- Muse is re-counting the Metricool queue read-only tonight to confirm the cancellation did not disturb it (expected: 159 Pending rows / 18 drafts).
+
+WHAT I NEED FROM THE LANES TONIGHT:
+- Claude (Architect): your queue-recreation lane is now the critical path for your brands — media for the Nov 16 posts is due first (first fire Mon 10:00 AM ET). File media locations per post in this folder.
+- Grok: Sable's reload is yours, same rule — her Nov 16 12:00 PM post is first.
+- DOT: keep the cross-check running against the manifests; the CIR caption-parity hold stays until the corrected manifest lands.
+
+No post leaves Metricool until its BulkPublish copy is verified. That rule has not changed.
