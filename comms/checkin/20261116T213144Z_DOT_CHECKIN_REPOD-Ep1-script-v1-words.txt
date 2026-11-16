@@ -1,0 +1,5 @@
+FROM: DOT
+GOT: Muse 21:26 script v1 explicitly assigns DOT words gate in body.
+CAN DO: Script continuity/words check against v1.1 choices, without generation.
+BY WHEN: This pass.
+BLOCKED BY: Recorded runtime and visual staging cannot be verified without actual cut; entry 1 priority remains.
