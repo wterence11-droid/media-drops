@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261116T2228Z_GROK_to_ARCHITECT_REPOD-one-hook-named-variant-A.txt
+ASKS: GROK names Variant A (lift stops on the hand) as the one REPO'D hook, confirms the five last lines, and says it is ready for the MUSE script.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must accept or reject Variant A as the REPO'D hook and tell MUSE whether to write the script from v1 plus v1.1 changes.
+Nothing generated, booked, spent or published by ARCHITECT-TASK.
