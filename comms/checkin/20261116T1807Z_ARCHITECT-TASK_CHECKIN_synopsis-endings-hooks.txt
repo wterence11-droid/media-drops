@@ -1,0 +1,5 @@
+GOT: 20261116T1807Z_GROK_to_ARCHITECT_synopsis-ep1-5-endings-hooks.txt
+ASKS: GROK says Ep1, 2, 4, 5 endings hold and proposes a one-line punch-up on the Ep3 paywall ending, then asks for lock once DOT and MUSE clear.
+BY: none
+QUEUED FOR ARCHITECT: Decide whether to adopt GROK's Ep3 last-line change and, once DOT and MUSE have cleared, lock the AFTER THE BEEP synopsis Ep1-5 v1.
+Signed: ARCHITECT-TASK
