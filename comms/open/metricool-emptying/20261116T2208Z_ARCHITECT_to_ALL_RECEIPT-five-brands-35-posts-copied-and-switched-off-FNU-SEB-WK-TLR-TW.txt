@@ -1,0 +1,68 @@
+FROM: Architect (production chat)
+TO: ALL (CODEX: check these 35 against your Drive pull, mismatches only. MUSE: the leftover YouTube legs below are yours unless my connector gets Workspace 3. DOT: for the record)
+SUBJECT: RECEIPT - five brands done in organization 5797: 35 posts copied, checked, and their Metricool copies switched off
+TIME: Mon Nov 16 22:08:38 UTC 2026 (5:08 PM ET)
+Authority: OWNER ORDER 2201Z. Method: MOVE PLAYBOOK in this folder. Done 5:02 to 5:09 PM ET by the Architect (pilot) and five Sonnet helpers, one per brand, through the BulkPublish and Metricool connectors.
+
+TOTALS
+- Copied + switched off: Footnote Unknown 7, Side-Eye Bureau 7, Well Kept 7, Team Lead Ready 7, Tested Workflows 7 = 35. Copy failed: 0. Switch-off failed: 0.
+- My own count after the run: BulkPublish organization 5797 shows 41 scheduled posts = these 35 plus Xiomara's 6.
+- Each copy was checked on creation: scheduled, right time, same caption, same media count, one pending leg per network, no error. I re-read one whole copy myself (Side-Eye Bureau 56007): three legs, title, category Comedy, not made for kids, synthetic on.
+- Every post dated Tue Nov 17 through Mon Nov 23 for these five brands is covered. None of them had a later date.
+
+STILL IN METRICOOL FOR THESE BRANDS (live there, in no other tool)
+- TikTok legs, by the owner's deferral: Side-Eye Bureau 7, Well Kept 7, Team Lead Ready 7, Tested Workflows 7.
+- YouTube legs with no channel in organization 5797: Team Lead Ready 7, Tested Workflows 7. MUSE: if those two YouTube channels are in Workspace 2 or 3, copy these 14 legs there and cut the Metricool posts down to TikTok only. Say which workspace.
+- Team Lead Ready LinkedIn text posts 420470074 (Nov 18) and 420470148 (Nov 20): BulkPublish has no LinkedIn channel for it. They stay and will be lost when Metricool ends unless LinkedIn is connected or they are posted by hand.
+- Footnote Unknown: nothing left. All 7 Metricool posts are drafts.
+
+NOT CARRIED (BulkPublish has no field): YouTube tags, and the Instagram AI label. The captions still say "AI voice"; the YouTube synthetic-content flag WAS carried.
+
+PER POST
+
+Footnote Unknown (FNU)
+  2026-11-17T11:15 | Metricool 421338340 -> BulkPublish 55971 | copied: facebook,instagram,youtube | still in Metricool: none | Metricool now: draft (id 430725967) | COPIED+SWITCHED_OFF (by Architect)
+  2026-11-18T11:15 | Metricool 421338357 -> BulkPublish 55977 | copied: facebook,instagram,youtube | still in Metricool: none | Metricool now: draft (id 430727868) | COPIED+SWITCHED_OFF
+  2026-11-19T11:15 | Metricool 421338362 -> BulkPublish 55979 | copied: facebook,instagram,youtube | still in Metricool: none | Metricool now: draft (id 430728178) | COPIED+SWITCHED_OFF
+  2026-11-20T11:15 | Metricool 421338375 -> BulkPublish 55984 | copied: facebook,instagram,youtube | still in Metricool: none | Metricool now: draft (id 430728496) | COPIED+SWITCHED_OFF
+  2026-11-21T11:15 | Metricool 421338392 -> BulkPublish 55989 | copied: facebook,instagram,youtube | still in Metricool: none | Metricool now: draft (id 430728743) | COPIED+SWITCHED_OFF
+  2026-11-22T11:15 | Metricool 421338404 -> BulkPublish 55994 | copied: facebook,instagram,youtube | still in Metricool: none | Metricool now: draft (id 430728969) | COPIED+SWITCHED_OFF
+  2026-11-23T11:15 | Metricool 421338418 -> BulkPublish 55997 | copied: facebook,instagram,youtube | still in Metricool: none | Metricool now: draft (id 430729187) | COPIED+SWITCHED_OFF
+
+Side-Eye Bureau (SEB)
+  2026-11-17T12:30 | Metricool 421273398 -> BulkPublish 55976 | copied: facebook,instagram,youtube | still in Metricool: tiktok | Metricool now: tiktok only (id 430727899) | COPIED+SWITCHED_OFF
+  2026-11-18T12:30 | Metricool 421273725 -> BulkPublish 55981 | copied: facebook,instagram,youtube | still in Metricool: tiktok | Metricool now: tiktok only (id 430728279) | COPIED+SWITCHED_OFF
+  2026-11-19T12:30 | Metricool 421273738 -> BulkPublish 55988 | copied: facebook,instagram,youtube | still in Metricool: tiktok | Metricool now: tiktok only (id 430728718) | COPIED+SWITCHED_OFF
+  2026-11-20T12:30 | Metricool 421273758 -> BulkPublish 55993 | copied: facebook,instagram,youtube | still in Metricool: tiktok | Metricool now: tiktok only (id 430728967) | COPIED+SWITCHED_OFF
+  2026-11-21T12:30 | Metricool 421273775 -> BulkPublish 55998 | copied: facebook,instagram,youtube | still in Metricool: tiktok | Metricool now: tiktok only (id 430729211) | COPIED+SWITCHED_OFF
+  2026-11-22T12:30 | Metricool 421273788 -> BulkPublish 56003 | copied: facebook,instagram,youtube | still in Metricool: tiktok | Metricool now: tiktok only (id 430729497) | COPIED+SWITCHED_OFF
+  2026-11-23T12:30 | Metricool 421273800 -> BulkPublish 56007 | copied: facebook,instagram,youtube | still in Metricool: tiktok | Metricool now: tiktok only (id 430729787) | COPIED+SWITCHED_OFF
+
+Well Kept (WK)
+  2026-11-17T12:30 | Metricool 421281482 -> BulkPublish 55974 | copied: facebook,instagram,youtube | still in Metricool: tiktok | Metricool now: tiktok only (id 430727807) | COPIED+SWITCHED_OFF
+  2026-11-18T12:30 | Metricool 421282081 -> BulkPublish 55982 | copied: facebook,instagram,youtube | still in Metricool: tiktok | Metricool now: tiktok only (id 430728280) | COPIED+SWITCHED_OFF
+  2026-11-19T12:30 | Metricool 421282098 -> BulkPublish 55987 | copied: facebook,instagram,youtube | still in Metricool: tiktok | Metricool now: tiktok only (id 430728618) | COPIED+SWITCHED_OFF
+  2026-11-20T12:30 | Metricool 421282111 -> BulkPublish 55992 | copied: facebook,instagram,youtube | still in Metricool: tiktok | Metricool now: tiktok only (id 430728943) | COPIED+SWITCHED_OFF
+  2026-11-21T12:30 | Metricool 421282127 -> BulkPublish 55996 | copied: facebook,instagram,youtube | still in Metricool: tiktok | Metricool now: tiktok only (id 430729149) | COPIED+SWITCHED_OFF
+  2026-11-22T12:30 | Metricool 421282148 -> BulkPublish 56001 | copied: facebook,instagram,youtube | still in Metricool: tiktok | Metricool now: tiktok only (id 430729380) | COPIED+SWITCHED_OFF
+  2026-11-23T12:30 | Metricool 421282230 -> BulkPublish 56005 | copied: facebook,instagram,youtube | still in Metricool: tiktok | Metricool now: tiktok only (id 430729590) | COPIED+SWITCHED_OFF
+
+Team Lead Ready (TLR)
+  2026-11-17T11:15 | Metricool 421276637 -> BulkPublish 55975 | copied: facebook,instagram | still in Metricool: tiktok,youtube | Metricool now: tiktok+youtube only (id 430727850) | COPIED+SWITCHED_OFF
+  2026-11-18T11:15 | Metricool 421276650 -> BulkPublish 55980 | copied: facebook,instagram | still in Metricool: tiktok,youtube | Metricool now: tiktok+youtube only (id 430728215) | COPIED+SWITCHED_OFF
+  2026-11-18T10:00 | Metricool 420470074 -> BulkPublish None | copied: - | still in Metricool: linkedin | Metricool now: unchanged (linkedin live) (id None) | STAYS (no channel)
+  2026-11-19T11:15 | Metricool 421276667 -> BulkPublish 55985 | copied: facebook,instagram | still in Metricool: tiktok,youtube | Metricool now: tiktok+youtube only (id 430728613) | COPIED+SWITCHED_OFF
+  2026-11-20T10:00 | Metricool 420470148 -> BulkPublish None | copied: - | still in Metricool: linkedin | Metricool now: unchanged (linkedin live) (id None) | STAYS (no channel)
+  2026-11-20T11:15 | Metricool 421276680 -> BulkPublish 55990 | copied: facebook,instagram | still in Metricool: tiktok,youtube | Metricool now: tiktok+youtube only (id 430728869) | COPIED+SWITCHED_OFF
+  2026-11-21T11:15 | Metricool 421276702 -> BulkPublish 55995 | copied: facebook,instagram | still in Metricool: tiktok,youtube | Metricool now: tiktok+youtube only (id 430729056) | COPIED+SWITCHED_OFF
+  2026-11-22T11:15 | Metricool 421276719 -> BulkPublish 56000 | copied: facebook,instagram | still in Metricool: tiktok,youtube | Metricool now: tiktok+youtube only (id 430729258) | COPIED+SWITCHED_OFF
+  2026-11-23T11:15 | Metricool 421276740 -> BulkPublish 56002 | copied: facebook,instagram | still in Metricool: tiktok,youtube | Metricool now: tiktok+youtube only (id 430729502) | COPIED+SWITCHED_OFF
+
+Tested Workflows (TW)
+  2026-11-17T11:15 | Metricool 421271208 -> BulkPublish 55978 | copied: facebook | still in Metricool: tiktok,youtube | Metricool now: tiktok+youtube only, draft false (id 430728022) | COPIED+SWITCHED_OFF
+  2026-11-18T11:15 | Metricool 421271455 -> BulkPublish 55983 | copied: facebook | still in Metricool: tiktok,youtube | Metricool now: tiktok+youtube only, draft false (id 430728346) | COPIED+SWITCHED_OFF
+  2026-11-19T11:15 | Metricool 421271783 -> BulkPublish 55986 | copied: facebook | still in Metricool: tiktok,youtube | Metricool now: tiktok+youtube only, draft false (id 430728690) | COPIED+SWITCHED_OFF
+  2026-11-20T11:15 | Metricool 421271794 -> BulkPublish 55991 | copied: facebook | still in Metricool: tiktok,youtube | Metricool now: tiktok+youtube only, draft false (id 430728939) | COPIED+SWITCHED_OFF
+  2026-11-21T11:15 | Metricool 421271807 -> BulkPublish 55999 | copied: facebook | still in Metricool: tiktok,youtube | Metricool now: tiktok+youtube only, draft false (id 430729326) | COPIED+SWITCHED_OFF
+  2026-11-22T11:15 | Metricool 421271819 -> BulkPublish 56004 | copied: facebook | still in Metricool: tiktok,youtube | Metricool now: tiktok+youtube only, draft false (id 430729551) | COPIED+SWITCHED_OFF
+  2026-11-23T11:15 | Metricool 421271841 -> BulkPublish 56006 | copied: facebook | still in Metricool: tiktok,youtube | Metricool now: tiktok+youtube only, draft false (id 430729816) | COPIED+SWITCHED_OFF
