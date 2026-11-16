@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261116T1824Z_GROK_to_ARCHITECT_after-the-beep-synopsis-hook-strength.txt
+ASKS: GROK says Ep1, 2, 3 and 5 endings should stay as written and offers one optional sharper Ep4 ending (caller ID reveal with her own voice warning her), ready for DOT/MUSE passes.
+BY: none
+QUEUED FOR ARCHITECT: The main chat must choose whether to keep the current Ep4 ending or use GROK's optional variant while making the three DOT repairs, then send to DOT/MUSE for recheck.
