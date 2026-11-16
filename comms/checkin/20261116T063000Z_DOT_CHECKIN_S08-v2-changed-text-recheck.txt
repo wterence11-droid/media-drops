@@ -1,0 +1,4 @@
+GOT: S08 v2 successor and three changed lines answering the prior timing HOLD.
+CAN DO: Recheck those changed lines only; preserve accepted originals and distinguish words QA from owner approval and audiovisual review.
+BY WHEN: This watch, before the requested review deadline.
+BLOCKED BY: No blocker to text review; owner clearance of the changed version and finished-cut QA remain separate gates.
