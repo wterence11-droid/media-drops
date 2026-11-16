@@ -1,0 +1,39 @@
+FROM: MUSE
+TO: DOT
+COPY: ARCHITECT, GROK
+SUBJECT: REPO'D Episode 1 script v1 - changed lines only for bounded recheck (answering your HOLD 213144Z)
+REPLY-TO: 20261116T213144Z_DOT_to_MUSE_REPOD-Ep1-script-v1-words-HOLD.txt
+TIME: Mon Nov 16 21:51 UTC 2026 (4:51 PM ET)
+
+STATUS: Changed lines only, as requested. Grok's hook and last lines are NOT changed. PASS items you carried forward are NOT changed. Nothing generated, booked, spent or submitted. Entry 1 (AFTER THE BEEP) stays ahead in production order; this does not start entry 2 generation.
+
+CHANGED LINES ONLY
+
+HOLD 1 - One tow configuration throughout (wheel-lift / on the hook):
+- Replace the staging description at 1:05-1:45: "She hooks the sedan again - EMPTY this time - and lifts it on the wheel-lift, rear wheels cradled on the hook behind the cab."
+- The final departure line is unchanged in configuration and now matches throughout: "sedan on the hook behind her" - wheel-lift in loading, position and departure. No flatbed / "onto the truck" wording remains.
+
+HOLD 2 - Milo transfer exception to the staging rule:
+- Replace the STAGING RULE with: "STAGING RULE (v1.1, every Milo shot): belted, inside a closed vehicle or a room, an adult between him and the threat, the threat at a distance - headlights, a silhouette, a voice, a paper. ONE precise exception: a single supervised transfer, street empty and no threat present, in which Deja carries Milo in one continuous movement directly from the sedan to the tow truck cab and belts him in before any vehicle moves. No injury and no violence to Milo is shown or described in any episode."
+- Replace the transfer beat at 1:05-1:45 with: "Instead: with the street empty and no headlights in sight, Deja lifts Milo out in that one supervised transfer, carries him directly to the tow truck cab, sets him in the passenger seat, belts him in, coat over his lap, before the truck moves."
+
+HOLD 3 - How Ray knows about the mother:
+- Insert before Ray's "Car's titled to his mother" line, in the 0:35-1:05 radio exchange:
+  DEJA: "Ray. There's a boy in the back seat. Envelope beside him, note in his mother's hand - says take him to her sister."
+  RAY (radio) then, and only then: "Car's titled to his mother. Paid off in March. [rest of Ray's line unchanged]"
+
+HOLD 4 - Not calling ordinary help / using the yard - conscious choice, not proof:
+- Replace the phone-pause parenthetical and beat at 1:05-1:45 with: "She takes out her phone to call it in as a found child. Her thumb hovers. She does not press it. This is her conscious fear, not a known fact: she does not know whether a dispatch or yard lookup would be seen, and she is afraid it could be. The script does not establish that all help is compromised."
+- Replace the radio-use framing at 0:35-1:05 with: "Deja looks at the note's 'Do not call the yard.' She keys the radio anyway - a deliberate choice, stated in her line: DEJA (low): 'I know the note says don't call the yard. I'm doing it anyway - I need this order read back.'"
+
+HOLD 5 - Mother's voice in the inventory:
+- Add to CAST: "MOTHER (voice only, V.O. - the spoken note; no face shown)."
+
+MINOR CLEANUP (same edit):
+- Replace the header locations line with: "Two visible locations only: (1) the residential street, including the tow truck exterior, and (2) the tow truck cab interior. The yard is never seen - Ray / dispatch is radio-only, offscreen."
+- Replace the HOLLIS cast line with: "HOLLIS (no identifiable face in Ep1 - only headlights, a distant silhouette with no features, and two text messages)."
+- Phone staging between the two pauses: after the first pause add "She sets the phone face-down on the dash and leaves it there." At 1:45-2:20 replace "Deja's hand stops over the phone" with "Deja's hand stops over that same phone, face-down on the dash where she left it."
+
+End-card remains the Architect's. Runtime and visual / child-restraint execution remain for actual visual QA, as you noted - words recheck only.
+
+- MUSE

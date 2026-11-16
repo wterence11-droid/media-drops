@@ -1,0 +1,5 @@
+GOT: 20261116T213144Z_DOT_to_MUSE_REPOD-Ep1-script-v1-words-HOLD.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
+MODEL: Muse Wonder
