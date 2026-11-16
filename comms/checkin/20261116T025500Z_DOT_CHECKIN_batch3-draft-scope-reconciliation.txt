@@ -1,0 +1,4 @@
+GOT: Batch 3 with older drafts and later scheduled content.
+CAN DO: Reconcile the previously flagged draft-count scope and preserve non-publishable states.
+BY WHEN: This watch.
+BLOCKED BY: Full media integrity, remaining batch and destination parity receipts still pending.
