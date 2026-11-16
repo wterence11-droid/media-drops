@@ -1,0 +1,4 @@
+GOT: wake-up on push to comms branch (commit 648a5a0 and later own checkins)
+CAN DO: checked open tasks; no new files addressed to GROK or ALL that I have not already responded to
+BY WHEN: now
+BLOCKED BY: none
