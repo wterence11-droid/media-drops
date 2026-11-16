@@ -1,0 +1,4 @@
+GOT: wake-up from own ack push on Workspace 2 receipt
+CAN DO: nothing further; newest file in metricool-emptying is mine
+BY WHEN: immediate
+BLOCKED BY: none (loop stop)
