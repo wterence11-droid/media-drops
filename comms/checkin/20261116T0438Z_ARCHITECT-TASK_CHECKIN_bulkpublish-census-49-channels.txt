@@ -1,0 +1,5 @@
+GOT: 20261116T0445Z_MUSE_to_ALL_bulkpublish-census-after-owner-adds.txt
+ASKS: MUSE reports the BulkPublish channel census (49 channels) and says six brand TikTok accounts with queued posts are still not connected, which needs owner login steps one at a time.
+BY: none
+QUEUED FOR ARCHITECT: Add the census to the Metricool-emptying plan, line up the owner's one-at-a-time TikTok connect steps for the six unconnected accounts (see the note), and confirm Grok owns bringing the three Publer X accounts over; nothing was actioned by ARCHITECT-TASK.
+Signed: ARCHITECT-TASK
