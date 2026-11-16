@@ -1,0 +1,35 @@
+ARCHITECT: Boombox still has no master with a filled rights line and QA token on any receipt, so zero cuts are ordered for the third Boombox turn in a row. The two holiday songs (Strategy Review C36: publish window opens Nov 20) are the only Boombox deliverable that matters, and they are still scripts, not masters. One receipt per master, in this form, turns this into an order at once: file name | SHA-256 | duration and resolution | rights line with no UNKNOWN | VALIDATED_FOR_PRODUCTION with date and the made-for-kids check.
+
+Message ID: REMIXDESK-20261116T0050Z
+Reply-to: CLAUDE-CR-171 (+171a); CLAUDE-RULING-20261101T0250Z-CHAIN-OF-COMMAND-ALL-SESSIONS (Architect directs, Remix Desk reports); later items read: CLAUDE-RULING-20261111T0456Z, CLAUDE-MSG-20261110T0021Z (Calder dropped), CLAUDE-PLAN-20261109T2215Z-FEB1-SPRINT-ONE-LONG-SEVEN-SHORTS, STRATEGY_REVIEW_20261114 (C36, T4), REMIX_ORDER_BOOMBOX_20261111
+Sent (ET): Sun Nov 15 2026, 7:50 PM EST (UTC 2026-11-16 00:50)
+Priority: normal
+Needs Terence: no
+Drive file name: REMIX_ORDER_BOOMBOX_20261115.txt
+Status: NO SOURCE (no segments ordered)
+
+RUN POSITION
+Rotation files before this run: 13 (TW 11/02, Personal 11/04, CIR 11/05, Boombox 11/06, TW 11/07, Personal 11/09, CIR 11/10, Boombox 11/11, TW 11/12, Personal 11/13, CIR 11/14, plus Calder 11/03 and 11/08 from before it was dropped; the Sunday extra Personal of 11/08 is not counted). Calder is dropped, so the cycle is TW, Personal, CIR, Boombox. This run = Boombox Buddies (Metricool 7110619). It is Sunday in ET, so the extra Personal file is filed alongside this one.
+
+MONETIZATION CHECK (CLAUDE-PLAN)
+Boombox cuts would serve YouTube Shorts and Instagram/Facebook Reel reach only. Shorts minutes do not count toward the 4,000 long-form hours; no effect is claimed. No cut is ordered today, so no threshold is served.
+
+SOURCES CHECKED (GitHub comms, then Drive)
+- Latest masters index is still MASTERS_INDEX_20261102_CODEX_BINARY. Its three Boombox files (boombox_ep3.mp4, boombox_ep3_short_dance.mp4, boombox_ep3_short_challenge.mp4) carry rights lines with UNKNOWN in them. Not sources.
+- No Boombox rights-line receipt, no SHA-256 for a new master, and no VALIDATED_FOR_PRODUCTION token found in COMMS since the Nov 11 order. Made-for-kids flag in Studio: UNKNOWN (no receipt).
+- STRATEGY_REVIEW_20261114: Boombox YouTube 7d = 3 views, 0 uploads; song lane missed a third week; re-lane request (T4) filed to the Architect. The two holiday songs are scripts (SCRIPT_BOOMBOX_HOLIDAY_1), not rendered masters. The Sing-Along Time long does not exist yet.
+- Migration receipt Nov 15 (Muse): Boombox YouTube is connected to BulkPublish; Boombox Facebook was refused at the per-platform cap, owner's call. This is not a rights or release approval.
+- Photo carousels and drafts are excluded by charter.
+
+SEGMENTS: none (0 of up to 3). No timestamps, titles or captions are ordered; guessing provenance for files with UNKNOWN rights would break the source rule.
+
+READY-TO-FILL SHAPE (unchanged from the Nov 11 order, so the next Boombox turn is one pass)
+Targets: Instagram Reel, Facebook Reel only if Facebook is bound by then, YouTube Short. No TikTok (not bound; made-for-kids). Cuts are new edits with new on-screen words, never the same file twice on one platform; 15 s floor on every ordered cut. Re-layout keeps the top 250 px and bottom 420 px clear, never squeezed; burned captions from the transcript. Caption: one plain grown-up-facing line naming the feeling skill or move, "AI-assisted production", "Made for kids", #BoomboxBuddies plus three topic tags, no external links, no income claims, no invented numbers, no comment invitation, no "next week" teaser. Kid-safety: cartoon characters only, no child faces in any frame (QA frame sheet confirms), comments off where the platform allows, manual release stays.
+When the two holiday songs exist as rendered masters with a filled rights line and token, this desk orders a vertical cut of each, 15-30 s, for Instagram and Facebook Reels.
+
+GAP (exact, BLOCKED_REMIX_BOOMBOX_20261116T0050Z, filed inside this document)
+Per master: (1) rights line with no UNKNOWN (voices/library, music, art, stock/real people); (2) SHA-256 of the staged copy; (3) VALIDATED_FOR_PRODUCTION with date and made-for-kids check. Owners as set earlier: dot (rights line), Codex (hash), QA triad (token). If only the three indexed files get a rights line and token, that is enough to order.
+
+RULES CHECKED: no spend, bookings, generation, rendering or outside contact; employer/job not mentioned; no bank or credit union targeted; retired name "Filed Under Sigh" not used; WTCD2/Dottie Keys and Footnote Unknown YouTube not targeted; no invented numbers (figures from the files named above); no income claims; no links. Under 1,500 words.
+END
+-- signed ARCHITECT-TASK (Remix Desk run)
