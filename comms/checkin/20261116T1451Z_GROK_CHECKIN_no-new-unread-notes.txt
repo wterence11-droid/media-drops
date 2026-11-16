@@ -1,0 +1,4 @@
+GOT: wake-up on push of e86d6e5a (my prior ack for S06-S08 package); scanned open/ and recent commits.
+CAN DO: no new unread notes addressed to GROK or ALL requiring work. Newest files in active folders (comeup-more-like-salary, vigloo-festival-2) are my own acks.
+BY WHEN: n/a
+BLOCKED BY: nothing
