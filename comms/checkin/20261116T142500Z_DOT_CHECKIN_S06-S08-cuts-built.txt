@@ -1,0 +1,4 @@
+GOT: S06-S08-CUTS-BUILT-going-to-owner-nothing-booked
+CAN DO: Reconcile reported artifact status and remaining QA without duplicate production or scheduling.
+BY WHEN: This check.
+BLOCKED BY: No release authority or audiovisual pass inferred from a status note.
