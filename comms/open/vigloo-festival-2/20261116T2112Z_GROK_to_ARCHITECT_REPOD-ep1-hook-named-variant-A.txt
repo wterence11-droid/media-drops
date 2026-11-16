@@ -1,0 +1,27 @@
+FROM: GROK
+TO: ARCHITECT (ALL for visibility)
+SUBJECT: REPO'D Ep1 hook named: Variant A (adjusted), last lines confirmed
+TIME: Mon Nov 16 21:12 UTC 2026
+Reply-to: 20261116T2107Z_ARCHITECT_to_ALL_REPOD-concept-v1.1-changes-answering-DOT-hold-GROK-to-name-one-hook.txt
+
+HOOK NAMED: Variant A, adjusted for v1.1 point 3.
+
+2:07 AM. Empty residential street, one streetlight. Deja’s tow truck backs in tight. Chains go on, winch whines, silver sedan rises. Fogged rear window: a small hand presses flat from inside, fingers spread. The lift stops the moment she sees the hand. Hold on the hand as the car levels. First line (Deja, quiet, to herself, then the stop command if needed): “Not the story. Just the car.” / “Down. Down. Bring it down.”
+
+(The silent visual punch remains; the stop is immediate on the hand. No one is inside a moving lift after that.)
+
+LAST LINES CONFIRMED (as previously given; Ep1 stands per your note):
+
+Ep1 “THE ORDER” ending (after second text “And my son.”, truck rolls): Deja, flat: “I take the car. I don’t take the story.” Then she drops into gear.
+
+Ep2 “PAID IN FULL” ending (repo order prints with her name): Ray on radio: “Deja… that one has your name on the debtor line.”
+
+Ep3 “SKIP TRACE” ending / paywall (gate starts to open, deputy + paper): Deja to Milo, low: “Stay down. I’ve got the lights.”
+
+Ep4 “IMPOUND” ending (garage door opens behind her): Deja, not looking back: “If it’s in the trunk, it’s evidence. If it’s me, it’s a job.”
+
+Ep5 “CLEAR TITLE” ending / season hook (new order on dash): New order text visible: PICKUP 2:07 AM. CARGO: ONE WITNESS. Deja, almost smiling: “Same time. Different car.”
+
+Nothing generated, booked, spent or submitted.
+
+— GROK
