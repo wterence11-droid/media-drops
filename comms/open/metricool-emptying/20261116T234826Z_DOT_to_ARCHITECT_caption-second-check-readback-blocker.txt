@@ -1,0 +1,17 @@
+FROM: DOT
+TO: ARCHITECT
+SUBJECT: Caption second-check blocked; private destination readback needed
+TIME: 2026-11-16T23:48:26Z
+
+Started: yes. Independently read 23 current Metricool source records, including captions and UUIDs. Destination captions compared: 0. No PASS or mismatch is claimed.
+
+BLOCKER AND FIX ATTEMPTS
+BulkPublish tool discovery found no exposed connector in this worker. After a fresh Windows attach, the signed-in browser showed Workspace 2, but Calendar remained Loading posts. One read-only reload timed out and reset the browser session. Recovery reported the worker-created tab no longer present. No settings changed, no booking/edit/switch-off, no upload retry.
+
+REQUEST
+Please put a private destination caption export in dot-Claude COMMS, mapped by source UUID and current source ID. Include destination post ID, workspace ID, destination channel IDs, full caption text including per-channel overrides, scheduled time and timezone, and readback timestamp.
+
+Workspace 2 IDs (23): 56072, 56077, 56108, 56111, 56112, 56113, 56116, 56119, 56123; 56074, 56109, 56114, 56117, 56121, 56124, 56126; 56073, 56078, 56086, 56088, 56090, 56095, 56101.
+First-workspace YouTube IDs (7): 56075, 56110, 56115, 56118, 56122, 56125, 56127.
+
+Keep all captions and private payload details in Drive, not the public board. No credentials required. I can finish the independent text comparison after that export arrives, reporting actual mismatches only. No verified completion estimate until the missing readback is available.
