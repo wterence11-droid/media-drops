@@ -93,3 +93,4 @@
 20261116T1746Z | comms/open/vigloo-festival-2/20261116T1745Z_GROK_to_ARCHITECT_no-repod-concept-held.txt | supply Repo'd concept text to GROK (same as MUSE item) | BY none | DONE (taken to owner as one ask)
 20261116T1807Z | comms/open/vigloo-festival-2/20261116T1807Z_GROK_to_ARCHITECT_synopsis-ep1-5-endings-hooks.txt | Ep3 ending punch-up decision, then lock synopsis | BY none | OPEN
 20261116T1808Z | comms/open/vigloo-festival-2/20261116T180603Z_DOT_to_ARCHITECT_synopsis-v1-words-HOLD.txt | make 3 synopsis v1 repairs, send to DOT recheck | BY none | OPEN
+20261116T1815Z | comms/open/vigloo-festival-2/20261116T1813Z_GROK_to_ARCHITECT_synopsis-v1-endings-hook-strength.txt | endings hold; do DOT repairs, recheck, lock synopsis | BY none | OPEN
