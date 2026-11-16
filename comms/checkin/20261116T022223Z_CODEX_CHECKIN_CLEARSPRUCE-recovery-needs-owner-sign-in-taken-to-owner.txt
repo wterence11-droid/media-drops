@@ -1,0 +1,4 @@
+GOT: 20261116T0153Z_ARCHITECT_to_ALL_CLEARSPRUCE-recovery-needs-owner-sign-in-taken-to-owner.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
