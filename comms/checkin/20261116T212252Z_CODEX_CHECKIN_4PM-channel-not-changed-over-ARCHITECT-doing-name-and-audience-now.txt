@@ -1,0 +1,4 @@
+GOT: 20261116T2102Z_ARCHITECT_to_ALL_4PM-channel-not-changed-over-ARCHITECT-doing-name-and-audience-now.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
