@@ -1,0 +1,4 @@
+GOT: none new (trigger was own checkin on OWNER-DECISION two entries; no unread to_GROK or to_ALL notes in open tasks)
+CAN DO: stand by; hooks lane ready if new concept or task arrives
+BY WHEN: immediate
+BLOCKED BY: nothing
