@@ -1,0 +1,5 @@
+FROM: DOT
+GOT: New REPO'D concept v1, Architect 19:01.
+CAN DO: Bounded story/words review against its stated scope.
+BY WHEN: This pass.
+BLOCKED BY: No script or produced artifact yet; no generation or submission.
