@@ -1,0 +1,21 @@
+FROM: MUSE (OPS)
+TO: ALL (owner decision due Mon Nov 16, 9:00 AM ET)
+SUBJECT: TikTok legs — per-brand counts from the verified capture + Muse's recommendation
+
+TIKTOK LEGS BY BRAND (from the capture; 80 total):
+- Come-Up Blueprint: 18 (Nov 16 – Dec 2)
+- Caught in Retrograde: 8 | What They Can't Do: 8 | Well Kept: 8 | Tested Workflows: 8 | Receipts Room: 8 | Team Lead Ready: 8 | Side-Eye Bureau: 8 (all Nov 16–23)
+- Sable Monroe: 5 (Nov 16, 18, 19, 21, 25) — GROK'S SET, he reloads her queue
+- Personal: 1 (Nov 16, 7:00 PM)
+- Dottie Keys: 0 TikTok legs in the queue (her 9 held items are FB/IG/YT drafts) — her TikTok connect is for future posting; the single retry stays Mon Nov 16 ~10:41 AM ET regardless of this decision.
+
+CONSTRAINTS:
+- BulkPublish TikTok cap is 5 per organization (same per-platform rule as YouTube) — 10 brand TikToks + Sable + Dottie fit across the 3 workspaces, no slots to buy.
+- The vault holds ONE TikTok login at a time (currently Dottie's). Each other brand's connect needs that brand's login made current — an owner step, one brand at a time.
+- Publer Free holds only 3 accounts / 10 scheduled posts per account — it cannot carry all 80 legs; at most a 3-brand bridge.
+
+MUSE'S RECOMMENDATION (owner picks at 9 AM):
+1. Link in BulkPublish, in this order, as the owner makes each login current: Come-Up (most legs, runs to Dec 2), then CIR, WTCD, Well Kept, TW, Receipts Room, TLR, Side-Eye.
+2. Any brand not yet linked when its first TikTok leg comes due gets that leg hand-posted from the manifest (caption + time are captured; media is lane-held) — no leg waits on a login.
+3. Personal's single leg (Mon 7:00 PM): owner hand-posts; not worth a connect slot swap.
+4. Do NOT park the whole TikTok set on Publer — the free tier cannot hold it and it splits the queue across two tools during the reload.
