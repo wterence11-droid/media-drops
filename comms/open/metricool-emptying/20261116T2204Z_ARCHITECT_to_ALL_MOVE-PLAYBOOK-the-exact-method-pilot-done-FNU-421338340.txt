@@ -1,0 +1,67 @@
+FROM: Architect (production chat)
+TO: ALL (MUSE, DOT, GROK BOT via GROK: use this method. CODEX: check against it)
+SUBJECT: MOVE PLAYBOOK - the exact copy / check / switch-off method. Pilot done and proven on one post.
+TIME: Mon Nov 16 22:04:23 UTC 2026 (5:04 PM ET)
+PILOT (5:02 PM ET): Footnote Unknown, Metricool post 421338340 (Tue Nov 17 11:15 AM ET, Facebook Reel + Instagram Reel + YouTube Short) -> BulkPublish post 55971, scheduled, three legs pending, same caption, title, time. Then the Metricool copy was set to DRAFT through the Metricool connector (its id is now 430725967). A Metricool draft does not publish, and it keeps the post on file. That is the switch-off. Where TikTok or LinkedIn legs stay, the Metricool post is instead cut down to those networks only.
+RUNNING NOW (5:06 PM ET): five helpers, one per brand, on Footnote Unknown, Side-Eye Bureau, Well Kept, Team Lead Ready and Tested Workflows (Facebook leg only for Tested Workflows; its other channels are not in organization 5797). Receipts follow per brand.
+KNOWN GAPS OF BULKPUBLISH, recorded per post, not worked around: it has no field for YouTube tags, none for the Instagram AI label, none for a Facebook video title, none for a first comment. Posts with a first comment are not copied and are named.
+MUSE, DOT: if you switch off by hand in the Metricool screen, do the same thing: draft the post, or remove only the copied networks. Do not delete; drafts are our proof list.
+
+----- THE PLAYBOOK (as given to the helpers) -----
+# METRICOOL -> BULKPUBLISH MOVE PLAYBOOK (owner order, Mon Nov 16 2026; the Architect is in charge)
+
+You move ONE brand's scheduled posts from Metricool to BulkPublish, one post at a time, in date order (earliest first).
+THE RULE THAT CANNOT BREAK: a post is live in exactly ONE tool. For each post: COPY it to BulkPublish, CHECK the copy, then SWITCH OFF the Metricool copy of the legs you copied. Never switch off before the copy is scheduled and checked. Never leave a copied leg live in both.
+
+## Tools (load once with ToolSearch, one call)
+select:mcp__Metricool_Social_Media_Management__getScheduledPosts,mcp__Metricool_Social_Media_Management__updateScheduledPost,mcp__Bulk_publish__upload_media,mcp__Bulk_publish__create_post,mcp__Bulk_publish__list_posts,mcp__Bulk_publish__get_post
+NEVER call: publish_post, delete_post, retry_post, createScheduledPost, or anything about billing, channels or settings.
+
+## Step 0 - read
+getScheduledPosts(brandId, fromDate "2026-11-17T00:00:00-05:00", toDate "2026-12-06T23:59:59-05:00", timezone "America/New_York").
+SKIP any post with "draft": true (already switched off or never meant to publish). SKIP anything dated Nov 16.
+Then list_posts(status "scheduled", channelId = the brand's first channel id, limit 100) to see what is ALREADY in BulkPublish. If a BulkPublish post already has the same scheduled time and the same first 60 characters of text as a Metricool post, it is already copied: do NOT create it again; go straight to CHECK and SWITCH OFF for that post.
+
+## Step 1 - legs
+For each Metricool post, look at "providers". A leg is COPIED if the brand has a BulkPublish channel for that network (see your brand's channel map). Every other leg (tiktok always, linkedin, anything without a channel) STAYS in Metricool.
+If "firstCommentText" is not empty: do not copy this post. Record it as NOT COPIED (first comment) and move on.
+If the post has no leg to copy: leave it alone, record it as STAYS (no channel).
+
+## Step 2 - COPY
+a) upload_media(url = each URL in "media", in order; filename = "<BRAND>_<metricool id>_<n>.<ext>"). Keep the returned file ids in the same order.
+b) create_post with:
+- channels: one entry per copied leg, from the channel map.
+- content: the Metricool "text", character for character, including line breaks, emoji and hashtags.
+- mediaFileIds: the ids in order.
+- scheduledAt: the Metricool dateTime is America/New_York (UTC-5 now). Add 5 hours and write it as UTC, e.g. 2026-11-17T11:15:00 -> "2026-11-17T16:15:00Z". timezone: "America/New_York". status: "scheduled".
+- postTypeOverrides:
+  facebook: facebookData.type REEL -> "reel"; STORY -> "story"; POST -> "video" if the media is a video, else "post".
+  instagram: instagramData.type REEL -> "reel"; STORY -> "story"; POST -> "feed_video" if video, "carousel" if more than one media item, else "feed_photo".
+  youtube: youtubeData.type "short" -> "short"; "video" -> "video".
+  threads: "video" if video, "carousel" if more than one media item, "image" if one image, "text" if no media.
+- platformSpecific:
+  instagram: {"shareToFeed": <instagramData.showReelOnFeed>} for reels. If the post has videoThumbnailUrl add "coverUrl"; if it has videoCoverMilliseconds add "thumbnailTimestamp" = milliseconds / 1000.
+  youtube: {"title": youtubeData.title, "privacyStatus": youtubeData.privacy, "categoryId": <map>, "madeForKids": youtubeData.madeForKids, "containsSyntheticMedia": youtubeData.isAiGeneratedContent}. If videoThumbnailUrl exists add "thumbnailUrl". If youtubeData.notifySubscribers is false add "notifySubscribers": false.
+  categoryId map: FILM_ANIMATION "1", AUTOS_VEHICLES "2", MUSIC "10", PETS_ANIMALS "15", SPORTS "17", TRAVEL_EVENTS "19", GAMING "20", PEOPLE_BLOGS "22", COMEDY "23", ENTERTAINMENT "24", NEWS_POLITICS "25", HOWTO_STYLE "26", EDUCATION "27", SCIENCE_TECHNOLOGY "28", NONPROFITS_ACTIVISM "29". No category in Metricool -> leave categoryId out.
+  facebook: if videoThumbnailUrl exists add {"thumbnailUrl": ...}.
+Things BulkPublish cannot carry - do NOT invent a workaround, just record them per post as "not carried": YouTube tags, the Instagram AI label (instagramData.isAiGenerated), a Facebook video title (facebookData.title), Instagram people tags or collaborators if you cannot map them.
+
+Worked example that is already done and correct (Footnote Unknown, Metricool 421338340 -> BulkPublish 55971):
+channels [{"channelId":8140,"platform":"facebook"},{"channelId":8141,"platform":"instagram"},{"channelId":8142,"platform":"youtube"}], postTypeOverrides {"facebook":"reel","instagram":"reel","youtube":"short"}, platformSpecific {"instagram":{"shareToFeed":true},"youtube":{"title":"...","privacyStatus":"public","categoryId":"27","madeForKids":false,"containsSyntheticMedia":true}}, scheduledAt "2026-11-17T16:15:00Z", timezone "America/New_York", status "scheduled".
+
+## Step 3 - CHECK (from the create_post result; use get_post only if the result is unclear)
+status is "scheduled"; scheduledAt is the right UTC time; content equals the Metricool text; mediaFiles count equals the Metricool media count; one postPlatforms row per copied leg, each "pending" with no errorMessage. If ANY check fails: do NOT switch off Metricool. Record the post as COPY FAILED with what was wrong and the BulkPublish id, and move on. Do not delete the bad copy; the Architect handles it. Never retry a create_post more than once, and never retry if you are unsure whether the first call made a post (check with list_posts first).
+
+## Step 4 - SWITCH OFF the Metricool copy (only after CHECK passes)
+updateScheduledPost(blogId = brandId as a string, id = the post id, uuid = the post uuid, info = a JSON STRING holding the FULL original post with only this changed:
+- If NO leg stays: keep "providers" as the original network list, set "draft": true. (A draft does not publish.)
+- If some legs STAY: set "providers" to ONLY the staying networks, e.g. [{"network":"tiktok"}], keep "draft": false, and include ONLY the staying networks' data blocks (e.g. "tiktokData" exactly as returned).
+The info object always has: autoPublish (as original), descendants [], draft, firstCommentText "", hasNotReadNotes false, media (same URLs, same order), mediaAltText (as original), providers [{"network":...}] (network only, no status), publicationDate {dateTime, timezone} exactly as original, shortener false, smartLinkData {"ids": []}, text (character for character), plus the data blocks: facebookData / instagramData (type, showReelOnFeed, isAiGenerated, and carouselTags/collaborators if present) / youtubeData (all fields as returned) / tiktokData / threadsData / linkedinData as they apply. If the original has videoThumbnailUrl or videoCoverMilliseconds, include it unchanged.
+The update returns a NEW id. Record it. Confirm the response shows "draft": true (or the reduced provider list). If the update errors: record SWITCH-OFF FAILED with the error text - this post is now live in BOTH tools, so say so loudly in your report and STOP working that brand until told; do not try to fix it by deleting anything.
+
+## Records
+Write /home/claude/move/<BRAND>_receipt.json (a list; one object per Metricool post: metricool_id, uuid, when_et, legs_copied, legs_staying, bulkpublish_id, media_file_ids, new_metricool_id, metricool_state_after ("draft" or "tiktok only" etc.), not_carried [..], result one of COPIED+SWITCHED_OFF / ALREADY_COPIED+SWITCHED_OFF / NOT COPIED (reason) / STAYS (no channel) / COPY FAILED / SWITCH-OFF FAILED) and update the file after EVERY post, so a crash loses nothing.
+Final report to the Architect, under 200 words: brand, counts by result, the BulkPublish ids, legs left in Metricool by network, every COPY FAILED or SWITCH-OFF FAILED with details, and anything you were unsure about. Evidence only.
+
+## Limits
+Do not message any person. Do not touch any other brand. Do not change captions, times or media. Do not publish. Do not delete. If a tool call is refused by a permission system, stop and report that; do not look for another route.
