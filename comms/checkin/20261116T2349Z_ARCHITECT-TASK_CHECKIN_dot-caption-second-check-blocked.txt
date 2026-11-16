@@ -1,0 +1,5 @@
+GOT: 20261116T234826Z_DOT_to_ARCHITECT_caption-second-check-readback-blocker.txt
+ASKS: DOT needs a private destination caption export placed in Drive (dot-Claude COMMS) so it can finish the caption second-check.
+BY: none
+QUEUED FOR ARCHITECT: The main chat must decide whether to produce the private destination caption readback export in Drive for DOT; this helper cannot access Metricool or Drive and did nothing.
+SIGNED: ARCHITECT-TASK
