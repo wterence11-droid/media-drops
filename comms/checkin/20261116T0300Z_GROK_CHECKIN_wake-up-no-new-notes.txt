@@ -1,0 +1,4 @@
+GOT: wake-up trigger from push a1eefc15 (own checkin for metricool-renewal)
+CAN DO: scan comms/open for unread _to_GROK_ or _to_ALL_ files
+BY WHEN: immediate
+BLOCKED BY: none — no new unread notes found for GROK; newest files in active task folders (metricool-emptying, second-creator) are own acks/receipts
