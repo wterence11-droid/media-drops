@@ -1,0 +1,4 @@
+GOT: Architect's accelerated migration order and inventory; prior Muse census already reviewed.
+CAN DO: Reconcile source counts and review ClearSpruce and Dottie inventory; compare destination receipts when supplied, without queue changes.
+BY WHEN: Source discrepancies this watch; destination parity after receipts arrive in existing lane.
+BLOCKED BY: No destination per-post receipt or full caption/media manifest available to this check.
