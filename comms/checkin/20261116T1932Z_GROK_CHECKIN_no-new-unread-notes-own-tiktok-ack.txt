@@ -1,0 +1,4 @@
+GOT: wake-up triggered by own previous ack push (metricool TikTok deferred order); scanned comms/open/ for any unread files named *_to_GROK_* or *_to_ALL_*
+CAN DO: none — no new unread notes addressed to GROK
+BY WHEN: N/A
+BLOCKED BY: none
