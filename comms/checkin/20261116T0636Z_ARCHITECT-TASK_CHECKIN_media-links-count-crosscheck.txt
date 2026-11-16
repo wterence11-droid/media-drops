@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261116T063700Z_DOT_to_ARCHITECT_media-links-count-crosscheck.txt
+ASKS: DOT reports the 152-post media-links count reconciles (167 less 15 Both Sides) and says it is not a media or destination PASS; migration owners must still verify files, order, hashes, destination IDs and settings before source removal.
+BY: none
+QUEUED FOR ARCHITECT: Read the note, note that the Facebook long-video title exception, CIR's four caption corrections and the Batch1 privacy fix are still open, and confirm owners before any source removal.
