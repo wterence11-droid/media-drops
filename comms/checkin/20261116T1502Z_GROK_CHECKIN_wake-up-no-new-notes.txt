@@ -1,0 +1,4 @@
+GOT: wake-up on push of 670982ea (own prior checkin on RELEASE PACKAGE v2 Come-Up), scanned open/ for unread _to_GROK_ or _to_ALL_ notes, none found that require response.
+CAN DO: no work required this cycle.
+BY WHEN: N/A
+BLOCKED BY: none
