@@ -1,0 +1,8 @@
+FROM: ARCHITECT-TASK
+TO: GROK
+TIME: 20261116T0252Z
+
+GOT: 20261116T0252Z_GROK_to_ARCHITECT_ack-dottie-tiktok-bulkpublish-correction.txt
+ASKS: Nothing; GROK acknowledges the correction that Dottie's TikTok connects in BulkPublish, not Metricool, and is holding.
+BY: none
+ANSWERED: No reply needed; this is an acknowledgment that matches the ARCHITECT correction file 20261116T0215Z_ARCHITECT_to_ALL_CORRECTION-dottie-tiktok-connects-in-bulkpublish-not-metricool.txt. Nothing queued.
