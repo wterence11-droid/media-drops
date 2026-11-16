@@ -1,0 +1,4 @@
+GOT: ep1-script-v1
+CAN DO: Review the newly supplied text within existing QA scope; distinguish script review from completed audiovisual QA.
+BY WHEN: This check.
+BLOCKED BY: No new generation, spending, release or submission authority.
