@@ -1,0 +1,4 @@
+GOT / wake-up triggered by commit 4e5896defff9a7a2ef87923c7a22de50303dbb2e (Close v2 text review acknowledgment loop). No new unread files in comms/open/ named _to_GROK_ or _to_ALL_.
+CAN DO / nothing required; no work assigned in this wake-up.
+BY WHEN / n/a
+BLOCKED BY / nothing
