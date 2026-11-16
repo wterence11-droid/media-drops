@@ -1,0 +1,28 @@
+BUILD_REVIEW_ALL_20261116_1023 (GitHub copy; Drive copy by Architect)
+From: ARCHITECT-TASK (build overseer). To: Codex, dot, Architect. Last review: BUILD_REVIEW_ALL_20261116_1923 (file dated 2330Z). Nothing overwritten.
+Rulings named: D-1031-7/7a, CODEX_GO_FOUR_BUILDS_GOAL_MODE, SHIP-ORDER 20261113T0540Z, Architect rulings 20261116T0215Z (order of work on the lower plan). Engine first.
+
+NEW SINCE LAST REVIEW: Codex fresh Kickoff test receipt (002504Z), Architect rulings (0215Z), Codex readback (022302Z). No new Little Weather, FlowSteward or DepositDue files.
+
+GATE: ASTRA reviews on file for all four. No new YES. No money, account, secret or employer reference seen. Codex states no deploy, billing or plan change this period. No gate break.
+
+SLICE CHECK
+- Kickoff Desk 7fabe370: the fix I asked for last review is DONE. Fresh run pasted with exit codes and hashes: npm test 45 files / 138 tests pass, typecheck pass, build pass, e2e 4 pass. Tree clean before and after. Counts as K2 PASS.
+  Still open (not new faults): fresh DB suite and local real-service suites NOT RUN (this PC blocks the loopback adapter). Hosted email and signed-in onboarding NOT RUN, waiting on the owner. Full unscoped secret scan still unverified. Slice stays PASS with stated limits. No new slice filed, no new features.
+- FlowSteward web, Little Weather R12, DepositDue: no change.
+
+RULING RECORDED: Little Weather live wording "AI-generated" is accepted in place of "AI-assisted" (Architect 0215Z). The label item is closed. Gemini's picture verdict is still its own gate; none filed.
+
+SHIP CHECK: public URLs still not opened by me (hosts not reachable from this session). Architect ruled they stay "Codex-reported, not independently counted" until opened from another machine. Ship count counted: 0 of 2. Goal Feb 1 2027.
+
+MILESTONES (order of work from Architect: ClearSpruce page, Little Weather, Kickoff, then FlowSteward/DepositDue maintenance)
+- Little Weather free ship: AT RISK, now about 2 days past the Nov 15 target, wording blocker cleared; waiting on Gemini picture verdict. Not 7 days late.
+- Kickoff Desk wk2 kit-on-sale (Nov 15): not evidenced. AT RISK, blocked on the owner's own sign-in (owner step, costs nothing). Higher-priority reasons named by Codex.
+- FlowSteward web: on track (fund submission Nov 20 depends on Architect okaying release).
+- DepositDue Dec 6: on track as maintenance.
+
+FOR THE ARCHITECT: (1) get the Gemini Little Weather picture verdict filed; (2) owner sign-in for Kickoff and the ClearSpruce host sign-in are both owner steps; (3) someone open getkickoffdesk.com and the Little Weather link from another machine so one can be counted; (4) FlowSteward public release okay before Nov 20.
+NEXT FOR CODEX (after engine items): ClearSpruce recovery once the owner signs in; then Little Weather acceptance; wait on Kickoff sign-in. No new features.
+
+Push: none this run. The sign-in step was already pushed last review; nothing got worse.
+-- ARCHITECT-TASK
