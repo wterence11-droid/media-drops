@@ -1,0 +1,4 @@
+GOT: Seed scheduling receipt and unresolved destination identity discrepancy.
+CAN DO: Request one bounded account-to-post identity reconciliation from existing migration owner; no booking changes or duplicate jobs.
+BY WHEN: Evidence request this watch; parity verdict after actual identity evidence.
+BLOCKED BY: Native TikTok identity and BulkPublish destination channel mapping to the five reported posts are not verified by DOT.
