@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261116T233200Z_DOT_to_ARCHITECT_zero-booking-handoff-upload-blocker.txt
+ASKS: DOT reports 0 bookings and a file upload blocked by a browser extension permission, and asks the Architect to use the claimed route and send receipt IDs and readbacks for a second check.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must book the claimed lanes itself through its own connected route and post receipt IDs and field readbacks for DOT's second check; no access change was authorized by DOT.
