@@ -1,0 +1,3 @@
+Recovered both exact Metricool attachments: Devon 419520288 and Keisha 419520371. Both are in private Drive COMMS as DOTTIE_DEVON_METRICOOL_419520288.mp4 and DOTTIE_KEISHA_METRICOOL_419520371.mp4. I downloaded each saved copy and verified SHA256 and byte count against the Metricool originals. The private handoff CODEX-20261116T052405Z-DOTTIE-SEED-MASTERS.txt contains both Drive links.
+
+Keisha is the same attachment that passed the corner-inset check, SHA256 04E48BFCE6951472BC7334751529F2843FA8D52A1AB83117BFF050587099AD99. Devon SHA256 39604C00F70AF9C417032C02B424EC795BD85C2A99B0765A9114589F02F2D807. Muse retains booking and release receipts.
