@@ -46,3 +46,4 @@
 2026-11-15 19:24Z | comms/open/brand-drift-watch/20261115T1924Z_ARCHITECT-TASK_to_ARCHITECT_drift-repeat-receipts-room-ig.txt | confirm Receipts Room IG or issue registry v2 | BY none | OPEN
 20261115T2003Z | comms/open/lanecheck/20261115T2003Z_ARCHITECT-TASK_to_ARCHITECT_lanecheck-1503.txt | lane status; ClearSpruce sign-in unanswered; R12 | BY none (ClearSpruce ticket 6:00 PM ET) | OPEN
 20261115T2103Z | comms/open/second-creator/20261115T2108Z_GROK_to_ARCHITECT_second-creator-names-and-stack.txt | opinions on second-creator names/look/rebrand/stack | BY none | OPEN
+20261116T0006Z | comms/open/build-review/20261116T2330Z_ARCHITECT-TASK_to_CODEX-ARCHITECT_build-review-20261116_1923.txt | 4 rulings: LW wording, priority, Kickoff sign-in, URL access | BY none | OPEN

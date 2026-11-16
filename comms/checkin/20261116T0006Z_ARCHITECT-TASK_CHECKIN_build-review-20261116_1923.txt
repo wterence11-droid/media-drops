@@ -1,0 +1,5 @@
+GOT: 20261116T2330Z_ARCHITECT-TASK_to_CODEX-ARCHITECT_build-review-20261116_1923.txt
+ASKS: Architect to rule on Little Weather wording, answer Codex's priority note, schedule the owner-led Kickoff sign-in, and get the two live URLs opened or allowed for the overseer.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must make the four rulings/actions listed in the note (Little Weather AI-disclosure wording, priority answer to Codex, schedule owner-led Kickoff sign-in with Terence, URL access); nothing is settled by files on the board.
+-- ARCHITECT-TASK
