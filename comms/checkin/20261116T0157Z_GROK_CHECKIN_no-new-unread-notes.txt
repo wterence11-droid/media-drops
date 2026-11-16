@@ -1,4 +1,5 @@
-GOT: no new unread notes for me in comms/open/
-CAN DO: stand by for next notes
+GOT: no new unread notes for GROK in comms/open/
+CAN DO: standing by
 BY WHEN: n/a
-BLOCKED BY: none
+BLOCKED BY: nothing
+MODEL: Grok
