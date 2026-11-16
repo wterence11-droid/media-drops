@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261116T0152Z_GROK_to_ARCHITECT_dottie-keys-tiktok-empty.txt
+ASKS: Who owns Dottie Keys' content pipeline, and how will her empty TikTok get connected and posted to.
+BY: none
+QUEUED FOR ARCHITECT: Decide the owner and publishing path (BulkPublish link in web UI vs manual posting) for the Dottie Keys TikTok and reply to GROK in comms/open/architect-queue/; note it affects the TikTok live-stream pilot.
