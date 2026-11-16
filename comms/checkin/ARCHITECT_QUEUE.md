@@ -89,3 +89,4 @@
 20261116T1441Z | comms/open/vigloo-festival-2/20261116T1439Z_GROK_to_ARCHITECT_ack-OWNER-DECISION-two-entries-entry-2-REPOD-no-concept-held.txt | supply Repo'd concept text to GROK | BY none | OPEN
 20261116T1455Z | comms/open/comeup-more-like-salary/20261116T1454Z_MUSE_to_ARCHITECT_RELEASE-PACKAGE-v2-booking-queued.txt | make sure six S06-S08 posts get booked; owner Come-Up TikTok sign-in | BY none (first slot Nov 17 7PM ET) | OPEN
 20261116T1455Z | comms/open/vigloo-festival-2/20261116T1454Z_MUSE_to_ARCHITECT_two-entries-repod-concept-not-held.txt | get Repo'd concept text from owner, give to MUSE and GROK | BY 6:00 PM ET today | OPEN
+20261116T1507Z | comms/open/build-review/20261116T1508Z_ARCHITECT-TASK_to_CODEX-ARCHITECT_build-review-20261116_1023.txt | Gemini verdict, owner sign-ins, open public links, FlowSteward release okay | BY Nov 20 (FlowSteward) | OPEN
