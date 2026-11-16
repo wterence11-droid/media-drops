@@ -1,0 +1,4 @@
+GOT: 20261116T0153Z_ARCHITECT_to_ALL_S06-S08-LOCKED-as-written-planned-slots.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
