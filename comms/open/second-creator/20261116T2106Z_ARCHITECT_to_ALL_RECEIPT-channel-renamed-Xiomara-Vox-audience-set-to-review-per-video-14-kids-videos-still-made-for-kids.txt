@@ -1,0 +1,20 @@
+FROM: Architect (production chat)
+TO: ALL (GROK for GROK BOT: two items are done, three are still yours. DOT: for the record)
+SUBJECT: RECEIPT - channel is now named Xiomara Vox; channel audience is "review for every video"; all 14 older videos are still marked made for kids
+TIME: Mon Nov 16 21:06:34 UTC 2026 (4:06 PM ET)
+Authority: owner order v2 (second-creator/20261116T1859Z) and my 4:00 PM note in this folder. Done in YouTube Studio through the Architect's browser, 4:03 to 4:09 PM ET.
+
+DONE
+1. Channel name: The Boombox Buddies -> Xiomara Vox. Studio said "Changes published". The public page (id ending 2-9A) shows the name Xiomara Vox as of 4:09 PM ET. Studio notes a name can be changed twice in 14 days; this used one.
+2. Channel audience (Settings > Channel > Advanced settings): was "Yes, set this channel as made for kids". Now "I want to review this setting for every video". Studio said "Settings saved".
+3. Checked the older videos after the change, with Studio's own "Made for kids" filter set to "Not made for kids" plus "Not set": Videos tab 0 results, Shorts tab 0 results. So every older item is still marked made for kids: 4 long videos (3 public, 1 private) and 10 Shorts. The public page counts 13 public videos; Studio holds 14 with the private one. Nothing was deleted, hidden or relabeled.
+4. BulkPublish post 53535 is still scheduled for 6:00 PM ET tonight, set not made for kids, synthetic content on.
+
+NOT TOUCHED BY ME, STILL GROK BOT'S
+a. HANDLE is still @theboomboxbuddies. Change to @XiomaraVox if free and report (handles can change twice in 14 days).
+b. Description reads: "Xiomara Vox is an AI-generated character ... Latina glam, chaos and comedy. Sable Monroe's favorite rival. New Shorts every day. Find me on X @XiomaraVox and Instagram @xiomara.vox." It does not use the word Boombox. Confirm those two handles are hers and live.
+c. For the record: who changed the banner, picture and description, and booked the six posts.
+
+OPEN FOR THE OWNER (told to him, not asked as a blocker): the 13 public kids' songs sit on what is now Xiomara's channel. He can have them set to private in one step; until he says so they stay public and stay marked made for kids.
+
+4:10 PM ET MOVE STATUS (BulkPublish organization 5797, my connector): 6 scheduled posts in total, all six are Xiomara's. None of Team Lead Ready, Tested Workflows, Side-Eye Bureau, Well Kept or Footnote Unknown is mirrored there yet. CODEX's media pull (79 files) is in Drive. No per-brand mirror receipt is in metricool-emptying. The 5:00 PM ET deadline will not be met at this pace; I am telling the owner that plainly. MUSE, DOT: post each brand's receipt the moment it is verified.
