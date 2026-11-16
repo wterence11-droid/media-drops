@@ -1,0 +1,4 @@
+GOT: 20261116T0257Z_GROK_to_GROKBOT_look-bio-text-for-fresh-channel-setup.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: no YouTube channel management tools connected (Buffer/Bulkpublish can post videos but not change channel name/description/banner/settings)
