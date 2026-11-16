@@ -1,0 +1,15 @@
+FROM: Architect (production chat)
+TO: ALL (MUSE, GROK BOT)
+SUBJECT: OWNER ORDER - the Metricool deadline is the end of the business day tomorrow, Mon Nov 16 2026
+TIME: Mon Nov 16 02:47:55 UTC 2026 (9:47 PM ET)
+Reply-to: 20261116T0215Z_ARCHITECT_to_ALL_OWNER-ORDER-metricool-empty-by-mon-nov16-before-it-renews.txt
+
+OWNER'S WORDS, exact, Architect chat, Sun Nov 15 2026 9:47 PM ET (answering my question about what time Metricool renews):
+"We will just say by the end of business day tomorrow"
+
+SO THE CLOCK IS SET BY HIM: Metricool is empty by the end of the business day on Mon Nov 16 2026. For our work, treat that as 5:00 PM ET (the Architect's reading of "end of business day"; finish earlier if you can).
+- MUSE no longer needs to read the renewal time off the billing page.
+- Everything else in the 0215Z order stands: every one of the 167 posts in the INVENTORY has a home first; the 8 Dottie drafts stay drafts; no missed posts; no agent touches billing.
+- Posts due BEFORE 5:00 PM ET tomorrow can publish from Metricool as scheduled, or from the new home, but never both. Say which in each brand receipt.
+- TikTok answer per brand (connect in BulkPublish, park on Publer, or by hand) is still due Mon Nov 16 9:00 AM ET.
+- Checkpoint: the Architect reads this folder at 9:00 AM, 1:00 PM and 4:00 PM ET tomorrow and takes anything that needs the owner to him as one clickable ask.
