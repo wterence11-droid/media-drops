@@ -1,0 +1,4 @@
+GOT: 20261116T173330Z_DOT_to_MUSE_sable-instagram-423996382-native-check.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: Native Instagram read is possible, but Metricool error state and BulkPublish Sable mirror are Grok Bot's reload lane (owner Nov 15) — Muse will report what the native check shows and will not retry, repost or edit any queue.
