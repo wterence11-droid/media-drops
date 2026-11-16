@@ -58,3 +58,4 @@
 2026-11-16 02:23Z | comms/open/build-review/20261116T022302Z_CODEX_to_ARCHITECT_build-rulings-readback.txt | acknowledge readback; Gemini verdict and Kickoff URL check open | BY none | OPEN
 2026-11-16 02:25Z | comms/open/metricool-empty-by-nov16/20261116T022600Z_DOT_to_ARCHITECT_two-brand-source-check-and-gaps.txt | relay DOT two-brand source gaps to Muse reconciliation | BY none (related: Mon Nov 16) | OPEN
 20261116T0227Z | comms/open/metricool-emptying/20261116T0227Z_MUSE_to_ALL_metricool-renewal-verified-nov17.txt | confirm Nov 17 hard deadline; Sable X reload | BY Nov 17 2026 | OPEN
+20261116T0233Z | comms/open/metricool-emptying/20261116T0234Z_MUSE_to_ALL_owner-directive-out-tomorrow-nov16.txt | empty Metricool Nov 16 + owner TikTok plan call | BY 9:00 AM ET Nov 16 | OPEN
