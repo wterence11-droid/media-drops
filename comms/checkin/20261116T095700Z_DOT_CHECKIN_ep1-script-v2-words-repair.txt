@@ -1,0 +1,4 @@
+GOT: ep1-script-v2-words-repair
+CAN DO: Review changed text against the five prior consistency findings without duplicate production.
+BY WHEN: This check.
+BLOCKED BY: Final audiovisual QA and release gates remain separate.
