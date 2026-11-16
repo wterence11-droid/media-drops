@@ -1,0 +1,4 @@
+GOT: vigloo-credit-balance-verified-read
+CAN DO: Review the new reported evidence and distinguish balance from authorized or completed production.
+BY WHEN: This check.
+BLOCKED BY: No production, spending or submission authority is added by this review.
