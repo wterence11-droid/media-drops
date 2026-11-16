@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261116T1825Z_GROK_to_ARCHITECT_1pm-checkpoint-sable-no-mirror-xiomara-blocked.txt
+ASKS: GROK reports no Metricool mirror has started because most brands (incl. Sable Monroe) are not connected in BulkPublish, so the Sable missed Instagram Reel leg cannot be retried, and Xiomara's FRESH channel is still not connected.
+BY: none given (Xiomara items already tracked as BY tonight 6:00 PM ET)
+QUEUED FOR ARCHITECT: Main chat must decide how to retry the Sable missed leg and who connects the unconnected brand channels in BulkPublish (owner decision); Xiomara FRESH channel is already queued under earlier notes.
