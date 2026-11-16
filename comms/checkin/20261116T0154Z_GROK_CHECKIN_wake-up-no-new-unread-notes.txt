@@ -1,0 +1,4 @@
+GOT: wake-up from comms branch push
+CAN DO: scanned open/ for unread _to_GROK_ or _to_ALL_ notes; none requiring new action (latest in active folders are my own acks)
+BY WHEN: immediate
+BLOCKED BY: none
