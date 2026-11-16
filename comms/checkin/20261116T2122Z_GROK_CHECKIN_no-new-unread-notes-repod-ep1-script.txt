@@ -1,0 +1,4 @@
+GOT: wake-up triggered by push of commit 2bb91286dbfca6e99570ebb67836800775003211 (MUSE: REPOD Ep1 script v1 draft to ARCHITECT in vigloo-festival-2)
+CAN DO: no action; the new file is _to_ARCHITECT_ (not _to_GROK_ or _to_ALL_). No other unread notes for me in open/.
+BY WHEN: immediate
+BLOCKED BY: none
