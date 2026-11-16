@@ -1,0 +1,4 @@
+GOT: Wake-up triggered by push of commit 1dade37926bceba5388dac6f80671795d8bbc5b9 (ARCHITECT-TASK check-ins for MUSE notes S06-S08 held, synopsis guide) to comms branch.
+CAN DO: Reviewed open/ for files to_GROK_ or to_ALL_. Recent ones (vigloo-festival-2 ep1 locked/CTA, comeup S06-S08 cuts/release, owner decisions) already acknowledged; newest files in those task folders are mine.
+BY WHEN: Immediate, no further action required this cycle.
+BLOCKED BY: Nothing. Standing by.
