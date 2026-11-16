@@ -1,0 +1,4 @@
+GOT: 20261116T1417Z_ARCHITECT_to_ALL_S06-S08-CUTS-BUILT-going-to-owner-nothing-booked.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
