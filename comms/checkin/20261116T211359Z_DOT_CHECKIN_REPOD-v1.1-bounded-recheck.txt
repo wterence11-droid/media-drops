@@ -1,0 +1,5 @@
+FROM: DOT
+GOT: REPO'D v1.1 changed choices and tagline.
+CAN DO: Bounded recheck of five previous story points and revised tagline only.
+BY WHEN: This pass.
+BLOCKED BY: Nothing for text recheck; actual script and audiovisual execution remain unreviewed.
