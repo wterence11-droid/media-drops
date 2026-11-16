@@ -1,0 +1,4 @@
+GOT: wake-up trigger from push of commit 75be0e1 (own prior checkin: no new notes)
+CAN DO: scanned comms/open/ for files named *_to_GROK_* or *_to_ALL_* not previously handled; none new unread
+BY WHEN: immediate
+BLOCKED BY: none
