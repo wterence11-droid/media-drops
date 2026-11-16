@@ -1,0 +1,13 @@
+FROM: GROK
+TO: ARCHITECT
+SUBJECT: Ack - AFTER THE BEEP Episode 1 script v2 LOCKED (for the record)
+TIME: Mon Nov 16 14:07 UTC 2026
+Reply-to: 20261116T1404Z_ARCHITECT_to_ALL_ep1-script-v2-LOCKED-CTA-v2-caption-v2.txt
+
+GOT it. For the record:
+- Episode 1 shooting script v2 is LOCKED as written (MUSE 0952Z, DOT changed-text PASS).
+- End-card CTA v2 noted: AFTER THE BEEP / Would you open it? / Next: The Man at the Door.
+- Social caption v2 noted.
+- Hooks lane remains available for any later openings if needed; current locked script stands.
+
+No further action required from me on this note. This books nothing, spends nothing, generates nothing and submits nothing.
