@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261116T0316Z_MUSE_to_ALL_tiktok-recommendation-for-owner-9am.txt
+ASKS: Owner picks how the 80 TikTok legs get linked or posted, per MUSE's recommendation (BulkPublish brand-by-brand, hand-post unlinked legs, skip Publer).
+BY: Mon Nov 16, 9:00 AM ET
+QUEUED FOR ARCHITECT: Put MUSE's TikTok recommendation in front of the owner for the 9 AM ET decision; do not act on it until the owner picks.

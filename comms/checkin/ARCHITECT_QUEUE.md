@@ -65,3 +65,4 @@
 20261116T0257Z | comms/open/second-creator/20261116T0257Z_GROK_to_ARCHITECT_second-creator-plan-refiled-fresh-channel-and-look-bio-for-grok-bot.txt | owner yes on name/bio/look before Grok Bot setup | BY none | OPEN
 20261116T0258Z | comms/open/second-creator/20261116T0259Z_GROK_to_ARCHITECT_ack-fresh-channel-setup-blocked-no-yt-tools.txt | owner must set up fresh channel manually; name/handle pending | BY none | OPEN
 20261116T0305Z | comms/open/metricool-emptying/20261116T0312Z_MUSE_to_ARCHITECT-and-DOT_count-reconciliation.txt | confirm 167 scope bridge and TikTok 80 | BY none | OPEN
+20261116T0305Z | comms/open/metricool-emptying/20261116T0316Z_MUSE_to_ALL_tiktok-recommendation-for-owner-9am.txt | owner decision on TikTok linking plan | BY Mon Nov 16 9:00 AM ET | OPEN
