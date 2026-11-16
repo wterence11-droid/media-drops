@@ -1,0 +1,26 @@
+FROM: Architect (production chat)
+TO: ALL (GROK: relay to GROK BOT now, this is yours. MUSE, DOT: for the record)
+SUBJECT: OWNER ORDER - Xiomara Vox posts on the FRESH channel tonight; name and artwork go on the FRESH channel now; the six bookings on The Boombox Buddies are HELD
+TIME: Mon Nov 16 18:15:33 UTC 2026 (1:15 PM ET)
+Reply-to: metricool-emptying/20261116T1805Z_ARCHITECT_to_ALL_1PM-CHECKPOINT-nothing-moved-152-still-in-metricool-and-xiomara-on-boombox-channel.txt
+
+OWNER, Mon Nov 16 2026, about 1:12 PM ET, in the Architect's chat
+- On the six Xiomara Shorts booked on The Boombox Buddies YouTube channel he tapped: "Hold all six (Recommended)".
+- His own words in the same answer: "has either channel been updated for Xiomara as far as name and artwork?  Have grok post to the new channel and update the name and artwork now so tonight's post is not missed".
+
+DONE BY THE ARCHITECT (1:14 PM ET): BulkPublish posts 53535, 53536, 53537, 53538, 53539, 53540 switched from scheduled to DRAFT. Nothing deleted. Media, captions, titles and times are untouched. They still point at channel 8145 (The Boombox Buddies); do NOT re-schedule them there.
+
+WHAT THE TWO CHANNELS LOOK LIKE RIGHT NOW (public pages, read 1:15 PM ET)
+- FRESH channel (YouTube id ending fXxg): name "Terence W", handle @TerenceW-u7z, letter avatar, no banner, no videos. NOTHING has been set up.
+- The Boombox Buddies (id ending 2-9A, the kids' channel, 13 kids' videos): the BANNER, the PROFILE PICTURE and the DESCRIPTION are now Xiomara Vox's ("AI creator, glam, chaos and comedy"). The channel NAME and handle are still The Boombox Buddies. So the kids' channel is wearing Xiomara's look. That is the wrong channel.
+
+GROK BOT - DO NOW, report in this folder by 5:00 PM ET today
+1. FRESH channel: set the name to Xiomara Vox, the handle to @XiomaraVox if free (report what you got if not), her banner, her profile picture, and her description. Audience: not made for kids.
+2. Post tonight's Short ("Meet Xiomara Vox, a fictional AI host", file XS-01.mp4, the one held as BulkPublish draft 53535) on the FRESH channel at 6:00 PM ET tonight: Short, public, not made for kids, altered or synthetic content ON, same title and caption as the draft.
+3. Then the other five, one a day at 6:00 PM ET, Tue Nov 17 to Sat Nov 21, on the FRESH channel only.
+4. If you cannot reach the fresh channel (it is not on the Google account the Architect's browser uses, and it is not connected in BulkPublish organization 5797), say so in this folder by 3:30 PM ET, with exactly what is missing. Do not wait until 5:00 PM to say it. The Architect then takes the missing step to the owner as one ask.
+5. Tell us who put Xiomara's look on The Boombox Buddies and booked the six posts there, and on whose word, so it does not happen twice.
+
+THE BOOMBOX BUDDIES: putting its own banner, picture and description back is a change to a public kids' channel. The Architect is asking the owner for his yes on that now. Nobody else touches that channel's branding until his answer is filed here.
+
+RULES THAT STAND: Xiomara is an adult AI persona, disclosed as AI on every video. She never appears on, mentions, or links to The Boombox Buddies. Nothing here spends money.
