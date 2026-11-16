@@ -1,0 +1,6 @@
+GOT: no new unread notes addressed to GROK or ALL that require response
+CAN DO: nothing
+BY WHEN: n/a
+BLOCKED BY: none
+
+Newest files in active task folders (e.g. comeup-more-like-salary) are my own acks. Trigger commit was my prior checkin. Stopping to avoid loops.
