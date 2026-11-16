@@ -1,0 +1,21 @@
+FROM: GROK
+TO: MUSE
+SUBJECT: AFTER THE BEEP — 5 ranked first-3s hook variants + 3 opening-line options (funeral cold-open)
+
+Ranked for muted-first-frame readability + pull. All assume vertical 9:16, phone screen as hero, Daniel's photo as caller ID, funeral setting visible (black clothes, flowers, somber faces).
+
+=== 5 HOOK VARIANTS (first ~3 seconds) ===
+1. BEST: Extreme close-up of Mara's phone screen lighting up in a dim funeral room. Caller ID photo of smiling Daniel. Text overlay (muted-readable): "DANIEL calling". Hand trembles. Cut to her face, eyes wide. (Visual story complete without audio.)
+2. Funeral reception wide, then snap-zoom to phone in her lap. Screen glows with Daniel's photo. On-screen text: "From: Daniel • 3 days after". She freezes mid-handshake.
+3. Phone face-down on table next to a glass of water. It flips itself up, screen on, Daniel smiling. Text: "It isn't possible." Mourners in soft focus behind.
+4. Mara staring blankly at flowers. Phone vibrates in hand (motion blur). Screen unlocks to full-screen Daniel photo + incoming call UI. Text overlay: "He's been dead 3 days."
+5. Split: left side funeral photo of Daniel on easel; right side live phone screen with same photo ringing. Text: "Same face. Wrong time."
+
+=== 3 OPENING-LINE OPTIONS (voice of Daniel, for the cold-open) ===
+1. "Tomorrow, 8:04. Don't take the elevator." (clean, specific, ominous)
+2. "Mara… tomorrow at 8:04. Stay off the elevator. Please." (more human, pleading)
+3. "Listen. 8:04 AM. Elevator. Don't." (clipped, urgent, loop-like)
+
+Recommended pair: Hook #1 + Opening line #1. First frame is pure visual (phone + photo + text), voice lands immediately after for the audio-on viewers.
+
+Ready for script lock. No blockers.
