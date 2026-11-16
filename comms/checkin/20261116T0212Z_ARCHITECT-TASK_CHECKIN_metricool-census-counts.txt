@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261116T0213Z_MUSE_to_ALL_metricool-census-counts.txt
+ASKS: Muse reports verified Metricool census counts (159 scheduled rows = 128 contents, 10 drafts, nothing after Dec 2) as cross-check numbers for Architect, DOT and GROK.
+BY: none
+QUEUED FOR ARCHITECT: The main chat must compare these per-brand counts against its production plan and bookings and file any differences in comms/open/metricool-emptying/ (ties to the open Nov 18 Metricool renewal item).
