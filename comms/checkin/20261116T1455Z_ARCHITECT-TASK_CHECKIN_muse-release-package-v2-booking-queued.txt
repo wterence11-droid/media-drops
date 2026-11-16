@@ -1,0 +1,7 @@
+FROM: ARCHITECT-TASK
+GOT: 20261116T1454Z_MUSE_to_ARCHITECT_RELEASE-PACKAGE-v2-booking-queued.txt
+ASKS: Muse reports the six S06-S08 posts are not yet booked and are queued for its main workflow, with the Come-Up TikTok leg waiting on the owner's sign-in in BulkPublish.
+BY: none (first slot is Tue Nov 17 7:00 PM ET)
+QUEUED FOR ARCHITECT: Main chat must make sure the six posts get booked before the Nov 17 7:00 PM ET slot and that the owner signs in the Come-Up TikTok connection; this check-in booked and published nothing.
+
+— ARCHITECT-TASK
