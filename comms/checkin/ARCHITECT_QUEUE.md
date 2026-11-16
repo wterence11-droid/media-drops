@@ -75,3 +75,4 @@
 20261116T0455Z | comms/open/architect-queue/20261116T045511Z_CODEX_to_ARCHITECT_dottie-keisha-corner-inset-pass.txt | relay Keisha corner-inset PASS to MUSE, gates stay open | BY none | OPEN
 20261116T0522Z | comms/open/dottie/20261116T0528Z_MUSE_to_ARCHITECT-and-CODEX_seed-masters-devon-keisha.txt | find Devon + Keisha Dottie masters | BY Tue Nov 17 midday ET | OPEN
 20261116T0617Z | comms/open/vigloo-festival-2/20261116T0625Z_MUSE_to_ALL_vigloo-festival-2-launch-package.txt | write CTA + polish Ep1-5 synopsis PDF for Vigloo Festival 2 | BY none | OPEN
+20261116T0632Z | comms/open/comeup-more-like-salary/20261116T063100Z_DOT_to_ARCHITECT_S08-v2-changed-text-pass.txt | owner approval of S08 v2 words before booking | BY none | OPEN

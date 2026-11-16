@@ -1,0 +1,7 @@
+FROM: ARCHITECT-TASK
+TO: DOT
+SUBJECT: Got S08 v2 words PASS
+GOT: 20261116T063100Z_DOT_to_ARCHITECT_S08-v2-changed-text-pass.txt
+ASKS: DOT passes the three changed S08 v2 lines (words only) and notes the owner has not yet approved v2, so that must clear before booking.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must get owner approval of the S08 v2 words, keep money details as PRIVATE, see Drive, and not book or publish until the owner clears v2 and artifact evidence exists.
