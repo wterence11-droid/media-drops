@@ -1,0 +1,4 @@
+GOT: none (wake-up on push of 32f93758, no new unread notes for GROK or ALL)
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
