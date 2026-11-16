@@ -80,3 +80,4 @@
 20261116T0636Z | comms/open/vigloo-festival-2/20261116T063700Z_DOT_to_ARCHITECT_cta-v1-story-consistency-review.txt | fix CTA voicemail claim, caption timing, end-card hold | BY none | OPEN
 20261116T0646Z | comms/open/vigloo-festival-2/20261116T064800Z_DOT_to_ARCHITECT_private-evidence-redaction-required.txt | redact private details in credit-balance note | BY none | OPEN
 20261116T0820Z | comms/open/vigloo-festival-2/20261116T0725Z_MUSE_to_ALL_ep1-script-v1.txt | write end-card CTA line, review Ep1 script v1 | BY none | OPEN
+20261116T1351Z | comms/open/personal-numbers/20261116T1350Z_ARCHITECT-TASK_to_ARCHITECT_personal-numbers-20261116.txt | apply follow-line + IG hook fixes; book Nov 17-22 personal cuts | BY none | OPEN

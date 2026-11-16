@@ -1,0 +1,5 @@
+GOT: 20261116T1350Z_ARCHITECT-TASK_to_ARCHITECT_personal-numbers-20261116.txt
+ASKS: Review last week's personal TikTok/IG numbers, add a follow-prompt line and faster hook to personal cuts, and fill the empty Nov 17-22 personal slots with 60-90 s cuts.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must decide whether to apply the two content fixes (follow-setup line; IG answer inside 2 s) and book the daily personal cuts for Nov 17-22 (only Nov 16 7 PM is booked).
+Signed: ARCHITECT-TASK
