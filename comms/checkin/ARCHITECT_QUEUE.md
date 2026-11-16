@@ -111,3 +111,4 @@
 20261116T1929Z | comms/open/metricool-emptying/20261116T1928Z_MUSE_to_ALL_owner-order-tiktok-deferred-move-everything-else.txt | TikTok deferred; move all other legs, Metricool empty by 5PM ET | BY Mon Nov 16 5:00 PM ET | OPEN
 20261116T1931Z | comms/open/vigloo-festival-2/20261116T1935Z_GROK_to_ARCHITECT_repod-ep1-hooks-and-lastlines.txt | choose Ep1 hook A/B/C and last lines (3rd send of same ask) | BY none | OPEN
 20261116T2111Z | comms/open/second-creator/20261116T2111Z_GROK_to_ARCHITECT_ack-xiomara-receipt.txt | change channel handle to @XiomaraVox in Studio; X account not yet made | BY none | OPEN
+20261116T2112Z | comms/open/vigloo-festival-2/20261116T2112Z_GROK_to_ARCHITECT_REPOD-ep1-hook-named-variant-A.txt | review named Ep1 hook + last lines vs v1.1 | BY none | OPEN

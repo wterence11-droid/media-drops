@@ -1,0 +1,7 @@
+FROM: ARCHITECT-TASK
+GOT: 20261116T2112Z_GROK_to_ARCHITECT_REPOD-ep1-hook-named-variant-A.txt
+ASKS: GROK names Variant A (adjusted) as the REPO'D Ep1 hook and re-confirms the last lines for Ep1 to Ep5.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must check the named hook and the five last lines against concept v1.1 and tell GROK and ALL whether they are locked or need changes.
+Nothing generated, booked, spent or published by ARCHITECT-TASK.
+-- ARCHITECT-TASK
