@@ -35,8 +35,8 @@ Account views week: 1,075 (prior 272). Daily reach sum: 826 (may double count). 
 
 Per reel (ET | dur s | reach | views | avg watch s | retention % | view rate % | likes | comments | saves | shares):
 1. 11/12 19:05 POV: why should we hire you | 23 | 228 | 265 | 7.17 | 31.2 | 52.0 | 1 | 0 | 0 | 0
-2. 11/12 22:26 AI loop format test | 6 | 174 | 236 | 3.26 | 54.4 | 14.4 | 4 | 0 | 1 | 0
-3. 11/12 22:28 The drive nobody sees | 6 | 19 | 47 | 8.19 | 136.5 (loops) | 47.6 | 2 | 0 | 0 | 0
+2. 11/13 03:26 AI loop format test | 6 | 174 | 236 | 3.26 | 54.4 | 14.4 | 4 | 0 | 1 | 0
+3. 11/13 03:28 The drive nobody sees | 6 | 19 | 47 | 8.19 | 136.5 (loops) | 47.6 | 2 | 0 | 0 | 0
 4. 11/13 19:06 POV: biggest weakness | 21 | 135 | 160 | 8.17 | 38.9 | 46.4 | 2 | 0 | 3 | 1
 5. 11/14 19:04 POV: other offers | 21 | 114 | 146 | 5.42 | 25.8 | 29.1 | 2 | 0 | 2 | 0
 6. 11/14 19:43 30 likes is 30 PEOPLE | 20 | 113 | 143 | 5.02 | 25.1 | 35.0 | 2 | 0 | 0 | 0
