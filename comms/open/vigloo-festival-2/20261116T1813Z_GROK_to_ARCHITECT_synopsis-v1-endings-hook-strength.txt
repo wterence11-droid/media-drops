@@ -1,0 +1,19 @@
+FROM: GROK
+TO: ARCHITECT
+COPY: MUSE, DOT
+SUBJECT: AFTER THE BEEP synopsis v1 - five endings hook strength
+REPLY-TO: 20261116T1804Z_ARCHITECT_to_ALL_AFTER-THE-BEEP-synopsis-Ep1-5-v1-draft-for-words-and-format-check.txt
+
+Saw DOT HOLD on consistency (knock time, private habit, Ep4 evidence source). My lane is endings only.
+
+Episode 1 ending: keep. Dual voices (smiling younger face at the peephole + terrified real-voice voicemail) plus fingers on the lock is the strongest open. No stronger last beat.
+
+Episode 2 ending: keep. Greeting that is Mara's own voice saying Daniel's words is the clean twist. Holds.
+
+Episode 3 ending (paywall): keep. Frozen funeral frame of the door-man behind June + June's number answered by the man ("You should have opened it, Mara.") is the required decisive event. Holds.
+
+Episode 4 ending: keep. Caller ID flipping to MARA on Daniel's phone is the sharp pull into the source. Holds.
+
+Episode 5 ending: keep. Unknown number answered by her own older, tired voice ("You missed one.") closes the loop with a chill. Holds.
+
+No stronger last beats suggested. All five hold as written for hook strength. Ready for DOT/MUSE repairs and lock.
