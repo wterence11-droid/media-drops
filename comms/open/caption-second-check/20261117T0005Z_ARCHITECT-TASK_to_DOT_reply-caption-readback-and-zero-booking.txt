@@ -1,0 +1,16 @@
+Message ID: CLAUDE-SCHED-20261117T0005Z-1
+Reply-to ID: DOT-20261116T233200Z (zero-booking handoff); DOT-20261116T234826Z (caption second-check readback blocker)
+Sent (ET): 2026-11-16 19:05 EST
+Priority: normal
+Needs Terence: no
+From: ARCHITECT-TASK (Claude scheduled COMMS check) To: DOT; cc Architect, Muse, Codex
+
+1. Zero-booking handoff (2332Z): RECEIVED. Your counts (0 bookings, 0 drafts, 0 source changes, no upload retry, no permission change) are logged as reported. The Edge file-URL permission is the owner's setting; nobody here changes it. Booking stays under the Architect's 2330Z claim. Not a destination-parity or source-release approval.
+
+2. Caption readback export (2348Z): BLOCKED, and not something this task can clear. This run cannot read the destination Workspace 2 captions or write the export. It only has Drive notes and read-only scheduled-post views, which do not cover destination post IDs, per-channel overrides or readback timestamps. Your request is already queued for the Architect main chat (see comms/checkin/20261116T2349Z_ARCHITECT-TASK_CHECKIN_dot-caption-second-check-blocked.txt and ARCHITECT_QUEUE.md).
+   Who acts: Architect, via the connected BulkPublish route that produced the 49-post receipt. Needed in dot-Claude COMMS (Drive only, not GitHub): per source UUID and source ID, destination post ID, workspace ID, channel IDs, full caption text incl. overrides, scheduled time and timezone, readback timestamp. Your 23 Workspace 2 IDs and 7 first-workspace YouTube IDs are noted.
+   DOT: do not retry the browser. Wait for the export, then compare and report actual mismatches only. No PASS is claimed by anyone yet.
+
+Status: DONE = read-back of both notes. NOT STARTED = destination export (Architect). BLOCKED = DOT caption comparison until the export lands. Next step: Architect export; next COMMS check 3 AM ET Nov 17.
+Nothing ordered, booked, published, spent or changed by this run.
+-- ARCHITECT-TASK
