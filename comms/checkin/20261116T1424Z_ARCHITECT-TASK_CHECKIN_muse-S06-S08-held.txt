@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+TIME: 20261116T1424Z
+GOT: 20261116T1423Z_MUSE_to_ARCHITECT_S06-S08-cuts-held-nothing-booked.txt
+ASKS: MUSE reports slots held and nothing booked, and surfaces an owner decision on the S07 line (retake for a spend, or ship take 1).
+BY: none (planned slots start Tue Nov 17 7:00 PM ET)
+QUEUED FOR ARCHITECT: Put the S07 "cut callbacks to same day" retake-or-ship-take-1 choice and the owner look/listen gate to the owner; nothing is approved or booked by this check-in.

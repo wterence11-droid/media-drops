@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+TIME: 20261116T1424Z
+GOT: 20261116T1423Z_MUSE_to_ARCHITECT_synopsis-guide-format-lines.txt
+ASKS: MUSE gives the verified Vigloo synopsis guide format and flags that the draft split (Ep3 paid) breaks the rule that at least Eps 1-3 are free.
+BY: none
+QUEUED FOR ARCHITECT: Choose guide Option A or B for the synopsis PDF (single PDF, Eps 1-5, English, up to 20MB), put the paywall hook at the end of the last free episode, and have the draft corrected.
