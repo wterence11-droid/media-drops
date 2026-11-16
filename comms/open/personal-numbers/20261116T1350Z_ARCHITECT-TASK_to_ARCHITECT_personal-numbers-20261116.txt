@@ -1,0 +1,58 @@
+PERSONAL NUMBERS - week Mon 2026-11-09 00:00 to Sun 2026-11-15 23:59 America/New_York
+Filed: Mon Nov 16 2026, 8:50 AM EST (2026-11-16T1350Z) by the Monday personal-numbers routine (read-only, cloud). Signed ARCHITECT-TASK.
+Drive copy: PERSONAL_NUMBERS_20261116.txt in dot-Claude COMMS.
+Rulings read: CLAUDE-RULING-20261101T0250Z-CHAIN-OF-COMMAND-ALL-SESSIONS; CLAUDE-PLAN-20261031T2310Z-MONETIZATION-SCHEDULE-TO-FEB1 (Personal lane = daily 60-90 s cut to personal TikTok + IG); OWNER-DECISIONS joint-plan four answers (Nov 15; nothing personal-lane in it); PERSONAL_NUMBERS_20261109 (last week).
+Source: Metricool brand "Personal" (7156824) only - getAnalyticsDataByMetrics + getScheduledPosts. Gaps = unknown. Nothing posted, scheduled or changed. No other brand touched.
+Per-post numbers are lifetime totals at pull time. Times ET.
+
+=== TIKTOK @terencew1 ===
+Account: followers 3,505 (Nov 9) -> 3,505 (Nov 15) = net 0 (dipped to 3,503 Nov 11). Prior week +5.
+Profile views, account reach, acquired/lost: blank or 0 -> unknown.
+Videos published: 9 (prior week 3). Durations 6-31 s; none reach the 60-90 s plan length or the 1-minute Creator Rewards rule.
+
+Per post (ET | dur s | views | likes | comments | shares):
+1. 11/09 12:31 Cleaning-biz hourly pricing floor math | 29 | 18 | 0 | 0 | 0
+2. 11/12 15:26 "Two homes. One routine." (dad/village) | 31 | 931 | 5 | 2 | 0
+3. 11/12 19:03 POV interview: why should we hire you | 22 | 456 | 10 | 0 | 0
+4. 11/13 03:24 AI loop format test | 6 | 52 | 0 | 0 | 0
+5. 11/13 03:26 "The drive nobody sees" (Come-Up loop) | 6 | 114 | 4 | 0 | 0
+6. 11/13 14:19 "The lesson I want to pass on: acceptance" | 17 | 52 | 4 | 0 | 0
+7. 11/13 19:03 POV interview: biggest weakness | 21 | 465 | 8 | 0 | 0
+8. 11/14 19:03 POV interview: other offers | 20 | 72 | 0 | 0 | 0
+9. 11/14 19:42 "30 likes is 30 PEOPLE" | 19 | 28 | 2 | 0 | 0
+10. 11/15 19:00 POV interview: why you're leaving (TikTok id 7708553097861205261) | not in analytics yet -> unknown
+Week totals (posts 1-9): 2,188 views (prior 591) | 33 likes | 2 comments | 0 shares.
+Reach, full-watch %, avg watch time, For You / Follow / Search / Profile: Metricool null on every post, 5th week -> unknown.
+E5 readback: every planner TikTok item for Nov 9-15 shows PUBLISHED with a TikTok id. Posts 2, 6 were not in the planner (posted outside Metricool) but appear in analytics. No E5 failure.
+
+Funnel read: reach/For You unknown; by views the POV interview format held (456, 465 on day-2+ posts; "other offers" 72 after about 1.5 days) and the dad/village post was best (931). Middle unknown. Shares 0, comments 2. Follows 0 on 2,188 views -> the end of the funnel is the broken step we can see.
+ONE FIX - TikTok: keep the POV interview series (no lane switch), and end every scene with one spoken + on-screen line that sets up the next question ("Tomorrow: the question that trips everyone up - follow so you see it"). Views are coming; nothing is asking them to follow. Content note for the production run.
+PIN (TikTok): optional - "Two homes" (931) is the best personal TikTok in this file series. Old pin (Black Wall Street 10/15) views not in this data, so not required. Pin status unknown (Metricool does not show pins).
+
+=== INSTAGRAM (personal) ===
+Account: followers 1,967 (Nov 9) -> 1,962 (Nov 15) = -5 (gained 1, lost 5 per daily rows).
+Account views week: 1,075 (prior 272). Daily reach sum: 826 (may double count). Reels: 6 counted (7th, Nov 15 "why you're leaving", published per planner but not in analytics yet). Feed posts / stories: blank -> unknown.
+
+Per reel (ET | dur s | reach | views | avg watch s | retention % | view rate % | likes | comments | saves | shares):
+1. 11/12 19:05 POV: why should we hire you | 23 | 228 | 265 | 7.17 | 31.2 | 52.0 | 1 | 0 | 0 | 0
+2. 11/12 22:26 AI loop format test | 6 | 174 | 236 | 3.26 | 54.4 | 14.4 | 4 | 0 | 1 | 0
+3. 11/12 22:28 The drive nobody sees | 6 | 19 | 47 | 8.19 | 136.5 (loops) | 47.6 | 2 | 0 | 0 | 0
+4. 11/13 19:06 POV: biggest weakness | 21 | 135 | 160 | 8.17 | 38.9 | 46.4 | 2 | 0 | 3 | 1
+5. 11/14 19:04 POV: other offers | 21 | 114 | 146 | 5.42 | 25.8 | 29.1 | 2 | 0 | 2 | 0
+6. 11/14 19:43 30 likes is 30 PEOPLE | 20 | 113 | 143 | 5.02 | 25.1 | 35.0 | 2 | 0 | 0 | 0
+(Metricool row times read as UTC and converted; "view rate" = Metricool Reel view rate.)
+
+Funnel read: reach up (113-228 vs 82-121 last week). Hold still the weak step: 5-8 s watched on 20-23 s reels (25-39% retention). View rate improved on the POV reels (46-52% on the first two vs 19-31% last week) - last week's payoff-first note looks partly applied. Saves 6, shares 1, comments 0. Follows -5.
+ONE FIX - Instagram: same fix, finish applying it - cut every POV reel so the answer line starts inside the first 2 seconds and trim the interviewer setup; target 35%+ retention. IG items belong to Muse via the Architect.
+PIN (IG): none needed.
+
+=== BUYER QUESTIONS (verbatim from comments) ===
+TikTok: 2 comments on "Two homes"; Metricool does not return comment text -> unknown. IG: 0 comments. No buyer question can be confirmed.
+
+=== NOTES FOR ARCHITECT ===
+- Planner readback Nov 16-22: only ONE item booked (Mon Nov 16 7:00 PM ET, POV "boss asks you to take on more", TikTok + IG, PENDING). Nov 17-22 is empty -> daily-cut plan 1 of 7. Scheduling gap for the production run; not a capability gap, no BLOCKED file.
+- Every personal cut is under 60 s; plan says 60-90 s. Flag for production, not changed here.
+- Personal brand also carried 3 Threads posts Nov 12-14 (out of scope, not counted).
+- TikTok reach/watch/traffic still unreadable via Metricool (5 weeks).
+- No new owner asks. Nothing repeated from open items.
+END
