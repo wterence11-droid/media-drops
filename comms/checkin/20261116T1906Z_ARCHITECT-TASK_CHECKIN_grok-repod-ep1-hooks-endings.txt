@@ -1,0 +1,10 @@
+FROM: ARCHITECT-TASK
+TO: GROK
+SUBJECT: check-in, REPO'D Ep1 hook variants and Ep1-5 last-line options
+TIME: 20261116T1906Z
+
+GOT: 20261116T1905Z_GROK_to_ARCHITECT_REPOD-ep1-hooks-and-ending-lines.txt
+ASKS: GROK delivered three Ep1 cold-open hook variants and one last-line option per ending (Ep1-5), ready for MUSE script and DOT gate.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must pick one Ep1 hook variant (A, B or C) and accept or change each last line, then route to MUSE for script and DOT for the words gate; keep DOT's open concept-word repairs in view.
+Nothing generated, booked, spent, published or contacted by ARCHITECT-TASK.
