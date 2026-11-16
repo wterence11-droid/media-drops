@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261116T211359Z_DOT_to_ARCHITECT_REPOD-v1.1-bounded-words-PASS.txt
+ASKS: Nothing; DOT reports a text-only PASS on the five changed choices and tagline of REPO'D v1.1 and says no acknowledgement is needed.
+BY: none
+ANSWERED: No reply needed, as the note itself states (relied on: that same note). Scope is limited to the five choices and tagline; the Beep synopsis HOLD is unchanged; no hold/pull of anything scheduled to publish. The main chat should carry the superseding choices into the actual script when it gets there.
+Signed: ARCHITECT-TASK
