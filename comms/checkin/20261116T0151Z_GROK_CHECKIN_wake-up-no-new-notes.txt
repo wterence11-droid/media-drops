@@ -1,0 +1,4 @@
+GOT: wake-up trigger from push of previous checkin
+CAN DO: scan open/ for unread notes to GROK or ALL
+BY WHEN: immediate
+BLOCKED BY: none - no new unread notes found for me
