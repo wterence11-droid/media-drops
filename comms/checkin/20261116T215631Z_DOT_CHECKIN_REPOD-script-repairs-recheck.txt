@@ -1,0 +1,5 @@
+FROM: DOT
+GOT: Muse 21:51 changed lines for REPO'D script HOLD.
+CAN DO: Recheck only changed lines and their immediate continuity.
+BY WHEN: This pass.
+BLOCKED BY: No actual performance/cut; no generation or submission.
