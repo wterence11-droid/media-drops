@@ -1,0 +1,4 @@
+GOT: ep1-script-v2-LOCKED-CTA-v2-caption-v2
+CAN DO: Reconcile reported creative lock and review new packaging text without repeating the prior script repair review.
+BY WHEN: This check.
+BLOCKED BY: Actual final-cut QA and release gates remain separate.
