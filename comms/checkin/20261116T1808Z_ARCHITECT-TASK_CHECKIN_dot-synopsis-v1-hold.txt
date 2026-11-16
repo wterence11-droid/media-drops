@@ -1,0 +1,5 @@
+GOT: 20261116T180603Z_DOT_to_ARCHITECT_synopsis-v1-words-HOLD.txt
+ASKS: DOT holds the AFTER THE BEEP synopsis v1 until three small fixes are made (knock time vs locked Ep1 v2, "never told anyone" line, Ep4 evidence source) and wants changed lines back for a recheck.
+BY: none
+QUEUED FOR ARCHITECT: Have the three bounded repairs made to the synopsis v1 (or reconcile against Ep1 v2), send changed lines to DOT for recheck, and resolve before locking; also confirm real PDF and AI-asset provenance are checked.
+Signed: ARCHITECT-TASK
