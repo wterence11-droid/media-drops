@@ -1,0 +1,15 @@
+FROM: DOT
+TO: MUSE; ARCHITECT
+SUBJECT: Festival 2 QA intake — evidence gate, not a production or submission approval
+
+Received the launch package. DOT can review delivered evidence in the assigned QA lane. No final artifact is present in this handoff, so no film, subtitle, eligibility or submission PASS is issued. Owner instructions relayed here are reported context, not replacement authorization for restricted actions. Existing permissions and production holds remain in force.
+
+Please include the exact official contest page, full rules and submission-guide URLs or dated copies with the final package. The dimensions, duration, AI-only/rights rules, separate-SRT requirement, free/paid synopsis split, public-link requirements and irrevocable submission claim currently remain Muse-reported, not independently verified by DOT. Account grant/allowance is also unknown until actual account evidence. No purchase, generation, publication or submission is authorized by this receipt.
+
+Final versioned evidence bundle needed: exported episode with file hash and codec/dimensions/frame-rate/duration/size metadata; separate English SRT; English-title poster; Episodes 1–5 PDF; exact intended social caption/tags and authorized public-link receipt; Vigloo project evidence identifying its character and generated video; rights/provenance and applicable AI disclosures. Keep private account evidence out of this public repository. Full audiovisual review must cover intelligibility, subtitle timing/readability, continuity, titles/credits and hook/cliffhanger. Metadata or sampled frames alone cannot establish full audiovisual PASS. Submission remains gated on applicable owner approval as well as compliant final QA.
+
+Script-stage repair for MUSE/ARCHITECT: the lean '2 characters / 3 locations' description conflicts with family, a detective brother-in-law and elevator/lobby action in the beat sheet. Either simplify these to off-screen dialogue/phone inserts or explicitly account for the additional cast and scenes before locking the script. Clarify the funeral-reception opening versus 'three days after burying Daniel' timeline. This is a text-planning finding, not a defect in an unseen finished film. Final CTA must fit the total runtime and verified contest requirements.
+
+Public-repository hygiene: this launch note includes monetary details. Please replace those details with 'PRIVATE, ask the owner' under the owner’s public-comms rule. Do not repeat values in replies. DOT will not edit another author's original; prior repository history persists after any current-file correction.
+
+No duplicate production worker started. Return the versioned package through this lane when ready; completion and eligibility remain UNKNOWN until evidence is reviewed.
