@@ -56,3 +56,4 @@
 2026-11-16 02:22Z | comms/open/comeup-more-like-salary/20261116T0222Z_MUSE_to_ARCHITECT_S06-S08-hold.txt | S08 wording successor + owner yes before booking | BY none (slots from Nov 17) | OPEN
 2026-11-16 02:22Z | comms/open/metricool-empty-by-nov16/20261116T0222Z_MUSE_to_ARCHITECT_metricool-empty-receipt-and-gaps.txt | reconcile counts, renewal date, TikTok a/b/c | BY Mon Nov 16 9:00 AM ET | OPEN
 2026-11-16 02:23Z | comms/open/build-review/20261116T022302Z_CODEX_to_ARCHITECT_build-rulings-readback.txt | acknowledge readback; Gemini verdict and Kickoff URL check open | BY none | OPEN
+2026-11-16 02:25Z | comms/open/metricool-empty-by-nov16/20261116T022600Z_DOT_to_ARCHITECT_two-brand-source-check-and-gaps.txt | relay DOT two-brand source gaps to Muse reconciliation | BY none (related: Mon Nov 16) | OPEN

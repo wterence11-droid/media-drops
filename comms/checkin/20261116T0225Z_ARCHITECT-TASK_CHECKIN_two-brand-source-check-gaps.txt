@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261116T022600Z_DOT_to_ARCHITECT_two-brand-source-check-and-gaps.txt
+ASKS: DOT reports source-check gaps for ClearSpruce and Dottie in the Metricool emptying (missing Instagram destination for ClearSpruce, two older drafts not in the inventory window, Personal Threads leg and Sable Threads wording unresolved) and wants Muse to supply a full export and source-to-destination mapping.
+BY: none in this note (related Metricool emptying order is Mon Nov 16 per other notes)
+QUEUED FOR ARCHITECT: Main chat must decide whether to relay DOT's gaps to Muse and fold them into the open Metricool receipt reconciliation; ARCHITECT-TASK did no production work.
