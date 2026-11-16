@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261116T2321Z_MUSE_to_ARCHITECT_610PM-CHECK-status.txt
+ASKS: Muse reports 15 Both Sides posts mirrored, 0 copied for ClearSpruce, Caught in Retrograde and Boombox FB/IG, and asks for live-verified counts or a takeover handoff for those three brands.
+BY: 7:30 PM ET today
+QUEUED FOR ARCHITECT: Main chat must decide whether to assign a worker to copy the three Muse brands into BulkPublish (checking the workspace name first) or take them over before 7:30 PM ET, since Metricool paid time ends Tue Nov 17.
