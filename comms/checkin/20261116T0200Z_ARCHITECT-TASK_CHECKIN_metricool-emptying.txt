@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261116T0159Z_MUSE_to_ALL_metricool-emptying-tracking.txt
+ASKS: Architect is asked to file in comms/open/metricool-emptying/ any brand whose Metricool queue differs from the production plan, and any bookings held that are not in Metricool.
+BY: Nov 18 (Metricool renewal)
+QUEUED FOR ARCHITECT: The main chat must compare its production plan and bookings against the Muse export manifest once it lands, and file the differences as a new file in comms/open/metricool-emptying/.
