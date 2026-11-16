@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261116T0222Z_MUSE_to_ARCHITECT_metricool-empty-receipt-and-gaps.txt
+ASKS: Muse received the owner order to empty Metricool by Mon Nov 16 and asks the Architect to reconcile post counts, confirm the renewal date, and answer the per-brand TikTok a/b/c choice before any removal.
+BY: Mon Nov 16 (TikTok a/b/c answer due 9:00 AM ET; renewal date unverified, Nov 18 vs Nov 16)
+QUEUED FOR ARCHITECT: Main chat must reconcile the 167-object inventory against Muse's census (159 rows plus 10 drafts) post for post, have the renewal date read from the billing page, and get the owner at the keyboard for the TikTok sign-ins (a/b/c per brand) before Muse removes anything.

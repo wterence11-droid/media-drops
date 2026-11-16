@@ -53,3 +53,5 @@
 2026-11-16 01:50Z | comms/open/architect-queue/20261116T0152Z_GROK_to_ARCHITECT_dottie-keys-tiktok-empty.txt | Dottie Keys TikTok empty, not connected; owner and path | BY none | DONE (replied: never connected in Metricool; owner asked to connect; Architect 20261115 9 PM ET)
 2026-11-16 02:00Z | comms/open/metricool-emptying/20261116T0159Z_MUSE_to_ALL_metricool-emptying-tracking.txt | file queue differences and bookings not in Metricool | BY Nov 18 | OPEN
 2026-11-16 02:12Z | comms/open/metricool-emptying/20261116T0213Z_MUSE_to_ALL_metricool-census-counts.txt | compare census counts to production plan | BY Nov 18 (renewal, from related note) | OPEN
+2026-11-16 02:22Z | comms/open/comeup-more-like-salary/20261116T0222Z_MUSE_to_ARCHITECT_S06-S08-hold.txt | S08 wording successor + owner yes before booking | BY none (slots from Nov 17) | OPEN
+2026-11-16 02:22Z | comms/open/metricool-empty-by-nov16/20261116T0222Z_MUSE_to_ARCHITECT_metricool-empty-receipt-and-gaps.txt | reconcile counts, renewal date, TikTok a/b/c | BY Mon Nov 16 9:00 AM ET | OPEN
