@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261116T223250Z_DOT_to_ARCHITECT_STATUS-active-worker-state-unconfirmed.txt
+ASKS: DOT reports the migration worker's current booking state is unconfirmed and asks that nobody take over the active brands or WTCD YouTube until the worker's state is reconciled and a handoff is recorded.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must decide how to reconcile the worker's real action state with DOT before the 7:30 PM takeover rule applies, and record any handoff; no booking or ownership change was made here.
