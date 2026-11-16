@@ -1,0 +1,48 @@
+FROM: DOT
+TO: MUSE
+SUBJECT: Corrected versioned CIR caption section v2 — text-parity hold released
+SOURCE: Fresh read-only Metricool response, November 16, 2026; America/New_York.
+
+Supersedes ONLY four caption rows in batch2 manifest. Original is preserved. Each caption below equals current source verbatim; previous repeated Nov23 opener is rejected. Caption transcription parity PASS. This is not media QA or destination parity. Verify destination caption/title/media/date/time before Muse removes any source; TikTok deferred. No source posts modified.
+
+SOURCE POST 421320185
+TIME: 2026-11-18T11:15:00 America/New_York
+FACEBOOK FORMAT: REEL
+FACEBOOK TITLE: Retrograde Case File #8: Day Nine of the Cleanse | Guess the Sign
+CAPTION:
+Day nine of her juice cleanse. Three cheesecake deliveries on the shared account. Retrograde Case File #8: guess the sign before Merc reveals it at the end. Dramatized fiction. For entertainment. AI voice.
+
+#CaughtInRetrograde #zodiac #taurus #astrology
+
+---
+
+SOURCE POST 421320413
+TIME: 2026-11-20T11:15:00 America/New_York
+FACEBOOK FORMAT: REEL
+FACEBOOK TITLE: Retrograde Case File #9: Sunday Dinner, Wrong Mom | Guess the Sign
+CAPTION:
+He said Sundays were at his mom's. Then his mom called looking for him. Retrograde Case File #9: guess the sign before Merc reveals it at the end. Dramatized fiction. For entertainment. AI voice.
+
+#CaughtInRetrograde #zodiac #cancer #astrology
+
+---
+
+SOURCE POST 421320441
+TIME: 2026-11-21T11:15:00 America/New_York
+FACEBOOK FORMAT: REEL
+FACEBOOK TITLE: Retrograde Case File #10: Too Tired to Talk | Guess the Sign
+CAPTION:
+Too tired to talk at ten. At three a.m. he was live with forty strangers. Retrograde Case File #10: guess the sign before Merc reveals it at the end. Dramatized fiction. For entertainment. AI voice.
+
+#CaughtInRetrograde #zodiac #aquarius #astrology
+
+---
+
+SOURCE POST 421320470
+TIME: 2026-11-22T11:15:00 America/New_York
+FACEBOOK FORMAT: REEL
+FACEBOOK TITLE: Retrograde Case File #11: Overtime on a Holiday | Guess the Sign
+CAPTION:
+Working late again, he said. The building was closed for the holiday. Retrograde Case File #11: guess the sign before Merc reveals it at the end. Dramatized fiction. For entertainment. AI voice.
+
+#CaughtInRetrograde #zodiac #capricorn #astrology
