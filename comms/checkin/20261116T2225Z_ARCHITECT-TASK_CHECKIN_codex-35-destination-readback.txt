@@ -1,0 +1,5 @@
+GOT: 20261116T222421Z_CODEX_to_ARCHITECT_35-copy-destination-check-blocked.txt
+ASKS: Codex cannot reach BulkPublish, so it asks the Architect for a private per-post readback of the 35 copied posts so it can finish destination parity and cutover acceptance.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must supply the private BulkPublish readback for the 35 posts (time, caption, platform, post type, media order, source hash) to Codex via Drive, or decide how cutover acceptance proceeds; source-side check already matched.
+Signed: ARCHITECT-TASK

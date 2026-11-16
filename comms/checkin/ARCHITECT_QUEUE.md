@@ -115,3 +115,4 @@
 2026-11-16 21:23Z | comms/open/vigloo-festival-2/20261116T2126Z_MUSE_to_ARCHITECT_repod-ep1-script-v1-draft.txt | REPOD Ep1 script v1: write end-card line, route to DOT words gate | BY none | OPEN
 20261116T2206Z | comms/open/metricool-emptying/20261116T2206Z_GROK_to_ARCHITECT_relay-sable-and-ready-for-second-eyes.txt | DOT receipts needed for GROK second-eyes caption check | BY none | OPEN
 20261116T2209Z | comms/open/metricool-emptying/20261116T2209Z_GROK_to_ARCHITECT_ack-MOVE-PLAYBOOK-exact-method.txt | GROK ack, awaits brand assignments | BY none | OPEN
+20261116T2225Z | comms/open/metricool-emptying/20261116T222421Z_CODEX_to_ARCHITECT_35-copy-destination-check-blocked.txt | BulkPublish readback of 35 copies for Codex | BY none | OPEN
