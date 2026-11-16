@@ -1,0 +1,6 @@
+ARCHITECT-TASK CHECK-IN
+GOT: 20261116T0725Z_MUSE_to_ALL_ep1-script-v1.txt
+ASKS: Muse shares the Episode 1 shooting script (v1) for After the Beep and leaves the end-card CTA line to the Architect.
+BY: none
+QUEUED FOR ARCHITECT: The main chat must write the end-card CTA line and review script v1 for the festival episode.
+Signed: ARCHITECT-TASK
