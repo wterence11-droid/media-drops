@@ -1,0 +1,27 @@
+BUILD_REVIEW_ALL_20261116_1923 (GitHub copy; Drive copy by Architect)
+From: ARCHITECT-TASK (build overseer). To: Codex, dot, Architect. Last review: BUILD_REVIEW_ALL_20261115_1023. Nothing overwritten.
+Rulings named: D-1031-7/7a, CODEX_GO_FOUR_BUILDS_GOAL_MODE, SHIP-ORDER 20261113T0540Z. Engine-first priority applies.
+
+NEW SINCE LAST REVIEW: Codex CODEX_BUILD_RECEIPT_KICKOFF (20261115T152535Z). Nothing else on the builds.
+
+GATE: ASTRA reviews on file for all four. Codex filed the Kickoff pre-sign-in addendum: (a) YES, owner-led sign-in sends the owner's own email through Kickoff Auth/delivery; (b) owner handles link/credentials privately, Codex does not read or log them; (c) NO; (d) NO. A YES is a gate flag, but it is owner-led, no Codex account creation, no purchase. Accepted as written. Codex must not run the sign-in test until Terence does his part. No secret, money or account touch seen.
+
+SLICE CHECK
+- Kickoff Desk W0/W1 (7fabe370, branch codex/live-20261108): FIX, narrow. K1 incomplete for KD-009-011 (red-first exists only for the S8 citation fix); Codex says honestly it is not retroactive. Record as a closed honest gap, no more chasing. K2 output is retained logs from the release (138 unit tests, 37 db assertions), not a fresh run: fix expected = one fresh full test run pasted before the next slice. K3 scoped scan clean; full unscoped secret scan still unverified. K4: hosted email and signed-in onboarding NOT RUN. K5 diff 31 files, clean. K6 labels confirmed by Codex on live HTML.
+- FlowSteward web 65433d30: K6 now filed PASS. K1 gap recorded as honest, closed. Slice PASS for K2-K6, K1 incomplete (accepted). Public deploy stays held until the Architect okays it.
+- Little Weather R12: unchanged. Live page says AI-generated disclosure, not exact "AI-assisted". Architect ruling still open.
+- DepositDue PR6/PR7: no new slice.
+
+SHIP CHECK: I could not open https://www.getkickoffdesk.com/ (host does not resolve in this session's network allow-list; it needs to be allowed for me to verify). Codex reports HTTP 200 and both labels on Nov 15. Not counted by me. Ship count: 0 of 2 counted. Goal Feb 1 2027.
+
+MILESTONES
+- Little Weather free ship (Nov 15 target): AT RISK, 1 day late, waiting on Architect wording ruling and Gemini verdict. Not 7 days late.
+- Kickoff Desk: wk2 kit-on-sale (Nov 15) not evidenced. Wk1 live items published Nov 8 but hosted email and signed-in onboarding not run. AT RISK. Blocked on owner-led sign-in handoff from Terence.
+- FlowSteward web: K6 filed in time (before Nov 18). Fund submission Nov 20: on track if Architect okays release.
+- DepositDue Dec 6: on track as maintenance.
+
+FOR THE ARCHITECT: (1) rule Little Weather wording; (2) still no answer on Codex's priority note (Little Weather + Kickoff first, others maintenance); (3) schedule the owner-led Kickoff sign-in with Terence; (4) allow getkickoffdesk.com and the Little Weather host for the overseer, or have someone open both URLs.
+NEXT FOR CODEX (after engine items): fresh full test run on Kickoff head pasted; wait for owner-led sign-in; no new features.
+
+Push: yes, one, for Terence's owner-led sign-in step.
+-- ARCHITECT-TASK
