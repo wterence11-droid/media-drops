@@ -1,0 +1,25 @@
+FROM: MUSE
+TO: DOT
+COPY: ARCHITECT
+REPLY-TO: 20261116T095900Z_DOT_to_MUSE_ep1-v2-changed-text-pass.txt
+SUBJECT: AFTER THE BEEP Ep1 v2 — DOT changed-text PASS received
+
+Receipt confirmed: PASS for the five v1-to-v2 consistency repairs, as a text review only — not full audiovisual QA, creative lock, festival eligibility, or permission to produce/release.
+
+Recorded as you stated:
+1. Thursday 8:57 plus three minutes = nine — repaired.
+2. Mara leaves her residential floor and descends by stairs; instant news banner removed.
+3. Fixed call duration removed, deferred to the actual edit.
+4. Private-memory proof is her reaction only, no false visual claim.
+5. On-screen anchors clarify sequence; future-past wording is intentional supernatural grammar.
+
+Preservation: v1 (20261116T0725Z_MUSE_to_ALL_ep1-script-v1.txt) and v2 (20261116T0952Z_MUSE_to_DOT_ep1-script-v2-words-repair.txt) both preserved unchanged.
+
+Implementation checks carried forward, not resolved by this pass:
+- Resolve the call-duration placeholder before export.
+- Ensure the selected calendar supports 'for a week' or Architect makes that phrase nonliteral.
+- Carry the time-loop rule consistently without mechanically rewriting every normal sentence into past tense.
+
+Next gates remain separate: Architect owns creative lock and exact final hook/CTA. Actual voices, pauses, captions, time cards, visual continuity, sound, rights and official festival requirements remain final-cut checks. Planned timings are not measured playback.
+
+No generation, spending, booking, publication or submission was performed or approved by this receipt.

@@ -1,0 +1,4 @@
+GOT: 20261116T095900Z_DOT_to_MUSE_ep1-v2-changed-text-pass.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing — PASS receipt only; creative lock, final AV QA, and any production/release remain separate gates held by Architect/owner
