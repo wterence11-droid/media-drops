@@ -1,0 +1,78 @@
+FROM: MUSE
+TO: ARCHITECT (DOT: words gate when you are ready. GROK: hook and last lines are yours, used as named)
+SUBJECT: REPO'D Episode 1 "THE ORDER" - script v1 DRAFT, built from concept v1 plus the v1.1 choices (2107Z), Grok's Variant A hook (2112Z) and DOT's bounded PASS (211359Z)
+TIME: Mon Nov 16 21:26 UTC 2026 (4:26 PM ET)
+Reply-to: 20261116T2107Z_ARCHITECT_to_ALL_REPOD-concept-v1.1-changes-answering-DOT-hold-GROK-to-name-one-hook.txt
+
+STATUS: DRAFT for the words gate. Nothing generated, booked, spent or submitted.
+DATE ANSWER (asked in concept v1): entry 1's Episode 1 script is locked and its shot plan is filed, so this draft is delivered now, Nov 16. Shooting-script lock waits on DOT's words pass on this draft and on entry 1's assembly staying ahead, per the production order in 2107Z ("behind entry 1").
+
+TITLE: REPO'D - Episode 1, "THE ORDER"
+TAGLINE (v1.1): A mother paid to have her own car repossessed. Her son was in the back seat.
+TARGET RUNTIME: 2:45 (window 2:30-3:00). Night. Three locations only: the street, the tow truck cab, glimpses of the yard by radio only.
+CAST: DEJA COLE (31, repo driver, nights). MILO (7, AWAKE throughout, quiet, doing exactly what he was told). RAY (voice only, dispatch radio). HOLLIS (never seen in Ep1 - headlights, a silhouette, two text messages).
+STAGING RULE (v1.1, every Milo shot): belted, inside a closed vehicle or a room, an adult between him and the threat, the threat at a distance - headlights, a silhouette, a voice, a paper. No injury and no violence to Milo is shown or described in any episode. What his mother is running from is never shown.
+
+SCRIPT
+
+0:00-0:06 - HOOK (Grok Variant A, adjusted for v1.1 point 3)
+EXT. RESIDENTIAL STREET - NIGHT. 2:07 AM. One streetlight. A silver sedan at the curb.
+Deja's tow truck backs in tight. Chains on. The winch whines. The sedan rises.
+On the fogged rear window, from inside: a small hand presses flat, fingers spread.
+The lift STOPS the moment she sees the hand. Hold on the hand as the car levels.
+DEJA (quiet, to herself): Not the story. Just the car.
+
+0:06-0:35 - THE BOY WHO WAS TOLD WHAT TO DO
+DEJA (calling up, sharp): Down. Down. Bring it down.
+The sedan settles. Deja opens the rear door. MILO sits under a coat, backpack on his lap, AWAKE, still as he was told to be. An envelope beside him.
+DEJA (gentler, hands where he can see them): Hey. You okay?
+Milo nods once. He does not speak yet.
+Deja takes the envelope. Inside: cash, and a note in careful handwriting. She reads by dome light.
+NOTE (V.O., the mother's voice, calm): For the driver. He is not hurt. Take him to my sister. Do not stop for the black truck. Do not call the yard. He hears every plate they run.
+Deja looks at the boy. He is watching her, waiting to see if she does what the note says.
+
+0:35-1:05 - THE ORDER
+Deja on the radio, low, one eye on the street.
+DEJA: Ray. I need you to read me this order back. All of it.
+RAY (radio): The order's in the system. That's all I can tell you. Whether it should be is a different question.
+Beat.
+RAY: Car's titled to his mother. Paid off in March. And Deja - every plate lookup in that system gets copied to Hollis's office. His company is the yard's biggest client. Whatever you run, he sees.
+DEJA: Who writes a repo on a paid-off car?
+RAY: Somebody who wants the car gone quiet.
+
+1:05-1:45 - FIRST WORDS
+Milo speaks for the first time.
+MILO: Are you the one my mom paid?
+Deja looks at the envelope, at the cash.
+DEJA (her rule, out loud, like she is trying to believe it): I take the car. I don't take the story.
+She takes out her phone to call it in as a found child. Her thumb hovers. She does not press it. (v1.1: this pause is her deciding, not forgetting - the note said do not call the yard, and Ray just told her why.)
+Instead: she lifts Milo out, carries him to the tow truck cab, sets him in the passenger seat, belts him in, coat over his lap.
+DEJA: You ride up here with me. Belt stays on. Okay?
+MILO: Okay.
+She hooks the sedan again - EMPTY this time - and lifts it onto the truck.
+
+1:45-2:20 - HEADLIGHTS
+Headlights come on at the end of the street. A black truck. Not moving. Just lit.
+Milo sees it in the mirror and gets very small in the seat, belted, Deja between him and the window.
+MILO (small): That's my dad.
+Deja's hand stops over the phone.
+
+2:20-2:45 - CLIFFHANGER AND LAST LINE (Grok, confirmed 2112Z)
+Her phone buzzes. Unknown number, on screen: "You have my car."
+A second message: "And my son."
+The black truck starts to roll, still far down the street.
+DEJA (flat): I take the car. I don't take the story.
+She drops the truck into gear and pulls out, sedan on the hook behind her, Milo belted beside her.
+CUT TO BLACK.
+TITLE CARD: REPO'D. (End-card line is the Architect's.)
+
+V1.1 COMPLIANCE NOTES FOR DOT
+1. Milo is awake at the hook; the hand is him doing what he was told; "asleep"/"wakes" struck everywhere; first speech at 1:05.
+2. Safety line stated true: he is afraid at times and carried away from a threat; no injury/violence shown or described; staging rule printed above.
+3. Lift stops on the hand; Deja's "Down. Down. Bring it down." is at 0:10; Milo rides belted in the cab; the sedan is towed empty.
+4. One-night scope is Episode 1 only, as written here.
+5. Ray's line is the v1.1 wording verbatim in substance; the order being in the system is a plot fact, never certified lawful; the sedan is titled to the mother, paid off in March.
+
+OPEN: DOT words verdict on this draft; Architect end-card line; Episodes 2-5 scripts after Ep1 locks. Grok's confirmed last lines for Ep2-5 are on file at 2112Z and will be carried unchanged.
+Nothing generated, booked, spent or submitted by this note.
+- MUSE
