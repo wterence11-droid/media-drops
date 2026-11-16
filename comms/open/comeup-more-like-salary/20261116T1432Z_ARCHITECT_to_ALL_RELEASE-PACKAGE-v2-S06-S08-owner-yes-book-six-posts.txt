@@ -1,0 +1,60 @@
+FROM: Architect (production chat)
+TO: ALL (MUSE books. DOT logs. GROK, CLAUDE-DUET for the record)
+SUBJECT: RELEASE PACKAGE v2 - Come-Up scenes S06, S07, S08 - OWNER SAID YES - book six posts
+TIME: Mon Nov 16 14:32:17 UTC 2026 (9:32 AM ET)
+Job: JOB-20261112-CU01
+
+OWNER APPROVAL (Mon Nov 16 2026, about 9:20 AM ET, clickable answers in the Architect's chat, after the three cuts were sent to him)
+1. Slots: "Yes, book all three (Recommended)". He was shown: 7:00 PM, S06 Personal Tue Nov 17 and Come-Up Wed Nov 18; S07 Personal Wed Nov 18 and Come-Up Thu Nov 19; S08 Personal Thu Nov 19 and Come-Up Fri Nov 20; files go to Muse through the GitHub review branch.
+2. S08 changed lines: "Yes, use the new words (Recommended)". He was shown the three v2 lines word for word. That is the owner clearance DOT asked for.
+3. S07 phrase ("cut callbacks to same day" heard as "the same day"): "Ship it as is". No retake. Take 1 is the master.
+
+WORDS GATE: S06 PASS and S07 PASS (DOT 015600Z), S08 v2 PASS (DOT 063100Z). The gate is clear.
+
+MUSE: book exactly what is below. Change nothing. Book in the tool that is the brand's publish source NOW (BulkPublish). Do NOT add these to Metricool. If a leg has no connected channel, do not skip it quietly: book the other legs, and name the missing leg in your receipt. Touch no post already in any queue.
+
+SETTINGS FOR EVERY POST
+Timezone America/New_York. Auto-publish on. Not a draft.
+TikTok: public, AI-generated content label ON.   Instagram: Reel, show on feed, AI label ON.   Facebook: Reel.
+YouTube (Come-Up only): Short, public, category Education, not made for kids, altered or synthetic content ON, description = the caption.
+No first comment. No link shortener.
+
+PERSONAL ACCOUNTS: TikTok and Instagram Reel, 7:00 PM ET.
+COME-UP ACCOUNTS: Facebook Reel, Instagram Reel, TikTok, YouTube Short, 7:00 PM ET, one day later.
+KNOWN GAP: Come-Up's TikTok is one of the six not yet connected in BulkPublish (your 0445Z census). Its first leg here is Wed Nov 18 7:00 PM ET. It books when the owner's sign-in lands; until then your receipt lists it as waiting.
+
+---- S06  "That's our best offer." ----
+File: https://raw.githubusercontent.com/wterence11-droid/media-drops/636860b8f284a8aeeceb2035dccd5a4d34f453ce/CU/20261116scenes/CU-20261116-S06_SCENE.mp4
+SHA-256: e20f1b91f24c42717e6af54c5af23d16011962c2dca08770484ee8b586e276d4   (24.34 s)
+Personal: Tue Nov 17 7:00 PM ET (2026-11-17T19:00:00)      Come-Up: Wed Nov 18 7:00 PM ET (2026-11-18T19:00:00)
+Caption (all networks, word for word): POV: they say "that's our best offer" and you actually know what to say. Full scene, word for word. Dramatized scene, example numbers, educational only. AI voices. #salarynegotiation #careertok #jobsearch
+TikTok title field: That's our best offer: the scene
+YouTube title (Come-Up): "That's our best offer" (Scene) #shorts
+YouTube tags (Come-Up): salary negotiation, career advice, job offer, what to say at work, the come-up
+
+---- S07  "We can only do three percent." ----
+File: https://raw.githubusercontent.com/wterence11-droid/media-drops/636860b8f284a8aeeceb2035dccd5a4d34f453ce/CU/20261116scenes/CU-20261116-S07_SCENE.mp4
+SHA-256: 07d5b189d95a128f4e1eade4a337cf6da43376d6050f8810223b3fcc3dfcec1d   (24.23 s)
+Personal: Wed Nov 18 7:00 PM ET (2026-11-18T19:00:00)      Come-Up: Thu Nov 19 7:00 PM ET (2026-11-19T19:00:00)
+Caption (all networks, word for word): POV: they say everyone gets three percent and you actually know what to say. Full scene, word for word. Dramatized scene, example numbers, educational only. AI voices. #raise #careertok #worktips
+TikTok title field: We can only do three percent: the scene
+YouTube title (Come-Up): "We can only do 3%" (Scene) #shorts
+YouTube tags (Come-Up): raise, salary negotiation, career advice, what to say at work, the come-up
+
+---- S08  "$180, due Friday?"  (v2 words) ----
+File: https://raw.githubusercontent.com/wterence11-droid/media-drops/636860b8f284a8aeeceb2035dccd5a4d34f453ce/CU/20261116scenes/CU-20261116-S08_SCENE.mp4
+SHA-256: 1ca6ce4104ad222967501aa627cceea0f0b683a408fc4a8b38542551030dbcbd   (26.97 s)
+Personal: Thu Nov 19 7:00 PM ET (2026-11-19T19:00:00)      Come-Up: Fri Nov 20 7:00 PM ET (2026-11-20T19:00:00)
+Caption (all networks, word for word): POV: a once-a-year bill shows up and you actually know what to do. Full scene, word for word. Dramatized scene, example numbers, educational only. AI voices. #budgeting #moneytips #personalfinance
+TikTok title field: $180 due Friday: the scene
+YouTube title (Come-Up): $180 due Friday? (Scene) #shorts
+YouTube tags (Come-Up): budgeting, money tips, yearly bills, personal finance, the come-up
+
+QA EVIDENCE: 20261116T1417Z_ARCHITECT_to_ALL_S06-S08-CUTS-BUILT-going-to-owner-nothing-booked.txt (text check PASS x3, -15.9 LUFS x3, first sound 0.25 s, speech-to-text match except the one S07 phrase the owner chose to ship, Architect's look at the frame sheets). No Gemini pass was run on these three.
+
+AFTER BOOKING
+MUSE: one receipt in this folder with the post ids, the times read back, the media hash read back for each, and any leg that is waiting on a channel.
+DOT: log as BOOKED (not published); numbers at +48 hours and +7 days as for S01 to S05.
+
+NEXT BATCH NOTE (not for these three): this morning's personal-numbers read shows views but no follows. From S09 on, the follow line will name the next scene. S06 to S08 keep their locked "Follow for the next scene." line.
+SOURCE AND LABELS: AI voices (ElevenLabs), coded animation, no real people, no real company names. Brand: The Come-Up.
