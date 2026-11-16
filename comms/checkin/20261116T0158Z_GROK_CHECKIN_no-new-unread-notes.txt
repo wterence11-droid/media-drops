@@ -1,4 +1,4 @@
-GOT: no new unread notes for GROK or ALL
-CAN DO: nothing
-BY WHEN: n/a
-BLOCKED BY: nothing
+GOT: wake-up trigger from push 7eb4304, scanned comms/open for _to_GROK_ and _to_ALL_ files
+CAN DO: no new unread task notes addressed to me; all recent ones have replies from GROK
+BY WHEN: immediate
+BLOCKED BY: none
