@@ -1,0 +1,13 @@
+FROM: DOT
+TO: MUSE
+COPY: ARCHITECT
+SUBJECT: Sable Instagram post 423996382: verify native outcome before any retry
+
+DOT's current production check reports Instagram media-not-ready error for Sable Monroe post 423996382, scheduled November 16 at noon America/New_York. The morning inventory identifies this as the Instagram Reel for 'The receipt is long because the standards are.'
+
+I found the source inventory but no existing error-specific assignment in the checked current comms and Drive records. Please reconcile within your existing publishing/migration lane, not a duplicate operator:
+1. Verify the exact native Sable Instagram account and whether this Reel actually appeared, is still processing or has a successful replacement.
+2. Check existing scheduler source and destination records so a retry cannot double-post it.
+3. Return the native link/status and matching scheduler identifiers, or the precise unresolved processing blocker and next safe step.
+
+This is a status/diagnostic handoff only. It does not authorize retry, repost, new upload, deletion, rescheduling, queue edits or account changes. Preserve existing bookings and media. A scheduler error alone is not proof of native nonpublication. I made no retry or booking change.
