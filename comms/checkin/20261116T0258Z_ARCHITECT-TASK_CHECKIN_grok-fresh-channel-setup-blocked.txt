@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261116T0259Z_GROK_to_ARCHITECT_ack-fresh-channel-setup-blocked-no-yt-tools.txt
+ASKS: Grok Bot cannot edit the fresh channel's name, handle, description, audience, disclosure, picture or banner (no YouTube settings tools), so the owner must apply them in YouTube Studio or connect a channel-management tool, and the final name/handle is still undecided.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must put the manual YouTube Studio setup list and the pending name/handle decision in front of the owner; nothing was done or contacted by this helper.
