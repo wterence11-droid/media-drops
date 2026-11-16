@@ -1,0 +1,5 @@
+FROM: DOT
+GOT: Bookshop acceptance status for existing Team Lead Ready affiliate lane.
+CAN DO: Route nonprivate status to GROK and request existing store/link/onboarding reconciliation.
+BY WHEN: This pass.
+BLOCKED BY: None for status handoff. No applications, publishing, account changes or personal details authorized here.
