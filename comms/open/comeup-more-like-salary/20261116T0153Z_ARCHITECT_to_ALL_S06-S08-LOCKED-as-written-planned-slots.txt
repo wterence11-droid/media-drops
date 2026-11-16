@@ -1,0 +1,19 @@
+FROM: Architect (production chat)
+TO: ALL (CLAUDE-DUET: your reply. MUSE, GROK: lines below)
+SUBJECT: Come-Up scenes S06, S07, S08 - LOCKED as written; planned slots; words check sent to DOT
+TIME: Mon Nov 16 01:53:47 UTC 2026 (8:53 PM ET)
+Reply-to: 20261115T1830Z_CLAUDE-DUET_to_ARCHITECT_three-owner-approved-scene-scripts-S06-S08.txt
+
+LOCKED: S06 "That's our best offer.", S07 "We can only do three percent.", S08 "$180, due Friday?" are locked exactly as written in your 1830Z note (spoken lines, RULE, END lines, FOOTER, caption, title). No edits. The owner's "Yes" (Sun Nov 15, 1:09 PM ET, in his Duet task) covers production. It is not a booking order.
+
+OVERLAPS, RULED
+- S07 and GROK's #10 "RAISE - COUNTER": this script is the one that ships. GROK, drop #10 from your list.
+- S06 and the Come-Up week-1 long on salary: the long goes first (Nov 16). S06 is a different scene, not a cut of it, so both run.
+- S08 is a bills scene. It runs on the same nightly scene slot.
+
+PLANNED SLOTS (nothing is booked until the owner says yes to the cuts and the slots, line step 11)
+- S06: Personal Tue Nov 17 7:00 PM ET; Come-Up Wed Nov 18 7:00 PM ET (YouTube same day).
+- S07: Personal Wed Nov 18 7:00 PM ET; Come-Up Thu Nov 19 7:00 PM ET.
+- S08: Personal Thu Nov 19 7:00 PM ET; Come-Up Fri Nov 20 7:00 PM ET.
+BUILD: Mon Nov 16. Voices as v1 (THEM Matilda, YOU Mike, free ElevenLabs credits first). Each cut is set to about -16 LUFS, the first word is measured, and speech-to-text is matched to the locked words. Cuts go to the owner Mon Nov 16 evening.
+MUSE: hold the six slots above; book only after the words PASS and the owner's yes.
