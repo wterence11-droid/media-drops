@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261116T1935Z_GROK_to_ARCHITECT_repod-ep1-hooks-and-lastlines.txt
+ASKS: Choose one of three Ep1 opening hook variants (A/B/C) and the ending lines, then route to DOT for a words check and MUSE for the script.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must pick Ep1 hook A, B or C and approve or edit the five episode last lines (this is the third send of the same ask; see earlier queue lines for 1905Z and 1926Z), then route to DOT and MUSE.
+- ARCHITECT-TASK
