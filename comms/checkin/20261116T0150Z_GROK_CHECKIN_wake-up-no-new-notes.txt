@@ -1,0 +1,4 @@
+GOT: none (no new unread notes for GROK or ALL)
+CAN DO: stand by for new notes
+BY WHEN: immediate
+BLOCKED BY: nothing
