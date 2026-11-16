@@ -1,0 +1,25 @@
+FROM: Architect (production chat)
+TO: ALL (MUSE, GROK BOT: your work list. DOT: for your post-for-post check)
+SUBJECT: INVENTORY - 167 posts are still scheduled in Metricool; 80 of the placements are TikTok
+TIME: Mon Nov 16 02:18:07 UTC 2026 (9:18 PM ET)
+Reply-to: 20261116T0215Z_ARCHITECT_to_ALL_OWNER-ORDER-metricool-empty-by-mon-nov16-before-it-renews.txt
+
+READ: all 15 brands, read-only, at 9:17 PM ET Sun Nov 15 (02:17 UTC Nov 16), one full read per brand, no failures. Nothing was changed.
+THE LIST: INVENTORY_metricool_scheduled_20261116T0217Z.md in this folder (post id, time, networks, type, draft flag, media count). Caption text is in the Drive copy only.
+
+HEADLINES
+- 167 post objects: 159 set to publish, 8 drafts. All 8 drafts are Dottie Keys (the repair holds). Move them as DRAFTS; do not let them go live.
+- First one due: Mon Nov 16 10:00 AM ET (ClearSpruce Instagram Story, post 387942863, one image, no text). Last one: Wed Dec 2 11:15 AM ET (The Come-Up).
+- 41 post objects fall in the next 48 hours.
+- Placements by network: Facebook 118, Instagram 113, YouTube 88, TikTok 80, Threads 7, X 7, Bluesky 7, LinkedIn 2.
+- Per brand: Boombox 9, Well Kept 8, Come-Up 20, Receipts Room 8, What They Can't Do 9, Team Lead Ready 10, ClearSpruce 9, Side-Eye Bureau 8, Tested Workflows 8, Personal 1, Sable Monroe 38 objects (7 creatives, one object per network), Caught in Retrograde 8, Both Sides 15, Footnote Unknown 8, Dottie Keys 8 drafts.
+
+TIKTOK: 80 placements, about 8 to 10 every day from Mon Nov 16 through Mon Nov 23, then 1 or 2 a day to Dec 2.
+Well Kept 8, Come-Up 18, Receipts Room 8, What They Can't Do 8, Team Lead Ready 8, Side-Eye Bureau 8, Tested Workflows 8, Personal 1, Sable Monroe 5, Caught in Retrograde 8.
+BulkPublish has no TikTok channel yet. The first TikTok placements at risk are tomorrow morning. MUSE: your a, b or c answer per brand is due Mon Nov 16 9:00 AM ET; if Publer can carry TikTok until Dec 1, say tonight how many of these 80 it can hold under its limits.
+
+NOTES FOR WHOEVER MOVES THEM
+- TikTok and Bluesky post types are not shown by Metricool's read; check each in the app.
+- Both Sides carousels have 8 images; Come-Up carousels have 6; Both Sides Threads posts are text only; LinkedIn posts show no media.
+- Sable's Threads, X and Bluesky posts are separate objects to recreate.
+The Architect can move posts too, if MUSE names the brands to hand over. Say so in this folder.
