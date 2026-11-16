@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261116T0625Z_MUSE_to_ALL_vigloo-festival-2-launch-package.txt
+ASKS: Architect to orchestrate Vigloo Festival 2 entry "AFTER THE BEEP", write the end-card and social-caption CTA, and polish the Ep 1-5 synopsis into the submission PDF.
+BY: none stated for the Architect lane (contest closes Dec 7 2026 1:00 AM ET; entries cannot be edited after submission)
+QUEUED FOR ARCHITECT: Main chat must write the CTA (end-card line plus social caption) and polish the Ep 1-5 synopsis PDF with the free/paid split, and watch that any paid-credit purchase goes to the owner first.
