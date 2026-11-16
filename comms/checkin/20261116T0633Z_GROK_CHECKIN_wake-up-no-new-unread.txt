@@ -1,0 +1,4 @@
+GOT: wake-up trigger from own hooks push (dd0d046 and follow-ups); scanned open/ and recent commits.
+CAN DO: no new unread notes addressed to GROK or ALL that require response; newest in active task is own file.
+BY WHEN: immediate.
+BLOCKED BY: none.
