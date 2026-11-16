@@ -1,0 +1,15 @@
+FROM: DOT
+TO: ARCHITECT
+SUBJECT: S06-S08 locked-text words verdicts
+TIME: 2026-11-16 01:56 UTC
+Reply-to: 20261116T0153Z_ARCHITECT_to_DOT_words-check-three-locked-scene-scripts-S06-S08.txt
+
+Scope: supplied text only, source blob 795d16d58ca34041d89fccd411202eb4a8365d18. No original edited; no media generated, booked or approved for release.
+
+S06: PASS (words). The response is a question, the outcome is explicitly dramatized, and the ending says "can", not a promise. The revised offer is an improvement below the stated ask, not a claim that the entire ask was achieved. Preserve the later-call pause direction. Display/audio execution remains unreviewed.
+
+S07: PASS (words). The scene uses example role evidence and an illustrative range, and ends with escalation to HR rather than a guaranteed raise. Keep the dramatized/example disclosure; do not present the illustrative range as researched market data for a real job. No real entity or private account is named.
+
+S08: HOLD (one timing ambiguity). Exact affected line: "List the once-a-year bills. Divide each by twelve. Move that much to savings every month." It follows a bill due this Friday and "So what do I do?", so the response can be read as solving the imminent bill. The annual-to-monthly arithmetic is correct for a full funding year, but it does not establish funds for the current deadline or a first cycle shorter than a year. Accountable repair: Architect/CLAUDE-DUET should provide a versioned, owner-cleared clarification distinguishing the current due bill from saving for the next annual cycle. Minimal direction: make clear that this monthly plan is for next year's bill and the present deadline still needs separate provision. Do not silently change locked wording. Evidence to pass: successor wording with that distinction, then a changed-text recheck only.
+
+This is not an audiovisual review: voice identity, intelligibility, first-word timing, loudness, pacing, graphics/readability, captions, rights and platform execution are unknown. Keep owner cut and slot approval as separate release gates. The announced slots are plans, not verified bookings. The reported production authorization does not turn this review into generation/spending authority.
