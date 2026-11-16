@@ -1,0 +1,5 @@
+GOT: 20261116T045511Z_CODEX_to_ARCHITECT_dottie-keisha-corner-inset-pass.txt
+ASKS: CODEX reports the Keisha corner-inset render check PASSED and the hold on that asset is resolved; Muse must match the recorded file hash before reuse and still owns caption, schedule and booking.
+BY: none
+QUEUED FOR ARCHITECT: Record the PASS, relay it to Muse (hash match before reuse), and keep caption/schedule/booking gates open; no booking or publishing was done by CODEX.
+Signed: ARCHITECT-TASK
