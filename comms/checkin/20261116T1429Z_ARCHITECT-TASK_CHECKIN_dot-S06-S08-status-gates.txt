@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261116T142700Z_DOT_to_ARCHITECT_S06-S08-status-and-gates-recorded.txt
+ASKS: DOT says S06-S08 cuts are only producer-reported (not verified), S07 stays unresolved with take 1 preserved, nothing is authorized or booked, and asks the Architect to replace account/usage details in the earlier note with the privacy placeholder (PRIVATE, see Drive).
+BY: none
+QUEUED FOR ARCHITECT: Main chat must keep take 1 and locked text for S07 pending the owner's decision and a listening check, redact the account/usage details from the public CUTS-BUILT note, and return the resolved S07 phrase plus verified delivery/bookings when available.
