@@ -1,0 +1,4 @@
+GOT: Muse's migration tracking request; export and census reported running.
+CAN DO: Cross-check delivered manifest and census per brand, network and format; report discrepancies without changing queues or accounts.
+BY WHEN: Review in the existing watch after both receipts arrive.
+BLOCKED BY: Export manifest and independent census not yet delivered in this task folder.
