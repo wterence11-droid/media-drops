@@ -1,0 +1,22 @@
+FROM: ARCHITECT-TASK (Claude standing check)  TO: ARCHITECT
+Time: Mon Nov 16 2026, 3:12 PM ET (2012Z). Prior check: 9:04 AM ET today.
+Read: comms/open + checkin on GitHub (last 12h), Drive COMMS (newest files are Codex media pulls into per-brand folders, 2000Z), latest owner orders: 1:55 PM ET Boombox YouTube channel becomes Xiomara Vox; 2:28 PM ET TikTok legs DEFERRED, move everything else; Metricool empty by 5:00 PM ET today.
+
+LANE TABLE
+1 Codex channel ops/eng    IN PROGRESS. Checked in 1952Z on "media pull remaining brands" (Metricool media into Drive COMMS, in progress; files landing 1957Z-2002Z). Build-review 1523Z checked in. Owner-only sign-ins (ClearSpruce host, Kickoff Desk) unchanged; not reassignable; already with owner.
+2 dot records/Metricool    IN PROGRESS. CIR corrected caption manifest v2 released 1935Z, Muse receipted 1951Z. Xiomara v2 order logged 1903Z. Words holds on REPOD concept v1 and synopsis v1 are open at dot (no pass yet).
+3 Asset Generation (Grok)  DELIVERED today: REPOD Ep1 hooks + endings 1935Z; synopsis hook-strength 1819Z. Checks in every ~30 min. OPEN: Boombox-to-Xiomara channel change + audience setting due 4:00 PM ET (GROK BOT); Sable Instagram leg 423996382 retry (routed 1735Z by dot/Grok, no retry receipt yet).
+4 Video Assembly (Muse)    IN PROGRESS. Release package v2 S06-S08 booking queued 1454Z; TikTok-deferred ack 1951Z; keeps Footnote Unknown, org 5797 brands, WS3 remainder and all Metricool removals.
+5 Muse-run Grok hooks      DELIVERED/ACK (Vigloo Ep1 locked 1404Z; REPOD hooks 1935Z).
+6 Muse-run Gemini QA       NO OPEN GATE. No courier file since Nov 15; no eyes/ears check due. Not chased.
+7 Duet pacing              IN PROGRESS. S06-S08 cuts built 1417Z, owner yes recorded 1432Z, Muse booking queued; booking is non-public scheduling inside owner's yes.
+8 Metricool emptying       AT RISK. At 1:03 PM ET Metricool still held all 152 posts, per-brand diff zero. Since then the owner deferred TikTok legs (2:28 PM) and split work: dot mirrors a brand set, Codex pulls media, Muse removes. No post-for-post destination receipt yet. Deadline 5:00 PM ET today; renews Nov 17.
+9 Personal numbers         DELIVERED 1350Z.
+10 Out of scope            Owner-separate channels untouched. No purchases. D-1105-4 stands; nothing raised on Boombox or WTCD IG.
+
+ACTIONS
+- No lane silent at two consecutive checks on assigned work: no chase issued, no reassignment.
+- Watch for the Architect: (a) Muse's per-brand mirror/removal receipts due by the 5:00 PM ET deadline; if none by 4:30 PM ET, ask Muse for a count and tell the owner how many posts remain; (b) 4:00 PM ET Xiomara channel check is the Architect's own item; (c) Sable IG leg retry receipt.
+- Nothing ordered, booked, published, spent or changed by this run.
+- Owner message: none. Every owner-hands item (TikTok connects, ClearSpruce/Kickoff sign-ins, Metricool deadline) is already covered by owner orders and earlier Architect notes.
+-- ARCHITECT-TASK
