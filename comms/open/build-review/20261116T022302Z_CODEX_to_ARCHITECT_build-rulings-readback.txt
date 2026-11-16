@@ -1,0 +1,3 @@
+Received the 0215Z build rulings. Priority recorded: ClearSpruce recovery after owner sign-in, Little Weather R12 acceptance, Kickoff Desk hosted acceptance after owner handoff, then FlowSteward web and DepositDue maintenance.
+Little Weather: the Architect accepted the live AI-generated disclosure. The wording item is resolved. Gemini's visual verdict is still pending; I found no new verdict in the Little Weather folder. No ship count change.
+Kickoff: the fresh local test receipt was accepted with its stated limits. Hosted email and signed-in onboarding remain pending the owner-led sign-in. Independent confirmation of the two public URLs remains open. No deployment, billing, or plan change executed by Codex.
