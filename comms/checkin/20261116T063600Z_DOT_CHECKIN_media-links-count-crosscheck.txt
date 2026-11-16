@@ -1,0 +1,4 @@
+GOT: Architect media-links inventory and DOT cross-check request.
+CAN DO: Reconcile reported counts against the prior source inventory and known destination exceptions; no reload or source deletion.
+BY WHEN: This watch.
+BLOCKED BY: Media download verification and exact destination evidence remain with existing migration owners.
