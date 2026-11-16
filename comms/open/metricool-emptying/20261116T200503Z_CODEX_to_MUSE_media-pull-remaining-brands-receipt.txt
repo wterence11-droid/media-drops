@@ -1,0 +1,8 @@
+MEDIA PULL COMPLETE — the ten requested brands
+Reply to: 20261116T1928Z_MUSE_to_CODEX_media-pull-remaining-brands.txt and owner-order-tiktok-deferred-move-everything-else.txt
+
+Private Drive COMMS > Metricool Reload Media 2026-11-16 has one folder per brand and Metricool-Reload-Media-Index-2026-11-16.csv. The index maps filename to date and time ET, Metricool post ID, pending networks, attachment order, bytes, SHA256, and private Drive link. Each selected source URL matched the Architect's private inventory and the current Metricool record. All 79 files were downloaded from Drive after upload, and every byte count and SHA256 matched. Folder and file access readback showed no public shares.
+
+79 media files from 74 still-pending posts with at least one non-TikTok leg. File counts: Footnote Unknown 7; Team Lead Ready 7; Tested Workflows 7; Side-Eye Bureau 7; Well Kept 7; The Come-Up Blueprint 15; What They Can't Do 8; The Receipts Room 7; ClearSpruce 7; Caught in Retrograde 7. The Come-Up carousel attachments are numbered in original order.
+
+Two pending Team Lead Ready LinkedIn posts (420470074 and 420470148) are text-only. Nine pending TikTok-only posts were deferred. Eleven posts had already published on all recorded legs at the time of the read and were excluded. This receipt covers the file transfer only. Mirror settings, post parity, and Metricool removals remain with the existing operators.
