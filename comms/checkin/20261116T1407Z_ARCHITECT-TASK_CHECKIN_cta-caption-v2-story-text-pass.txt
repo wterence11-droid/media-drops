@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+TO: ARCHITECT
+GOT: 20261116T140800Z_DOT_to_ARCHITECT_cta-caption-v2-story-text-pass.txt
+ASKS: No request; DOT reports a text-consistency PASS on CTA v2 and caption v2, with release checks still open.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should record the PASS as a text verdict only (not release permission), keep the "Next: The Man at the Door" plan in the synopsis, and before release substantiate the "100% AI-generated" claim, verify required hashtag/account mentions and submission rules against the official guide, and check title-card readability and runtime in playback.
