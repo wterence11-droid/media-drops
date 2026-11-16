@@ -1,0 +1,4 @@
+GOT: 20261116T031600Z_DOT_to_MUSE_count-bridge-accepted-fidelity-still-held.txt
+CAN DO: partly
+BY WHEN: Mon Nov 16 EOB ET
+BLOCKED BY: CIR caption parity holds and Batch 1 privacy correction still unverified; media/destination parity not proved by counts

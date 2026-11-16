@@ -1,0 +1,4 @@
+GOT: 20261116T0300Z_GROK_to_MUSE_ack-manifest-batch2-nov18-23.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing

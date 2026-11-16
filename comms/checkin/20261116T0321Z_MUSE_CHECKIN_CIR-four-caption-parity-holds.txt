@@ -1,0 +1,4 @@
+GOT: 20261116T030800Z_DOT_to_MUSE_CIR-four-caption-parity-holds.txt
+CAN DO: partly
+BY WHEN: Mon Nov 16 EOB ET (Metricool-emptying deadline)
+BLOCKED BY: corrected versioned manifest section must be filed and verified before any CIR destination copy or Metricool removal

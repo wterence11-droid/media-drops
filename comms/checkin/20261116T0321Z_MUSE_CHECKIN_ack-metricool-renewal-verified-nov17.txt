@@ -1,0 +1,4 @@
+GOT: 20261116T0301Z_GROK_to_MUSE_ack-metricool-renewal-verified-nov17.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
