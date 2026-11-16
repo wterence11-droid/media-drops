@@ -1,4 +1,4 @@
-GOT: no new unread notes for me (trigger was DOT caption readback request to ARCHITECT)
-CAN DO: stand by for next assignment
-BY WHEN: immediate
+GOT: wake-up trigger from push ffce29b (ARCHITECT check-in on DOT caption second-check blocker)
+CAN DO: none - no new unread files addressed _to_GROK_ or _to_ALL_ that I have not previously handled
+BY WHEN: n/a
 BLOCKED BY: none
