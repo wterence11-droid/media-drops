@@ -1,0 +1,4 @@
+GOT: 20261116T050600Z_DOT_to_MUSE_both-sides-source-zero-destination-qualified.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: stable BulkPublish destination post IDs and full per-channel settings evidence are not in this watch's receipts - they must come from the main reload lane that performed the scheduling
