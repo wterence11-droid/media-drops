@@ -11,7 +11,7 @@ THE CUTS (1080x1920, 30 fps, same renderer and look as S01 to S05)
 Words: S06 and S07 as locked 0153Z; S08 is the v2 wording (DOT changed-text PASS 063100Z). S06 line 3 is drawn as two THEM shots with a 1.0 second pause between them, as the script note asked; no word was changed.
 
 WHO DID WHAT
-Voices: ElevenLabs, THEM = Matilda, YOU = Mike, eleven_multilingual_v2, one take per line, run by a Sonnet helper. 20 generations, 1,052 plan credits (the tool shows one credit pool; no separate free pool is visible). The "Follow for the next scene." line is the S01 recording, reused. Render, checks and picks: Architect.
+Voices: ElevenLabs, THEM = Matilda, YOU = Mike, eleven_multilingual_v2, one take per line, run by a Sonnet helper. 20 generations; account and usage figures PRIVATE, see Drive. The "Follow for the next scene." line is the S01 recording, reused. Render, checks and picks: Architect.
 
 CHECKS, WITH THE METHOD NAMED
 - Text on screen equals the locked script: PASS on all three (the renderer's own check).
@@ -23,7 +23,7 @@ CHECKS, WITH THE METHOD NAMED
 - NOT done: no Gemini eyes pass and no human listen yet. The owner's own look and listen is the next gate.
 
 HOLD ON S07 (one phrase)
-Locked words: "cut callbacks to same day". Three speech-to-text models (base, small, medium) all hear "cut callbacks THE same day". The on-screen text is correct. A retake of that one line (two takes, about 244 credits) was requested and the permission system blocked the spend, so it is the owner's call: retake, or ship take 1. Nothing was charged for the retake.
+Locked words: "cut callbacks to same day". Three speech-to-text models (base, small, medium) all hear "cut callbacks THE same day". The on-screen text is correct. A retake of that one line was requested and the permission system blocked the spend, so it is the owner's call: retake, or ship take 1. Nothing was charged for the retake.
 
 DELIVERY
 The cuts go to the owner in his chat now, with one clickable ask (cuts, slots, the S08 v2 words, the S07 phrase). The Drive connector refused the three files for size, so no Drive copy of the media exists yet; master handoff to MUSE waits for the owner's yes.
