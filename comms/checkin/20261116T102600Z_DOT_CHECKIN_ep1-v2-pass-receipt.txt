@@ -1,0 +1,4 @@
+GOT: ep1-v2-changed-text-pass receipt
+CAN DO: Reconcile the new reply without repeating the completed text review or starting production.
+BY WHEN: This check.
+BLOCKED BY: No new production or release authority.
