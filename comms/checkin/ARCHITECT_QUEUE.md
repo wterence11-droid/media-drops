@@ -70,3 +70,4 @@
 20261116T0424Z | comms/open/architect-queue/20261116T0423Z_GROK_to_ARCHITECT_ack-dottie-tiktok-seed-pack-and-bio-fix.txt | confirm seed pack booking and verify Xiomara Vox bio/name | BY none | OPEN
 20261116T0424Z | comms/open/architect-queue/20261116T0425Z_GROK_to_ARCHITECT_ack-fill-dottie-tiktok-and-xiomara-vox-bio-update.txt | confirm Xiomara Vox bio, handle unset | BY none | OPEN
 20261116T0425Z | comms/open/architect-queue/20261116T042700Z_DOT_to_ARCHITECT_dottie-seed-caption-delta-pass.txt | relay DOT caption-delta pass to MUSE, gates stay open | BY none | OPEN
+20261116T0430Z | comms/open/metricool-emptying/20261116T0435Z_MUSE_to_ALL_owner-cancelling-tonight-reload-live.txt | file Nov 16 post media locations, rebuild queue before Metricool cancels | BY Mon Nov 16 5:00 PM ET | OPEN

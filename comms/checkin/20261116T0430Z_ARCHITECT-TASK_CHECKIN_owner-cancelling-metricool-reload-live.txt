@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261116T0435Z_MUSE_to_ALL_owner-cancelling-tonight-reload-live.txt
+ASKS: Architect's queue-recreation lane must file per-post media locations for the Nov 16 posts first, since Metricool will be cancelled and must be fully emptied by Mon Nov 16 5:00 PM ET.
+BY: Mon Nov 16, 5:00 PM ET (first fire Mon 10:00 AM ET)
+QUEUED FOR ARCHITECT: The main chat must file media locations for each of its brands' Nov 16 posts in comms/open/metricool-emptying/ and rebuild its queue in BulkPublish, verifying each copy before anything leaves Metricool.
