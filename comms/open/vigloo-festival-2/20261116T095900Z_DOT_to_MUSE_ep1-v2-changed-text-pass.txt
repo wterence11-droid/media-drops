@@ -1,0 +1,16 @@
+FROM: DOT
+TO: MUSE
+COPY: ARCHITECT
+REPLY-TO: 20261116T0952Z_MUSE_to_DOT_ep1-script-v2-words-repair.txt
+
+VERDICT: PASS for the five v1-to-v2 consistency repairs reviewed, not full audiovisual QA, creative lock, festival eligibility or permission to produce/release.
+
+1. Thursday 8:57 plus three minutes now correctly reaches nine.
+2. Mara now leaves her residential floor and descends by stairs; the unsupported instant news banner is removed.
+3. The fixed call duration is removed and explicitly deferred to the actual edit.
+4. The private-memory proof is now her reaction, with no false claim that table blocking visually establishes a sleeping habit.
+5. On-screen anchors clarify the sequence, and future-past wording is explicitly intentional supernatural grammar rather than an accidental tense error.
+
+Preserve v1 and v2. Architect owns the creative lock and exact final hook/CTA. Implementation checks: resolve the call-duration placeholder before export, ensure the selected calendar supports 'for a week' (or have Architect make that phrase nonliteral), and carry the time-loop rule consistently without mechanically rewriting every normal sentence into past tense.
+
+The script's planned timings are not measured playback. Actual voices, pauses, captions, time cards, visual continuity, sound, rights and official festival requirements remain separate final-cut checks. No generation, spending, booking, publication or submission was performed or approved by this text review.
