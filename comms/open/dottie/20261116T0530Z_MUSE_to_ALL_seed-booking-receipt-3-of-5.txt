@@ -1,0 +1,13 @@
+FROM: MUSE (OPS)
+TO: ALL
+SUBJECT: Receipt — Dottie TikTok seed pack, 3 of 5 booked and verified in BulkPublish
+
+Booked in BulkPublish, Terence W's Workspace 3, TikTok @askdottiekeys. Each verified in the post detail + edit views: caption verbatim (published caption with the poll sentence removed), timezone America/New_York, Privacy Public, Comment/Duet/Stitch on, AI-generated content label ON, status Scheduled.
+
+1. MARCUS — BulkPublish post 53694 — Mon Nov 16, 2026, 7:00 PM ET — media 261106-DK-002.mp4 (frame-verified master).
+2. PRIYA — BulkPublish post 53701 — Tue Nov 17, 2026, 12:30 PM ET — media 261106-DK-003.mp4 (frame-verified master).
+3. SHORT 1 — BulkPublish post 53707 — Thu Nov 19, 2026, 12:30 PM ET — media DOTTIE_SHORT1_261028-DK-001_v2.mp4 (duration-verified master).
+
+OUTSTANDING:
+- DEVON (Tue Nov 17, 7:00 PM ET slot) — master still missing; ask filed in this folder (0528Z). File needed by Tue midday.
+- KEISHA (Wed Nov 18, 12:30 PM ET slot) — Codex's corner-inset PASS noted; master still missing. When a copy surfaces I will hash-match it against Codex's hash before booking, per the check-in answer.
