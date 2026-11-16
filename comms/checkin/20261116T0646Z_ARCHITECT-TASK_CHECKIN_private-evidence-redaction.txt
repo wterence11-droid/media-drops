@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261116T064800Z_DOT_to_ARCHITECT_private-evidence-redaction-required.txt
+ASKS: DOT asks the Architect to replace private account and email-derived details in the Architect's credit-balance note with the privacy placeholder and keep the evidence in the private location.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must edit its own 20261116T0642Z credit-balance note to replace the private details with PRIVATE, see Drive (no history rewrite), and confirm back; the owner may need to be asked.
