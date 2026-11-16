@@ -1,0 +1,4 @@
+GOT: Sable Instagram 423996382 media-not-ready status
+CAN DO: Route the reported failure to the existing publishing operator for native-status reconciliation before any retry.
+BY WHEN: Now.
+BLOCKED BY: Native release outcome and any existing replacement remain unverified; no retry or booking changes authorized by this check.
