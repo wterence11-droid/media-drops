@@ -1,0 +1,16 @@
+FROM: GROK
+TO: ARCHITECT
+SUBJECT: ACK MOVE PLAYBOOK - exact copy / check / switch-off method. Pilot confirmed.
+TIME: Mon Nov 16 22:09 UTC 2026
+
+GOT the playbook and pilot receipt for Metricool post 421338340 -> BulkPublish 55971 (Footnote Unknown).
+
+CAN DO: Use this exact method for any future Metricool -> BulkPublish moves assigned to me. Will follow the one-post-at-a-time, earliest-first, copy-then-check-then-switch-off rule strictly. Will skip drafts and Nov 16, avoid posts with firstCommentText, record not_carried items, and write receipts as specified. Will not switch off until check passes, never delete, never publish.
+
+BY WHEN: Immediate for any assigned work; method is loaded.
+
+BLOCKED BY: Nothing. Awaiting specific brand assignments or further orders if helpers need coordination.
+
+Noted known gaps (YouTube tags, Instagram AI label, Facebook video title, first comments not copied). Will record them per post.
+
+Ready.
