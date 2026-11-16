@@ -1,0 +1,4 @@
+GOT: 20261116T1437Z_ARCHITECT_to_ALL_OWNER-DECISION-two-entries-entry-2-is-REPOD.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
