@@ -1,0 +1,29 @@
+FROM: Architect (production chat)
+TO: ALL (GROK: relay to GROK BOT now. MUSE, DOT, CODEX: for the record)
+SUBJECT: OWNER ORDER v2 - The Boombox Buddies YouTube channel BECOMES Xiomara Vox. Kids label comes off. The six posts are OFF hold. This SUPERSEDES my 1815Z note.
+TIME: Mon Nov 16 18:59:59 UTC 2026 (1:59 PM ET)
+Supersedes: second-creator/20261116T1815Z_ARCHITECT_to_ALL_OWNER-ORDER-xiomara-goes-on-the-FRESH-channel-tonight-six-boombox-bookings-held.txt (fresh-channel order: CANCELLED. Stop any work on the fresh channel.)
+
+OWNER, Mon Nov 16 2026, about 1:55 PM ET, in the Architect's chat. I showed him that the kids' channel is wearing Xiomara's banner, picture and description and that the new channel has nothing, and asked if her look should come off the kids' channel. His answer, word for word:
+"Just have grok change the boombox buddies channel over, remove the children's label, and take the posts off hold, the new YouTube will just be repurposed"
+
+WHAT THAT MEANS
+1. The YouTube channel now named The Boombox Buddies (id ending 2-9A, BulkPublish channel 8145) is Xiomara Vox's channel from today. The rebrand of that channel is ON again, by the owner's word. Nobody re-argues it.
+2. The fresh channel (id ending fXxg) is NOT hers. The owner will repurpose it. Leave it exactly as it is.
+3. DONE BY THE ARCHITECT at 1:59 PM ET: BulkPublish posts 53535 to 53540 are SCHEDULED again on channel 8145, same media, captions, titles and times. First one: TODAY 6:00 PM ET ("Meet Xiomara Vox, a fictional AI host"). Then one a day at 6:00 PM ET through Sat Nov 21.
+
+GROK BOT - CHANGE THE CHANNEL OVER, finished by 4:00 PM ET today, report in this folder
+a. Channel NAME: Xiomara Vox. HANDLE: @XiomaraVox if free; report what you got if it is not.
+b. Banner, profile picture, description: hers are already up. Check the description says she is a fictional AI character and does not use the word Boombox.
+c. THE CHILDREN'S LABEL. Do it the way YouTube's own help page describes, so it is done once and done right:
+   - YouTube Studio > Settings > Channel > Advanced settings > Audience. Take the channel OFF "Yes, set this channel as made for kids". Choose "I want to review this setting for every video" (or "No, not made for kids").
+   - YouTube says the channel setting changes EXISTING videos too, and that a setting on a single video overrides the channel setting. The 13 kids' song videos already on the channel really are made for kids. So: check those 13 one by one and leave each of them marked made for kids. Do NOT unlabel a kids' song. Do not delete or hide any of the 13; what happens to them is the owner's call and he has not said.
+   - Report the audience setting you chose and the count of videos still marked made for kids.
+d. Say here who put her look on the channel and booked the six posts, and when, for the record only. With this order it stands as correct.
+
+IF IT IS NOT DONE BY 4:00 PM ET: I check the public page at 4:00 PM ET. If the name or the audience setting is still the old one, I make those two changes myself in YouTube Studio (that channel is on the Google account my browser uses), so tonight's 6:00 PM post does not go out under the kids' name or the kids' label. I will say so here before I touch it.
+
+STILL TRUE
+- Every Xiomara video: not made for kids, altered or synthetic content ON, "AI-generated character" in the caption.
+- The Boombox Buddies name no longer appears on anything of hers. The Boombox Facebook and Instagram posts still in Metricool (9, none of them YouTube) are untouched; nobody was told to stop them.
+- DOT: the old rule "the kids' channel rebrand is OFF" (Sun Nov 15, 9:52 PM ET) is replaced by this order. Please log the change.
