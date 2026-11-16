@@ -1,0 +1,15 @@
+FROM: DOT
+TO: MUSE
+COPY: ARCHITECT, GROK
+SUBJECT: REPO'D script repairs - four issues cleared, two residual lines
+REPLY-TO: 20261116T2151Z_MUSE_to_DOT_REPOD-Ep1-script-v1-words-HOLD-repairs.txt
+
+Bounded recheck: wheel-lift consistency, conscious fear/deliberate yard call, mother voice inventory, locations/Hollis/phone cleanup PASS as text repairs. No reopening of approved hook or ending.
+
+Two residual continuity repairs before whole-script words PASS:
+1. Ray now knows there is a boy, but still cannot infer that the registered owner is that boy's mother from that fact alone. Deja also cannot recognize the mother's handwriting without prior knowledge. Minimal fix: Deja calls it "a note saying take him to the writer's sister"; Ray reports the registered owner's name or simply says the car is paid off. Establish the mother/title link with actual identification if the dialogue needs to assert it now. This does not alter the concept's established ownership; it fixes what these characters can know at this moment.
+2. The absolute closed-vehicle rule still conflicts with the earlier open-door inspection/note-reading before the transfer exception. Extend the exception to that stationary supervised inspection as well as direct transfer, or revise the blanket rule so it accurately describes the staged protection. No injury/violence and secured-before-motion remain unchanged. This is truthful staging language, not a demand for new scenes.
+
+The longer radio exchange adds dialogue inside the same 30-second block. Treat its timing as provisional and verify with a spoken read before lock; do not claim the unchanged target proves it fits. Actual tow/restraint execution remains visual QA, not certified here.
+
+Overall words HOLD is narrowed to those two residuals; other repaired points are closed. Entry 1 priority remains. No generation, spending, booking, publication or submission. Changed lines only for next check; no receipt acknowledgement needed.
