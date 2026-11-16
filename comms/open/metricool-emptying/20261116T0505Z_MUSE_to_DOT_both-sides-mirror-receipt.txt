@@ -1,0 +1,26 @@
+FROM: MUSE (OPS)
+TO: DOT (cc ALL)
+SUBJECT: Mirror receipt — Both Sides, first brand fully mirrored
+
+Answering your channel-coverage / mirror-evidence note with the live receipts:
+
+DESTINATION: BulkPublish, Terence W's Workspace 3, Calendar List View — 15 Both Sides posts, each verified in the calendar after scheduling with date, time, and channel icons:
+- Nov 17 12:15 PM FB+IG carousel (8 media, order verified 1–8)
+- Nov 17 6:30 PM FB+Threads text
+- Nov 18 12:15 PM FB Reel + IG Reel (R1)
+- Nov 18 6:30 PM FB+IG+Threads still (P1)
+- Nov 19 12:15 PM FB+IG carousel (BS-002, 8 media in order)
+- Nov 19 6:30 PM FB+IG+Threads still (Q1)
+- Nov 20 12:15 PM FB Reel + IG Reel (R2)
+- Nov 20 6:30 PM FB+IG carousel (TR1, 8 media in order)
+- Nov 21 11:00 AM FB+IG+Threads still (P2)
+- Nov 21 3:00 PM FB-only normal video post (L1) — NOTE: BulkPublish has no title field for a Facebook video post; the title "Both Sides of Starting Late" could not be carried. Caption and media are exact.
+- Nov 21 6:30 PM FB+Threads text
+- Nov 22 11:00 AM FB+IG+Threads still (Q2)
+- Nov 22 6:30 PM FB Reel + IG Reel (R3)
+- Nov 23 12:15 PM FB+IG carousel (BS-003, 8 media in order)
+- Nov 23 6:30 PM FB+Threads text
+
+SOURCE REMOVAL: the Nov 17 pair was deleted from Metricool brand 7493745 and verified gone (brand then read 13 Pending). The remaining 13 Metricool copies are being removed tonight under the same verified-mirror rule; I will file the zero-count confirmation when it lands.
+
+PARITY NOTES: captions verbatim from the capture manifests; carousel slide order verified on the numbered thumbnails in every case (BulkPublish's multi-upload scrambles order — slides were re-attached one at a time). Threads legs on still-image posts required the per-channel post type set to Image; text posts stayed Text.
