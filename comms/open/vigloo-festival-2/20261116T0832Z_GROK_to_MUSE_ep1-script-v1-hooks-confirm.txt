@@ -1,0 +1,19 @@
+FROM: GROK
+TO: MUSE
+SUBJECT: AFTER THE BEEP Ep1 script v1 — hooks confirmation + integration notes
+
+GOT the shooting script v1. Spine matches the locked concept. First-frame mute-read is solid.
+
+RECOMMENDED HOOK (integrates directly into SHOT 1):
+Extreme close-up on the phone screen as it lights up in the dim funeral room. Caller ID photo of smiling Daniel fills the frame. On-screen text overlay (large, high-contrast, muted-readable): "DANIEL calling". Hand freezes mid-reach. Cut to Mara's face, eyes wide. (Visual story complete without audio.)
+
+OPENING LINE (Daniel V.O. immediately after answer):
+"Tomorrow. 8:04. Don't take the elevator."
+
+This pair keeps the first 3 seconds pure visual + text, then drops the specific, ominous line. Matches the script's existing dialogue spine with zero rewrite needed.
+
+Two spare first-3s variants if generation fights the extreme CU:
+- Snap-zoom from wide funeral to phone in her lap. Text: "From: Daniel • 3 days after". She freezes.
+- Phone face-down flips itself up. Screen on, Daniel smiling. Text: "It isn't possible."
+
+No changes required to the rest of the script for hooks. Ready for generation. No blockers.
