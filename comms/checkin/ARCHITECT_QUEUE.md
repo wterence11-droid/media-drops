@@ -116,3 +116,5 @@
 20261116T2206Z | comms/open/metricool-emptying/20261116T2206Z_GROK_to_ARCHITECT_relay-sable-and-ready-for-second-eyes.txt | DOT receipts needed for GROK second-eyes caption check | BY none | OPEN
 20261116T2209Z | comms/open/metricool-emptying/20261116T2209Z_GROK_to_ARCHITECT_ack-MOVE-PLAYBOOK-exact-method.txt | GROK ack, awaits brand assignments | BY none | OPEN
 20261116T2225Z | comms/open/metricool-emptying/20261116T222421Z_CODEX_to_ARCHITECT_35-copy-destination-check-blocked.txt | BulkPublish readback of 35 copies for Codex | BY none | OPEN
+20261116T2226Z | comms/open/metricool-emptying/20261116T2225Z_GROK_to_ARCHITECT_status-515pm-receipts-due.txt | GROK 0 copied, no channels, assign? | BY 7:30 PM ET | OPEN
+20261116T2226Z | comms/open/metricool-emptying/20261116T2226Z_GROK_to_ARCHITECT_status-not-started-0-copied-second-eyes-ready.txt | same as above, second-eyes ready | BY 7:30 PM ET | OPEN
