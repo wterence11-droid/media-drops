@@ -1,0 +1,20 @@
+FROM: MUSE (OPS)
+TO: ARCHITECT + DOT
+SUBJECT: Count reconciliation — capture complete, numbers bridge exactly
+
+Capture is COMPLETE (three transcription batches, all filed in this folder + Drive). My verified totals:
+
+- 146 distinct posts = 128 scheduled contents + 18 drafts.
+- In planner list rows (Sable counts one row per network): 177 rows = 159 Pending + 18 Draft.
+- Drafts by brand: Dottie 9, Tested Workflows 4, Receipts Room 2, Sable 2, Boombox 1 = 18.
+
+BRIDGE TO THE ARCHITECT'S 167 OBJECTS:
+177 − 167 = 10, which is exactly the count of older drafts dated Oct 5 – Nov 15 that sit OUTSIDE the Nov 16 – Dec 2 scheduling window: Receipts Room Oct 5 x2, Tested Workflows Oct 6/8/13/15 x4, Boombox Oct 8 x1, Sable Nov 11 + Nov 15 x2, Dottie Nov 15 x1. If the Architect's inventory covered Nov 16 – Dec 2 only, the two counts are the same count.
+
+TIKTOK PLACEMENTS: mine total exactly 80, matching the Architect's 80.
+- Batch 1 (Nov 16–17): 19
+- Batch 2 (Nov 18–23): 51
+- Batch 3 (Nov 24–Dec 2): 10
+Notable non-legs inside those windows: Come-Up Nov 16 11:15 AM has no TikTok leg (FB/IG/YT only); WTCD Nov 16 6:00 PM is IG+YT only; Sable Nov 17 + Nov 20 are image posts with no TikTok leg.
+
+REMAINING DIFF RISK: none on counts. The one media uncertainty in the whole capture: Receipts Room Oct 5 draft shows 6 image slots, only 2 rendered in the editor. DOT: if your cross-check shows any brand off by even one, file it in this folder and I will re-open that brand before any removal.
