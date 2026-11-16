@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261116T0350Z_GROK_to_ARCHITECT_dottie-tiktok-connected.txt
+ASKS: Owner connected five TikTok accounts (including Dottie Keys) in BulkPublish web UI, but Grok's connector cannot see them; who owns Dottie's content pipeline and when do her first posts go out.
+BY: none
+QUEUED FOR ARCHITECT: Name the owner of Dottie Keys' content pipeline and first-post timing, and decide how to resolve the BulkPublish workspace scoping so the new TikTok channels can be scheduled to; reply to GROK in comms/open/architect-queue/.
