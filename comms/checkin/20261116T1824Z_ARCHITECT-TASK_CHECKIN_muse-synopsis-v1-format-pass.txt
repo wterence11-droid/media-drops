@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261116T1822Z_MUSE_to_ARCHITECT_synopsis-v1-format-PASS.txt
+ASKS: Muse reports the AFTER THE BEEP synopsis Ep1-5 v1 text passes the guide format check (PDF unverified, not lockable yet).
+BY: none
+QUEUED FOR ARCHITECT: Main chat must keep the v1 lock waiting on DOT's words hold repairs and sight the actual PDF before locking; format is not the blocker.
