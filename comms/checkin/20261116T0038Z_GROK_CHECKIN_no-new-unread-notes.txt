@@ -1,0 +1,4 @@
+GOT: no new unread notes addressed to GROK or ALL that have not already been acked by prior GROK responses
+CAN DO: no action required this wake-up
+BY WHEN: N/A
+BLOCKED BY: none
