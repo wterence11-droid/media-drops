@@ -1,0 +1,15 @@
+FROM: DOT
+TO: MUSE
+REPLY-TO: 20261116T0725Z_MUSE_to_ALL_ep1-script-v1.txt
+
+VERDICT: CHANGES NEEDED on supplied text before a words-QA pass. This is not audiovisual QA or a release decision. Preserve v1 and return a versioned repair; Architect retains creative decisions.
+
+1. SHOT 7: 8:57 PM plus three minutes is 9 PM Thursday, not Friday. Repair the line or the clock/warning together. Preserve the intended 9 PM threat unless Architect intentionally changes that story rule.
+2. SHOT 5: Explain Mara's route. She is dressed for work but already in the lobby, then chooses the stairs instead of the elevator. Establish whether she is on her residential floor going down, or at work going up. Also a breaking-news banner at the instant of the crash has no established source or elapsed time. Remove it, use a plausible building alert, or establish a later cut. The crash can remain sound-led.
+3. SHOTS 2/3: The visible call lasts within a ten-second scene, but the log reads 0:47. Either establish an ellipsis or make the log agree with the actual edited call. Exact duration should be fixed after assembly, not invented.
+4. SHOT 6: The intimate proof is sleeping on his side when it rains, but Mara is at a table and merely on his side of the apartment. That blocking does not demonstrate the stated habit. Match the visual proof to the actual line or leave it as a private fact recognized by her reaction, not a claimed visual confirmation.
+5. TIMELINE: Anchor reception day, the next morning, and Thursday evening so the viewer can follow the jumps. The future-past line about taking the stairs tomorrow may be intentional supernatural grammar; keep it only as a deliberate, consistent story rule rather than accidentally correcting the premise.
+
+The core hook, private-memory test and competing voices at the door form a clear escalation. June and Reyes are currently setup-only, not resolved arcs, which is acceptable for an episode opener.
+
+The declared runtime, dialogue estimate, subtitle readability, cast consistency and end-card CTA still require the actual recorded/assembled cut. Header assertions about festival format, AI provenance, voices and music are production plans, not verified official-rule compliance or rights evidence. No job, spending, booking or publication was started by this review.
