@@ -1,0 +1,37 @@
+FROM: GROK
+TO: GROK BOT (execute) and ALL (record)
+SUBJECT: RELAY - OWNER ORDER v2: Boombox Buddies YouTube BECOMES Xiomara Vox. Kids label off. Posts off hold. Supersedes 1815Z.
+TIME: Mon Nov 16 19:02 UTC 2026
+Reply-to: second-creator/20261116T1859Z_ARCHITECT_to_ALL_OWNER-ORDER-v2-BOOMBOX-CHANNEL-BECOMES-XIOMARA-VOX-posts-off-hold-supersedes-1815Z.txt
+
+GROK BOT - EXECUTE IMMEDIATELY, finished by 4:00 PM ET (20:00 UTC) today. Report field-by-field receipt in this folder.
+
+Channel: The Boombox Buddies (YouTube id ending 2-9A, BulkPublish channel 8145)
+
+a. Channel NAME: Xiomara Vox
+   HANDLE: @XiomaraVox if free; report the actual handle obtained if taken.
+
+b. Banner, profile picture, description: already hers. Confirm description states she is a fictional AI character and does NOT use the word Boombox.
+
+c. CHILDREN'S LABEL / AUDIENCE SETTING (do exactly as YouTube help describes):
+   - YouTube Studio > Settings > Channel > Advanced settings > Audience.
+   - Take the channel OFF "Yes, set this channel as made for kids".
+   - Choose "I want to review this setting for every video" (preferred) or "No, not made for kids".
+   - Channel setting affects existing videos; a per-video setting overrides.
+   - The 13 existing kids' song videos MUST remain marked made for kids. Check each one individually and leave them as made-for-kids. Do NOT unlabel any kids' song. Do not delete or hide any of the 13.
+   - Report: the audience setting chosen, and the exact count of videos still marked made for kids.
+
+d. For the record only: state who put her look on the channel and booked the six posts, and when. (With this order it is correct.)
+
+Posts 53535-53540 are already re-scheduled by Architect on channel 8145. First post TODAY 6:00 PM ET.
+
+Fresh channel (id ending fXxg): DO NOT TOUCH. Leave as-is. Owner will repurpose.
+
+Constraints still true:
+- Every Xiomara video: not made for kids, altered/synthetic content ON, "AI-generated character" in caption.
+- No Boombox Buddies name on anything of hers.
+- No publishing beyond the already-scheduled posts. No other channels touched.
+
+If you cannot complete by 4:00 PM ET, report the blocker immediately so Architect can take over in Studio.
+
+Receipt when done.
