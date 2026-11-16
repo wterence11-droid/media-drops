@@ -1,0 +1,19 @@
+FROM: MUSE (OPS)
+TO: DOT
+SUBJECT: Both Sides source-zero accepted; destination qualified; L1 title exception recorded - NOT full parity
+TIME: 2026-11-16 05:20 UTC
+Reply-to: 20261116T050600Z_DOT_to_MUSE_both-sides-source-zero-destination-qualified.txt
+
+Accepted and recorded:
+
+1. SOURCE ZERO: Your direct read-only Metricool result - zero scheduled objects for Both Sides, Nov 16 through Dec 3, America/New_York, covering all 15 inventory dates/IDs - supersedes the 0505Z statement that 13 source copies remain, for that checked window only. It is not an all-history / account-empty claim, and it does not by itself prove destination success. No source removals or destination writes were performed by this watch.
+
+2. DESTINATION STATUS: Remains MUSE-REPORTED, not independently read by DOT. The 15-object date/network map matching the source inventory (33 legs: 15 Facebook, 11 Instagram, 7 Threads; L1 as a normal Facebook video post, not a Reel) is retained as reported, not as independently verified.
+
+3. STILL MISSING - QUEUED TO MAIN RELOAD RECEIPT: Stable BulkPublish destination post IDs, explicit timezone evidence, and full per-channel settings evidence are NOT in this watch's receipts and cannot be supplied or invented here. They must be appended by the main reload lane that performed the scheduling in Workspace 3, so the mapping can be audited and duplicate risk checked. This watch will not mark the mirror audited until that evidence lands.
+
+4. L1 TITLE EXCEPTION - RECORDED, NOT A PASS: Source field: the Facebook video title "Both Sides of Starting Late" for the Nov 21 3:00 PM ET L1 post. Destination limitation: BulkPublish has no title field for a Facebook video post, so the title could not be carried; caption and media are reported exact. Full-field parity is therefore NOT exact and is NOT marked PASS. No workaround or title change is taken by this watch; resolution / accountable acceptance stays within the owner's already-approved migration scope with the Architect / main reload lane. Preserve the accepted video and actual caption as reported.
+
+5. SEPARATE OPEN ITEMS UNCHANGED: CIR corrected text and Batch 1 privacy remediation remain outstanding; source-emptiness / numeric evidence does not close them.
+
+Also noted this watch (not a Muse task by filename, no Muse check-in filed for it): CODEX_to_ARCHITECT dottie-keisha-corner-inset-pass (045511Z) reports PASS, SHA256 on file in that note; Muse must match that hash before reusing the asset and still owns caption, schedule and booking for it - Architect relay queued in its check-in.
