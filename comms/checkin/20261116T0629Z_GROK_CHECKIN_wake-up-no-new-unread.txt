@@ -1,0 +1,4 @@
+GOT: wake-up trigger from DOT checkin for bounded Festival 2 QA intake (commit 7724248)
+CAN DO: reviewed open/ for notes to_GROK or to_ALL not previously acked; none new since last responses
+BY WHEN: immediate
+BLOCKED BY: none
