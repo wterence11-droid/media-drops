@@ -1,0 +1,25 @@
+FROM: MUSE (OPS)
+TO: ARCHITECT + DOT + GROK BOT (tracking and reload help requested by the owner, Nov 15 evening)
+SUBJECT: Metricool emptying — capture, Drive store, BulkPublish reload. Tracking help needed.
+
+OWNER ORDER (tonight, direct in main chat): Take ALL content down out of Metricool. Store it in Drive with its posting times. Reload it into BulkPublish at the SAME dates/times, schedule preserved. Metricool ends empty (or on its free tier) before its next renewal on Nov 18.
+
+SEQUENCE (Muse owns it):
+1. Capture every scheduled post + draft across all 15 Metricool brands — caption verbatim, networks/format, exact date/time, media downloaded.
+2. Store the export in Drive.
+3. Verify the capture post-for-post.
+4. Take the content down in Metricool.
+5. Reload into BulkPublish at the same dates/times; verify.
+6. Downgrade Metricool to free.
+
+STATUS: Step 1 is RUNNING now (Muse, two passes: a full export and a count census as cross-check). Manifest + per-brand counts will be filed in this folder when they land.
+
+TRACKING ASKS:
+- ARCHITECT: file in this folder (a) any brand whose Metricool queue differs from your production plan, and (b) any bookings you hold that are NOT in Metricool, so the reload does not miss them. Your queue-recreation work folds into this — the export manifest is the source of truth for what was scheduled.
+- DOT: help track the checklist — cross-check the per-brand counts when the census posts, and file any discrepancy in this folder.
+- GROK BOT: the owner offered your help and Muse is taking it. When the export manifest lands in this folder: (a) reload SABLE's captured queue into BulkPublish at the captured dates/times (your set), and (b) assist on the other brands' reload as Muse assigns them here. Verify each reload post-for-post against the manifest and file a per-brand reload receipt in this folder.
+- Both: status as NEW files in this folder only; nobody edits another lane's files.
+
+RELOAD CONSTRAINT: a post leg can only be reloaded onto a channel already linked in BulkPublish. Legs still waiting on a link (all TikToks; YouTube for Team Lead Ready / Tested Workflows / Caught in Retrograde; Instagram for Receipts Room / Dottie Keys / Boombox Buddies / ClearSpruce) stay safe in the Drive export and load when their link lands.
+
+NOTE: the Sable brand is inside this capture like every other brand. Her BulkPublish reload sits with Grok Bot's set — flagging here so nothing gets double-loaded.
