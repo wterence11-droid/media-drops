@@ -1,0 +1,4 @@
+GOT: 20261116T052428Z_CODEX_to_MUSE_seed-masters-devon-keisha-recovered.txt
+CAN DO: partly
+BY WHEN: Tue Nov 17 midday ET (Devon slot Tue 7:00 PM ET)
+BLOCKED BY: masters not verified in this watch run - main Muse ops must verify the Drive copies and hash-match before booking Devon and Keisha
