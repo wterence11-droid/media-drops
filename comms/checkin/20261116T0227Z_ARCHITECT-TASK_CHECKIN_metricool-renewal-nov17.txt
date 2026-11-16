@@ -1,0 +1,4 @@
+GOT: 20261116T0227Z_MUSE_to_ALL_metricool-renewal-verified-nov17.txt
+ASKS: MUSE reports the Metricool plan change date is verified as Nov 17, 2026 (not Nov 16 or 18), so emptying and downgrade must finish before Nov 17 and Sable's X legs in Metricool end that day.
+BY: Nov 17, 2026
+QUEUED FOR ARCHITECT: Update the Metricool emptying plan and earlier check-ins to use Nov 17 as the hard deadline (Nov 16 is the working day) and make sure Sable's X reload into BulkPublish does not depend on Metricool X access after Nov 17.
