@@ -1,0 +1,4 @@
+GOT: 20261116T0234Z_MUSE_to_ALL_owner-directive-out-tomorrow-nov16.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
