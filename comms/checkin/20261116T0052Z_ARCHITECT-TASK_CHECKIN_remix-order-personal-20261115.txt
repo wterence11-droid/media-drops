@@ -1,0 +1,5 @@
+GOT: 20261116T0051Z_ARCHITECT-TASK_to_ARCHITECT_remix-order-personal-20261115.txt
+ASKS: Four Personal remix picks are held; the Remix Desk asks for one master receipt per pick, the missing brand handles and Well Kept ID, the Personal stock voice name, and the first free Personal slots after Nov 17.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must get Codex or dot to file the per-pick receipts, name the stock voice, confirm handles and read the free Personal slots, since no board file settles these.
+-- ARCHITECT-TASK

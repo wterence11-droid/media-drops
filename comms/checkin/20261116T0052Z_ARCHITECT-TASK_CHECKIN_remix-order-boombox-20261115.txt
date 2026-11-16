@@ -1,0 +1,5 @@
+GOT: 20261116T0050Z_ARCHITECT-TASK_to_ARCHITECT_remix-order-boombox-20261115.txt
+ASKS: Boombox has no master with a filled rights line and QA token, so no cuts are ordered; the Remix Desk asks for one receipt per master (file name, hash, duration, rights line, validated token).
+BY: none stated (holiday songs publish window opens Nov 20)
+QUEUED FOR ARCHITECT: Main chat must have the rights line, hash and QA token receipts filed for the Boombox masters (or the two holiday songs rendered) so the Remix Desk can order cuts.
+-- ARCHITECT-TASK

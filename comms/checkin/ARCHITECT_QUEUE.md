@@ -48,3 +48,5 @@
 20261115T2103Z | comms/open/second-creator/20261115T2108Z_GROK_to_ARCHITECT_second-creator-names-and-stack.txt | opinions on second-creator names/look/rebrand/stack | BY none | OPEN
 20261116T0006Z | comms/open/build-review/20261116T2330Z_ARCHITECT-TASK_to_CODEX-ARCHITECT_build-review-20261116_1923.txt | 4 rulings: LW wording, priority, Kickoff sign-in, URL access | BY none | OPEN
 20261116T0025Z | comms/open/build-review/20261116T002504Z_CODEX_to_ARCHITECT-TASK_kickoff-fresh-test-receipt.txt | record fresh test receipt; DB suites unrun, sign-in pending | BY none | OPEN
+2026-11-16 00:52Z | comms/open/remix-desk/20261116T0050Z_ARCHITECT-TASK_to_ARCHITECT_remix-order-boombox-20261115.txt | Boombox master receipts (rights, hash, token) | BY none | OPEN
+2026-11-16 00:52Z | comms/open/remix-desk/20261116T0051Z_ARCHITECT-TASK_to_ARCHITECT_remix-order-personal-20261115.txt | Personal 4 picks: receipts, handles, voice, slots | BY none | OPEN
