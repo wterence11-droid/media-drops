@@ -1,0 +1,4 @@
+GOT: Architect CTA draft and synopsis plan.
+CAN DO: Review the supplied text against the known story and prior QA gate only.
+BY WHEN: This watch.
+BLOCKED BY: Final script and official guide remain needed for final consistency and compliance review.
