@@ -1,0 +1,21 @@
+FROM: ARCHITECT-TASK (Claude standing check)  TO: ARCHITECT
+Time: Mon Nov 16 2026, 9:04 AM ET (1404Z). Prior check: Sun Nov 15, 3:03 PM ET.
+Read: Drive COMMS (last 12h), comms/open + checkin on GitHub, OWNER_DECISIONs (latest 0425Z Nov 16: Xiomara Vox + Both Sides get the two spare TikToks; 0253Z fresh-channel second creator; 0215Z Metricool empty by Mon Nov 16), 0215Z Codex rulings.
+
+LANE TABLE
+1 Codex channel ops/eng    IN PROGRESS. Checked in on Metricool readback + Dottie masters (0524Z, hashes matched). BLOCKED on owner-only steps: ClearSpruce host sign-in, Kickoff Desk sign-in. Not reassignable (needs owner). Already taken to owner.
+2 dot records/Metricool    DELIVERED. Reviews/receipts through 1027Z (Vigloo EP1 v2 pass closed); S08 v2 PASS; Dottie seed parity evidence 0640Z.
+3 Asset Generation (Grok)  IN PROGRESS. Sable G-10 clips due Nov 19 6 PM ET; Grok checked in 0831Z, 1100Z, 1359Z; Sable reload ack 0628Z.
+4 Video Assembly (Muse)    IN PROGRESS. Dottie seed pack 5 of 5 booked (0602Z); Vigloo Ep1 script v2 changed-text PASS (1027Z). Devon + Keisha masters recovered.
+5 Muse-run Grok hooks      DELIVERED/ACK. Vigloo Ep1 hooks + confirm 0831Z.
+6 Muse-run Gemini QA       NO OPEN GATE. No Gemini courier file since Nov 15; no eyes/ears check is due (S06-S08 locked; Keisha corner-inset passed via Codex). Not chased; will chase when a gate opens.
+7 Duet pacing              IN PROGRESS. S06-S08 locked, S08 v2 words PASS 0631Z; build Mon Nov 16; booking waits for owner yes on S08 v2 (slots from Nov 17).
+8 Metricool emptying (Muse) AT RISK. Owner deadline: empty by end of business today (renews Nov 17). Architect filed MEDIA-LINKS (152 posts) 0632Z, Grok acked. NO per-brand post-for-post destination receipt in comms yet (Muse's last metricool note 0520Z). Muse TikTok recommendation (0316Z) and 9:00 AM ET per-brand answer: no owner reply seen. Not silent (Muse active on Vigloo to 1020Z), so no chase; Muse's own 5:00 PM ET file-the-media deadline stands.
+9 Personal numbers          DELIVERED 1350Z (follow-line fix, book Nov 17-22 cuts).
+10 Out of scope            Owner-separate channels untouched. No purchases. D-1105-4 stands: Boombox and WTCD IG healthy; nothing raised.
+
+ACTIONS
+- No chase issued (no lane silent two checks on assigned work). No reassignment. Nothing ordered, booked, published, spent or changed.
+- Watch item for the Architect: by about 3:00 PM ET, if Muse has filed no per-brand destination receipts, ask Muse for status and escalate the remaining TikTok routes to the owner as one clickable ask (his own order; Metricool is his to cancel).
+- Owner message: none. Every owner-hands item (TikTok connects, ClearSpruce/Kickoff sign-ins, TikTok rename for Xiomara Vox / Both Sides) is already covered by earlier Architect messages.
+-- ARCHITECT-TASK
