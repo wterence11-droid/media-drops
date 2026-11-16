@@ -141,13 +141,13 @@ Posts in next 48 hours (now to 2026-11-17 21:17 EST): 41 post objects (drafts am
 | Post id | When (ET) | Networks | Type | Draft | Text | Media | YouTube title |
 |---|---|---|---|---|---|---|---|
 | 420780321 | 2026-11-16 12:30 | facebook,instagram,tiktok,youtube | FB:REEL,IG:REEL,YT:short,TT:UNKNOWN | no | [in Drive copy] | 1 | [in Drive copy] |
-| 421273398 | 2026-11-17 12:30 | facebook,instagram,tiktok,youtube | FB:REEL,IG:REEL,YT:short,TT:UNKNOWN | no | One company-wide email. Forty-one replies. Then Gil replied  | 1 | Micro Case #014: Reply All to Unsubscribe \| Side-Eye Bureau |
-| 421273725 | 2026-11-18 12:30 | facebook,instagram,tiktok,youtube | FB:REEL,IG:REEL,YT:short,TT:UNKNOWN | no | The potluck sheet: four people claimed napkins. Gil insists  | 1 | Micro Case #015: The Potluck Sheet \| Side-Eye Bureau |
-| 421273738 | 2026-11-19 12:30 | facebook,instagram,tiktok,youtube | FB:REEL,IG:REEL,YT:short,TT:UNKNOWN | no | "As discussed," says the email about a pilot program nobody  | 1 | Micro Case #016: As Discussed \| Side-Eye Bureau |
-| 421273758 | 2026-11-20 12:30 | facebook,instagram,tiktok,youtube | FB:REEL,IG:REEL,YT:short,TT:UNKNOWN | no | Gil's big update, delivered on mute. For six minutes.  Rulin | 1 | Micro Case #017: On Mute for Six Minutes \| Side-Eye Bureau |
-| 421273775 | 2026-11-21 12:30 | facebook,instagram,tiktok,youtube | FB:REEL,IG:REEL,YT:short,TT:UNKNOWN | no | Gil found a chair "just sitting here. Unattended." It was at | 1 | Micro Case #018: The Good Chair \| Side-Eye Bureau |
-| 421273788 | 2026-11-22 12:30 | facebook,instagram,tiktok,youtube | FB:REEL,IG:REEL,YT:short,TT:UNKNOWN | no | A real question, with a number in it. The answer: "Great que | 1 | Micro Case #019: Let's Take This Offline \| Side-Eye Bureau |
-| 421273800 | 2026-11-23 12:30 | facebook,instagram,tiktok,youtube | FB:REEL,IG:REEL,YT:short,TT:UNKNOWN | no | "I'd love to help, but my calendar says focus time." All wee | 1 | Micro Case #020: Focus Time All Week \| Side-Eye Bureau |
+| 421273398 | 2026-11-17 12:30 | facebook,instagram,tiktok,youtube | FB:REEL,IG:REEL,YT:short,TT:UNKNOWN | no | [in Drive copy] | see Drive | [in Drive copy] |
+| 421273725 | 2026-11-18 12:30 | facebook,instagram,tiktok,youtube | FB:REEL,IG:REEL,YT:short,TT:UNKNOWN | no | [in Drive copy] | see Drive | [in Drive copy] |
+| 421273738 | 2026-11-19 12:30 | facebook,instagram,tiktok,youtube | FB:REEL,IG:REEL,YT:short,TT:UNKNOWN | no | [in Drive copy] | see Drive | [in Drive copy] |
+| 421273758 | 2026-11-20 12:30 | facebook,instagram,tiktok,youtube | FB:REEL,IG:REEL,YT:short,TT:UNKNOWN | no | [in Drive copy] | see Drive | [in Drive copy] |
+| 421273775 | 2026-11-21 12:30 | facebook,instagram,tiktok,youtube | FB:REEL,IG:REEL,YT:short,TT:UNKNOWN | no | [in Drive copy] | see Drive | [in Drive copy] |
+| 421273788 | 2026-11-22 12:30 | facebook,instagram,tiktok,youtube | FB:REEL,IG:REEL,YT:short,TT:UNKNOWN | no | [in Drive copy] | see Drive | [in Drive copy] |
+| 421273800 | 2026-11-23 12:30 | facebook,instagram,tiktok,youtube | FB:REEL,IG:REEL,YT:short,TT:UNKNOWN | no | [in Drive copy] | see Drive | [in Drive copy] |
 
 ## Tested Workflows (7144497) - 8 posts
 
@@ -215,14 +215,14 @@ Posts in next 48 hours (now to 2026-11-17 21:17 EST): 41 post objects (drafts am
 
 | Post id | When (ET) | Networks | Type | Draft | Text | Media | YouTube title |
 |---|---|---|---|---|---|---|---|
-| 421320157 | 2026-11-16 11:15 | facebook,instagram,tiktok,youtube | FB:REEL,IG:REEL,YT:short,TT:UNKNOWN | no | Stuck in traffic, he said. His running app said new personal | 1 | Retrograde Case File #6: Stuck in Traffic, New Record \| Guess the Sign |
-| 421320171 | 2026-11-17 11:15 | facebook,instagram,tiktok,youtube | FB:REEL,IG:REEL,YT:short,TT:UNKNOWN | no | She found a spreadsheet called excuses, sorted by weekday. R | 1 | Retrograde Case File #7: Excuses, Sorted by Weekday \| Guess the Sign |
-| 421320185 | 2026-11-18 11:15 | facebook,instagram,tiktok,youtube | FB:REEL,IG:REEL,YT:short,TT:UNKNOWN | no | Day nine of her juice cleanse. Three cheesecake deliveries o | 1 | Retrograde Case File #8: Day Nine of the Cleanse \| Guess the Sign |
+| 421320157 | 2026-11-16 11:15 | facebook,instagram,tiktok,youtube | FB:REEL,IG:REEL,YT:short,TT:UNKNOWN | no | [in Drive copy] | see Drive | [in Drive copy] |
+| 421320171 | 2026-11-17 11:15 | facebook,instagram,tiktok,youtube | FB:REEL,IG:REEL,YT:short,TT:UNKNOWN | no | [in Drive copy] | see Drive | [in Drive copy] |
+| 421320185 | 2026-11-18 11:15 | facebook,instagram,tiktok,youtube | FB:REEL,IG:REEL,YT:short,TT:UNKNOWN | no | [in Drive copy] | see Drive | [in Drive copy] |
 | 421320200 | 2026-11-19 11:15 | facebook,instagram,tiktok,youtube | FB:REEL,IG:REEL,YT:short,TT:UNKNOWN | no | [in Drive copy] | 1 | [in Drive copy] |
-| 421320413 | 2026-11-20 11:15 | facebook,instagram,tiktok,youtube | FB:REEL,IG:REEL,YT:short,TT:UNKNOWN | no | He said Sundays were at his mom's. Then his mom called looki | 1 | Retrograde Case File #9: Sunday Dinner, Wrong Mom \| Guess the Sign |
-| 421320441 | 2026-11-21 11:15 | facebook,instagram,tiktok,youtube | FB:REEL,IG:REEL,YT:short,TT:UNKNOWN | no | Too tired to talk at ten. At three a.m. he was live with for | 1 | Retrograde Case File #10: Too Tired to Talk \| Guess the Sign |
-| 421320470 | 2026-11-22 11:15 | facebook,instagram,tiktok,youtube | FB:REEL,IG:REEL,YT:short,TT:UNKNOWN | no | Working late again, he said. The building was closed for the | 1 | Retrograde Case File #11: Overtime on a Holiday \| Guess the Sign |
-| 421320492 | 2026-11-23 11:15 | facebook,instagram,tiktok,youtube | FB:REEL,IG:REEL,YT:short,TT:UNKNOWN | no | She said she was over him. Her playlist said otherwise. Retr | 1 | Retrograde Case File #12: Not About Anyone \| Guess the Sign |
+| 421320413 | 2026-11-20 11:15 | facebook,instagram,tiktok,youtube | FB:REEL,IG:REEL,YT:short,TT:UNKNOWN | no | [in Drive copy] | see Drive | [in Drive copy] |
+| 421320441 | 2026-11-21 11:15 | facebook,instagram,tiktok,youtube | FB:REEL,IG:REEL,YT:short,TT:UNKNOWN | no | [in Drive copy] | see Drive | [in Drive copy] |
+| 421320470 | 2026-11-22 11:15 | facebook,instagram,tiktok,youtube | FB:REEL,IG:REEL,YT:short,TT:UNKNOWN | no | [in Drive copy] | see Drive | [in Drive copy] |
+| 421320492 | 2026-11-23 11:15 | facebook,instagram,tiktok,youtube | FB:REEL,IG:REEL,YT:short,TT:UNKNOWN | no | [in Drive copy] | see Drive | [in Drive copy] |
 
 ## Both Sides (7493745) - 15 posts
 
@@ -248,14 +248,14 @@ Posts in next 48 hours (now to 2026-11-17 21:17 EST): 41 post objects (drafts am
 
 | Post id | When (ET) | Networks | Type | Draft | Text | Media | YouTube title |
 |---|---|---|---|---|---|---|---|
-| 421338086 | 2026-11-16 11:15 | facebook,instagram,youtube | FB:REEL,IG:REEL,YT:short | no | About seventy percent of Linear A's signs also appear in Lin | 1 | Signs We Can Read, a Script We Can't \| Linear A |
-| 421338340 | 2026-11-17 11:15 | facebook,instagram,youtube | FB:REEL,IG:REEL,YT:short | no | Five Navy planes vanished off Florida in December 1945, and  | 1 | "Both My Compasses Are Out" \| Flight 19 |
-| 421338357 | 2026-11-18 11:15 | facebook,instagram,youtube | FB:REEL,IG:REEL,YT:short | no | Many people remember a famous board game mascot wearing a mo | 1 | The Monocle That Never Was \| Visual Mandela Effect |
-| 421338362 | 2026-11-19 11:15 | facebook,instagram,youtube | FB:REEL,IG:REEL,YT:short | no | An entire room made of amber was packed into 27 crates in 19 | 1 | A Whole Room in 27 Crates, Then Gone \| The Amber Room |
-| 421338375 | 2026-11-20 11:15 | facebook,instagram,youtube | FB:REEL,IG:REEL,YT:short | no | He bought his ticket as Dan Cooper. A reporter misheard it,  | 1 | The Name a Reporter Misheard \| D.B. Cooper |
-| 421338392 | 2026-11-21 11:15 | facebook,instagram,youtube | FB:REEL,IG:REEL,YT:short | no | Sponge divers found a shipwreck off a Greek island, and insi | 1 | A 2,000-Year-Old Machine From a Shipwreck \| Antikythera |
+| 421338086 | 2026-11-16 11:15 | facebook,instagram,youtube | FB:REEL,IG:REEL,YT:short | no | [in Drive copy] | see Drive | [in Drive copy] |
+| 421338340 | 2026-11-17 11:15 | facebook,instagram,youtube | FB:REEL,IG:REEL,YT:short | no | [in Drive copy] | see Drive | [in Drive copy] |
+| 421338357 | 2026-11-18 11:15 | facebook,instagram,youtube | FB:REEL,IG:REEL,YT:short | no | [in Drive copy] | see Drive | [in Drive copy] |
+| 421338362 | 2026-11-19 11:15 | facebook,instagram,youtube | FB:REEL,IG:REEL,YT:short | no | [in Drive copy] | see Drive | [in Drive copy] |
+| 421338375 | 2026-11-20 11:15 | facebook,instagram,youtube | FB:REEL,IG:REEL,YT:short | no | [in Drive copy] | see Drive | [in Drive copy] |
+| 421338392 | 2026-11-21 11:15 | facebook,instagram,youtube | FB:REEL,IG:REEL,YT:short | no | [in Drive copy] | see Drive | [in Drive copy] |
 | 421338404 | 2026-11-22 11:15 | facebook,instagram,youtube | FB:REEL,IG:REEL,YT:short | no | [in Drive copy] | 1 | [in Drive copy] |
-| 421338418 | 2026-11-23 11:15 | facebook,instagram,youtube | FB:REEL,IG:REEL,YT:short | no | In March 1918, a Navy ship with 293 people aboard was last s | 1 | Last Seen at Barbados \| USS Cyclops, 1918 |
+| 421338418 | 2026-11-23 11:15 | facebook,instagram,youtube | FB:REEL,IG:REEL,YT:short | no | [in Drive copy] | see Drive | [in Drive copy] |
 
 ## Dottie Keys (7828954) - 8 posts
 
