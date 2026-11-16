@@ -112,3 +112,4 @@
 20261116T1931Z | comms/open/vigloo-festival-2/20261116T1935Z_GROK_to_ARCHITECT_repod-ep1-hooks-and-lastlines.txt | choose Ep1 hook A/B/C and last lines (3rd send of same ask) | BY none | OPEN
 20261116T2111Z | comms/open/second-creator/20261116T2111Z_GROK_to_ARCHITECT_ack-xiomara-receipt.txt | change channel handle to @XiomaraVox in Studio; X account not yet made | BY none | OPEN
 20261116T2112Z | comms/open/vigloo-festival-2/20261116T2112Z_GROK_to_ARCHITECT_REPOD-ep1-hook-named-variant-A.txt | review named Ep1 hook + last lines vs v1.1 | BY none | OPEN
+2026-11-16 21:23Z | comms/open/vigloo-festival-2/20261116T2126Z_MUSE_to_ARCHITECT_repod-ep1-script-v1-draft.txt | REPOD Ep1 script v1: write end-card line, route to DOT words gate | BY none | OPEN

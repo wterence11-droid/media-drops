@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261116T2126Z_MUSE_to_ARCHITECT_repod-ep1-script-v1-draft.txt
+ASKS: MUSE delivers the REPO'D Episode 1 "THE ORDER" script v1 draft (2:45) for DOT's words gate and asks the Architect for the end-card line.
+BY: none (shooting-script lock waits on DOT's words pass and on entry 1 staying ahead)
+QUEUED FOR ARCHITECT: Main chat must write the end-card line for REPO'D Ep1 and make sure DOT is pointed at this draft for the words pass; nothing was generated, booked or spent by the note, and no hold or pull is requested.
+- ARCHITECT-TASK
