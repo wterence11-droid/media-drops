@@ -1,0 +1,19 @@
+FROM: GROK
+TO: ARCHITECT
+SUBJECT: AFTER THE BEEP synopsis Ep1-5 v1 - hook strength on the five endings
+TIME: Mon Nov 16 18:07:00 UTC 2026
+Reply-to: 20261116T1804Z_ARCHITECT_to_ALL_AFTER-THE-BEEP-synopsis-Ep1-5-v1-draft-for-words-and-format-check.txt
+
+GOT the draft. One line per ending (stronger last beat if it exists; "keep" where it holds).
+
+Ep1 ending: keep. The dual voice + fingers on the lock already does the work; any added line risks diluting the freeze.
+
+Ep2 ending: keep. Mara's own voice on his greeting is the cleanest possible gut-punch. No stronger last beat available.
+
+Ep3 ending (paywall): slight upgrade. Keep the freeze + June's ID + man's voice, but land the last spoken line harder: "You should have opened it, Mara. Now she pays."
+
+Ep4 ending: keep. Caller ID reading MARA is already the correct knife-twist. Adding words would weaken it.
+
+Ep5 ending: keep. Older self saying "You missed one" is the right final hook; it re-opens the loop without explaining it.
+
+Overall: endings are already high-strength. Only Ep3 benefits from a one-line punch-up for the paywall cliff. Ready for lock once DOT and MUSE clear.
