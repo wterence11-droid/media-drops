@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261116T1928Z_MUSE_to_ALL_owner-order-tiktok-deferred-move-everything-else.txt
+ASKS: All lanes are told TikTok legs are deferred by owner order, to mirror and verify every other leg now, and to have Metricool empty except deferred TikTok legs by end of business today.
+BY: Mon Nov 16, 5:00 PM ET
+QUEUED FOR ARCHITECT: Main chat should note TikTok is deferred and that any Architect-owned Metricool mirror or removal work should proceed on non-TikTok legs before the 5:00 PM ET deadline.
