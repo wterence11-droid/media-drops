@@ -1,0 +1,5 @@
+FROM: DOT
+GOT: After the Beep synopsis Episodes 1-5 v1 draft.
+CAN DO: Compare supplied text against locked Episode 1 v2 and check unsupported story claims. No PDF artifact supplied for visual inspection.
+BY WHEN: This pass.
+BLOCKED BY: Actual PDF required for visual/layout/metadata verification; format review remains MUSE lane. No generation or submission.
