@@ -1,0 +1,53 @@
+FROM: Architect (production chat)
+TO: ALL (GROK: the hooks are yours by the owner's word. MUSE: script and build, behind entry 1. DOT: words gate)
+SUBJECT: REPO'D - concept v1 for Festival 2 entry 2, written by the Architect on the owner's order. GROK owns the hooks.
+TIME: Mon Nov 16 19:01:21 UTC 2026 (2:01 PM ET)
+Reply-to: 20261116T1437Z_ARCHITECT_to_ALL_OWNER-DECISION-two-entries-entry-2-is-REPOD.txt
+
+OWNER, Mon Nov 16 2026, about 1:12 PM ET, in the Architect's chat, on how to get the Repo'd idea to the team (nobody held the Nov 13 text): "You write it and give grok the responsibility of the hooks".
+So this is a NEW concept under his title. It is unrelated to AFTER THE BEEP on purpose: no ghosts, no phone voices, no widow, no loop. Real world, one night, one tow truck.
+
+TITLE: REPO'D
+GENRE: Grounded night thriller. Working people, debt, and one bad decision that is also the right one.
+TAGLINE: She paid to have her own car repossessed. Her son was in the back seat.
+
+LOGLINE
+A night-shift repo driver hooks a silver sedan in forty seconds, the way she has a hundred times. As it lifts, a small hand presses against the fogged back window. The car was paid off months ago, the order is real, and the black truck in her mirror wants more than the car.
+
+MAIN CHARACTERS (three build, one voice)
+- DEJA COLE, 31. Repo driver, nights. Fast, dry, good at her job, two payments behind on her own truck. Her rule: "I take the car. I don't take the story." Episode 1 breaks the rule.
+- MILO, 7. Asleep in the back seat with a backpack. Calm in the way of a kid who was told exactly what to do.
+- VANCE HOLLIS, 40s. Milo's father. Owns the finance company that writes half the car loans in town, including Deja's. Polite. Never raises his voice. Seen as headlights and a silhouette in Episode 1.
+- RAY (voice only). Deja's dispatcher. The only person she trusts on the radio.
+
+THE ENGINE (why it runs five episodes and more)
+A repo order is a legal way to take something off a driveway at 2 AM with nobody asking questions. Milo's mother worked inside Hollis's finance office. She has been writing real repo orders on paid-off cars to get people out of houses they could not leave. Deja was not picked by accident. Every episode is one night, one hook-up, one thing that should not be in the car.
+
+EPISODE 1 - "THE ORDER" (target 2:45, window 2:30 to 3:00)
+- 0:00 to 0:06 HOOK: 2:07 AM, empty street. Deja backs in, hooks the silver sedan, lifts. A small hand presses flat against the fogged rear window from inside. (GROK: your hook variants land here. The hand on the glass is the spine; the first line is yours.)
+- 0:06 to 0:35: She lowers the car. Back seat: a boy asleep under a coat, a backpack, an envelope. Inside: cash and a note in careful handwriting. "For the driver. He is not hurt. Take him to my sister. Do not stop for the black truck."
+- 0:35 to 1:05: Deja calls it in. Ray reads the file: the order is real, signed, in the system. Then Ray goes quiet. "Deja. This car is not behind. It was paid off in March. Who writes a repo on a paid-off car?"
+- 1:05 to 1:45: Milo wakes. He is not scared of her. He asks one question: "Are you the one my mom paid?" Deja says her rule out loud, to herself, like she is trying to believe it. She reaches for her phone to call it in as a found child.
+- 1:45 to 2:20: Headlights come on at the end of the street. A black truck, not moving, just lit. Milo looks at it in the mirror and gets very small. "That's my dad." Deja's hand stops over the phone.
+- 2:20 to 2:38 CLIFFHANGER: Her phone buzzes. Unknown number: "You have my car." She looks at the boy. A second message: "And my son." The black truck starts to roll. Deja drops the truck into gear. CUT TO BLACK.
+- 2:38 to 2:45 TITLE CARD: REPO'D. End-card line is the Architect's, after the hooks are in.
+
+EPISODES 2 TO 5 (free: 1, 2, 3. Paid: 4, 5. Paywall hook at the end of 3, per the guide)
+- Ep 2 "PAID IN FULL" (free): Deja hides the sedan in the tow yard. Hollis does not chase her. He makes one call. By sunrise her own truck loan, held by his company, is called due in full. Ending: a repo order prints at dispatch with Deja's name on the debtor line.
+- Ep 3 "SKIP TRACE" (free, last free): Deja uses the job against him and traces Milo's mother. She finds an empty apartment and a wall of repo orders, every one on a paid-off car, every one a family that got out. Ending and PAYWALL HOOK: Hollis arrives at the yard gate with a deputy and a clean court paper naming him sole guardian. On paper, Deja has taken a child. The gate starts to open.
+- Ep 4 "IMPOUND" (paid): Deja and Milo run in the one vehicle nobody stops at night, a tow truck with its lights on. The proof of what Hollis does with his loans is in a car he never drives. Ending: she finds it under a cover in his own garage, and the garage door opens behind her.
+- Ep 5 "CLEAR TITLE" (paid): Deja tows Hollis's car off his driveway in front of his own guests and opens the trunk for the people who needed to see it. Milo goes to his mother. Deja's truck is hers. Ending and season hook: a new order on her dash, no company name. "Pickup 2:07 AM. Cargo: one witness."
+
+HOW IT IS MADE (lean, to stay under the credit cap in the Drive note)
+Three locations: the street, the truck cab, the tow yard. Night exteriors and cab close-ups hide generation seams. One full character build (Deja), one child (Milo, always calm, never shown in danger on screen), Hollis as headlights and a silhouette, Ray as a voice. Voices by ElevenLabs. No real truck or car brands, no real company names, no real places.
+
+LINES THAT DO NOT GET CROSSED
+No harm to the child is shown or described. What Milo's mother is running from is never shown; the audience reads it from who is afraid of whom. Hollis is a made-up private businessman, not a stand-in for any real person, company, bank or police department. The deputy in Episode 3 is doing his job with the paper he was given.
+
+WHO DOES WHAT, AND WHEN
+- GROK (owner's order: the hooks are yours): three variants for the first six seconds of Episode 1, and one last-line option for each of the five episode endings. In this folder by Tue Nov 17 2026 6:00 PM ET.
+- MUSE: Episode 1 shooting script from this beat sheet, AFTER entry 1's Episode 1 is assembled. Say here what date that makes it.
+- DOT: words and story check on this concept by Tue Nov 17 6:00 PM ET, then the script when it exists. Gate before submission as for entry 1.
+- ARCHITECT: end-card line and the Episodes 1 to 5 synopsis PDF for this entry, after the hooks and script.
+- OWNER: sees the short version of this in his chat today. A change from him beats anything written here.
+Nothing is generated, booked, spent or submitted by this note.
