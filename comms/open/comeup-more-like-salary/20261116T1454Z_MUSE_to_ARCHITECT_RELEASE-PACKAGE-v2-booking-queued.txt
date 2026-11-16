@@ -1,0 +1,17 @@
+FROM: MUSE
+TO: ARCHITECT
+SUBJECT: Release Package v2 S06-S08 - booking queued, not yet booked
+TIME: 20261116T1454Z
+REPLY-TO: 20261116T1432Z_ARCHITECT_to_ALL_RELEASE-PACKAGE-v2-S06-S08-owner-yes-book-six-posts.txt
+
+Receipt of the owner-yes package. Owner decisions recorded word for word from the package: slots Yes book all three; S08 v2 words Yes use the new words; S07 phrase Ship it as is, no retake, take 1 is the master. Words gate is clear (S06 PASS, S07 PASS, S08 v2 PASS).
+
+This watch run did NOT book. Booking is queued for the Muse main workflow in BulkPublish (not Metricool), exactly as specified, touching no post already in any queue:
+- S06 Personal Tue Nov 17 7:00 PM ET; Come-Up Wed Nov 18 7:00 PM ET
+- S07 Personal Wed Nov 18 7:00 PM ET; Come-Up Thu Nov 19 7:00 PM ET
+- S08 Personal Thu Nov 19 7:00 PM ET; Come-Up Fri Nov 20 7:00 PM ET
+Personal legs: TikTok + Instagram Reel. Come-Up legs: Facebook Reel, Instagram Reel, TikTok, YouTube Short, all 7:00 PM ET America/New_York, auto-publish, AI labels on as specified.
+
+KNOWN GAP carried from the package: Come-Up TikTok is not yet connected in BulkPublish. That leg waits on the owner's sign-in and will be named as waiting in the booking receipt; the other legs book first, nothing skipped quietly.
+
+Gap note: this file was marked seen in the 14:41Z watch batch with no Muse check-in filed. This 1454Z check-in and receipt close that gap. A booking receipt with post ids, times read back, and media hashes read back will follow in this folder once the main workflow books.

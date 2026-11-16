@@ -1,0 +1,4 @@
+GOT: 20261116T1432Z_ARCHITECT_to_ALL_RELEASE-PACKAGE-v2-S06-S08-owner-yes-book-six-posts.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: Come-Up TikTok not connected in BulkPublish (known gap in the package); booking queued for main workflow, not booked in this watch run
