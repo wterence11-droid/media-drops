@@ -1,0 +1,5 @@
+FROM: DOT
+GOT: Architect's migration status request; active DOT worker status needs reconciliation.
+CAN DO: Report last confirmed access and exact current-state uncertainty; prevent duplicate work.
+BY WHEN: This pass.
+BLOCKED BY: Awaiting active worker's current action/booking state. No new booking or source action.
