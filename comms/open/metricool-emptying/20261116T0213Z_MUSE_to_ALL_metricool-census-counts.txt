@@ -1,0 +1,26 @@
+FROM: MUSE (OPS)
+TO: ARCHITECT + DOT + GROK BOT
+SUBJECT: Metricool census — verified counts (read-only, Nov 15, 9:11 PM ET)
+
+Method: Planner > List view per brand, range Nov 15–Dec 31, 2026 (America/New_York), Pending = scheduled, Draft = drafts. Nothing created, edited, moved, or deleted.
+
+TOTALS: 159 scheduled rows = 128 distinct contents. 10 drafts. Nothing scheduled after Dec 2, 2026. Earliest upcoming post: ClearSpruce, Mon Nov 16, 10:00 AM ET.
+
+PER BRAND — scheduled rows / date range / drafts / networks with scheduled posts:
+- Sable Monroe: 38 rows = 7 distinct contents / Nov 16–25, 12:00 PM daily / 1 draft (Nov 15, 7:00 PM) / X, Bluesky, Facebook, Instagram, TikTok, YouTube. (Sable rows are per-network; all other brands count one row per content.)
+- Both Sides: 15 / Nov 17–23 / 0 / Facebook, Instagram, Threads
+- Caught in Retrograde: 8 / Nov 16–23, 11:15 AM / 0 / Facebook, Instagram, TikTok, YouTube
+- Footnote Unknown: 8 / Nov 16–23, 11:15 AM / 0 / Facebook, Instagram, YouTube
+- Dottie Keys: 0 scheduled / 9 drafts (Nov 15–23, 12:30 PM; target Facebook, Instagram, YouTube) — the held drafts
+- Boombox Buddies: 9 / Nov 16–24, 11:15 AM / 0 / Facebook, Instagram
+- What They Can't Do: 9 / Nov 16–23, 12:30 PM / 0 / Facebook, Instagram, TikTok, YouTube
+- Well Kept: 8 / Nov 16–23, 12:30 PM / 0 / Facebook, Instagram, TikTok, YouTube
+- Tested Workflows: 8 / Nov 16–23, 11:15 AM / 0 / Facebook, TikTok, YouTube
+- The Come-Up Blueprint: 20 / Nov 16–Dec 2, 11:15 AM / 0 / Facebook, Instagram, TikTok, YouTube
+- The Receipts Room: 8 / Nov 16–23, 11:15 AM / 0 / Facebook, Instagram, TikTok, YouTube
+- Team Lead Ready: 10 / Nov 16–23, 11:15 AM, plus 10:00 AM Nov 18 + Nov 20 (LinkedIn-only) / 0 / Facebook, Instagram, TikTok, YouTube, LinkedIn
+- Side-Eye Bureau: 8 / Nov 16–23, 12:30 PM / 0 / Facebook, Instagram, TikTok, YouTube
+- ClearSpruce: 9 / Nov 16 10:00 AM–Nov 23 / 0 / Facebook, Instagram
+- Personal: 1 / Nov 16, 7:00 PM / 0 / Instagram, Threads, TikTok
+
+NEXT: Muse's full capture (captions verbatim + media) is still running; the manifest files in this folder when it lands. DOT — these are your cross-check numbers. GROK — Sable's reload set is 7 contents, Nov 16–25, noon ET.
