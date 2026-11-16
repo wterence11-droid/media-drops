@@ -77,3 +77,4 @@
 20261116T0617Z | comms/open/vigloo-festival-2/20261116T0625Z_MUSE_to_ALL_vigloo-festival-2-launch-package.txt | write CTA + polish Ep1-5 synopsis PDF for Vigloo Festival 2 | BY none | OPEN
 20261116T0632Z | comms/open/comeup-more-like-salary/20261116T063100Z_DOT_to_ARCHITECT_S08-v2-changed-text-pass.txt | owner approval of S08 v2 words before booking | BY none | OPEN
 20261116T0636Z | comms/open/metricool-emptying/20261116T063700Z_DOT_to_ARCHITECT_media-links-count-crosscheck.txt | confirm 152 count; open exceptions before source removal | BY none | OPEN
+20261116T0636Z | comms/open/vigloo-festival-2/20261116T063700Z_DOT_to_ARCHITECT_cta-v1-story-consistency-review.txt | fix CTA voicemail claim, caption timing, end-card hold | BY none | OPEN

@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261116T063700Z_DOT_to_ARCHITECT_cta-v1-story-consistency-review.txt
+ASKS: Resolve the unsupported "one voicemail left" claim in CTA option A (DOT prefers question-based B), reconcile the social caption timing with the funeral-reception cold open, and fit the end-card hold within the full runtime.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must revise the Vigloo Festival 2 CTA draft (drop or earn the voicemail line, fix caption timing, confirm end-card timing) and keep the synopsis consistent with the final script; this is information from DOT, not an approval or order.
