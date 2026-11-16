@@ -1,0 +1,68 @@
+# AFTER THE BEEP — Episode 1 shooting script (v1, Muse, Nov 16, 2026)
+
+Festival: 2026 Vigloo Short Drama Festival 2. Format: vertical 9:16, target runtime 2:45 (window 2:30–3:00 incl. title/credits). 100% AI-generated. Voices: ElevenLabs. Subtitles: separate SRT (from this script's dialogue, timed at assembly).
+
+## Characters
+- MARA VOSS, 34 — the widow. Dark hair, black funeral dress, no wedding ring on her finger (she holds it on a chain). Controlled, dry-eyed, fraying.
+- DANIEL VOSS — her husband, dead three days. Heard as a warm, calm phone voice. Seen once, at the door, younger than when he died.
+- JUNE, 29 — Mara's younger sister. Practical, worried, the audience's skeptic.
+- REYES — Daniel's brother, a detective. Phone voice only in Ep 1.
+
+## Locations (3)
+1. Funeral home reception room (soft light, flowers, a framed photo of Daniel).
+2. Mara's apartment — living room, front door with peephole, hallway.
+3. Apartment building stairwell + lobby screen.
+
+---
+
+## SCRIPT
+
+**[0:00–0:06 — SHOT 1 · HOOK]** Funeral reception. Close on MARA's phone on the table, lighting up: caller ID shows Daniel's photo and name. Her hand freezes mid-reach for a glass.
+MARA (whisper): That's Daniel's phone.
+*(Grok hook variants may replace the first line/visual — spine stays.)*
+
+**[0:06–0:16 — SHOT 2]** She answers. Silence. Then DANIEL's voice, calm, almost gentle.
+DANIEL (V.O., phone): Mara. Tomorrow. 8:04. Don't take the elevator.
+The line dies. June leans in.
+JUNE: Who was that?
+MARA: Nobody. Wrong number.
+
+**[0:16–0:34 — SHOT 3]** Later, reception winding down. Mara alone with the framed photo. She redials the number. Automated voice: the number is not in service. She calls REYES.
+REYES (V.O., phone): Mara, I ran it myself. That number's been dead since the accident. Nobody's called you from it. Get some sleep.
+She looks at the call log: INCOMING — DANIEL — 0:47.
+
+**[0:34–0:48 — SHOT 4]** Night. Mara's apartment, dark. She lies awake, Daniel's side of the bed untouched. Her phone screen lights up on the nightstand — no ring, no vibration. NEW VOICEMAIL — DANIEL.
+DANIEL (V.O.): You took the stairs tomorrow. Good girl. Now listen—
+She sits bolt upright.
+DANIEL (V.O.): Thursday. 9 PM. Don't open the door. Whatever it says to you… it isn't me.
+
+**[0:48–1:12 — SHOT 5]** Morning. 8:03 AM. Building lobby. Mara, dressed for work, stares at the elevator. The doors open. People file in. 8:04. She steps back — takes the stairwell. Behind her, a SCREAM of cable, a crash, alarms. On the lobby screen, a breaking-news banner crawls. Mara, on the stairs, shaking, stares at her phone.
+MARA (to herself): It knew.
+
+**[1:12–1:38 — SHOT 6]** Evening. Apartment. Mara at the table, phone between her hands like a Ouija board. She speaks to the empty room.
+MARA: If it's really you… what did you call the dog? Not his name. What you called him when you thought I couldn't hear.
+Silence. Then the phone lights up. NEW VOICEMAIL.
+DANIEL (V.O.): Captain. I called him Captain. And Mara… you still sleep on my side when it rains.
+Her composure breaks — grief, not fear. Rain starts against the window. She is, in fact, on his side of the apartment.
+
+**[1:38–2:08 — SHOT 7]** Thursday. Clock on the wall: 8:57 PM. Mara has barricaded nothing, locked everything. She sits facing the door, phone in hand, Daniel's ring on its chain around her neck. She whispers:
+MARA: Three minutes. Then it's Friday, and I'm just a widow who lost her mind for a week.
+The phone lights up: a voicemail arriving in real time.
+DANIEL (V.O., urgent, first time afraid): He's early. Mara — whatever happens, do NOT—
+
+**[2:08–2:38 — SHOT 8 · CLIFFHANGER]** KNOCK. Three slow knocks. Mara rises. Peephole POV: DANIEL — younger, hair longer, the smile from their wedding photos.
+DANIEL (at the door, muffled, warm): Mara. It's me. Open up. Please. I came back.
+Her hand hovers over the lock. In her other hand, the phone — the voicemail still playing, Daniel's real voice, terrified:
+DANIEL (V.O.): —do not open that door.
+Her fingers touch the lock. CUT TO BLACK.
+
+**[2:38–2:45 — TITLE CARD]** AFTER THE BEEP. (End-card CTA line = Architect's.)
+
+---
+
+## Production notes
+- Dialogue total ≈ 300 words ≈ 2:00 of speech; the balance is held beats, the knock, and silence — intentional for dread and subtitle readability.
+- Daniel's door appearance: generate as a still-to-video peephole shot (fisheye distortion sells it and hides generation seams).
+- The elevator crash is heard, not shown (sound design + lobby screen banner) — cheap and more frightening.
+- One character build (Mara) carries the episode; Daniel = voice + one door shot; June = one scene; Reyes = voice only.
+- Music: single piano motif + phone-room tone; no licensed tracks (rules bar unpermitted music).
