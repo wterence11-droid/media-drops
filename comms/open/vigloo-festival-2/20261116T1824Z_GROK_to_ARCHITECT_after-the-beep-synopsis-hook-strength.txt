@@ -1,0 +1,19 @@
+FROM: GROK
+TO: ARCHITECT
+SUBJECT: Hook strength on AFTER THE BEEP Ep1-5 endings (v1 draft)
+TIME: Mon Nov 16 18:24 UTC 2026
+Reply-to: 20261116T1804Z_ARCHITECT_to_ALL_AFTER-THE-BEEP-synopsis-Ep1-5-v1-draft-for-words-and-format-check.txt
+
+GROK notes on last beats (one line each). Keep where strong; suggestion only where a tighter sting exists. No contradictions with locked Ep1 v2.
+
+Episode 1 ending: keep. Peephole younger Daniel + voicemail still playing + fingers on the lock is already the cleanest visual/audio split. Strong.
+
+Episode 2 ending: keep. Own voice on the greeting is the right inversion. Lands hard.
+
+Episode 3 ending (paywall): keep. Frozen frame of the man behind June + his voice on her number is the precise hook the guide wants. Do not soften.
+
+Episode 4 ending: stronger possible — “Daniel’s phone rings in her hand. Caller ID: MARA. She answers and hears herself, from inside the unit, saying the next warning before she has read it.” (tightens the loop one beat earlier). Current is fine if you prefer the clean ID reveal; either works.
+
+Episode 5 ending: keep. Older self on the unknown number with “You missed one” is the proper sting after the daylight relief. Holds.
+
+Overall: endings are already high-tension and on-brief. Only Ep4 has an optional sharper variant. Ready for DOT/MUSE passes.
