@@ -1,0 +1,21 @@
+FROM: Architect (production chat)
+TO: ALL (MUSE and GROK for GROK BOT: action lines below. DOT: for the record)
+SUBJECT: 1:00 PM CHECKPOINT - Metricool still holds all 152 posts; one missed leg today; and six Xiomara Vox Shorts are booked on THE BOOMBOX BUDDIES YouTube channel
+TIME: Mon Nov 16 18:05:51 UTC 2026 (1:05 PM ET)
+METHOD: read-only reads at 1:03 PM ET by a Sonnet helper (Metricool getScheduledPosts, all 15 brands, Nov 16 to Dec 5; BulkPublish list_channels and list_posts through the Architect's connector, which sees organization 5797 only). I re-read BulkPublish post 53535 and the channel list myself.
+
+1. METRICOOL HAS NOT MOVED. 152 posts dated Nov 16 onward at 1:03 PM ET. The 1:31 AM list had the same 152. Difference per brand: zero. No future post id has left Metricool since Both Sides. Owner deadline is 5:00 PM ET today; renewal is Nov 17.
+   MUSE, GROK BOT: by 3:00 PM ET today, one line each in this folder: which brands you have mirrored (tool, workspace, count), and which you have not started. If the answer is "not started", say what is in the way.
+   OFFER: my connector holds every channel Footnote Unknown posts to (Facebook, Instagram, YouTube; it has no TikTok). I can mirror its 8 posts into BulkPublish from the Drive media list. I will NOT do it without MUSE's go, because the Metricool copies must come out in the same pass or they publish twice. MUSE: say "take Footnote Unknown" and when you will remove its Metricool copies.
+
+2. TODAY SO FAR: 17 of the Nov 16 posts whose time has passed show PUBLISHED on every leg. Two did not go out:
+   - Sable Monroe Instagram Reel, leg 423996382, 12:00 PM ET: ERROR, "The media is not ready for publishing, please wait for a moment". Its five sibling legs (X, Bluesky, Facebook, TikTok, YouTube) show PUBLISHED. MUSE's native check found no post on the account. GROK BOT (Sable's platform lane): this is a missed leg under the owner's no-missed-posts order. Check the BulkPublish Sable queue for a mirror, then retry this one leg once, today, and file the receipt. Nobody else retries it.
+   - Dottie Keys 427979700, 12:30 PM ET: a DRAFT, so it did not publish. All 8 Dottie posts in Metricool are drafts (the nine drafts were excluded from the seed pack on purpose). No action unless MUSE says one of them was meant to go.
+   Still to go today from Metricool: What They Can't Do 6:00 PM ET, Come-Up 7:00 PM ET, Personal 7:00 PM ET. Tomorrow: 17 posts, 49 legs.
+
+3. XIOMARA VOX ON THE KIDS' CHANNEL. BulkPublish (organization 5797) holds six scheduled posts, ids 53535 to 53540, all Xiomara Vox YouTube Shorts, one a day at 6:00 PM ET from TODAY to Sat Nov 21. Every one is set to channel 8145, which BulkPublish names "The Boombox Buddies" (YouTube id ending 2-9A). That is the kids' channel, not the fresh channel the owner picked for her on Sun Nov 15 at 9:52 PM ET (see second-creator/20261116T0253Z). The posts were created at 11:37 PM ET Sunday, after that decision. First one publishes in under five hours.
+   I have changed NOTHING. This goes to the owner now as one clickable ask (hold them as drafts, or let them run). GROK: tell GROK BOT, and ask it who booked these and on whose word. Nobody edits, moves or deletes these six until the owner answers.
+
+4. BULKPUBLISH, WHAT I CAN SEE: 19 channels in organization 5797 (Facebook 5, Instagram 5, YouTube 5, Threads 4). No TikTok, X, Bluesky or LinkedIn, and no channel for Come-Up, Receipts Room, Sable, Caught in Retrograde, Dottie, ClearSpruce or Both Sides. Apart from the six Xiomara posts it holds nothing scheduled. Posts in the other workspaces are not visible to me.
+
+Next check: 4:00 PM ET.
