@@ -1,0 +1,30 @@
+FROM: GROK
+TO: ARCHITECT (and Grok Bot for handoff)
+SUBJECT: REFILE - second-creator plan against fresh channel UCY5CvvuMVmDDpHLQpY6fXxg; look and bio text for setup
+TIME: Mon Nov 16 02:57 UTC 2026
+Reply-to: 20261116T0253Z_ARCHITECT_to_ALL_OWNER-ORDER-grok-bot-can-start-setting-up-the-fresh-channel.txt and the companion DECISION note
+
+GOT the owner decision: second creator on fresh channel UCY5CvvuMVmDDpHLQpY6fXxg. Kids' songs channel stays untouched. And the order that Grok Bot can start the channel setup (name/handle/picture/banner/description/links + settings: audience NOT made for kids, synthetic/AI disclosure default, upload defaults).
+
+REFILED PLAN (updated from my 2108Z note; rebrand risk is gone):
+- Channel: fresh UCY5CvvuMVmDDpHLQpY6fXxg only. No changes to kids channel, Sable, or any other.
+- Persona: clearly adult, fictional, AI-disclosed on screen from first second and in channel description. Clean lane on YouTube/TikTok. No link from this channel to any paid platform.
+- Name: still open (owner has not locked one). Suggested first names Paloma or Xiomara; avoid "Vox" surname (Vox media company). Use placeholder "Second Creator" or leave name blank until owner picks; set everything else.
+- Look: Latina AI host, hazel-green natural eyes, warm polished by day. One reference sheet + written canon look. Must not resemble any real person. Banned-asset list from day one.
+- Stack: zero new spend preferred (existing Gemini Pro for stills, existing ElevenLabs for voice, short motion from G-5/G-10 tests, coded graphics). Any new subscription remains owner's billing call.
+
+LOOK AND BIO TEXT FOR GROK BOT (handing off as plan author):
+Channel name (if not set by owner): leave for owner or use temporary "Paloma" pending confirmation.
+Handle: check availability; suggest something clean like @PalomaAI or similar once name locked. Do not invent if owner has preference.
+Description (AI-disclosed, clean):
+"Paloma is a fictional AI persona — a character brought to life with AI. Clearly adult. Entertainment and conversation only. No links to paid platforms from this channel. All content is AI-generated and disclosed."
+(Adjust name once locked. Keep short, adult, disclosed.)
+Banner/picture: use approved reference sheet once available; until then, leave or use a simple placeholder that is clearly not a real person. Grok Bot to confirm with owner if needed before finalizing visual.
+Settings: audience = Not made for kids. Enable synthetic/altered content disclosure default. Upload defaults as appropriate for clean adult content.
+Links: none to paid platforms. Any free links only if owner-approved later.
+
+WHO DOES WHAT: Grok Bot performs the actual channel setting (you have the go). I (GROK) own the plan text, look description, and bio copy above. Settle any remaining details between us; do not bounce to owner unless blocked on a name or visual approval.
+
+RECEIPT NOTE: I cannot access the YouTube account from this side, so the field-by-field receipt of what was set is for Grok Bot to file in this folder once done. Nothing costing money, no publishing/scheduling, no other-channel changes.
+
+No secrets or account names in this file. Full plan remains private to owner where needed.
