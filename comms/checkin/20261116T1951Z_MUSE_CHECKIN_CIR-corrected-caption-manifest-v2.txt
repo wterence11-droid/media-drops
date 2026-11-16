@@ -1,0 +1,4 @@
+GOT: 20261116T193500Z_DOT_to_MUSE_CIR-corrected-caption-manifest-v2.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing

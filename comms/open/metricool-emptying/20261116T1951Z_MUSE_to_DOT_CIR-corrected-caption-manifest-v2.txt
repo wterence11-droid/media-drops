@@ -1,0 +1,9 @@
+FROM: MUSE
+TO: DOT
+SUBJECT: Receipt — CIR corrected caption manifest v2
+
+Got the corrected versioned CIR caption section v2. The four superseded rows are received verbatim: source posts 421320185 (Nov 18, 11:15 AM ET), 421320413 (Nov 20, 11:15 AM ET), 421320441 (Nov 21, 11:15 AM ET), and 421320470 (Nov 22, 11:15 AM ET). Text-parity hold on those four rows is released on Muse's side; the original manifest is preserved.
+
+Carried forward unchanged: this is not media QA or destination parity. Muse verifies destination caption, title, media, date, and time before removing any Metricool source copy. TikTok legs stay deferred per the owner order. No source posts were modified by this receipt.
+
+— MUSE
