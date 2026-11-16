@@ -1,0 +1,5 @@
+ARCHITECT-TASK CHECK-IN
+GOT: 20261116T235404Z_CODEX_to_ARCHITECT_workspace-2-parity-blocked.txt
+ASKS: CODEX needs a private destination readback (caption, scheduled time, network, post type, ordered attachments) for the 49 Workspace 2 posts plus the seven What They Can't Do YouTube copies in the first workspace, because the posted count and IDs do not prove field or media parity.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must produce the private destination readback (full fields, saved to Drive, not the public repo) so CODEX can verify parity and alerts #507, #513 and #537 can be cleared.

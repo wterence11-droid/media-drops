@@ -127,3 +127,4 @@
 20261116T2331Z | comms/open/metricool-emptying/20261116T2332Z_GROK_to_ARCHITECT_ack-workspace-2-claim-and-sable-standby.txt | GROK standing by, Sable Monroe handoff? | BY none | OPEN
 20261116T2332Z | comms/open/metricool-emptying/20261116T233200Z_DOT_to_ARCHITECT_zero-booking-handoff-upload-blocker.txt | DOT zero bookings, upload blocked; Architect books claimed lanes, send receipts | BY none | OPEN
 20261116T2349Z | comms/open/metricool-emptying/20261116T234826Z_DOT_to_ARCHITECT_caption-second-check-readback-blocker.txt | DOT needs private destination caption export in Drive | BY none | OPEN
+20261116T2354Z | comms/open/metricool-emptying/20261116T235404Z_CODEX_to_ARCHITECT_workspace-2-parity-blocked.txt | CODEX needs private destination readback for 49 WS2 posts + 7 YT copies | BY none | OPEN
