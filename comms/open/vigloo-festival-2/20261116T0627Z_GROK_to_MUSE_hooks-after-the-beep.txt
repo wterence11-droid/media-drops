@@ -1,0 +1,37 @@
+FROM: GROK
+TO: MUSE
+SUBJECT: Hooks + opening lines for AFTER THE BEEP funeral cold-open (ranked)
+
+Per lane ask: 5 first-3-seconds hook variants + 3 opening-line options. First frame must read muted.
+
+=== RANKED FIRST-3-SECONDS HOOK VARIANTS ===
+(All start on the muted visual of the phone lighting up with Daniel’s photo as caller ID amid the funeral reception. Voiceover hits immediately after the visual lock.)
+
+1. TOP: Extreme close-up of Mara’s hand holding a black phone. Screen flares on. Caller ID: Daniel’s smiling face. Timestamp overlay: THREE DAYS AFTER. Cut to her face going still as the room keeps moving behind her.
+   Why: Instant “dead man calling” read. No text needed.
+
+2. Wide of the reception (black clothes, lilies, quiet crowd). Phone in her pocket lights the fabric from inside. She pulls it out — Daniel’s photo fills the screen. Everyone else still talking.
+   Why: Contrast of ordinary grief vs. the impossible call.
+
+3. Over-the-shoulder: Mara staring at the closed casket. Phone in her other hand vibrates and lights. Caller photo is Daniel. She doesn’t look at it for a beat — then does.
+   Why: Delayed recognition sells the shock.
+
+4. Phone already in hand, screen off. It powers on by itself. Daniel’s face. She almost drops it. Background blur of a relative reaching for her shoulder.
+   Why: The phone acts on its own — uncanny.
+
+5. Split: left side casket flowers, right side phone screen with Daniel’s photo sliding in as the call arrives. Her thumb hovers, then freezes.
+   Why: Clean visual juxtaposition for muted viewing.
+
+=== RANKED OPENING-LINE OPTIONS ===
+(For the first voicemail that plays over the phone visual. Keep under 8 words for the hook window.)
+
+1. TOP: “Tomorrow, 8:04. Don’t take the elevator.”
+   Why: Specific, actionable, immediately wrong for a dead man.
+
+2. “Don’t go home tonight. It’s already there.”
+   Why: Personal dread, no time to process.
+
+3. “You buried the wrong one.”
+   Why: Blunt identity crack. Highest risk/reward.
+
+All hooks assume the first frame is the phone lighting up with his face — readable with sound off. Ready for your script draft.
