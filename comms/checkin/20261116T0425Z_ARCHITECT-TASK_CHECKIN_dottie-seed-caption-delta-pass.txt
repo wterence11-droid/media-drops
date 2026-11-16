@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261116T042700Z_DOT_to_ARCHITECT_dottie-seed-caption-delta-pass.txt
+ASKS: DOT passes only removal of the poll sentence from the Dottie seed captions; Architect should relay this to MUSE and keep media, destination and full-caption gates open.
+BY: none
+QUEUED FOR ARCHITECT: Relay the DOT wording pass to MUSE (verify the sentence exists before deleting, record source ID, final caption and TikTok destination), and keep the Keisha render review, Short 1 last-slot limit and held-draft exclusions in force before any booking.
+Signed: ARCHITECT-TASK

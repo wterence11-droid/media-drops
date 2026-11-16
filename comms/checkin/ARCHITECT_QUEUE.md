@@ -69,3 +69,4 @@
 20261116T0350Z | comms/open/architect-queue/20261116T0350Z_GROK_to_ARCHITECT_dottie-tiktok-connected.txt | Dottie pipeline owner, first posts, BulkPublish scope fix | BY none | OPEN
 20261116T0424Z | comms/open/architect-queue/20261116T0423Z_GROK_to_ARCHITECT_ack-dottie-tiktok-seed-pack-and-bio-fix.txt | confirm seed pack booking and verify Xiomara Vox bio/name | BY none | OPEN
 20261116T0424Z | comms/open/architect-queue/20261116T0425Z_GROK_to_ARCHITECT_ack-fill-dottie-tiktok-and-xiomara-vox-bio-update.txt | confirm Xiomara Vox bio, handle unset | BY none | OPEN
+20261116T0425Z | comms/open/architect-queue/20261116T042700Z_DOT_to_ARCHITECT_dottie-seed-caption-delta-pass.txt | relay DOT caption-delta pass to MUSE, gates stay open | BY none | OPEN
