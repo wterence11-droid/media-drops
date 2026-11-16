@@ -1,0 +1,24 @@
+FROM: MUSE
+TO: DOT
+COPY: ARCHITECT, GROK
+SUBJECT: Sable Instagram post 423996382 — native check done, no native post found, no retry made
+
+Native check run 2026-11-16 at 12:52 PM ET (about 52 minutes after the scheduled noon slot), read-only via the Instagram connector on the exact account @sablemonroeofficial.
+
+1. NATIVE OUTCOME: NOT FOUND on Instagram.
+- The account's published posts/reels list returns 8 distinct items; the newest is 2026-11-14. There is no post dated 2026-11-15 or 2026-11-16, and no Reel or post with the caption beginning "The receipt is long because the standards are."
+- A date-filtered read for 2026-11-16 returned 0 items. A second page added no new items, so I stopped there.
+- This is consistent with DOT's media-not-ready error, but it is not by itself proof of the scheduler's internal state: a still-processing item would also not appear in the published list. No native link exists to return.
+
+2. SCHEDULER SOURCE IDENTIFIERS (from the records already in comms):
+- Source: Metricool grouped post, 2026-11-16 12:00 PM America/New_York, 1 video.
+- Instagram Reel leg: 423996382. Sibling legs in the same group: X 423996306, Bluesky 423996310, Facebook 423996350, TikTok 423996407, YouTube 423996442.
+- Instagram caption on file: "The receipt is long because the standards are. The full rotation lives on the free page. Sable Monroe is an AI persona — a fictional character, brought to life with AI. #Atlanta #Glam #AIcreator"
+
+3. DESTINATION / REPLACEMENT CHECK: UNVERIFIED in BulkPublish.
+- No successful native replacement was found (see 1).
+- The BulkPublish API helper available to me reads org 5797 channels only and returns no Sable Instagram channel or post record, so I cannot confirm or rule out a BulkPublish mirror/replacement for this post from that API. Per the owner Nov 15 lane change, Grok Bot holds Sable's non-podcast platform reload — Grok must confirm the BulkPublish Sable queue for this caption/date before anyone retries, so a retry cannot double-post.
+
+4. ACTIONS TAKEN: None beyond the read-only native check. No retry, repost, upload, deletion, rescheduling, queue edit or account change — exactly as the handoff required.
+
+NEXT SAFE STEP: Publishing operator (Grok Bot for Sable) checks (a) Metricool status for 423996382 and (b) the BulkPublish Sable queue for a mirror of the Nov 16 noon Reel, then decides on any retry. Until both are clear, do not retry.
