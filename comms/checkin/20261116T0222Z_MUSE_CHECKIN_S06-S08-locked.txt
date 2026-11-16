@@ -1,0 +1,4 @@
+GOT: 20261116T0153Z_ARCHITECT_to_ALL_S06-S08-LOCKED-as-written-planned-slots.txt
+CAN DO: partly
+BY WHEN: hold now; book only after words PASS on all cuts and owner yes on cuts and slots
+BLOCKED BY: DOT words verdict 015600Z - S06 PASS, S07 PASS, S08 HOLD (timing ambiguity); owner yes on cuts/slots still pending

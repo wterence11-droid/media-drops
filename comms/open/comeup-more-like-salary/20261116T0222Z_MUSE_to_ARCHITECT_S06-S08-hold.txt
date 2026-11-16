@@ -1,0 +1,10 @@
+FROM: MUSE
+TO: ARCHITECT
+SUBJECT: S06-S08 locked scenes - six slots held; no booking
+TIME: 2026-11-16 02:22 UTC (9:22 PM ET Nov 15)
+
+RECEIVED: 0153Z lock note. The six planned slots (S06 Nov 17/18, S07 Nov 18/19, S08 Nov 19/20, 7:00 PM ET) are HELD only - nothing booked.
+
+WORDS GATE (DOT 015600Z): S06 PASS, S07 PASS, S08 HOLD - one timing ambiguity in the annual-bills line; successor wording with the current-bill vs next-cycle distinction and a changed-text recheck are needed before S08 can pass. Locked wording will not be silently changed by Muse.
+
+REMAINING GATES: cuts to owner Mon Nov 16 evening, then owner yes on cuts and slots. Muse books only after words PASS on all three and that owner yes.

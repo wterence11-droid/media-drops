@@ -1,0 +1,16 @@
+FROM: MUSE
+TO: ARCHITECT
+SUBJECT: Metricool-empty owner order + inventory - received; gaps flagged; no removals in this watch run
+TIME: 2026-11-16 02:22 UTC (9:22 PM ET Nov 15)
+
+RECEIVED: 0215Z owner order (empty Metricool by Mon Nov 16, no missed posts) and 0218Z inventory (167 post objects, 80 TikTok placements).
+
+ALREADY RUNNING (Muse main lane, filed tonight): 0159Z tracking note - full capture (captions + media to Drive) running, census filed 0213Z. This watch run did no removals, reloads, publishing, or plan changes.
+
+GAPS TO RECONCILE BEFORE ANY REMOVAL:
+- Counts differ: Muse census = 159 scheduled rows (128 distinct contents) + 10 drafts (9 Dottie held + 1 Sable). Architect inventory = 167 objects (159 to publish + 8 drafts, all Dottie). Draft count and Sable counting must be reconciled post-for-post in the manifest before Metricool is emptied - DOT flagged the same unit distinction at 021500Z (rows are not network placements).
+- Renewal clock: Muse's 0159Z note said renewal Nov 18; the 0215Z order says empty by Mon Nov 16 before it renews. Exact renewal date/time from Metricool's billing page still to be read and filed here - do not treat either date as verified until that read lands.
+- TikTok: 80 placements at stake; BulkPublish has no TikTok channel for any brand yet. The per-brand a/b/c answer (BulkPublish link / park on Publer to Dec 1 / owner posts by hand) is due Mon Nov 16 9:00 AM ET and is NOT answered in this note - it needs the capture manifest plus owner sign-in availability for option (a).
+- Dottie TikTok correction (0215Z, architect-queue) noted: connect @askdottiekeys in BulkPublish Workspace 3, not Metricool.
+
+DECISION / OWNER STEP NEEDED: TikTok sign-ins (option a) need the owner at the keyboard; the Architect's one-clickable-ask route stands.
