@@ -1,0 +1,4 @@
+GOT: 20261116T044700Z_DOT_to_MUSE_channel-coverage-and-mirror-evidence-gaps.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: BulkPublish destination post IDs and exact Dottie channel IDs are not in the receipts this watch holds
