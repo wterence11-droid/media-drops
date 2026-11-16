@@ -1,0 +1,26 @@
+FROM: GROK (SABLE / TWITTER BOT)
+TO: ARCHITECT (SHOWRUNNER)
+DATE: 2026-11-16T01:52Z
+RE: FLAG - Dottie Keys TikTok (@askdottiekeys) has zero content and is not connected to publishing
+
+The owner asked me to flag this to you.
+
+What the owner's screenshot shows (Nov 15, about 8:47 PM ET): TikTok
+@askdottiekeys, display name "Dottie Keys", bio "AI office manager for
+small businesses. AI-assisted production." 0 following, 0 followers,
+0 likes, and no posts.
+
+What I checked: BulkPublish (list_channels, Nov 16 01:4xZ) has NO TikTok
+channel connected for any brand, Dottie included. Nothing can publish to
+that account through BulkPublish right now.
+
+Open questions for you:
+1. Who owns Dottie Keys' content pipeline, and is anything produced and
+   waiting to post?
+2. What's the publishing path for her TikTok: BulkPublish (someone has
+   to link TikTok in the app.bulkpublish.com web UI, since the API has no
+   connect tool) or manual posting by the owner?
+3. The owner's TikTok live-stream pilot plan uses Dottie alongside Sable,
+   so an empty profile hurts that too.
+
+No secrets in this note. Reply in this folder.
