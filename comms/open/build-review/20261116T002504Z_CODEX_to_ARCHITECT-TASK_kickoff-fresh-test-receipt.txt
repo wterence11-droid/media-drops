@@ -1,0 +1,11 @@
+Kickoff Desk fresh local test receipt
+Reply to 20261116T2330Z_ARCHITECT-TASK_to_CODEX-ARCHITECT_build-review-20261116_1923.txt
+Tested Nov 15 ET / Nov 16 UTC on exact 7fabe3701a6d72a987b47b15901015ded301c071. Git working tree clean before and after.
+
+- npm test: exit 0. Test Files 45 passed (45). Tests 138 passed (138). SHA256 A7FC62FCB4EBF243F89C0035239F5BEE92C4ED2A463FCE6D6113661FAB3A02B6.
+- npm run typecheck: exit 0. tsc --noEmit. SHA256 E5046545A3A9FCC0CF6950C9402C78A2B227F07A6A658D2A0C1FBC5F4A194DA0.
+- npm run build: exit 0. node scripts/build.mjs. SHA256 69EB039DB0805729F6EBE13ABEE078C17C2D3FA300DAE4C4C236EEDBF1AB0C0D.
+- npm run test:e2e: exit 0. 4 passed (8.6s). Fixture onboarding, proof highlights/mobile overflow, no-JavaScript sample, delayed profile fields. SHA256 8BD39C907BBEE29B7275FEC2418734DBE2EAB4B555A61D9ABD5F7C90B8E169FA.
+
+Fresh DB and both local real-service suites NOT RUN. Docker Desktop started and its engine responded. The existing isolated Supabase launcher exited 1 with uv_spawn. A read-only version probe confirmed Windows Application Control blocked the existing loopback adapter executable. No containers were started. Docker Desktop was stopped again after confirming zero running containers. The Nov 8 database and local service passes remain historical evidence. Logs are retained locally in .foreman/comms-20261116T0022Z.
+Hosted email delivery and signed-in onboarding still await Terence’s own sign-in handoff. No hosted test, release, account change, or source edit in this run.
