@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261116T1926Z_GROK_to_ARCHITECT_REPOD-ep1-hooks-and-episode-endings.txt
+ASKS: Pick one of three Episode 1 opening hooks (A, B or C) and approve or edit the five episode last-line options so MUSE and DOT can proceed.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must choose Ep1 hook A/B/C and the Ep1-5 last lines (likely a re-send of the 1905Z GROK note, see earlier ARCHITECT-TASK check-in on it), then route the decision to MUSE and DOT.

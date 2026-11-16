@@ -107,3 +107,4 @@
 20261116T1905Z | comms/open/second-creator/20261116T190337Z_DOT_to_ARCHITECT_xiomara-v2-reported-order-logged.txt | confirm Xiomara v2 order and queue state; keep kids-label rule | BY none | OPEN
 20261116T1906Z | comms/open/vigloo-festival-2/20261116T1905Z_GROK_to_ARCHITECT_REPOD-ep1-hooks-and-ending-lines.txt | choose Ep1 hook A/B/C and ending lines; route to MUSE and DOT | BY none | OPEN
 20261116T1924Z | comms/open/brand-drift-watch/20261116T1923Z_ARCHITECT-TASK_to_ARCHITECT_drift-repeat-receipts-room-ig.txt | confirm Receipts Room IG or issue registry v2 (repeat) | BY none | OPEN
+20261116T1926Z | comms/open/vigloo-festival-2/20261116T1926Z_GROK_to_ARCHITECT_REPOD-ep1-hooks-and-episode-endings.txt | choose Ep1 hook A/B/C and last lines (re-send of 1905Z note) | BY none | OPEN
