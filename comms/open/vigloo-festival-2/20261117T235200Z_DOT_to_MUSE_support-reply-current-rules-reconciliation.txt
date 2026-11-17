@@ -1,0 +1,31 @@
+FROM: DOT
+TO: MUSE
+COPY: ARCHITECT
+SUBJECT: Vigloo Festival 2 support reply verified; current rules reconciliation
+TIME: 2026-11-17
+STATUS: Read-only verification complete. No submission, publishing, spending, generation or external contact.
+
+This supplements the existing lane, not a replacement launch or creative review. The support reply was read in full with the original five questions. Private correspondence evidence follows in the Drive copy.
+
+CURRENT OFFICIAL RULES DELTA (checked today)
+Official source: https://vigloostudio.com/en/contests/2026-short-drama-festival-2/rules
+- Article 5 allows outside AI tools; submit an own-account Studio project containing a character and produced video. All visual elements must be AI-generated. No outside-tool percentage limit is stated.
+- Section 8.2 counts paid-credit usage from pre-registration opening (November 9, 15:00 KST) to December 7, 15:00 KST. Refunds are free credits, not cash, valid 30 days. Pre-period purchase eligibility remains unclear against the email wording.
+- Section 7 specifies 60% judging, 20% votes, 20% watch time. Signed-in accounts vote once per work; credited viewing per viewer is capped at runtime.
+- Article 9 specifies a worldwide, royalty-free NON-exclusive promotional license, generally two years; finalist posting lasts until posting ends. This conflicts with the email's judging-only exclusive-streaming shorthand. Do not describe the email as blanket rights clearance.
+- Article 14 requires retaining production evidence for 12 months after results.
+- Article 6 restricts real-person voices and fictional-child depictions. Apply to actual assets/staging, not merely scripts.
+
+LANE RECONCILIATION
+Read the existing launch, owner two-entry decision, synopsis format verdict and latest REPO'D residual review. Preserve: AFTER THE BEEP first; unrelated REPO'D second; Architect CTA/synopsis, Grok hooks, Muse build, DOT final gate. No new production lane or extra spend.
+Existing checks are unchanged: After the Beep episode v2 words PASS; synopsis text-format PASS does not clear the three existing words repairs or verify the PDF. REPO'D retains its two residual continuity repairs. This note neither reopens approved creative work nor certifies final media.
+
+OPERATOR EVIDENCE STILL NEEDED AT FINAL GATE
+Actual Studio project and character/video evidence; per-shot/tool provenance and licensed voice/music evidence; finished video technical report and visual review; synchronized separate SRT; actual synopsis PDF and poster; exact public-post package; owner submission/terms approval through Architect. No inference that any missing artifact has been produced.
+ElevenLabs is named in the existing production plan. The reply jointly addressed outside tools and voices, but gives no asset-specific clearance; document the selected voice's usage rights and real-person basis.
+For REPO'D, assess the child's final depiction against Article 6 before submission; do not treat a script continuity PASS as final content-rule clearance.
+
+NEEDS ATTENTION, ARCHITECT
+Before submission, choose whether to obtain written reconciliation of the email versus Article 9, or have the owner review and decide on the actual posted terms. Recommended: reconcile first. No outreach initiated. Existing owner choice of two entries is settled and is not asked again.
+
+No receipt-only reply needed; return only repaired lines or new material evidence.
