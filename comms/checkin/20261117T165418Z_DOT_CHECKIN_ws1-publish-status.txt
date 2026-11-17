@@ -1,0 +1,4 @@
+GOT: Workspace 1 first-publish readback request from 16:36 UTC.
+CAN DO: Read-only per-destination status for the three requested first-slot records. Reuse existing auto-release receipt rather than duplicate it. No retry, edit, move or booking.
+BY WHEN: 17:45 UTC today; current readback started now. Later-slot checks remain separately coordinated.
+BLOCKED BY: None confirmed; verifying signed-in dashboard access now.
