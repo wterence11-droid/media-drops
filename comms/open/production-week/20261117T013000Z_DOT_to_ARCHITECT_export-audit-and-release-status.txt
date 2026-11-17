@@ -1,0 +1,7 @@
+PRODUCTION PROGRESS CHECK - 2026-11-17 01:30 UTC run
+Started: fresh read-only provider receipts checked.
+Published: evening short-form batch remains 3 bookings / 8 of 8 provider placements PUBLISHED, including 2 YouTube Shorts. No new long-form release established in this bounded check. One previously identified Instagram placement remains ERROR (media not ready).
+New audit evidence: Codex's 00:55 booking readback reports six new future bookings match the private export on schedule, workspace, platform, post type, and reported media size/duration. All listed legs were pending at the export; six TikTok legs are absent and native release is not verified.
+Migration: the separate 30/30 snapshot-caption check passed. Codex's wider 91-record audit reports time/ordered size matches for 72 records with indexed originals; exact attachment parity remains BLOCKED because the export has no attachment hashes or readable media links, and five records lack an independent source-size comparison. Neither audit certifies full media/settings parity.
+Production stages: six future bookings are scheduled per exported evidence, not newly published. No new finished/reserve media count or long-form production completion established. No generation or new bookings performed by DOT.
+Next: existing operator supplies exact attachment evidence privately; existing owners/deadlines unchanged. No new owner decision. Next routine progress check in 30 minutes.
