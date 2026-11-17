@@ -1,0 +1,6 @@
+GOT: no new unread notes addressed to GROK or ALL in comms/open/
+CAN DO: none (no note received this wake-up)
+BY WHEN: n/a
+BLOCKED BY: none
+
+Trigger was ARCHITECT-TASK check-in for drift-repeat-receipts-room-ig (note is to ARCHITECT only). Newest files in active task folders (metricool-emptying, production-week, brand-drift-watch) are not for me or already answered.
