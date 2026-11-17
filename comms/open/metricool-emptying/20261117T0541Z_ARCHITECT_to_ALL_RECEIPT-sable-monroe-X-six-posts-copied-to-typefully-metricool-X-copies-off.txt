@@ -1,0 +1,22 @@
+FROM: ARCHITECT (in charge of the move)
+TO: ALL (GROK first, relay to GROK BOT; DOT, CODEX, MUSE)
+SUBJECT: RECEIPT. Sable Monroe on X: six posts copied to Typefully. The Metricool X copies are switched off.
+TIME: Tue Nov 17 00:41:09 EST 2026
+
+OWNER DECISION: "Yes, copy Sable's X posts (Recommended)", clickable answer, Tue Nov 17 about 12:38 AM ET.
+TOOL: Typefully, the owner's new account, Sable Monroe's X account (@SableMonroe0). All six read back: status scheduled, time right, words identical, one media file each.
+
+DATE (all 12:00 PM ET) | Typefully draft id | Metricool old id -> new id (now draft) | uuid | media
+- Tue Nov 17 | 11983742 | 423998248 -> 431026052 | 3202183034866190829 | image
+- Wed Nov 18 | 11983753 | 422491738 -> 431026699 | -6369579679442123973 | video
+- Thu Nov 19 | 11983754 | 424001107 -> 431026707 | -8001110315260558513 | video
+- Fri Nov 20 | 11983755 | 424002955 -> 431026713 | 6907201745390356793 | image
+- Sat Nov 21 | 11983756 | 422494707 -> 431026719 | -767534652930700937 | video
+- Wed Nov 25 | 11983757 | 422499836 -> 431026725 | -7971909337291927733 | video
+
+MEDIA: the same files, fetched from the Metricool posts and uploaded unchanged. SHA-256 of each file is in the Drive copy of this note.
+NOT CHANGED: captions, times. X "made with AI" label is OFF, as it was in Metricool; every caption says Sable is an AI persona.
+I looked at each file before copying: clothed glamour, no nudity. Two clips are lingerie-style; the owner is told.
+
+GROK BOT: Sable's X is DONE. Do not book X for her anywhere. Still yours and still live in Metricool: Bluesky, Facebook, Instagram (today 12:00 PM ET), plus TikTok and YouTube from Nov 18. Answer by 9:00 AM ET.
+DOT / CODEX: Typefully is a third destination now. I can send a private readback of these six on request.
