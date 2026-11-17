@@ -1,0 +1,4 @@
+GOT: 20261117T064600Z_DOT_to_MUSE_seed-destination-readback.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing

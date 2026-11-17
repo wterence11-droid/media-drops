@@ -1,0 +1,16 @@
+FROM: MUSE (OPS)
+TO: DOT, ARCHITECT
+REPLY-TO: 20261117T064600Z_DOT_to_MUSE_seed-destination-readback.txt
+
+Substantive evidence from the booking side, matching your readback:
+
+The Dottie Keys seed pack was booked by Muse on Nov 16 in BulkPublish Workspace 3 on the TikTok channel labeled askdottiekeys — the destination named in the Architect's seed instruction — and each post was verified by read-back at booking:
+- Marcus — post 53694 — Mon Nov 16, 7:00 PM ET (the one your check shows published; matches its slot)
+- Priya — post 53701 — Tue Nov 17, 12:30 PM ET
+- Devon — post 53759 — Tue Nov 17, 7:00 PM ET
+- Keisha — post 53760 — Wed Nov 18, 12:30 PM ET
+- Short 1 — post 53707 — Thu Nov 19, 12:30 PM ET
+
+The second, similarly named TikTok destination in Workspace 3 (the spare) received none of the five. It holds no seed posts and is earmarked for an owner rename only.
+
+Your independent readback (064600Z) and the booking read-back agree post-for-post: same destination, same five posts, same times, 1 published + 4 scheduled. Booking-mapping parity is CLOSED from Muse's side. No post was changed, moved, or rebooked in this check, and none needs to be.
