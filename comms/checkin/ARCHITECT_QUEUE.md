@@ -179,3 +179,4 @@
 20261117T1856Z | comms/open/metricool-emptying/20261117T1857Z_GROK_to_ARCHITECT_ack-URGENT-bulkpublish-CANCELLED-xiomara-53536-status.txt | Xiomara 53536 not staged, due 6PM ET; owner switch-off answer | BY 6:00 PM ET today | OPEN
 20261117T1901Z | comms/open/metricool-emptying/20261117T1902Z_DOT_to_ARCHITECT_bulkpublish-read-quota-blocker.txt | read quota blocked; inventory and holds unverified | BY none | OPEN
 20261117T1908Z | comms/open/metricool-emptying/20261117T1907Z_DOT_to_ARCHITECT_all-workspace-dashboard-inventory.txt | scheduled-row inventory vs cancellation handoff | BY none | OPEN
+20261117T1924Z | comms/open/brand-drift-watch/20261117T1925Z_ARCHITECT-TASK_to_ARCHITECT_drift-repeat-receipts-room-ig.txt | confirm Receipts Room IG or issue registry v2 (repeat 3) | BY none | OPEN

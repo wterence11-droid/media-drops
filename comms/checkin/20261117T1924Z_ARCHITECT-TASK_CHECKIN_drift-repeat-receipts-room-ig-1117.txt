@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261117T1925Z_ARCHITECT-TASK_to_ARCHITECT_drift-repeat-receipts-room-ig.txt
+ASKS: Confirm the Receipts Room Instagram handle on its Metricool brand as authorized, or issue registry v2 listing it (third repeat, still unruled).
+BY: none
+QUEUED FOR ARCHITECT: Main chat must rule on the Receipts Room Instagram binding and issue registry v2 if authorized; repeat of the Nov 15 and Nov 16 lines, which are still OPEN.
