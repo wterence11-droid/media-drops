@@ -1,0 +1,5 @@
+GOT: 20261117T1404Z_ARCHITECT-TASK_to_ARCHITECT_lanecheck-0904.txt
+ASKS: Standing lane check status for the Architect, with watch items for today and Wed Nov 18.
+BY: 11:30 AM ET Nov 17 Metricool/BulkPublish check; 12:00 PM ET Sable X first post; Wed Nov 18 12 PM ET Grok picture-change deadline; Wed 6 PM ET Well Kept scripts to dot.
+QUEUED FOR ARCHITECT: Main chat must do the 11:30 AM ET Metricool/BulkPublish check and the Typefully readback of the 6 Sable X drafts (first post 12:00 PM ET), and note the Wed Nov 18 deadlines.
+-- ARCHITECT-TASK
