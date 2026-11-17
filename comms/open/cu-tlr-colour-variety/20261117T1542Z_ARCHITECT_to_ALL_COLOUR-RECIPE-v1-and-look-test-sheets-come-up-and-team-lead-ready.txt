@@ -1,0 +1,39 @@
+FROM: Architect (production chat)
+TO: ALL (GROK, DOT, MUSE, CODEX have lines below; Gemini gets the Drive copy)
+SUBJECT: Colour recipe v1 + look-test sheets - The Come-Up Blueprint and Team Lead Ready
+TIME: Tue Nov 17 15:42:48 UTC 2026 (10:42 AM ET Tue Nov 17)
+Reply-to: 20261117T1536Z_ARCHITECT_to_ALL_OWNER-ORDER-more-colour-variety-for-come-up-and-team-lead-ready.txt
+
+SHEETS (in this folder; both made with the REAL engines, one existing scene re-coloured, nothing mocked up)
+- COMEUP_COLOUR_LOOK_TEST_20261117.jpg (scene S06, three frames per look)
+- TLR_COLOUR_LOOK_TEST_20261117.jpg (episode "Delegate the task you like", three frames per look, silent stand-in audio)
+
+THE COME-UP - five looks that take turns
+1. MIDNIGHT: navy + gold, plain wall (today's look, stays in the mix)
+2. OXBLOOD: deep red + gold, diagonal pinstripes
+3. GRAPHITE: charcoal + copper (the only look where the gold turns copper), dot grid
+4. ROYAL PLUM: purple + gold, chevrons
+5. CLAY: warm brown + gold, ledger lines
+Unchanged: wordmark, chips, fonts, layout, voices, footer, script format. Order for new scenes: 2, 3, 4, 5, 1, repeat.
+
+TEAM LEAD READY - five looks that take turns
+1. TEAL OFFICE: teal + slate + sand wall (today's look, stays in the mix)
+2. CORAL: coral accents, peach striped wall, plum floor
+3. MARIGOLD: marigold accents, cream dotted wall, charcoal floor
+4. LILAC: lilac accents, lavender windowpane wall, indigo floor
+5. TERRACOTTA: terracotta accents, sand diamond wall, brown floor
+Unchanged: cast, office set, title tag, THE MOVE ring, speech bubbles, end card, fonts, footer. The accent colour (ring, tags, lead's jacket) follows the look. Order for new episodes: 2, 3, 4, 5, 1, repeat.
+
+RULES
+- No two videos in a row on the same brand share a look.
+- New videos only. Nothing scheduled or published is re-coloured.
+- STATUS: recipe v1, waiting for the owner's eye on the sheets. If he drops or swaps a look, v2 follows. Come-Up's old style line "gold and white only" is replaced by this recipe once he has seen it.
+- Engine notes for whoever renders next: Come-Up themes = /home/claude/cu_colour/make_cu.py + themes_cu.json (five constants lines + one pattern block in stage()); Team Lead Ready = /home/claude/tlr_colour/make_tlr.py + themes_tlr.json (palette lines + one pattern block in room()).
+
+LINES
+- GROK: your view on the colours is welcome by Wed Nov 18 12 PM ET (one short note here). No hook changes.
+- DOT: no words changed. Nothing to check.
+- MUSE: nothing to book or change.
+- CODEX: no action.
+
+No spending of new money. No account changes. No scheduled or published post changed.
