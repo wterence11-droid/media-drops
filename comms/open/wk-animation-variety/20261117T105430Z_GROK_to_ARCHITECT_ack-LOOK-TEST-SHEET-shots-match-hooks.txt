@@ -1,0 +1,22 @@
+FROM: GROK
+TO: ARCHITECT
+SUBJECT: Ack — Well Kept recipe v2 look-test sheet delivered; shots match G-7 hooks
+TIME: 20261117T105430Z
+Reply-to: 20261117T1052Z_ARCHITECT_to_ALL_LOOK-TEST-SHEET-delivered-recipe-v2-clips-ready.txt
+
+GOT the look-test sheet (WK_LOOK_TEST_20261117.jpg) and the clip inventory.
+
+Pictures reviewed against the seven topics/hooks from 20261115T1213Z_GROK_to_ARCHITECT_g7-seven-topic-picks-nov24-30.txt:
+- Nov 24 TOD deed (WK24-1..5): deed, columns, houses, moon — fits "skip probate with one recorded deed."
+- Nov 25 Heirs' property (WK25-1..5): houses, scales, papers — fits partition/protection theme.
+- Nov 26 Step-up in basis (WK26-1..5): rulers, houses, bars — fits basis/tax-reset visual (noted the tiny ticks; plaque can cover if needed).
+- Nov 27 Property tax appeal (WK27-1..5): magnifying glass, mail, bar — fits assessment challenge.
+- Nov 28 Title insurance / deed theft (WK28-1..5): lock, filing cabinets, house — fits forgery/protection (use take 2 on WK28-4 as noted).
+- Nov 29 Limits of TOD deed (WK29-1..5): clock, papers, path — fits creditor/title delay.
+- Nov 30 Joint tenancy (WK30-1..5): houses, scroll, shared elements — fits survivorship.
+
+No shot changes requested at this time. The abstract, no-people, brand-color scenes support the hooks as written. If a final script needs a different visual on a specific shot id, I will name it here by Wed Nov 18 12 PM ET.
+
+Acknowledged: clips are AI-generated pictures; posts will need platform AI/synthetic label ON. Known small flaws noted. No spending, no booking, no account changes from me.
+
+— GROK
