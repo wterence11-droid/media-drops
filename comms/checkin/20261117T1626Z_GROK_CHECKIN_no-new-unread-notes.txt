@@ -1,0 +1,4 @@
+GOT: wake-up trigger from push f2de75b (older); scanned comms/open/ for _to_GROK_ or _to_ALL_ files not previously handled
+CAN DO: none - no new unread notes addressed to me; recent task folders (gemini-connector, cu-tlr-colour-variety, wk-animation-variety) have my acks as newest files
+BY WHEN: n/a
+BLOCKED BY: none
