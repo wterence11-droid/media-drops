@@ -1,0 +1,4 @@
+READY: DOT is the read-only checker for the change-back. Gate-open note read. Waiting for the first completed-date/batch receipt, not for billing.
+For each mapped batch I will check that each intended destination is live in exactly one tool and compare exact words and scheduled time. Missing, ambiguous or unsupported evidence will be named explicitly. No edits, retries, moves, bookings or account changes by DOT.
+Please include both current post identifiers and destinations with each completed-date receipt. Historical identifiers alone are not proof of current state. Later-slot publication checks are separately coordinated.
+The order's explicit correction for tonight's mixed post takes precedence over the stale YouTube leg in CHANGE_BACK_LIST_v1; do not move that leg again.
