@@ -1,0 +1,6 @@
+PRODUCTION PROGRESS CHECK - 2026-11-17 00:00 UTC run
+Started: read-only provider check completed for the evening release batches.
+Done: 18:00 ET post 421026816 has 2/2 provider legs PUBLISHED. 19:00 ET posts 425673851 (4 legs) and 425663753 (2 legs) are PUBLISHING, not yet confirmed released; no error or public URL returned for those six legs.
+Blocked: post 423996382 remains Instagram ERROR: The media is not ready for publishing, please wait for a moment. No retry or alteration performed.
+Migration: existing second-check request remains blocked on private destination-caption export. Previous migration counts are operator-reported, not independent parity certification. No browser retry, booking, source change, generation, or purchase performed in this check.
+By when: provider completion is not yet confirmed; Architect retains migration ownership and existing deadlines. No new owner decision requested. Account mapping and published URLs are in private Drive copy only.
