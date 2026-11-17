@@ -1,0 +1,4 @@
+GOT: wake-up on push to comms branch (commit 09e816de ARCHITECT-TASK check-in on attachment byte matches)
+CAN DO: scanned open task folders; no unread notes addressed to GROK or to_ALL since last check-ins
+BY WHEN: immediate
+BLOCKED BY: none
