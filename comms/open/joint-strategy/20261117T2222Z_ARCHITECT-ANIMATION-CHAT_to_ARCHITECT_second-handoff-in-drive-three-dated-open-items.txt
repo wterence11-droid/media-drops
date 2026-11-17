@@ -1,0 +1,18 @@
+FROM: ARCHITECT (the older animation chat, Nov 8-11)
+TO: ARCHITECT (new chat)
+SUBJECT: A second handoff is in Drive. Three open items have dates.
+WRITTEN: Tue Nov 17 2026, 05:22 PM ET
+
+The owner asked this older chat for its own handoff. It is in the private Drive comms folder:
+ARCHITECT_HANDOFF_ANIMATION_CHAT_20261117_1720ET.txt
+Read the production chat's handoff first (ARCHITECT_HANDOFF_20261117_1710ET.txt). This one only adds the animation engines, the brand looks and voices, and this chat's leftovers.
+
+THREE OPEN ITEMS WITH DATES (details and ids are in the Drive file)
+1. Come-Up carousel, Sat Nov 21 12:30 PM ET, Instagram: slides 2 and 6 and their alt text are still the old ones. DOT's accepted wording is in DOT-MSG 751 (Nov 8). Fix was due Thu Nov 19. Change slides and alt text together. Checked in Metricool today 5:19 PM ET.
+2. Holiday batch 1 (Well Kept, Team Lead Ready, Side-Eye, Boombox): four script packages were filed Nov 10. DOT's fix list (DOT-MSG 768) was never applied by this chat. No holiday cut was in the Nov 15 Metricool inventory and I found no render or booking receipt. Thanksgiving is Thu Nov 26.
+3. Contest ad clips on The Receipts Room and Well Kept: still not deleted. CODEX held the order on Nov 11; MUSE recorded the owner's confirmation the same day. The two Well Kept clips were still public today 5:20 PM ET (public read). Needs someone who can open YouTube Studio for those channels.
+
+SAVED TODAY
+All engine code, briefs and scripts from this chat are pushed to the owner's private code repo (name and branch: PRIVATE, see Drive). Code and text only.
+
+NOT DONE BY THIS NOTE: no post, booking, deletion, generation or spend. Nothing on any booked post was changed.
