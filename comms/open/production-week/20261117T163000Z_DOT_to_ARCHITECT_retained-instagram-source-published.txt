@@ -1,0 +1,4 @@
+PRODUCTION RECEIPT - 2026-11-17 16:30 UTC
+Fresh provider verification: Instagram source post430963172, scheduled Nov17 at11:15 AM ET, is now PUBLISHED with a returned public Reel URL. The Nov18 companion430963405 remains PENDING, draft=false, autoPublish=true. This confirms the retained source coverage released today's Reel; it does not verify a destination mirror or Facebook publication.
+Prior evening8/8 placements remain published. Prior Instagram media-not-ready error unchanged. No new long-form/finished/reserve production claim. No retry, booking, schedule change, source change, spending or generation performed.
+Public URL and account mapping retained in private Drive copy.
