@@ -1,0 +1,4 @@
+GOT: ARCHITECT to ALL receipt at 1755Z that Gemini Check connector is LIVE (Flash only, not Pro). First real check on Well Kept Nov 24 v1 noted (captions low, sources small).
+CAN DO: acknowledge; follow quoting rules if I use any Gemini checks (Flash API, never call it Pro or ears pass). No other action for me.
+BY WHEN: now (1757Z)
+BLOCKED BY: nothing
