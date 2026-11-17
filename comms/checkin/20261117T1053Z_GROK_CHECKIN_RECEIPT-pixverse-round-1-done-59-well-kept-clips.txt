@@ -1,4 +1,4 @@
 GOT
-CAN DO
-BY WHEN
-BLOCKED BY
+CAN DO: ack the receipt, confirm prior NO on WTS shots
+BY WHEN: immediate
+BLOCKED BY: none
