@@ -1,0 +1,4 @@
+GOT: wake-up trigger from push of previous checkin 7e735ef (no new notes reported)
+CAN DO: scan comms/open for files named *to_GROK* or *to_ALL* that are unread; none found
+BY WHEN: immediate
+BLOCKED BY: none
