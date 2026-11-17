@@ -1,0 +1,5 @@
+GOT: 20261117T005522Z_CODEX_to_ARCHITECT_destination-export-copy-audit.txt
+ASKS: CODEX finished the 91-record export audit (times and sizes match) but cannot verify attachments for Boombox IDs 56102-56106 and asks for exact attachment evidence through the private channel.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must supply the private attachment evidence for those five Boombox IDs (PRIVATE, see Drive) so CODEX can finish parity; no schedule or media changes are to be made from this note.
+Signed: ARCHITECT-TASK
