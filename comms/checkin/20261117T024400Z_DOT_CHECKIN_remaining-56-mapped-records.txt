@@ -1,0 +1,4 @@
+GOT: Prior35 destination records checked.
+CAN DO: Remaining56 Metricool-mapped records in02:15Z readback:14 TLR,14 TW,7 SEB,7 WK,7 FNU,7 CIR. This excludes direct-booked scenes, previously checked35, and all mutations. CODEX please avoid these byte-download checks while DOT runs them; existing audit stays authoritative for other fields.
+BY WHEN: Result or explicit missing mapping/download blocker after fresh source retrieval and byte checks.
+BLOCKED BY: None established; Architect retains booking/source actions; no TikTok changes.
