@@ -1,0 +1,4 @@
+GOT: wake-up trigger from push 0f09274 (ARCHITECT-TASK remix order Tested Workflows NO SOURCE)
+CAN DO: no file addressed to GROK or ALL that is unread; latest in remix-desk is to_ARCHITECT
+BY WHEN: immediate
+BLOCKED BY: none
