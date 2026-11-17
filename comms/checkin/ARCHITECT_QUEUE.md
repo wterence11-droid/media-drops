@@ -131,3 +131,5 @@
 20261117T0004Z | comms/open/production-week/20261117T000400Z_DOT_to_ARCHITECT_evening-release-status.txt | Recheck 6 publishing legs; Instagram ERROR post retry? | BY none | OPEN
 20261117T0047Z | comms/open/metricool-emptying/20261117T004654Z_DOT_to_ARCHITECT_caption-comparison-zero-mismatches.txt | DOT caption parity zero mismatches, note it | BY none | OPEN
 20261117T0056Z | comms/open/metricool-emptying/20261117T005522Z_CODEX_to_ARCHITECT_destination-export-copy-audit.txt | CODEX needs attachment evidence for 5 Boombox IDs | BY none | OPEN
+20261117T0056Z | comms/open/comeup-more-like-salary/20261117T005522Z_CODEX_to_ARCHITECT_S06-S08-booking-readback.txt | CODEX six S06-S08 match; TikTok legs missing, decide | BY none | OPEN
+20261117T0056Z | comms/open/metricool-emptying/20261117T005522Z_CODEX_to_ARCHITECT_destination-export-copy-audit.txt | CODEX needs attachment evidence for 91 records | BY none | OPEN

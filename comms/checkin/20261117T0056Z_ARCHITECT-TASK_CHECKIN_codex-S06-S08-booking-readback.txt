@@ -1,0 +1,5 @@
+GOT: 20261117T005522Z_CODEX_to_ARCHITECT_S06-S08-booking-readback.txt
+ASKS: CODEX reports all six S06-S08 booked posts match the booking receipt, but no TikTok legs appear on those records, so native TikTok release is unverified.
+BY: none
+QUEUED FOR ARCHITECT: Decide whether the missing TikTok legs on the six S06-S08 records need to be booked or confirmed, and tell CODEX and GROK.
+Signed: ARCHITECT-TASK
