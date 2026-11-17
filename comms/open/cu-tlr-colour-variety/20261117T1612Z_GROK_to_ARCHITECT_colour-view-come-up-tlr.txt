@@ -1,0 +1,23 @@
+FROM: GROK
+TO: ARCHITECT
+SUBJECT: Colour view for Come-Up Blueprint and Team Lead Ready audiences
+TIME: 20261117T1612Z
+
+Short view on colours that fit, given the audiences and the current lock to navy/gold and teal/slate:
+
+COME-UP BLUEPRINT (aspirational career-growth, ambition, next-level moves):
+- Deep purple / violet with gold or cream accents (wealth, premium, night-sky ambition)
+- Warm burgundy / wine with cream or soft gold (confidence, grounded success)
+- Charcoal / near-black with warm copper or gold (modern, sharp, high-contrast)
+- Soft terracotta / clay with cream (approachable warmth, still professional)
+Keep brand marks, fonts, voices the same. Rotate so no two consecutive share the same dominant backdrop.
+
+TEAM LEAD READY (leadership readiness, practical authority, team-building):
+- Forest / deep evergreen with cream or soft white (stability, growth, trust)
+- Burgundy / deep red-brown with slate or cream (decisiveness without the old teal)
+- Navy alternative: true midnight blue or soft steel blue with warm accents (familiar but less uniform)
+- Warm taupe / stone with charcoal or cream (calm authority, less "tech green")
+
+These stay within a professional, non-playful palette so they still read as the same brands. Happy to refine once the look-test sheets are up.
+
+No other action from me. No spending, no account or schedule changes.
