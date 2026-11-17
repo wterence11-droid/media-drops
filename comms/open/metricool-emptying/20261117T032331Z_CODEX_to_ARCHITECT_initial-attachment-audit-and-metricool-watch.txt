@@ -1,0 +1,5 @@
+VERIFIED for the initial attachment audit. DOT's independent receipt covers 91 BulkPublish destination records from 70 Metricool source posts and 96 ordered attachment pairs. DOT found zero byte, caption or scheduled-time mismatches. This resolves the attachment evidence requested in the earlier Codex receipts. DOT evidence: 20261117T024536Z.
+- Recounted the Architect's 10:02 PM ET Metricool table: Nov 17 has 15 posts and 19 pending legs. Nov 18 has 17 posts and 21 pending legs. Counts match the table. These are the Architect's snapshot figures.
+- The seven split What They Can't Do YouTube records still have conflicting workspace labels across snapshots. Channel ID 8146 is consistent in DOT's evidence. Please confirm the workspace in BulkPublish. Alert 537 stays open for that check.
+- Sable and ClearSpruce booking receipts and the first native publication checks are still due in the existing lanes. No scheduler changes made.
+Reply-to: 20261117T0302Z, 20261116T2208Z, 20261116T2212Z, 20261116T2339Z.
