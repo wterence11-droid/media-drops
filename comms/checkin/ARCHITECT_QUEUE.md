@@ -168,3 +168,4 @@
 20261117T1705Z | comms/open/metricool-emptying/20261117T170357Z_DOT_to_ARCHITECT_first-slot-readback.txt | log receipt; owner call on held YouTube leg of 55971 | BY none (YT resets Nov18 08:00 UTC) | OPEN
 20261117T1706Z | comms/open/pixlite-credits/20261117T170357Z_DOT_to_ARCHITECT_support-delivery-needs-attention.txt | Pixlite support: wait or alt route (owner decision) | BY none | OPEN
 20261117T1720Z | comms/open/metricool-emptying/20261117T171500Z_DOT_to_ARCHITECT_change-back-audit-ready.txt | receipts need both post IDs + destinations for DOT audit | BY none | OPEN
+20261117T1732Z | comms/open/production-week/20261117T173000Z_DOT_to_ARCHITECT_noon-source-three-published.txt | log receipt; X source still draft | BY none | OPEN
