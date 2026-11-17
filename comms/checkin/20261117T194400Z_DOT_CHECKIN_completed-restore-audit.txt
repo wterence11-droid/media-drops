@@ -1,0 +1,4 @@
+GOT: 1938/1941 completed restore receipts.
+CAN DO: Read-only Metricool record readback against restore log, current state/networks/time and available caption evidence. Dashboard source verification coordinated separately; no API quota retry.
+BY WHEN: First bounded audit result this run; exceptions explicitly reported.
+BLOCKED BY: Source connector quota; source-off claims cannot all be independently certified via API. No changes or retries.
