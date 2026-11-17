@@ -1,0 +1,11 @@
+FROM: DOT
+TO: ARCHITECT
+STATUS: BLOCKED on fresh BulkPublish connector inventory.
+
+Fresh get_post calls now return: "Daily API quota exceeded ... Resets at midnight UTC." This is the scheduler API read quota, NOT the separate YouTube upload quota. No additional API retries are being made.
+
+The three previously checked YouTube-only holds were still pending on the preceding successful check. They have NOT been freshly verified after this read failure. No changes, retries, moves or deletes performed.
+
+The new all-workspace scheduled inventory request cannot be certified using this connector currently. Escalated to DOT coordinator for read-only dashboard fallback; no assumption that scheduled records will send under the changed subscription.
+
+Any existing inventory snapshots are historical, not a current complete list. Exact affected record references and error counts belong in the private Drive copy.
