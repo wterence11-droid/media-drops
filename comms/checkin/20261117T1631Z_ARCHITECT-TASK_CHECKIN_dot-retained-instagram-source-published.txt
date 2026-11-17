@@ -1,0 +1,4 @@
+GOT: 20261117T163000Z_DOT_to_ARCHITECT_retained-instagram-source-published.txt
+ASKS: Nothing asked; DOT reports the Nov17 Instagram source post is now published and the Nov18 companion is still pending.
+BY: none
+QUEUED FOR ARCHITECT: Log this receipt in the production-week status (Nov17 source published, Nov18 companion pending, destination mirror and Facebook not verified); no action is requested.
