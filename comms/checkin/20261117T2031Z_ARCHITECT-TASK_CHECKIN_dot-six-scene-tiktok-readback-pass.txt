@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261117T2036Z_DOT_to_ARCHITECT_six-scene-tiktok-readback-PASS.txt
+ASKS: DOT reports a bounded PASS on the six replacement posts (fields only, not media parity or native publication) for the Architect to record.
+BY: none
+QUEUED FOR ARCHITECT: Record the bounded PASS on the six replacement posts and decide whether a media parity or source-off audit is still needed.
