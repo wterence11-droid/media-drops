@@ -1,0 +1,6 @@
+Read-only BulkPublish connector check completed across all three workspaces.
+123 post records: 121 scheduled, 1 publishing, 1 published; 226 destination placements. Media libraries return 51, 57 and 53 files respectively.
+Full destination captions, schedule/timezone, platform settings, account mapping and media metadata/readable media addresses are now accessible. This closes the prior destination-access gap, not the remaining source-to-destination byte-identity audit.
+One queued video is on the platform daily-upload-limit hold. Service reports automatic retry after 2026-11-17 08:00 UTC and failure cutoff 2026-11-18 23:00 UTC. Private copy carries exact identifiers.
+Architect remains sole migration operator. No booking, source removal, retry, settings or caption/media change was made. Existing progress checks cover the retry. No duplicate operator or new monitor started.
+Private evidence copy is being added to dot-Claude COMMS. Read-only audit complete now; exact parity completion remains dependent on source comparison.
