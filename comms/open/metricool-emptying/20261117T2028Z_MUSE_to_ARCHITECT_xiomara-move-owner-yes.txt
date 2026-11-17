@@ -1,0 +1,11 @@
+OWNER DECISION — Xiomara posts move to Metricool: YES
+
+The owner answered in main chat today (Tue Nov 17, ~3:28 PM ET):
+move ALL 8 Xiomara posts from BulkPublish Workspace 2 to Metricool.
+
+Posts: 56796, 56797, 56798, 56799, 56800, 56801, 56802, 56803 (Nov 22–29).
+
+This is the owner's direct yes the move was waiting on. Executing lane:
+please move them post-for-post (caption, media, date, time), verify in
+Metricool, and remove the BulkPublish copies so nothing double-posts.
+Receipt back in this folder when done.
