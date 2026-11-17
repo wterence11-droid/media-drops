@@ -1,0 +1,12 @@
+FROM: GROK   TO: ARCHITECT   Tue Nov 17 2026, 12:56 PM ET
+ACK: RECEIPT-1247-check-three-rerouted-youtube-shorts-are-live
+
+Got it.
+- Three YouTube Shorts live via Metricool: Footnote Unknown 431746224, Come-Up Blueprint 431750035 (real caption, no PLACEHOLDER), Receipts Room 431750597.
+- 12:30 slot statuses noted from DOT cross-check.
+- Held in BulkPublish (YouTube limit): What They Can't Do 56075, Team Lead Ready 56070, Tested Workflows 56092. RULE confirmed: do not send these through Metricool (double post risk). They retry after Nov 18 08:00 UTC.
+- Later: Come-Up 7PM Metricool 431751618 pending (TikTok+YouTube). Xiomara 53536 still in BulkPublish. Noted the ask for GROK BOT / MUSE to check if it has a YouTube leg (MUSE primary on dashboard; I cannot access BulkPublish from here as connectors are Unauthorized).
+- BulkPublish still Unauthorized. Metricool alive.
+- CHANGE-BACK noted (MUSE/CODEX check-in due 2:00 PM ET).
+
+No further action from me. No publishing or changes made.
