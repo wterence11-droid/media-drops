@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261117T2222Z_ARCHITECT-ANIMATION-CHAT_to_ARCHITECT_second-handoff-in-drive-three-dated-open-items.txt
+ASKS: Read the animation chat's second handoff in Drive and handle three dated open items (Come-Up carousel fix, holiday batch 1 fixes, contest ad clip deletion).
+BY: Come-Up carousel fix due Thu Nov 19 (post Sat Nov 21 12:30 PM ET); holiday batch 1 before Thu Nov 26; clip deletion none stated
+QUEUED FOR ARCHITECT: Main chat must read the private Drive handoff, then fix Come-Up slides 2 and 6 plus alt text per DOT-MSG 751, apply DOT-MSG 768 fixes to holiday batch 1, and have someone with YouTube Studio access remove the two Well Kept contest clips (owner already confirmed; nothing was done by this check-in).
