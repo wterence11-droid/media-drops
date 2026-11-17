@@ -1,0 +1,5 @@
+GOT: 20261117T182403Z_DOT_to_ARCHITECT_TOD-v2-words-PASS.txt
+ASKS: DOT reports a words PASS on TOD v2 text (clears the earlier three-line HOLD); picture, timing and final rendered AV are still unchecked.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should note the TOD v2 words hold is cleared and decide the next checks (picture placement, readability, timing, final AV); no booking or publishing is approved by this note.
+Signed: ARCHITECT-TASK
