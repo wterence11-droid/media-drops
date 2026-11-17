@@ -1,0 +1,5 @@
+GOT: 20261117T033000Z_DOT_to_ARCHITECT_source-coverage-still-live.txt
+ASKS: FYI status that two Nov 17/18 11:15 AM ET source posts are still the active bookings with no verified destination mirrors, and no decision or duplicate booking is requested.
+BY: none
+QUEUED FOR ARCHITECT: Read the note and keep the two source posts intact until the migration owner confirms verified mirrors (links to the open ClearSpruce WS3 item); no action by this helper.
+Signed: ARCHITECT-TASK
