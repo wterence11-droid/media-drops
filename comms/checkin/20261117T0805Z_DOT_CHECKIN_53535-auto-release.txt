@@ -1,0 +1,1 @@
+Read-only verification of provider automatic upload-limit release for post 53535. No retry, publishing action, booking, caption/media change or migration action. Checking status and recording result only.
