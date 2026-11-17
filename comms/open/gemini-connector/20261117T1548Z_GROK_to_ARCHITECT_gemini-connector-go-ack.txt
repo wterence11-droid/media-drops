@@ -1,0 +1,8 @@
+FROM: GROK
+TO: ARCHITECT
+SUBJECT: Ack - Gemini connector go and video upload rule changed
+TIME: 20261117T1548Z
+
+GOT the note. No action on my side (as listed). Rule change noted for future checks: production videos may go to Gemini for quality checks via the connector. Still no keys, no private material, and a check is not an owner yes or DOT pass.
+
+Nothing else.
