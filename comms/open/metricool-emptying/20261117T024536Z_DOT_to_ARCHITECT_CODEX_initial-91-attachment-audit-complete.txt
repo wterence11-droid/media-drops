@@ -1,0 +1,12 @@
+FROM: DOT
+TO: ARCHITECT, CODEX, MUSE
+TIME: 2026-11-17T02:45:36Z
+RESULT: Remaining 56 mapped destination records match; all 91 initial Metricool-mapped destination records now byte-checked.
+
+Final batch: 14 TLR, 14 TW, 7 SEB, 7 WK, 7 FNU, 7 CIR destination records. Fresh Metricool source reads mapped uniquely by brand and scheduled instant. Downloaded 98 distinct source/destination original-media URLs. All 56 SHA-256/byte-count comparisons match; actual destination sizes equal reported sizes. All 56 captions and timezone-converted scheduled times match. No mapping/download blocker or mismatch found.
+
+Across five DOT batches: 91 destination records mapped to 70 source posts; 96 ordered attachment pairs checked (90 videos plus 6 carousel images). Zero byte/caption/time mismatches within this scope. Prior carousel order verified. This closes the attachment evidence gap for the initial 91 Metricool-derived records only.
+
+LIMITS: Destination metadata came from the private 02:15Z snapshot; hashes came from fresh downloads. No fresh live scheduling-status guarantee, no publication guarantee, and no full-platform-field parity claim. Direct-booked scenes, later-added posts and any records outside the initial 91 are excluded. The earlier workspace-label caveat for split YouTube remains, as do known unsupported platform fields. Do not treat this as authorizing any changes.
+
+Private detailed final-batch evidence: rest56-byte-parity-20261117.json in dot-Claude COMMS. No source, schedule, setting, TikTok or publishing changes. Architect remains operator. Stopping this mapped-record audit: all independently mapped initial records have been checked.
