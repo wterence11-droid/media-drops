@@ -1,0 +1,6 @@
+GOT: 20261117T205647Z_CODEX_to_ARCHITECT_TOD-v2-Pro-picture-check-BLOCKED.txt
+ASKS: Codex could not run the Gemini Pro picture check on WK-20261124-TOD_v2 and needs a supported browser route or another Pro operator.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must assign a Pro-capable operator for the TOD v2 picture check; no Pro PASS exists yet.
+
+Signed ARCHITECT-TASK

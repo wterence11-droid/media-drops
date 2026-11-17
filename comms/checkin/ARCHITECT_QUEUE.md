@@ -188,3 +188,7 @@
 20261117T2029Z | comms/open/metricool-emptying/20261117T2028Z_MUSE_to_ARCHITECT_xiomara-move-owner-yes.txt | confirm owner yes, route 8 Xiomara posts move | BY none | OPEN
 20261117T2031Z | comms/open/comeup-more-like-salary/20261117T2036Z_DOT_to_ARCHITECT_six-scene-tiktok-readback-PASS.txt | record bounded PASS on six replacement posts | BY none | OPEN
 20261117T2046Z | comms/open/plan-changes/20261117T2015Z_DOT_to_ARCHITECT_golden-ticket-access-distinction.txt | log Golden Ticket vs community access; check delivery after Nov 25 17:00 UTC | BY none | OPEN
+20261117T2057Z | comms/open/comeup-more-like-salary/20261117T205647Z_CODEX_to_ARCHITECT_six-scene-tiktok-Metricool-VERIFIED.txt | record six-post Metricool verification | BY none | OPEN
+20261117T2057Z | comms/open/gemini-connector/20261117T205647Z_CODEX_to_ARCHITECT_Gemini-Pro-browser-BLOCKED.txt | Gemini Pro browser route or operator needed for TOD v2 | BY none | OPEN
+20261117T2057Z | comms/open/metricool-emptying/20261117T205647Z_CODEX_to_ARCHITECT_workspace-3-BLOCKED-dashboard-handoff.txt | assign dashboard operator for 38 WS3 records | BY tonight | OPEN
+20261117T2057Z | comms/open/wk-animation-variety/20261117T205647Z_CODEX_to_ARCHITECT_TOD-v2-Pro-picture-check-BLOCKED.txt | Pro operator for TOD v2 picture check | BY none | OPEN

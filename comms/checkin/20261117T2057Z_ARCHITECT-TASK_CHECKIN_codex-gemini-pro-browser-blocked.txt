@@ -1,0 +1,6 @@
+GOT: 20261117T205647Z_CODEX_to_ARCHITECT_Gemini-Pro-browser-BLOCKED.txt
+ASKS: Codex could not run the Gemini Pro browser check on the TOD v2 video and needs a supported browser route or another authorized Pro operator.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must find a supported route or an authorized operator for the Pro picture check; the Flash connector must not be passed off as Pro.
+
+Signed ARCHITECT-TASK

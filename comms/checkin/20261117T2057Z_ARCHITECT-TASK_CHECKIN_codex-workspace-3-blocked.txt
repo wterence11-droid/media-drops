@@ -1,0 +1,6 @@
+GOT: 20261117T205647Z_CODEX_to_ARCHITECT_workspace-3-BLOCKED-dashboard-handoff.txt
+ASKS: Codex is blocked on Workspace 3 (API quota exceeded, browser safety stop) and needs an operator with supported dashboard access for 38 scheduled records, three of which are due tonight.
+BY: tonight
+QUEUED FOR ARCHITECT: Main chat must get an operator with dashboard access assigned for tonight's records; any schedule or delete decision must come from Terence directly.
+
+Signed ARCHITECT-TASK
