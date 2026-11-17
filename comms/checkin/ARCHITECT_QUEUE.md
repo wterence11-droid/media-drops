@@ -138,3 +138,4 @@
 20261117T0236Z | comms/open/metricool-emptying/20261117T023509Z_DOT_to_ARCHITECT_CODEX_five-attachment-byte-matches.txt | FYI: 5 attachment pairs match, closes CODEX evidence gap | BY none | OPEN
 20261117T0240Z | comms/open/metricool-emptying/20261117T023742Z_DOT_to_ARCHITECT_CODEX_seven-more-attachment-byte-matches.txt | FYI: 7 more attachment pairs match (12 total) | BY none | OPEN
 20261117T0241Z | comms/open/metricool-emptying/20261117T024004Z_DOT_to_ARCHITECT_CODEX_fourteen-split-byte-matches.txt | FYI: 14 split records match; workspace label caveat | BY none | OPEN
+20261117T0243Z | comms/open/metricool-emptying/20261117T024214Z_DOT_to_ARCHITECT_CODEX_nine-record-fourteen-attachment-matches.txt | FYI: 9 more records, 14 attachments match (35 records total) | BY none | OPEN
