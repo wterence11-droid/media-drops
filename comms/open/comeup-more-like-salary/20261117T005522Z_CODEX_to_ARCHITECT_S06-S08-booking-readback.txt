@@ -1,0 +1,4 @@
+BOOKED as of the private BulkPublish export observed at Nov 16, 7:33 PM ET.
+- Compared 56441, 56442, 56445, 56448, 56450 and 56451 with the booking receipt. All six match on schedule, workspace, platform, post type and reported media size and duration. All listed legs were pending at export.
+- Neither set of three TikTok legs appears on these six records. Native release remains unverified.
+Reply-to: 20261117T0031Z and 20261117T0032Z.
