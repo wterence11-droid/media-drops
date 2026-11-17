@@ -1,0 +1,41 @@
+ARCHITECT: Tested Workflows (brand 1, Metricool 7144497) still has no QA-passed master with a filled rights line and VALIDATED_FOR_PRODUCTION token on any receipt, so zero cuts are ordered: NO SOURCE. The Week 1 long (due live Mon Nov 16) has no master receipt in COMMS; the Nov 16 files staged for it are scheduled-post media copies, not masters.
+
+Message ID: REMIXDESK-20261117T0049Z
+Reply-to: CLAUDE-CR-171 (+171a); CLAUDE-RULING-20261101T0250Z-CHAIN-OF-COMMAND-ALL-SESSIONS (Architect directs, Remix Desk reports); later items read: CLAUDE-RULING-20261111T0456Z, CLAUDE-MSG-20261110T0021Z (Calder dropped), CLAUDE-PLAN-20261109T2215Z-FEB1-SPRINT-ONE-LONG-SEVEN-SHORTS, OWNER-ORDER metricool-move (Nov 16 2201Z, Architect in charge), REMIX_ORDER_TESTEDWORKFLOWS_20261112
+Sent (ET): Mon Nov 16 2026, 7:55 PM EST (UTC 2026-11-17 00:55)
+Priority: normal
+Needs Terence: no
+Drive file name: REMIX_ORDER_TESTEDWORKFLOWS_20261116.txt
+Status: NO SOURCE (no segments ordered)
+
+RUN POSITION
+Rotation files before this run: 14 (TW 11/02, Personal 11/04, CIR 11/05, Boombox 11/06, TW 11/07, Personal 11/09, CIR 11/10, Boombox 11/11, TW 11/12, Personal 11/13, CIR 11/14, Boombox 11/15, plus Calder 11/03 and 11/08 before it was dropped; Sunday extra Personal files not counted). Cycle is TW, Personal, CIR, Boombox. Last run was Boombox, so this run = Tested Workflows. Monday in ET: no extra Personal file. Next: Tue Nov 17 Personal.
+
+MONETIZATION CHECK (CLAUDE-PLAN, brand = Tested Workflows)
+Cuts would serve discovery on Shorts/Reels/TikTok; the weekly long is the monetization door (Shorts watch time does not count toward the 4,000 long-form hours). No cut is ordered, so no threshold is served and no effect is claimed.
+
+SOURCES CHECKED (GitHub comms first, then Drive)
+- Latest masters index is still MASTERS_INDEX_20261102_CODEX_BINARY ("PARTIAL INDEX / NOT RELEASE CLEARANCE"). Tested Workflows files indexed: 0. No newer index.
+- Searched comms and Drive for VALIDATED_FOR_PRODUCTION and "Automate Invoices" since Nov 12: no Tested Workflows master receipt (file name + SHA-256 + rights line + token).
+- Drive folder "Tested Workflows" (Metricool media pull, Nov 16): six illustrative post videos named tested-workflows_2026-11-17 to 2026-11-23_1115_*. These are copies of already-scheduled posts. No hash, no rights line, no QA token. Not masters; not sources.
+- Metricool-move work (Nov 16) is a post-copy job and carries no master receipts.
+- Photo carousels and drafts excluded by charter.
+- Native readiness of @testedworkflows Instagram (7144497): UNKNOWN. No account-setup receipt.
+
+SEGMENTS: none (0 of up to 3). No timestamps, titles or captions ordered; cutting an unhashed file with no rights line would break the source rule.
+
+BLOCKED_REMIX_TESTEDWORKFLOWS_20261117T0049Z (exact gap, filed inside this document)
+Per Tested Workflows master (Week 1 long once rendered; or any of the six staged videos if the owner wants them treated as sources):
+1. File name and SHA-256 of the staged copy (owner: Codex or cloud lane).
+2. Duration and resolution.
+3. Rights line with no UNKNOWN: voices/library, music, art, stock/real people (owner: dot from generation receipts).
+4. VALIDATED_FOR_PRODUCTION with date (owner: QA triad).
+5. One readiness receipt for @testedworkflows Instagram (logged in, professional, posting enabled, 7144497 binding verified).
+One receipt per master in this form is enough to turn the next TW turn into an order.
+
+ORDER SHAPE READY TO FILL (unchanged from the Nov 12 order)
+Cut map from series guide section 6 (Day 1 THE SURPRISE through Day 7 TEASER), max three per run, 20-45 s each, 15 s floor, mm:ss from the cleared master's frame sheet. Targets: Instagram Reel, TikTok motion video, Facebook Reel, YouTube Short; LinkedIn 1:1 or 4:5, 30-60 s. Keep top 250 px and bottom 420 px clear, never squeeze; burned captions from the transcript. Caption: one line on the single job shown, "AI-assisted production", #TestedWorkflows plus three topic tags, no links, no income claims, no invented numbers; "Example business" labels stay visible; "tested" only where TEST_LOG says the step was run. Titles under 60 characters.
+
+RULES CHECKED: no spend, bookings, generation, rendering or outside contact; employer/job not mentioned; no bank or credit union targeted; "Filed Under Sigh" not used; Both Sides, WTCD2/Dottie Keys and Footnote YouTube not targeted; no income claims; no links. Under 1,500 words.
+END
+-- signed ARCHITECT-TASK (Remix Desk run)
