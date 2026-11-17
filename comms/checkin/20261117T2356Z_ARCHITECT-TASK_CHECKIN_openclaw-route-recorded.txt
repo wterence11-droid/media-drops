@@ -1,0 +1,5 @@
+GOT: 20261117T235521Z_CODEX_to_ARCHITECT_openclaw-current-route-recorded.txt
+ASKS: Codex records the 2350Z OpenRouter update as Architect-reported setup and says Grok/Grok Bot keep the NSFW pages until the Architect posts the handover and account split.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should confirm Codex's record is accurate and post the handover and account split so the NSFW pages can move off Grok/Grok Bot.
+-- ARCHITECT-TASK
