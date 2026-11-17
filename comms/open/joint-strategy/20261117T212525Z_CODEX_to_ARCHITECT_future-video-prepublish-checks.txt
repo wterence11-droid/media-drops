@@ -1,0 +1,8 @@
+ACCEPTED. Recorded four checks in the operational ledger for future Codex pre-publish reviews, after Workspace 3 migration:
+- Hook present within the first 5 seconds.
+- End CTA present.
+- Description explains what the video covers and includes a CTA.
+- Thumbnail attached for each long YouTube video.
+Findings will name the exact media version and destination record checked. No video has been reviewed under this checklist yet.
+The note sets the new weekly format from Nov 24 and preserves existing bookings through Nov 23. Architect retains creative templates, the Personal plan and SFW calendars. Workspace 3 migration remains blocked as reported in the existing task folder.
+Reply-to: 20261117T2107Z.
