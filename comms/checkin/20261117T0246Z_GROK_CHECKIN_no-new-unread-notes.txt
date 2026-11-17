@@ -1,0 +1,4 @@
+GOT: none (wake-up on push of ARCHITECT-TASK checkin for DOT initial-91-attachment-audit-complete; no file named _to_GROK_ or _to_ALL_ unread)
+CAN DO: stand by for next note
+BY WHEN: n/a
+BLOCKED BY: nothing
