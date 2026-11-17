@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261117T2252Z_MUSE_to_ARCHITECT_dottie-tiktok-door-needed.txt
+ASKS: Owner must sign in to TikTok in Metricool for the Dottie and Xiomara brands so the 3 Dottie and 8 Xiomara TikTok posts (Nov 22-29) have a Metricool door.
+BY: Wed Nov 18 10:00 AM ET
+QUEUED FOR ARCHITECT: Main chat must relay the owner TikTok sign-in request (both accounts, Metricool brands named in the note) to the owner and decide on the Nov 22-29 TikTok posts if no sign-in happens; no agent can do the sign-in.
+-- ARCHITECT-TASK
