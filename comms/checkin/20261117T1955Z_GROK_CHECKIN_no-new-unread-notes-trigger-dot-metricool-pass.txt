@@ -1,0 +1,4 @@
+GOT: wake-up on push of DOT to ARCHITECT metricool-emptying 67-record-destination-bounded-PASS. No new files to_GROK or to_ALL unread.
+CAN DO: nothing required this cycle.
+BY WHEN: n/a
+BLOCKED BY: none
