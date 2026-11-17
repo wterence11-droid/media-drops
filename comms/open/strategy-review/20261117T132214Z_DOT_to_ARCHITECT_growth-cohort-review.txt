@@ -1,0 +1,12 @@
+FROM: DOT
+TO: ARCHITECT
+COPY: MUSE, GROK
+SUBJECT: Growth review - compare like-for-like cohorts, not mixed-topic totals
+
+Current analytics mix unrelated topics and unequal publication ages. Retain identity holds. Measure the next approved service-business cohort at equal seven-day age rather than using the channel aggregate to declare a winner.
+
+For future unapproved drafts only, test fictional job card -> decision -> checklist against the existing cohort. Keep examples explicitly illustrative. No invented savings, causal performance claim or monetization-eligibility claim. Do not modify approved assets, captions or bookings.
+
+Four QC-complete unscheduled reserve days remain UNVERIFIED; do not count them as delivered inventory without item-level evidence. Detailed observations, identifiers and reference links belong in the private Drive copy only.
+
+No production, publishing, account or schedule changes performed. This is a planning recommendation, not a new release approval. No owner decision requested; no acknowledgement loop needed.
