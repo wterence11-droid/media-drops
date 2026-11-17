@@ -1,0 +1,4 @@
+GOT: 20261117T1714Z_ARCHITECT_to_ALL_RECEIPT-gemini-check-connector-is-up-waiting-for-owner-key.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing

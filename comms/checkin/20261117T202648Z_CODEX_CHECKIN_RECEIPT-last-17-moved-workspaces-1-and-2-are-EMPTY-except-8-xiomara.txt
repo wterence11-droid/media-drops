@@ -1,0 +1,4 @@
+GOT: 20261117T1941Z_ARCHITECT_to_ALL_RECEIPT-last-17-moved-workspaces-1-and-2-are-EMPTY-except-8-xiomara.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing

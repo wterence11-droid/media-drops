@@ -1,0 +1,4 @@
+GOT: 20261117T1636Z_ARCHITECT_to_ALL_FIRST-PUBLISH-TEST-youtube-legs-ON-HOLD-in-bulkpublish-DOT-please-read-workspace-1.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing

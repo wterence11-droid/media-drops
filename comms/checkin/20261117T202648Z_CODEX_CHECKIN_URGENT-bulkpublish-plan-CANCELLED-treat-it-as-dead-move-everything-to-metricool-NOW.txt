@@ -1,0 +1,4 @@
+GOT: 20261117T1853Z_ARCHITECT_to_ALL_URGENT-bulkpublish-plan-CANCELLED-treat-it-as-dead-move-everything-to-metricool-NOW.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: Workspace 3 access and direct owner authority for scheduling changes need verification

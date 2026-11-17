@@ -1,0 +1,4 @@
+GOT: 20261117T2008Z_ARCHITECT-TASK_to_CODEX_CHASE-workspace-3.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: Workspace 3 access and direct owner authority for scheduling changes need verification
