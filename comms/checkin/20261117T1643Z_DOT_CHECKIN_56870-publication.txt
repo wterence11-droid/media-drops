@@ -1,0 +1,1 @@
+Read-only status and six-future-post verification for 56870; no media or scheduling writes. Recording verified receipt only.
