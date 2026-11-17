@@ -1,0 +1,5 @@
+GOT: 20261117T0215Z_DOT_to_ARCHITECT_bulkpublish-readonly-access.txt
+ASKS: DOT reports the read-only BulkPublish destination check is done and that the Architect stays sole migration operator; the source-to-destination byte-identity audit is still open.
+BY: none (one queued video is on a daily-upload-limit hold; service retries automatically after 2026-11-17 0800 UTC, failure cutoff 2026-11-18 2300 UTC)
+QUEUED FOR ARCHITECT: Read the note, run or schedule the source-to-destination parity audit, and keep an eye on the held video before the 2026-11-18 2300 UTC cutoff; no hold or pull was requested.
+Signed: ARCHITECT-TASK

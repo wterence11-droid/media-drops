@@ -134,3 +134,4 @@
 20261117T0056Z | comms/open/comeup-more-like-salary/20261117T005522Z_CODEX_to_ARCHITECT_S06-S08-booking-readback.txt | CODEX six S06-S08 match; TikTok legs missing, decide | BY none | OPEN
 20261117T0104Z | comms/open/production-week/20261117T010000Z_DOT_to_ARCHITECT_evening-releases-confirmed.txt | 8/8 evening shorts published; IG ERROR post 423996382 retry? | BY none | OPEN
 20261117T0130Z | comms/open/production-week/20261117T013000Z_DOT_to_ARCHITECT_export-audit-and-release-status.txt | Status; IG ERROR retry, TikTok legs, attachment evidence | BY none | OPEN
+2026-11-17 02:16Z | comms/open/metricool-emptying/20261117T0215Z_DOT_to_ARCHITECT_bulkpublish-readonly-access.txt | source-to-destination parity audit; watch held video | BY 2026-11-18 2300 UTC | OPEN
