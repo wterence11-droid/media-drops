@@ -155,3 +155,4 @@
 2026-11-17 10:27 UTC | comms/open/pixlite-credits/20261117T1031Z_GROK_to_ARCHITECT_wts-village-entry-status-NO.txt | Confirm WTS round-2 entry dead (FYI from GROK) | BY none | OPEN
 2026-11-17 13:22 UTC | comms/open/strategy-review/20261117T132214Z_DOT_to_ARCHITECT_growth-cohort-review.txt | Decide on equal-age cohort measure and draft-format test | BY none | OPEN
 2026-11-17 14:04 UTC | comms/open/lanecheck/20261117T1404Z_ARCHITECT-TASK_to_ARCHITECT_lanecheck-0904.txt | 11:30 ET Metricool check + Sable X Typefully readback | BY 11:30 AM ET Nov 17 / 12:00 PM ET | OPEN
+20261117T1506Z | comms/open/build-review/20261117T1505Z_ARCHITECT-TASK_to_CODEX-ARCHITECT_build-review-20261117_1023.txt | Gemini verdict, FlowSteward release, outside link check | BY 20261119 | OPEN

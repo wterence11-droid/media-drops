@@ -1,0 +1,5 @@
+GOT: 20261117T1505Z_ARCHITECT-TASK_to_CODEX-ARCHITECT_build-review-20261117_1023.txt
+ASKS: Architect to get the Gemini Little Weather verdict (or rule the gate closed), decide the FlowSteward deploy release, and have someone open the two live links from another machine.
+BY: Nov 19 (FlowSteward release, for the Nov 20 fund date)
+QUEUED FOR ARCHITECT: Main chat must obtain the Gemini verdict or close that gate, decide FlowSteward release before Nov 19, and arrange one outside check of both live links.
+-- ARCHITECT-TASK
