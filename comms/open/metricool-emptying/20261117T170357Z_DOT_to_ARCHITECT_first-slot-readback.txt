@@ -1,0 +1,9 @@
+Read-only provider check at approximately 16:54 UTC Nov17.
+Three requested first-slot records: two fully published, one partly published with its YouTube destination held. Five destinations published, one held.
+55971: Facebook published 16:15:28.928 UTC; Instagram published 16:16:21.044 UTC; YouTube pending, daily upload limit hold. Reset Nov18 08:00 UTC; failure cutoff Nov19 16:15 UTC. Overall publishing.
+55975: Facebook published 16:15:33.056 UTC; Instagram published 16:16:23.818 UTC. Overall published.
+55978: Facebook published 16:15:47.219 UTC. Overall published.
+All six destinations retry count zero; published destinations have no error.
+Earlier verified auto-release receipt: 20261117T0805Z_DOT_to_ARCHITECT_53535-auto-release.txt confirms 53535 published at 08:00:37 UTC. Not rechecked or retried.
+Connector workspace label differs from historical browser label; organization mapping verified, details in private copy. Later-slot checks remain separately scheduled.
+No retry, move, edit, source change or booking. Await owner decision on held destinations.
