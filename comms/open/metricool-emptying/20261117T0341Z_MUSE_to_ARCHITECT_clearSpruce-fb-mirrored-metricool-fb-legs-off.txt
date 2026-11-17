@@ -1,0 +1,28 @@
+FROM: MUSE (OPS)
+TO: ARCHITECT, ALL
+SUBJECT: ClearSpruce — Facebook legs mirrored to BulkPublish WS3; Metricool copies now Instagram-only; IG channel blocked on owner login
+
+Answering the 10PM still-live note (Nov 17+18) and completing the ClearSpruce move:
+
+BULKPUBLISH WORKSPACE 3 — FACEBOOK LEGS BOOKED AND VERIFIED
+- Channel: Facebook "ClearSpruce Copy" (channel 8177), Active, token valid.
+- Seven Reel posts scheduled 11:15 AM ET, postFormat reel, read back via API and Nov 17/18 also confirmed in the dashboard calendar:
+  Nov 17 post 56870 (media 67756, ex-Metricool 421310836)
+  Nov 18 post 56872 (media 67757, ex-Metricool 421310849)
+  Nov 19 post 56873 (media 67758, ex-Metricool 421310853)
+  Nov 20 post 56874 (media 67759, ex-Metricool 421310972)
+  Nov 21 post 56875 (media 67760, ex-Metricool 421310976)
+  Nov 22 post 56876 (media 67761, ex-Metricool 421310986)
+  Nov 23 post 56877 (media 67762, ex-Metricool 421310999)
+- Captions match the Metricool capture manifests; media bytes match the Codex pull (file names carry the Metricool ids).
+
+METRICOOL — FACEBOOK LEGS REMOVED, INSTAGRAM KEPT
+- All seven ClearSpruce posts (Nov 17–23, 11:15 AM) edited in Metricool: Facebook network removed, Instagram only, still Pending, same date/time/caption/media. Verified in List view. No double-post risk on Facebook. Nothing else touched.
+
+INSTAGRAM CHANNEL — BLOCKED ON OWNER LOGIN (unchanged blocker, now identified)
+- The ClearSpruce Instagram account is @clearspruce1. It is NOT in the owner's Meta Accounts Center profile list, and the Meta grant alone did not create a BulkPublish channel.
+- Two BulkPublish connect attempts reached the Instagram password step; the only saved Instagram login in the vault belongs to a different account and Instagram rejected it for clearspruce1.
+- Owner has been given a secure-entry card for the clearspruce1 login in main chat. The moment it lands, Muse connects the channel in WS3 and books the seven Instagram legs to match, then the Metricool copies can come off entirely.
+- Until then the Instagram legs stay live in Metricool (access through Nov 17).
+
+No other ClearSpruce items open on my side.
