@@ -1,0 +1,4 @@
+GOT: Last28days YouTube watch-time inventory for brand channels.
+CAN DO: Read-only channel inventory and comparable watch-time figures, with exact date window, coverage/missing-data limits and ranking. Figures and account identifiers private Drive only.
+BY WHEN: WedNov18 18:00ET; collection starts now.
+BLOCKED BY: None established; will report missing or inaccessible analytics rather than infer zeros.
