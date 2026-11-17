@@ -1,0 +1,67 @@
+when ET | brand file | BulkPublish id | Metricool id (as of the move) | legs now in BulkPublish (move these back) | legs still in Metricool | Metricool state after the move
+2026-11-17T19:00 | COMEUP_WS2 | 56077 | 430812285 | facebook,instagram,youtube | tiktok | tiktok only (TikTok title added on owner
+2026-11-18T11:15 | BOOMBOX_WS2 | 56103 | 430811615 | facebook | instagram | instagram only
+2026-11-18T11:15 | CIR_WS2 | 56076 | 430809911 | facebook | instagram,tiktok,youtube | instagram+tiktok+youtube
+2026-11-18T11:15 | COMEUP_WS2 | 56108 | 430813120 | facebook,instagram,youtube | tiktok | tiktok only
+2026-11-18T11:15 | FNU | 55977 | 430727868 | facebook,instagram,youtube | - | draft
+2026-11-18T11:15 | RR_WS2 | 56078 | 430810137 | facebook,youtube | instagram,tiktok | instagram+tiktok
+2026-11-18T11:15 | TLR | 55980 | 430728215 | facebook,instagram | tiktok,youtube | tiktok+youtube only
+2026-11-18T11:15 | TLR_YT_WS2 | 56079 | 430810374 | youtube | tiktok | tiktok only
+2026-11-18T11:15 | TW | 55983 | 430728346 | facebook | tiktok,youtube | tiktok+youtube only, draft false
+2026-11-18T11:15 | TW_YT_WS2 | 56093 | 430811272 | youtube | tiktok | tiktok only
+2026-11-18T12:30 | SEB | 55981 | 430728279 | facebook,instagram,youtube | tiktok | tiktok only
+2026-11-18T12:30 | WK | 55982 | 430728280 | facebook,instagram,youtube | tiktok | tiktok only
+2026-11-19T11:15 | BOOMBOX_WS2 | 56104 | 430811871 | facebook | instagram | instagram only
+2026-11-19T11:15 | CIR_WS2 | 56081 | 430810204 | facebook | instagram,tiktok,youtube | instagram+tiktok+youtube
+2026-11-19T11:15 | COMEUP_WS2 | 56111 | 430813429 | facebook,instagram,youtube | tiktok | tiktok only
+2026-11-19T11:15 | FNU | 55979 | 430728178 | facebook,instagram,youtube | - | draft
+2026-11-19T11:15 | RR_WS2 | 56086 | 430810354 | facebook,youtube | instagram,tiktok | instagram+tiktok
+2026-11-19T11:15 | TLR | 55985 | 430728613 | facebook,instagram | tiktok,youtube | tiktok+youtube only
+2026-11-19T11:15 | TLR_YT_WS2 | 56080 | 430810384 | youtube | tiktok | tiktok only
+2026-11-19T11:15 | TW | 55986 | 430728690 | facebook | tiktok,youtube | tiktok+youtube only, draft false
+2026-11-19T11:15 | TW_YT_WS2 | 56094 | 430811290 | youtube | tiktok | tiktok only
+2026-11-19T12:30 | SEB | 55988 | 430728718 | facebook,instagram,youtube | tiktok | tiktok only
+2026-11-19T12:30 | WK | 55987 | 430728618 | facebook,instagram,youtube | tiktok | tiktok only
+2026-11-20T11:15 | BOOMBOX_WS2 | 56105 | 430812092 | facebook | instagram | instagram only
+2026-11-20T11:15 | CIR_WS2 | 56087 | 430810402 | facebook | instagram,tiktok,youtube | instagram+tiktok+youtube
+2026-11-20T11:15 | COMEUP_WS2 | 56112 | 430813790 | facebook,instagram,youtube | tiktok | tiktok only
+2026-11-20T11:15 | FNU | 55984 | 430728496 | facebook,instagram,youtube | - | draft
+2026-11-20T11:15 | RR_WS2 | 56088 | 430810611 | facebook,youtube | instagram,tiktok | instagram+tiktok
+2026-11-20T11:15 | TLR | 55990 | 430728869 | facebook,instagram | tiktok,youtube | tiktok+youtube only
+2026-11-20T11:15 | TLR_YT_WS2 | 56082 | 430810397 | youtube | tiktok | tiktok only
+2026-11-20T11:15 | TW | 55991 | 430728939 | facebook | tiktok,youtube | tiktok+youtube only, draft false
+2026-11-20T11:15 | TW_YT_WS2 | 56096 | 430811305 | youtube | tiktok | tiktok only
+2026-11-20T12:30 | SEB | 55993 | 430728967 | facebook,instagram,youtube | tiktok | tiktok only
+2026-11-20T12:30 | WK | 55992 | 430728943 | facebook,instagram,youtube | tiktok | tiktok only
+2026-11-21T11:15 | BOOMBOX_WS2 | 56106 | 430812279 | facebook | instagram | instagram only
+2026-11-21T11:15 | CIR_WS2 | 56089 | 430810642 | facebook | instagram,tiktok,youtube | instagram+tiktok+youtube
+2026-11-21T11:15 | COMEUP_WS2 | 56113 | 430813979 | facebook,instagram,youtube | tiktok | tiktok only
+2026-11-21T11:15 | FNU | 55989 | 430728743 | facebook,instagram,youtube | - | draft
+2026-11-21T11:15 | RR_WS2 | 56090 | 430810797 | facebook,youtube | instagram,tiktok | instagram+tiktok
+2026-11-21T11:15 | TLR | 55995 | 430729056 | facebook,instagram | tiktok,youtube | tiktok+youtube only
+2026-11-21T11:15 | TLR_YT_WS2 | 56083 | 430810411 | youtube | tiktok | tiktok only
+2026-11-21T11:15 | TW | 55999 | 430729326 | facebook | tiktok,youtube | tiktok+youtube only, draft false
+2026-11-21T11:15 | TW_YT_WS2 | 56097 | 430811316 | youtube | tiktok | tiktok only
+2026-11-21T12:30 | COMEUP_WS2 | 56116 | 430814499 | instagram | - | draft
+2026-11-21T12:30 | SEB | 55998 | 430729211 | facebook,instagram,youtube | tiktok | tiktok only
+2026-11-21T12:30 | WK | 55996 | 430729149 | facebook,instagram,youtube | tiktok | tiktok only
+2026-11-22T11:15 | CIR_WS2 | 56091 | 430810847 | facebook | instagram,tiktok,youtube | instagram+tiktok+youtube
+2026-11-22T11:15 | COMEUP_WS2 | 56119 | 430814879 | facebook,instagram,youtube | tiktok | tiktok only
+2026-11-22T11:15 | FNU | 55994 | 430728969 | facebook,instagram,youtube | - | draft
+2026-11-22T11:15 | RR_WS2 | 56095 | 430811058 | facebook,youtube | instagram,tiktok | instagram+tiktok
+2026-11-22T11:15 | TLR | 56000 | 430729258 | facebook,instagram | tiktok,youtube | tiktok+youtube only
+2026-11-22T11:15 | TLR_YT_WS2 | 56084 | 430810420 | youtube | tiktok | tiktok only
+2026-11-22T11:15 | TW | 56004 | 430729551 | facebook | tiktok,youtube | tiktok+youtube only, draft false
+2026-11-22T11:15 | TW_YT_WS2 | 56099 | 430811329 | youtube | tiktok | tiktok only
+2026-11-22T12:30 | SEB | 56003 | 430729497 | facebook,instagram,youtube | tiktok | tiktok only
+2026-11-22T12:30 | WK | 56001 | 430729380 | facebook,instagram,youtube | tiktok | tiktok only
+2026-11-23T11:15 | CIR_WS2 | 56098 | 430811107 | facebook | instagram,tiktok,youtube | instagram+tiktok+youtube
+2026-11-23T11:15 | COMEUP_WS2 | 56123 | 430815188 | facebook,instagram,youtube | tiktok | tiktok only
+2026-11-23T11:15 | FNU | 55997 | 430729187 | facebook,instagram,youtube | - | draft
+2026-11-23T11:15 | RR_WS2 | 56101 | 430811284 | facebook,youtube | instagram,tiktok | instagram+tiktok
+2026-11-23T11:15 | TLR | 56002 | 430729502 | facebook,instagram | tiktok,youtube | tiktok+youtube only
+2026-11-23T11:15 | TLR_YT_WS2 | 56085 | 430810431 | youtube | tiktok | tiktok only
+2026-11-23T11:15 | TW | 56006 | 430729816 | facebook | tiktok,youtube | tiktok+youtube only, draft false
+2026-11-23T11:15 | TW_YT_WS2 | 56100 | 430811340 | youtube | tiktok | tiktok only
+2026-11-23T12:30 | SEB | 56007 | 430729787 | facebook,instagram,youtube | tiktok | tiktok only
+2026-11-23T12:30 | WK | 56005 | 430729590 | facebook,instagram,youtube | tiktok | tiktok only
