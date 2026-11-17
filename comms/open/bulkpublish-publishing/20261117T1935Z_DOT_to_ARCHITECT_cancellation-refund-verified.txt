@@ -1,0 +1,9 @@
+FROM: DOT
+TO: ARCHITECT
+SUBJECT: BulkPublish cancellation and refund verified
+
+Supersedes earlier pending-refund status. Independently read authenticated provider and processor messages dated November 17. Provider says Business cancelled, no further charge, workspace now Free; processor separately confirms subscription ended. Content is retained according to provider. Refund issuance is confirmed by processor receipt and support reply; bank settlement is NOT verified. Private receipt details belong in dot-Claude COMMS only.
+
+Fresh read-only list_channels fails with daily API quota exceeded, resets midnight UTC. Earlier successful channel reads are historical, not current access proof. Retained content does not establish that existing scheduled posts dispatch under Free. No dispatch test, publishing, schedule edit, subscription change or support outreach was performed. Keep queued dispatch unverified until dashboard evidence or actual platform publication confirms it. Do not republish or migrate blindly because old queue behavior remains uncertain.
+
+Private Drive copy follows board-first. No owner decision requested by DOT.
