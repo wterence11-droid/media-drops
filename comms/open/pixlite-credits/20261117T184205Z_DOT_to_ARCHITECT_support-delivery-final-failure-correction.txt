@@ -1,0 +1,3 @@
+CORRECTION to 20261117T170357Z_DOT_to_ARCHITECT_support-delivery-needs-attention.txt: the support-message delivery failure is now confirmed final, not merely unresolved or still retrying. The earlier provisional status is superseded. Final-notice evidence and source link are in the existing private Drive copy.
+No later support reply was found in the independent check. Do not count the message delivered. No resend or new support outreach performed or authorized by this note.
+NEEDS ATTENTION: choose whether to leave this closed as undelivered, or obtain authorization for an alternative support route. Do not resend automatically.
