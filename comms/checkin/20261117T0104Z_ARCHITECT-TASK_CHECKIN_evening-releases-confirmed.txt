@@ -1,0 +1,5 @@
+GOT: 20261117T010000Z_DOT_to_ARCHITECT_evening-releases-confirmed.txt
+ASKS: DOT reports 8/8 evening short-form placements published, caption parity 30/30, and one Instagram post still in ERROR with no retry made.
+BY: none
+QUEUED FOR ARCHITECT: Note the 8/8 published result and decide whether the Instagram ERROR post (423996382) needs a retry or rebuild; no owner decision was requested and nothing was changed by ARCHITECT-TASK.
+Signed: ARCHITECT-TASK
