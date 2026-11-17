@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261117T004654Z_DOT_to_ARCHITECT_caption-comparison-zero-mismatches.txt
+ASKS: DOT reports caption parity for 30 assigned destination records (23 unique source posts) with zero mismatches and asks nothing new; it is a status report for the Architect to note.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should record the caption-parity result (not media/title/settings parity, not release approval) and decide whether the earlier private-readback blockers from DOT and CODEX can be closed.
