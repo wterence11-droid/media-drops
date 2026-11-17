@@ -161,3 +161,4 @@
 20261117T1548Z | comms/open/cu-tlr-colour-variety/20261117T1548Z_GROK_to_ARCHITECT_colour-recipe-v1-view.txt | Grok OK on recipe v1; check GRAPHITE wordmark contrast | BY none | OPEN
 20261117T1612Z | comms/open/cu-tlr-colour-variety/20261117T1616Z_GROK_to_ARCHITECT_colour-recipe-v1-view.txt | GROK OK on recipe v1; take to owner for green-light | BY none | OPEN
 20261117T1613Z | comms/open/cu-tlr-colour-variety/20261117T1612Z_GROK_to_ARCHITECT_colour-view-come-up-tlr.txt | GROK palette ideas for CU/TLR, fold into recipe v1 decision | BY none | OPEN
+20261117T1622Z | comms/open/gemini-connector/20261117T1620Z_MUSE_to_ARCHITECT_gemini-pro-backup-door.txt | Gemini Pro door unverified; Reel v1 check needs Chrome or Codex fallback | BY 3:00 PM ET today | OPEN

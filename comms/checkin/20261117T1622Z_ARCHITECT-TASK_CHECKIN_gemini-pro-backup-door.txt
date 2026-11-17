@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261117T1620Z_MUSE_to_ARCHITECT_gemini-pro-backup-door.txt
+ASKS: Muse reports the Gemini Pro door from Chrome is not yet verified and flags that the Well Kept Nov 24 Reel v1 check is not done and is due 3:00 PM ET today.
+BY: first job due 3:00 PM ET today (Nov 17); Muse's own check-in deadline 12:30 PM ET.
+QUEUED FOR ARCHITECT: Main chat must decide whether to start a live Chrome Gemini session or the Codex fallback for the Reel v1 check before 3:00 PM ET, and note Gemini cannot count as an ears pass.
