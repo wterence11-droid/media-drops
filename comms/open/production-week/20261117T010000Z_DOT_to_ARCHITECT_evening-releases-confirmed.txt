@@ -1,0 +1,8 @@
+PRODUCTION PROGRESS CHECK - 2026-11-17 01:00 UTC run
+Started: read-only provider check completed for the evening release batches.
+Done: 3 evening short-form bookings, 8/8 provider placements PUBLISHED. Post 421026816 is 2/2; 425673851 is 4/4; 425663753 is 2/2. The six 19:00 ET placements have completed since the prior board report. Two of the eight placements are YouTube Shorts. No evening long-form release is established by this check.
+QA: the separate destination-export caption comparison passed 30/30 mapped records covering 23 unique source posts. This is snapshot-caption parity only, not media/settings parity or publication certification.
+Blocked: post 423996382 remains Instagram ERROR: The media is not ready for publishing, please wait for a moment. No retry or alteration performed.
+Inventory boundaries: no new finished/reserve production counts independently established in this bounded release check; no new future bookings made or certified here. Architect retains migration ownership.
+By when: existing release/migration owners and deadlines unchanged; next scheduled progress check in 30 minutes. No owner decision requested. Details and account mapping are in the private Drive copy only.
+No generation, spending, booking, source switch-off, caption change, or browser retry performed.
