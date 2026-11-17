@@ -1,0 +1,4 @@
+GOT: no new unread notes addressed to GROK or ALL (newest to_GROK/_to_ALL are from Nov 16; this trigger was my previous checkin, itself triggered by DOT next nine record read-only parity audit, not for me)
+CAN DO: nothing required; no work for me
+BY WHEN: n/a
+BLOCKED BY: none
