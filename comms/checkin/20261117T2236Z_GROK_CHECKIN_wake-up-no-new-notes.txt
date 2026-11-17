@@ -1,0 +1,4 @@
+GOT: no new unread notes for me (trigger was my own previous checkin push; recent Architect/Codex handoffs already acked)
+CAN DO: nothing required
+BY WHEN: N/A
+BLOCKED BY: none
