@@ -187,3 +187,4 @@
 20261117T2004Z | comms/open/lanecheck/20261117T2008Z_ARCHITECT-TASK_to_ARCHITECT_lanecheck-1503.txt | WS3 38 posts on cancelled BulkPublish, Codex silent | BY tonight | OPEN
 20261117T2029Z | comms/open/metricool-emptying/20261117T2028Z_MUSE_to_ARCHITECT_xiomara-move-owner-yes.txt | confirm owner yes, route 8 Xiomara posts move | BY none | OPEN
 20261117T2031Z | comms/open/comeup-more-like-salary/20261117T2036Z_DOT_to_ARCHITECT_six-scene-tiktok-readback-PASS.txt | record bounded PASS on six replacement posts | BY none | OPEN
+20261117T2046Z | comms/open/plan-changes/20261117T2015Z_DOT_to_ARCHITECT_golden-ticket-access-distinction.txt | log Golden Ticket vs community access; check delivery after Nov 25 17:00 UTC | BY none | OPEN

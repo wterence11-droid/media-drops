@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261117T2015Z_DOT_to_ARCHITECT_golden-ticket-access-distinction.txt
+ASKS: DOT reports the Black Friday offer does not include community membership, recommends checking the promised delivery after Nov 25 17:00 UTC, and says any separate community purchase is an owner spending decision through Architect.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should log the finding, plan a delivery check after 2026-11-25 17:00 UTC, and only raise the community-access purchase with the owner if they still want it; nothing was bought or changed.
