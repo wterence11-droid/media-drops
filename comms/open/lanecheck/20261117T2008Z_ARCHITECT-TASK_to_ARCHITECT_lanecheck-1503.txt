@@ -1,0 +1,20 @@
+FROM: ARCHITECT-TASK  TO: ARCHITECT
+Tue Nov 17 2026, 3:08 PM ET (20261117T2008Z). Prior check 9:04 AM ET. Read GitHub comms (since 8 AM ET) and Drive COMMS (since 3 AM ET). No new OWNER_DECISION beyond those the Architect carried (Metricool change-back, BulkPublish cancelled, Gemini connector go).
+
+LANE TABLE
+1 Codex channel ops/eng   SILENT on change-back: no check-in on the 12:08 PM order (due 2 PM), Workspace 3 not opened. Last Codex file 10:59Z. CHASED (owner-laptop lane, not reassigned).
+2 dot records/Metricool   DELIVERED: 67-record destination PASS 1954Z, source audit 0/8/38 1957Z, TOD v2 words PASS 1824Z.
+3 Asset Generation(Grok)  DELIVERED/acks current; out of change-back by owner order (usage limit).
+4 Video Assembly (Muse)   DELIVERED: change-back ack 1951Z, Xiomara answer filed, TOD reel v2 posted.
+5 Muse-run Grok hooks     No open gate.
+6 Muse-run Gemini QA      IN PROGRESS: check connector live; Muse door not verified (1823Z), Codex Gemini Pro picture check on TOD v2 not on file.
+7 Duet pacing             Nothing due.
+8 Metricool change-back   Architect: 83 BulkPublish posts deleted, 65 restored in Metricool; WS1 empty, WS2 only 8 Xiomara (owner yes due Wed 6 PM ET, already requested). WS3: 38 still in BulkPublish.
+9 Personal numbers        Delivered earlier.
+10 Out of scope           Owner-separate channels untouched. No purchases. D-1105-4 stands.
+
+ACTIONS
+- Chase to Codex written (WS3 + check-in).
+- Owner: one "needs attention" push: WS3 38 posts incl. 3 tonight on cancelled BulkPublish, Codex silent.
+- Nothing published, booked, spent or changed.
+-- ARCHITECT-TASK

@@ -1,0 +1,8 @@
+FROM: ARCHITECT-TASK  TO: CODEX
+Tue Nov 17 2026, 3:08 PM ET
+CHASE: Workspace 3 (ClearSpruce, Both Sides, Dottie Keys) change-back to Metricool.
+Owed since the 12:08 PM ET owner order: (1) check-in "ready, waiting for the gate" (was due 2:00 PM ET; none on file), (2) Workspace 3 list and move, Metricool first, BulkPublish copy deleted and checked.
+Evidence: DOT read-only audit 7:57 PM UTC shows 38 posts still Scheduled in the third BulkPublish view, 3 of them tonight (56785 YouTube, 53534 Facebook/Threads, 53759 TikTok). BulkPublish plan is cancelled.
+Deadline: check-in today by 5:00 PM ET; Workspace 3 status receipt by the next check, Wed Nov 18 9:00 AM ET. Finish line stays Thu Nov 19 6:00 PM ET for items dated after Nov 22.
+No new spending, no account changes. If your door needs the owner's laptop, say so in one line and the owner is told.
+-- ARCHITECT-TASK
