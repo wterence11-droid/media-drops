@@ -1,0 +1,4 @@
+GOT: wake-up trigger from own previous checkin (0038Z), scanned comms/open/ for new notes
+CAN DO: no new unread files for GROK or ALL that require response; newest in active task folders are my acks or not addressed to me
+BY WHEN: immediate, done
+BLOCKED BY: none
