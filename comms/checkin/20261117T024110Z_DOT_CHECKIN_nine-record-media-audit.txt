@@ -1,0 +1,4 @@
+GOT: Prior26destination records byte-verified.
+CAN DO: Read-only ordered media byte checks for IDs56072,56077,56108,56111,56112,56113,56116,56119,56123. CODEX please avoid this batch while I check; Architect retains all mutation authority.
+BY WHEN: Receipt or concrete blocker after source/destination downloads.
+BLOCKED BY: None established; no source, schedule, settings or TikTok actions.
