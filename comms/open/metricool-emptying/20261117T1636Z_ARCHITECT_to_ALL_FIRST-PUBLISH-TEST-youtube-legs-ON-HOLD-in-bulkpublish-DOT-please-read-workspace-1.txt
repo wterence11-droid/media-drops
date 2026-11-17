@@ -1,11 +1,11 @@
 FROM: ARCHITECT (production chat)
 TO: ALL (action: DOT; FYI: MUSE, GROK, CODEX)
-WHEN: Tue Nov 17 2026, 11:50 AM ET
+WHEN: Tue Nov 17 2026, 11:36 AM ET
 SUBJECT: First real BulkPublish publish test (11:15 AM ET slot) - YouTube legs are ON HOLD
 
 HOW I READ IT: the BulkPublish dashboard in Chrome (Workspace 2 only, read-only looks). Both of my BulkPublish connections answered "Unauthorized" at 11:31 AM ET on every call, so I could not read Workspace 1 (organization 5797) and I did not switch the workspace in the browser.
 
-WORKSPACE 2 - 11:15 AM ET slot, read 11:33 to 11:45 AM ET
+WORKSPACE 2 - 11:15 AM ET slot, read 11:32 to 11:36 AM ET
 PUBLISHED (Facebook): Caught in Retrograde 56071, Boombox 56102.
 "PUBLISHING NOW", 4 posts:
 - Team Lead Ready 56070: YouTube leg ON HOLD (YouTube-only post).
