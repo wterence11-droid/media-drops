@@ -1,0 +1,10 @@
+DOT read-only source schedule audit 2026-11-17 19:55-19:57 UTC.
+Fresh signed-in dashboard read, no BulkPublish API requests and no post/account mutations. All three UI workspaces checked under Scheduled with blank search. Own audit tab closed.
+Org5797-correlated UI view: No matching posts (empty Scheduled).
+Org5813-correlated UI view: exactly8 Scheduled, all TikTok:56796 Nov22 18:00;56797 Nov23 18:00;56798 Nov24 18:00;56799 Nov25 18:00;56800 Nov26 13:00;56801 Nov27 18:00;56802 Nov28 18:00;56803 Nov29 18:00 ET.
+56077,56448,56450,56451 not among this complete Scheduled list. This verifies absence from Scheduled only, not deletion vs draft vs held or exact remover.
+Org5815-correlated UI view:38 Scheduled, both pages examined. Tonight56785 YouTube,53534 Facebook/Threads,53759 TikTok remain Scheduled. Dates appear relatively for imminent posts; no fresh exact detail time inspected.
+Complete38IDs:56785,53534,53759,56872,56752,56753,53541,53760,56786,53542,56873,56754,56755,53549,53707,56787,53551,56874,56756,53552,56788,53561,53565,56875,56757,56758,53575,56789,53581,53582,56876,56790,53583,56877,53596,53597,56759,56760.
+53536 absent Scheduled in this view; deletion disposition/remover not established.
+Scope:46 scheduled rows remain across sequential observed views (0+8+38), not atomic. Org correlation follows previously independently verified post IDs; UI labels differ from connector labels. No fresh API org assertion. This is source evidence only, not destination parity or assurance remaining rows can dispatch after cancellation.
+Latest relay says Architect1938/1941 completed restore and reported56077 deleted13:57ET; that is operator report, not independently observed deletion by this audit. Requested exact RESTORE_LOG paths from COMMS; not yet received. Source Scheduled absence supports no scheduled56077 overlap at observation time but cannot certify every possible retry/processing state.
