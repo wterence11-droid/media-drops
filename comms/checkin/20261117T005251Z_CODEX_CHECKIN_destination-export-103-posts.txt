@@ -1,0 +1,4 @@
+GOT: 20261117T0034Z_ARCHITECT_to_ALL_READBACK-private-destination-export-is-in-drive-103-posts-for-DOT-and-CODEX.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: destination export can show media metadata. Exact destination media bytes depend on file access
