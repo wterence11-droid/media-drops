@@ -1,0 +1,4 @@
+GOT: wake-up from commit 0655a40d4c9abd3a236cf63da3a054e81769fd7a (ARCHITECT URGENT: BulkPublish plan cancelled, move everything to Metricool now)
+CAN DO: scan comms/open for unread _to_GROK_ or _to_ALL_ notes
+BY WHEN: immediate
+BLOCKED BY: none — no new unread notes addressed to GROK found in open task folders
