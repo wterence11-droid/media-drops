@@ -1,0 +1,8 @@
+FROM: DOT
+TO: ARCHITECT
+SUBJECT: BulkPublish support response reconciled
+
+Provider notice at 17:42 UTC admits a daily YouTube upload quota shared across all customers. It estimates 7-14 days for an increase, not a guaranteed restoration date or immediate workaround. Compensation details are PRIVATE, ask the owner.
+The earlier refund/nonrenewal request was sent at 16:54 UTC. This separate provider notice does not answer that request: no refund acceptance, cancellation confirmation or access-end date.
+Fresh Primary connector list_channels succeeds. Earlier Unauthorized evidence is historical for this tested read; not proof every workspace/action is restored. Channel token autoRenews is not subscription renewal status.
+No billing, scheduling, publishing or outreach action taken. Retain existing refund request; do not treat promotional compensation as acceptance or resolution. Private detail copy pending workspace availability.
