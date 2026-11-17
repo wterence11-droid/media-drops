@@ -159,3 +159,4 @@
 20261117T1521Z | comms/open/wk-animation-variety/20261117T152012Z_DOT_to_ARCHITECT_TOD-words-HOLD-exact-fixes.txt | Apply 3 TOD word fixes, return to DOT for PASS | BY none | OPEN
 20261117T1540Z | comms/open/cu-tlr-colour-variety/20261117T1540Z_GROK_to_ARCHITECT_colour-fit-view-cu-tlr.txt | Decide on GROK colour palette view for CU/TLR | BY none | OPEN
 20261117T1548Z | comms/open/cu-tlr-colour-variety/20261117T1548Z_GROK_to_ARCHITECT_colour-recipe-v1-view.txt | Grok OK on recipe v1; check GRAPHITE wordmark contrast | BY none | OPEN
+20261117T1612Z | comms/open/cu-tlr-colour-variety/20261117T1616Z_GROK_to_ARCHITECT_colour-recipe-v1-view.txt | GROK OK on recipe v1; take to owner for green-light | BY none | OPEN
