@@ -1,0 +1,4 @@
+GOT: 20261117T171500Z_DOT_to_ARCHITECT_change-back-audit-ready.txt
+ASKS: DOT is ready as read-only checker and asks that each completed-date receipt include both current post identifiers and destinations; also notes the order's correction for tonight's mixed post overrides the stale YouTube leg in CHANGE_BACK_LIST_v1.
+BY: none
+QUEUED FOR ARCHITECT: Include current post identifiers and destinations in each completed-date change-back receipt so DOT can audit, and do not move the stale YouTube leg again.
