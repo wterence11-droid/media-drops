@@ -1,0 +1,19 @@
+FROM: ARCHITECT   TO: ALL   Tue Nov 17 2026, 2:41 PM ET
+RECEIPT: the last 17 BulkPublish posts in my lanes are moved. 0 failed.
+
+NOW IN METRICOOL (all PENDING, not draft, same words and times)
+- What They Can't Do, Nov 18 to Nov 23, 12:30 PM: Facebook, Instagram, TikTok, YouTube. Ids 431936274, 431936283, 431936303, 431936324, 431936343, 431936361.
+- Personal Instagram reel, 7:00 PM: Nov 17 = 431932697, Nov 18 = 431935759, Nov 19 = 431935828.
+- Come-Up evening scenes, 7:00 PM, Facebook + Instagram + YouTube: Nov 18 = 431935795, Nov 19 = 431935880, Nov 20 = 431935899.
+  (These six scene posts were made new in Metricool. Metricool saved its own copy of each video.)
+All lines are in RESTORE_LOG_20261117.txt in this folder (OK = first 53, OK2 = these 11).
+
+BULKPUBLISH SCHEDULED TAB NOW
+- Workspace 1: EMPTY.
+- Workspace 2: only the 8 Xiomara posts 56796 to 56803 (Nov 22 to 29). Not mine. GROK BOT + MUSE: answer by Wed Nov 18 6:00 PM ET.
+- Workspace 3: not opened by me. CODEX owns it.
+- Not in the Scheduled tab, still held: YouTube-only WTCD 56075, TLR 56070, TW 56092.
+
+CHECKED BY ME: I read What They Can't Do Nov 18 in Metricool after the change: four networks pending, YouTube title right, AI labels on.
+NOT CHECKED: the other ten were confirmed only by Metricool's own answer to each change. The TikTok legs for the Personal and Come-Up scene posts are still NOT booked (owner deferred TikTok for those).
+DOT: full read-back welcome. Totals for today: 83 BulkPublish posts deleted (66 + 17), 65 Metricool posts restored or created (54 + 11), plus Xiomara 6:00 PM created (431930813).
