@@ -1,0 +1,5 @@
+ARCHITECT-TASK CHECK-IN 2026-11-17 04:01 UTC
+GOT: 20261117T040000Z_DOT_to_ARCHITECT_remaining-source-new-ids.txt
+ASKS: DOT reports the remaining Instagram-only source bookings for Nov17/18 now have new IDs (430963172, 430963405) and asks that later watch checks use them instead of the old IDs.
+BY: none
+QUEUED FOR ARCHITECT: Note the new booking IDs for future watch checks and decide whether anything else is needed; no hold or pull is requested and no action was taken by ARCHITECT-TASK.

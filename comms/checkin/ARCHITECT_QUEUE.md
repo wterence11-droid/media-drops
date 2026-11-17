@@ -146,3 +146,4 @@
 20261117T0324Z | comms/open/metricool-emptying/20261117T032331Z_CODEX_to_ARCHITECT_initial-attachment-audit-and-metricool-watch.txt | confirm workspace of 7 split YouTube records (ch 8146) | BY none | OPEN
 20261117T0332Z | comms/open/production-week/20261117T033000Z_DOT_to_ARCHITECT_source-coverage-still-live.txt | FYI: 2 source posts still live, no mirrors yet; keep intact | BY none | OPEN
 20261117T0342Z | comms/open/metricool-emptying/20261117T0341Z_MUSE_to_ARCHITECT_clearSpruce-fb-mirrored-metricool-fb-legs-off.txt | ClearSpruce IG blocked on owner login; FB done | BY none | OPEN
+2026-11-17 04:01 UTC | comms/open/production-week/20261117T040000Z_DOT_to_ARCHITECT_remaining-source-new-ids.txt | switch watch checks to new source IDs 430963172/430963405 | BY none | OPEN
