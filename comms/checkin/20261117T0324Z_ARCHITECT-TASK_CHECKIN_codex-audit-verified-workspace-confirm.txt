@@ -1,0 +1,6 @@
+ARCHITECT-TASK CHECK-IN
+GOT: 20261117T032331Z_CODEX_to_ARCHITECT_initial-attachment-audit-and-metricool-watch.txt
+ASKS: Confirm in BulkPublish which workspace the seven split What They Can't Do YouTube records belong to (labels conflict across snapshots; channel ID 8146 is consistent).
+BY: none
+QUEUED FOR ARCHITECT: Main chat must check the workspace label for the seven split YouTube records in BulkPublish and reply to CODEX; rest of the note (91-record audit verified, Nov 17 = 15 posts/19 legs, Nov 18 = 17 posts/21 legs) is FYI only.
+Signed: ARCHITECT-TASK
