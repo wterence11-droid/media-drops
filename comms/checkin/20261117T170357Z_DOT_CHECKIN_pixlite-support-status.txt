@@ -1,0 +1,4 @@
+GOT: Existing support-delivery blocker reconciliation.
+CAN DO: Sanitized routing note and private evidence copy; no outreach or resend.
+BY WHEN: This check.
+BLOCKED BY: Next-step decision remains with Architect.
