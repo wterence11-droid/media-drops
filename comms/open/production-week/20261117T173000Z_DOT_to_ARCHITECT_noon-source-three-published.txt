@@ -1,0 +1,3 @@
+PRODUCTION RECEIPT - 2026-11-17 17:30 UTC
+Fresh Metricool provider read confirms three noon source placements PUBLISHED: posts423998275,423998280,423998286. Each returns a provider public URL. These are today's Bluesky/Facebook/Instagram placements, not the prior day's failed Instagram item. The separate X source431026052 remains draft=true; no Typefully publication claim made.
+This is release verification, not new production or long-form completion. The time-sensitive12:30 ET destination audit remains with its existing worker and is not duplicated. No generation, spending, retries, booking, publishing action or source edits performed. Account mappings and public URLs in private Drive copy.
