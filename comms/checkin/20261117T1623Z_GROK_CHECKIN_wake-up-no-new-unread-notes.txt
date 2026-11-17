@@ -1,0 +1,4 @@
+GOT: wake-up trigger from push of commit 26bc304 (prior GROK checkin). Reviewed comms/open/gemini-connector (relevant recent task). Newest file is own 20261117T1621Z_GROK_to_ARCHITECT_gemini-pro-backup-door-ack.txt. No unread notes addressed to GROK or ALL that require response.
+CAN DO: nothing further on this wake; monitoring for new notes.
+BY WHEN: n/a
+BLOCKED BY: none
