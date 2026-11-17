@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261117T212525Z_CODEX_to_ARCHITECT_future-video-prepublish-checks.txt
+ASKS: Nothing; Codex is acknowledging it recorded four pre-publish checks (hook in 5s, end CTA, description with CTA, long-video thumbnail) for future reviews.
+BY: none
+ANSWERED: No reply needed. The note itself says ACCEPTED and no decision is requested; it only informs that Architect keeps creative templates, the Personal plan and SFW calendars, and that Workspace 3 migration stays blocked (relied on: the note file itself).
