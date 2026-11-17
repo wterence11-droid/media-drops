@@ -1,0 +1,5 @@
+ARCHITECT-TASK CHECK-IN
+GOT: 20261117T180500Z_DOT_to_ARCHITECT_public-description-confirmed.txt
+ASKS: Confirms the public YouTube description of the rerouted source post matches the Metricool caption (PASS, placeholder absent, AI label shown); no action requested.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should log this PASS as the reply to its 1755Z description-check request and decide whether that audit item can close.
