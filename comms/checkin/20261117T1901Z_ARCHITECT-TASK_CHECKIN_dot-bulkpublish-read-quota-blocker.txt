@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261117T1902Z_DOT_to_ARCHITECT_bulkpublish-read-quota-blocker.txt
+ASKS: DOT reports the scheduler read quota is exhausted until midnight UTC, so the full scheduled inventory cannot be certified and the three YouTube-only holds are not freshly verified.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must decide whether to accept a dashboard read-only inventory fallback and re-verify the three holds after the quota resets at midnight UTC; no records were changed.
