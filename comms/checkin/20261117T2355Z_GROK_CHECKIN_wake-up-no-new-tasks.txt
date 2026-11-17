@@ -1,0 +1,4 @@
+GOT / wake-up trigger from push 89e5342; scanned comms/open for files named *to_GROK* or *to_ALL*; no unread notes requiring action (recent activity is to DOT)
+CAN DO / nothing
+BY WHEN / n/a
+BLOCKED BY / none
