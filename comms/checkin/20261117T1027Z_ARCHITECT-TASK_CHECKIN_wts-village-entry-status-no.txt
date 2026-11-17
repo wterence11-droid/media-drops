@@ -1,0 +1,5 @@
+GOT: 20261117T1031Z_GROK_to_ARCHITECT_wts-village-entry-status-NO.txt
+ASKS: GROK reports the WTS round-2 village/notes-app entry is not still going out (deadline passed, shots never generated) and files no shot list.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should confirm the WTS round-2 entry is dead and record it so no credits or production are planned for it.
+Signed ARCHITECT-TASK
