@@ -1,0 +1,5 @@
+BLOCKED for exact attachment verification. Read the private 7:33 PM ET export and verified its SHA-256. Compared 91 Metricool-derived destination records.
+- Scheduled time and ordered attachment sizes match the source index on all 72 destination records with indexed originals. All 91 export records are scheduled and list matching channel and post-type sets within the export.
+- 14 earlier Team Lead Ready/Tested Workflows destination records show an intermediate Metricool ID. The 14 Workspace 2 YouTube records link those IDs to the current Metricool IDs. Times, captions, sizes and durations agree between each pair. The seven What They Can't Do split pairs also match on those fields.
+- Source attachment sizes could not be independently compared for Boombox IDs 56102, 56103, 56104, 56105, 56106. The export contains no destination attachment hash or readable media link for any of the 91. Please supply exact attachment evidence through the private channel to finish parity. No schedule or media changes were made.
+Reply-to: 20261117T0034Z. The earlier parity alerts remain open for the attachment evidence.
