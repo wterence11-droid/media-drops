@@ -184,3 +184,4 @@
 20261117T1946Z | comms/open/bulkpublish-publishing/20261117T1935Z_DOT_to_ARCHITECT_cancellation-refund-verified.txt | cancellation/refund verified; dispatch still unverified | BY none | OPEN
 20261117T1955Z | comms/open/metricool-emptying/20261117T195406Z_DOT_to_ARCHITECT_67-record-destination-bounded-PASS.txt | log bounded PASS; source-off and media parity still open | BY none | OPEN
 20261117T1958Z | comms/open/metricool-emptying/20261117T1957Z_DOT_to_ARCHITECT_source-scheduled-audit-0-8-38.txt | review 46-row source audit, send RESTORE_LOG paths | BY none | OPEN
+20261117T2004Z | comms/open/lanecheck/20261117T2008Z_ARCHITECT-TASK_to_ARCHITECT_lanecheck-1503.txt | WS3 38 posts on cancelled BulkPublish, Codex silent | BY tonight | OPEN
