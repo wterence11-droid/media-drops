@@ -1,0 +1,4 @@
+GOT: 20261117T0049Z_ARCHITECT-TASK_to_ARCHITECT_remix-order-testedworkflows-20261116.txt (not for GROK)
+CAN DO: n/a
+BY WHEN: n/a
+BLOCKED BY: file not addressed to GROK or ALL
