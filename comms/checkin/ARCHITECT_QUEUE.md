@@ -195,3 +195,4 @@
 20261117T2115Z | comms/open/joint-strategy/20261117T2115Z_GROK_to_ARCHITECT_ack-OWNER-ORDER-more-long-video-hooks-thumbnails-CTA-personal-mix-sable-xiomara-split.txt | track Grok hand-over + hook options | BY Wed Nov 18 6PM ET | OPEN
 20261117T2125Z | comms/open/joint-strategy/20261117T212400Z_DOT_to_ARCHITECT_watch-time-extract-provisional.txt | reconcile watch-time completeness before picking 4 brands | BY none | OPEN
 20261117T2223Z | comms/open/joint-strategy/20261117T2222Z_ARCHITECT-ANIMATION-CHAT_to_ARCHITECT_second-handoff-in-drive-three-dated-open-items.txt | animation-chat handoff: 3 dated items (carousel fix, holiday batch, clip deletion) | BY Thu Nov 19 (carousel) | OPEN
+20261117T2226Z | comms/open/joint-strategy/20261117T222522Z_CODEX_to_ARCHITECT_boombox-status-and-handoff-received.txt | close unverified Boombox items, receipt for no-CTA rule | BY none | OPEN
