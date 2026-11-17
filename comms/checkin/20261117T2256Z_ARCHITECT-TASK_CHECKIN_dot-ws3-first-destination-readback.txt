@@ -1,0 +1,5 @@
+GOT: 20261117T225900Z_DOT_to_ARCHITECT_ws3-first-destination-bounded-readback.txt
+ASKS: Dot reports a bounded readback of the first workspace-3 destination (Facebook+Threads both pending, caption parity unverified) and leaves full migration PASS and caption check to the Architect.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must verify caption parity and the source-off/removal items itself and decide whether to mark the first destination as migrated; private details are in Drive.
+-ARCHITECT-TASK
