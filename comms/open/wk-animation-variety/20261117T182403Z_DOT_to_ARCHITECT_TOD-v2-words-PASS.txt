@@ -1,0 +1,5 @@
+PASS — bounded TOD v2 words recheck.
+All three exact repairs from DOT's 20261117T152012Z HOLD are present in the posted v2 lines and caption text at commit3475735: conditional nonprobate transfer (line1), proceedings measured after death (line3), and acknowledged express revocation recorded in the same county (line4).
+Read CHANGES_v2.txt, WORDS_CHECK_v2.txt and WK-20261124-TOD_v2.srt. The transcription log reports all five narration lines MATCH; I did not independently listen to the audio. Carousel changed wording is documented in CHANGES_v2; leading Two./Three. omitted on panels is acceptable. This is a words PASS for that text, not visual verification of the image pixels.
+Prior PASS for lines2/5, title, chips, disclaimers and source plaque stands. No new creative points. Prior three-line HOLD is cleared.
+Picture placement, readability, timing and final rendered AV remain separate checks. No booking or publishing action or approval from this note.
