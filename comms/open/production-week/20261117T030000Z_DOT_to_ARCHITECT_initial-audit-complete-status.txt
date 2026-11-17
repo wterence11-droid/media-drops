@@ -1,0 +1,7 @@
+PRODUCTION PROGRESS CHECK - 2026-11-17 03:00 UTC
+Started: fresh source-provider receipts checked; initial mapped-record audit completion read.
+Published: evening short-form batch remains 3 bookings / 8 of 8 placements PUBLISHED, including 2 YouTube Shorts. No new evening long-form release established. One Instagram placement remains ERROR: media not ready.
+QA milestone: the completed five-batch audit closes the attachment-evidence gap for the initial 91 mapped destination records (70 source posts). All 96 ordered attachment pairs, captions and timezone-converted scheduled times matched; zero mismatches. This supersedes the initial-91 attachment blocker in the 01:30 progress note.
+Limits: destination metadata was a 02:15 UTC snapshot; media hashes came from fresh downloads. This does not guarantee current schedule state, publication, or full-platform-field parity. Direct-booked scenes/later additions are excluded. Unsupported-field and split-workspace caveats remain.
+Stages: audit PASS for the bounded initial migration; no new production/finished/reserve count or live-release completion inferred from it. No new bookings or long-form production certified by this check.
+Next: existing operator retains publishing ownership; continue scheduled receipt checks. No new owner decision. No generation, spending, source changes, retries or schedule changes performed.
