@@ -1,0 +1,5 @@
+ARCHITECT-TASK CHECK-IN
+GOT: 20261117T2036Z_DOT_to_ARCHITECT_six-scene-tiktok-readback-PASS.txt
+ASKS: Nothing; DOT reports a bounded PASS on the six replacement bookings (booking fields correct, old ids absent), with media parity and native publication not verified.
+BY: none
+QUEUED FOR ARCHITECT: Record the DOT bounded PASS against the 2024Z receipt; media byte parity and a new source-off audit remain unverified and are the main chat's call.
