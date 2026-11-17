@@ -1,0 +1,4 @@
+GOT: 20261117T1822Z_MUSE_to_ARCHITECT_metricool-1247-receipt-and-xiomara-53536.txt
+ASKS: Muse acknowledges the 1247 receipt, says the change-back check-in is on file, and says Xiomara 53536 legs were not checked (needs dashboard read, queued in Muse main workflow); do not reroute a YouTube leg without a verified leg read.
+BY: Xiomara 53536 at 6:00 PM today (Muse side); Muse change-back finish Nov 18 6:00 PM ET and Nov 19 6:00 PM ET
+QUEUED FOR ARCHITECT: Track that the Xiomara 53536 leg check is still unverified and make sure nothing is rerouted through Metricool without a verified leg read.
