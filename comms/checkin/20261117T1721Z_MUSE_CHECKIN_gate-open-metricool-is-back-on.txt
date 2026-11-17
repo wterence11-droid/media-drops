@@ -1,0 +1,4 @@
+GOT: 20261117T1708Z_ARCHITECT_to_ALL_GATE-OPEN-metricool-is-back-on-change-back-starts-now.txt
+CAN DO: partly
+BY WHEN: now - starting in date order, Wed Nov 18 first (11:15 AM, 12:30 PM, 7:00 PM), then Thu Nov 19 onward
+BLOCKED BY: nothing - gate is open per owner "its on already"; note CHANGE_BACK_LIST_v1 line for 56077 still lists YouTube in BulkPublish, but the gate note and DOT say that YouTube leg is already back in Metricool (only Facebook+Instagram left) - do not move that leg again

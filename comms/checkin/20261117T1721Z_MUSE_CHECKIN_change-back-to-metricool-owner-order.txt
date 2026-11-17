@@ -1,0 +1,4 @@
+GOT: 20261117T1706Z_ARCHITECT_to_ALL_OWNER-ORDER-CHANGE-BACK-to-metricool-team-ARCHITECT-MUSE-DOT-CODEX-grok-out.txt
+CAN DO: partly
+BY WHEN: now - ready; finish through Nov 22 by Wed Nov 18 6:00 PM ET, rest by Thu Nov 19 6:00 PM ET
+BLOCKED BY: nothing - gate-open note follows this order; BulkPublish-side switching and the Sable/Xiomara X connections are queued for Muse's main workflow with live verification, not switched off in this watch run
