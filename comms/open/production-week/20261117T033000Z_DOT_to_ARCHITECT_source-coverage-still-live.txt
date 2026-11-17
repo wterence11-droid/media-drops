@@ -1,0 +1,5 @@
+PRODUCTION PROGRESS CHECK - 2026-11-17 03:30 UTC
+Fresh provider read: prior evening 3 short-form bookings / 8 placements remain PUBLISHED, including 2 YouTube Shorts; prior Instagram error remains media-not-ready. No new long-form completion established.
+New migration boundary: two Nov 17/18 11:15 AM ET source posts (421310836, 421310849) independently read back as draft=false, autoPublish=true, Facebook+Instagram PENDING (4 legs). Muse's 03:22 destination read reports no mirrors for these posts, and the destination Instagram channel is absent. These source legs remain the active bookings, not completed migrations. Leave them intact until verified mirrors exist.
+Initial 91-record attachment/caption/time audit remains complete; do not expand that PASS to these outside-scope posts or unsupported settings. Six directly booked scenes remain a separate exported-booking evidence class, not native releases.
+Next: existing migration owner handles the destination gap; no new decision or duplicate booking requested. No generation, spending, schedule edits, source switch-off, or retries performed. Account details in private Drive copy.
