@@ -1,0 +1,129 @@
+DOT read-only BulkPublish dashboard inventory. Sweep 2026-11-17 approximately 19:00-19:05 UTC.
+Read latest 1853Z Architect cancellation/migration handoff first. No posts edited, moved, retried, deleted or booked. Own audit tab closed.
+All three visible workspaces and both Scheduled pages examined. 116 distinct scheduled rows captured, NOT an atomic current total. Counts: org5797-correlated view39; org5813-correlated view39 then38; org5815-correlated view38. UI labels differ from connector labels; org correlation uses previously verified post IDs, not a fresh API org response.
+org5813 count dropped39 to38 while inspecting56448. Row56084 disappeared from page1 and56091 shifted forward. External concurrent changes; do not treat old captured56084 as still scheduled.
+56448 current Scheduled Nov18 19:00 America/New_York, FB/IG/YT Waiting to publish verified in details. 56450 Scheduled Nov19 19:00 FB/IG/YT;56451 Scheduled Nov20 19:00 FB/IG/YT visible in list.
+All rows below were in Scheduled filter. Status is not proof of dispatch after plan cancellation. Failed/held/draft posts are outside this inventory. Near-term relative times retained exactly rather than guessed. Other times displayed ET.
+Codes F Facebook, I Instagram, Y YouTube, T TikTok, H Threads, X X.
+
+ORG5797-correlated view (39):
+56441|in5h|I
+55977|in22h|FIY
+55980|in22h|FI
+55983|in22h|F
+55981|in23h|FIY
+55982|in23h|FIY
+56110|in23h|Y
+56442|Nov18 19:00|I
+55979|Nov19 11:15|FIY
+55985|Nov19 11:15|FI
+55986|Nov19 11:15|F
+55987|Nov19 12:30|FIY
+55988|Nov19 12:30|FIY
+56115|Nov19 12:30|Y
+56445|Nov19 19:00|I
+55984|Nov20 11:15|FIY
+55990|Nov20 11:15|FI
+55991|Nov20 11:15|F
+55992|Nov20 12:30|FIY
+55993|Nov20 12:30|FIY
+56118|Nov20 12:30|Y
+55989|Nov21 11:15|FIY
+55995|Nov21 11:15|FI
+55999|Nov21 11:15|F
+55996|Nov21 12:30|FIY
+55998|Nov21 12:30|FIY
+56122|Nov21 12:30|Y
+55994|Nov22 11:15|FIY
+56000|Nov22 11:15|FI
+56004|Nov22 11:15|F
+56001|Nov22 12:30|FIY
+56003|Nov22 12:30|FIY
+56125|Nov22 12:30|Y
+55997|Nov23 11:15|FIY
+56002|Nov23 11:15|FI
+56006|Nov23 11:15|F
+56005|Nov23 12:30|FIY
+56007|Nov23 12:30|FIY
+56127|Nov23 12:30|Y
+
+ORG5813-correlated view (39 captured; then38):
+56109|in23h|FI
+56448|Nov18 19:00|FIY
+56080|Nov19 11:15|Y
+56081|Nov19 11:15|F
+56086|Nov19 11:15|FY
+56094|Nov19 11:15|Y
+56104|Nov19 11:15|F
+56111|Nov19 11:15|FIY
+56114|Nov19 12:30|FI
+56450|Nov19 19:00|FIY
+56082|Nov20 11:15|Y
+56087|Nov20 11:15|F
+56088|Nov20 11:15|FY
+56096|Nov20 11:15|Y
+56105|Nov20 11:15|F
+56112|Nov20 11:15|FIY
+56117|Nov20 12:30|FI
+56451|Nov20 19:00|FIY
+56121|Nov21 12:30|FI
+56084|Nov22 11:15|Y|DISAPPEARED later
+56091|Nov22 11:15|F
+56095|Nov22 11:15|FY
+56099|Nov22 11:15|Y
+56119|Nov22 11:15|FIY
+56124|Nov22 12:30|FI
+56796|Nov22 18:00|T
+56085|Nov23 11:15|Y
+56098|Nov23 11:15|F
+56100|Nov23 11:15|Y
+56101|Nov23 11:15|FY
+56123|Nov23 11:15|FIY
+56126|Nov23 12:30|FI
+56797|Nov23 18:00|T
+56798|Nov24 18:00|T
+56799|Nov25 18:00|T
+56800|Nov26 13:00|T
+56801|Nov27 18:00|T
+56802|Nov28 18:00|T
+56803|Nov29 18:00|T
+
+ORG5815-correlated view (38):
+56785|in4h|Y
+53534|in5h|FH
+53759|in5h|T
+56872|in22h|F
+56752|in22h|X
+56753|in22h|Y
+53541|in23h|FI
+53760|in23h|T
+56786|Nov18 18:00|Y
+53542|Nov18 18:30|FIH
+56873|Nov19 11:15|F
+56754|Nov19 12:00|X
+56755|Nov19 12:00|Y
+53549|Nov19 12:15|FI
+53707|Nov19 12:30|T
+56787|Nov19 18:00|Y
+53551|Nov19 18:30|FIH
+56874|Nov20 11:15|F
+56756|Nov20 12:00|X
+53552|Nov20 12:15|FI
+56788|Nov20 18:00|Y
+53561|Nov20 18:30|FI
+53565|Nov21 11:00|FIH
+56875|Nov21 11:15|F
+56757|Nov21 12:00|X
+56758|Nov21 12:00|Y
+53575|Nov21 15:00|F
+56789|Nov21 18:00|Y
+53581|Nov21 18:30|FH
+53582|Nov22 11:00|FIH
+56876|Nov22 11:15|F
+56790|Nov22 18:00|Y
+53583|Nov22 18:30|FI
+56877|Nov23 11:15|F
+53596|Nov23 12:15|FI
+53597|Nov23 18:30|FH
+56759|Nov25 12:00|X
+56760|Nov25 12:00|Y
