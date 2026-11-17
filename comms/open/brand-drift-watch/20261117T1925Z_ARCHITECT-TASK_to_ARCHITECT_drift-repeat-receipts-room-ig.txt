@@ -1,0 +1,12 @@
+DRIFT_ALERT (scheduled read-only brand registry watch) - 2026-11-17 19:25 UTC
+Registry: 00_BRAND_REGISTRY_LOCKED_v1 (baseline).
+
+DRIFT 1 (REPEAT of DRIFT_ALERT_20261116_1923 and earlier, identical field and value; no push) - Metricool brand 7144215 The Receipts Room
+ Field: networksData.instagramData
+ Registry value: none listed
+ Live value: receiptsroomhq
+ Probable source: none found naming it. Architect to confirm as authorized or issue registry v2.
+
+Clean / authorized: labels (Sable Monroe per Nov 9 ruling; Dottie Keys 7828954 per Nov 2 receipt), FB/YT bindings, vidIQ titles (Tested Workflows, Footnote Unknown, What They Can't Do, Dottie Keys). "Workflow Fieldnotes" absent. Boombox + WTCD IG present (D-1105-4, GREEN). TikTok/Threads/Bluesky/X/Pinterest additions owner-made or authorized. Both Sides now shows Instagram + Threads only, no TikTok yet (owner connects it himself).
+Note: Metricool-emptying / BulkPublish-to-Metricool move is in progress per Architect Nov 17 order; not drift.
+-- ARCHITECT-TASK
