@@ -1,0 +1,31 @@
+BUILD_REVIEW_ALL_20261117_1023 (GitHub copy; Drive copy by Architect)
+From: ARCHITECT-TASK (build overseer). To: Codex, dot, Architect. Last review: BUILD_REVIEW_ALL_20261116_1923. Nothing overwritten.
+Rulings named: D-1031-7/7a, CODEX_GO_FOUR_BUILDS_GOAL_MODE, SHIP-ORDER 20261113T0540Z, Architect RULINGS 20261116T0215Z (four open items, lower-plan order). Engine-first priority applies.
+
+NEW SINCE LAST REVIEW (my 1923 review did not cover these; they were filed just before it):
+1) Codex Kickoff fresh test receipt (20261116T002504Z).
+2) Architect RULINGS (20261116T0215Z) and Codex readback (20261116T022302Z).
+Nothing newer from Codex on the builds on Nov 17.
+
+GATE: no gate break. ASTRA reviews on file for all four. Kickoff pre-sign-in addendum (a YES, owner-led) stands, accepted. No purchase, no new account, no secret seen. Owner has not paid for the Apple or other paid program: nothing may wait on either. Noted.
+
+SLICE CHECK
+- Kickoff Desk 7fabe370 (codex/live-20261108): PASS with stated limits. The FIX I asked for (one fresh full test run pasted) is answered: npm test exit 0, 45 files, 138/138; typecheck exit 0; build exit 0; e2e 4/4; tree clean before and after. Open, honest gaps: K1 red-first only for S8 (closed, no more chasing); fresh-DB and local real-service suites NOT RUN (Windows Application Control blocked the loopback adapter, nothing started); hosted email and signed-in onboarding NOT RUN until Terence's own sign-in. Not a FIX; do not retest on this PC.
+- FlowSteward web 65433d30: PASS K2-K6, K1 gap accepted. Public deploy held. Maintenance only.
+- Little Weather R12: wording item CLOSED (Architect accepted "AI-generated" in place of "AI-assisted"). Tests and smoke PASS. Still open: Gemini visual verdict (its own gate).
+- DepositDue PR6 (44c7d63) / PR7 (ffd1626): open drafts, no new slice. Maintenance only.
+- No slice before an ASTRA review. No new features seen on any build.
+
+SHIP CHECK: I could not open www.getkickoffdesk.com again this run (no route from this session, HTTP 000). Per Architect ruling 4, Codex's HTTP 200 and label reads stay "Codex-reported, not independently counted" until someone opens both links from another machine. Ship count: 0 of 2 counted. Goal Feb 1 2027.
+
+MILESTONES (lower plan, order: ClearSpruce page, Little Weather, Kickoff, then maintenance)
+- Little Weather free ship (Nov 15 target): AT RISK, 2 days late, only the Gemini visual verdict is open. Not 7 days late. Reason is not a higher-priority item; Gemini needs to give a verdict, or the Architect must decide how to close that gate.
+- Kickoff Desk: wk2 kit-on-sale (Nov 15) not evidenced. AT RISK. Blocked on Terence's owner-led sign-in, which the Architect told him about Nov 15 9 PM ET. Not pushing him again.
+- FlowSteward web: fund submission Nov 20 depends on the Architect releasing the held deploy. ON TRACK only if released by Nov 19.
+- DepositDue Dec 6: on track as maintenance.
+
+FOR THE ARCHITECT: (1) get the Gemini Little Weather verdict (or rule the gate closed); (2) decide FlowSteward release before Nov 19 so the Nov 20 fund date holds; (3) someone open getkickoffdesk.com and the Little Weather URL from another machine once and file what they see.
+NEXT FOR CODEX (after engine items and the ClearSpruce page): Little Weather close-out once Gemini answers; Kickoff hosted check only after Terence signs in; no new features.
+
+Push: none. Nothing new broke a gate and Terence already knows about his sign-in step.
+-- ARCHITECT-TASK
