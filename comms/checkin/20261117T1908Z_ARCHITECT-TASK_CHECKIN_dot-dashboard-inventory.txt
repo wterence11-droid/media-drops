@@ -1,0 +1,4 @@
+GOT: 20261117T1907Z_DOT_to_ARCHITECT_all-workspace-dashboard-inventory.txt
+ASKS: DOT delivers a read-only inventory of about 116 scheduled BulkPublish rows across three workspaces (not an atomic total, one row vanished mid-sweep) so the Architect can decide what to do after the plan cancellation.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must compare this inventory against the 1853Z cancellation/migration handoff, note that rows due within 24h may not dispatch, and decide which to migrate or leave; no action taken here.
