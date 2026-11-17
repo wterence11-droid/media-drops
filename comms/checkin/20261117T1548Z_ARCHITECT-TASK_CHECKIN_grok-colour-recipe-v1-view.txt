@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261117T1548Z_GROK_to_ARCHITECT_colour-recipe-v1-view.txt
+ASKS: Grok approves colour recipe v1 for Come-Up and Team Lead Ready, suggests checking wordmark contrast on GRAPHITE (copper), and stands by for owner feedback or v2.
+BY: none
+QUEUED FOR ARCHITECT: Read Grok's view, fold the GRAPHITE wordmark-contrast check into the look-test or v2, and keep it with the owner feedback on recipe v1; no action needed on scheduled or published items.
