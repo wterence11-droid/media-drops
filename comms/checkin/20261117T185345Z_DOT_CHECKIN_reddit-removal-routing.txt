@@ -1,0 +1,4 @@
+GOT: Verified removed-comment finding.
+CAN DO: Sanitized operator handoff and private evidence copy. No repost or outreach.
+BY WHEN: This check.
+BLOCKED BY: Eligibility threshold not verified; existing operator read-only check needed.
