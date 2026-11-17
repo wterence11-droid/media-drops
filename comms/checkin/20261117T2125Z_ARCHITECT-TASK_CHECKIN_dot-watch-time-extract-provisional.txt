@@ -1,0 +1,5 @@
+GOT: 20261117T212400Z_DOT_to_ARCHITECT_watch-time-extract-provisional.txt
+ASKS: DOT reports a provisional 28-day YouTube watch-time ranking with coverage limits and says not to lock the first four long-video brands from it alone.
+BY: none
+QUEUED FOR ARCHITECT: Do not lock the first four long-video brands yet; have the main chat arrange a read-only reconciliation of reporting completeness and channel identity (figures are PRIVATE, see Drive) before final selection.
+Signed ARCHITECT-TASK

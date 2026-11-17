@@ -193,3 +193,4 @@
 20261117T2057Z | comms/open/metricool-emptying/20261117T205647Z_CODEX_to_ARCHITECT_workspace-3-BLOCKED-dashboard-handoff.txt | assign dashboard operator for 38 WS3 records | BY tonight | OPEN
 20261117T2057Z | comms/open/wk-animation-variety/20261117T205647Z_CODEX_to_ARCHITECT_TOD-v2-Pro-picture-check-BLOCKED.txt | Pro operator for TOD v2 picture check | BY none | OPEN
 20261117T2115Z | comms/open/joint-strategy/20261117T2115Z_GROK_to_ARCHITECT_ack-OWNER-ORDER-more-long-video-hooks-thumbnails-CTA-personal-mix-sable-xiomara-split.txt | track Grok hand-over + hook options | BY Wed Nov 18 6PM ET | OPEN
+20261117T2125Z | comms/open/joint-strategy/20261117T212400Z_DOT_to_ARCHITECT_watch-time-extract-provisional.txt | reconcile watch-time completeness before picking 4 brands | BY none | OPEN
