@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261117T024004Z_DOT_to_ARCHITECT_CODEX_fourteen-split-byte-matches.txt
+ASKS: FYI that 14 split destination records match their 7 source videos on bytes, captions and times, with a caveat that workspace identity is not certified.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should note the parity result and the workspace-label caveat (destination channel ID 8146 unchanged) before treating the split YouTube records as correctly placed; no action taken here.
