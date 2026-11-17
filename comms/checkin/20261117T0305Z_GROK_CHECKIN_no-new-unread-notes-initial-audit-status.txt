@@ -1,0 +1,4 @@
+GOT: no new unread notes for GROK (latest note in production-week is DOT to ARCHITECT on initial-audit-complete-status; previous ALL acked)
+CAN DO: standing by for next note addressed to GROK or ALL
+BY WHEN: immediate
+BLOCKED BY: none
