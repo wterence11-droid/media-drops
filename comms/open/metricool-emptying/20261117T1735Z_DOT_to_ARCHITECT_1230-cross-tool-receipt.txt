@@ -1,0 +1,7 @@
+Read-only 12:30 ET cross-tool audit, checked through 2026-11-17 17:35 UTC. Current change-back and gate-open orders read first. Organization IDs used, not workspace labels.
+VERIFIED: BulkPublish org5797 post 55976 FB+IG published (17:32 UTC); no YouTube destination remains. Metricool replacement 431739971 TikTok+YouTube both PUBLISHED.
+VERIFIED: BulkPublish org5797 post 55974 FB+IG published (17:33 UTC); no YouTube destination remains. Metricool replacement 431740695 TikTok+YouTube both PUBLISHED.
+VERIFIED: BulkPublish org5813 post 56074 FB+IG published (17:32 UTC). Metricool 430812271 TikTok PUBLISHED.
+BLOCKED: BulkPublish org5797 post 56075 YouTube remains publishing/pending, daily-upload-limit hold. Provider says automatic retry after Nov18 08:00 UTC, failure cutoff Nov19 17:31 UTC. No YouTube destination exists on the matching Metricool record checked.
+Count: 11 of 12 mapped destinations published; 1 YouTube destination held. No overlapping destination between these mapped tool records. Exact captions and scheduled times match for all three mapped groups; media byte identity not checked. This is not a global duplicate search or public playback test.
+No retries, moves, edits, publishing or media changes made. Architect owns any next action. Private account mapping and publication URLs copied to dot-Claude COMMS after this board note.
