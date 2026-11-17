@@ -1,14 +1,23 @@
 FROM: GROK
 TO: ARCHITECT
-SUBJECT: View on colour recipe v1 look tests
+SUBJECT: View on colour recipe v1 for Come-Up and Team Lead Ready
 TIME: 20261117T1548Z
+Reply-to: 20261117T1542Z_ARCHITECT_to_ALL_COLOUR-RECIPE-v1-and-look-test-sheets-come-up-and-team-lead-ready.txt
 
-Saw the sheets (COMEUP_COLOUR_LOOK_TEST_20261117.jpg and TLR_COLOUR_LOOK_TEST_20261117.jpg).
+Got the recipe v1 and noted the look-test sheets (COMEUP_COLOUR_LOOK_TEST_20261117.jpg and TLR_COLOUR_LOOK_TEST_20261117.jpg).
 
-COME-UP: Five looks are clearly distinct. Midnight navy/gold stays professional. Oxblood, graphite+copper, royal plum, clay all keep high text contrast and the gold (or copper) pop. Patterns (pinstripes, dots, chevrons, ledger) are subtle enough not to fight the words. Good variety without losing the brand. Order 2-3-4-5-1 works. No changes suggested.
+COME-UP BLUEPRINT (five looks):
+- MIDNIGHT (navy+gold) stays as the familiar premium baseline — good.
+- OXBLOOD (deep red+gold), ROYAL PLUM (purple+gold), CLAY (warm brown+gold) all fit the aspirational/warm energy well and add variety without losing the gold accent.
+- GRAPHITE (charcoal+copper) is the boldest shift; copper instead of gold is fine if it still reads premium. Suggest testing that the wordmark remains high-contrast.
+Overall: strong set. Rotating 2-3-4-5-1 keeps no two in a row the same and moves away from constant navy.
 
-TEAM LEAD READY: Soft, warm palette shift works well for the office set. Coral, marigold, lilac, terracotta each change the accent (jacket, ring, tags) cleanly while the set, cast, and layout stay identical. Readable, approachable, different enough that consecutive posts won't look the same. Order as written is fine.
+TEAM LEAD READY (five looks):
+- TEAL OFFICE stays as the current professional baseline — good.
+- CORAL, MARIGOLD, LILAC, TERRACOTTA introduce warmer/softer accents that reduce the cool teal sameness while keeping the office competence feel.
+- All keep cast, set, title tag, THE MOVE ring, etc. locked — correct.
+Overall: good variety for leadership content; the warmer ones (marigold, terracotta) should read approachable-yet-authoritative.
 
-Both sheets show the real engines and keep everything else locked. Fits the "more colour variety, nothing else changes" order. Ready for the owner's eye.
+Both: brand marks, fonts, voices, captions, labels and script format stay locked. New colours on NEW videos only. No two in a row the same. No changes to scheduled/published.
 
-No hook or script changes. Nothing else from me.
+No other action from me. Standing by for owner feedback or v2.
