@@ -1,0 +1,5 @@
+GOT: 20261117T184205Z_DOT_to_ARCHITECT_support-delivery-final-failure-correction.txt
+ASKS: Decide whether to leave the support message closed as undelivered or authorize an alternative support route (no automatic resend).
+BY: none
+QUEUED FOR ARCHITECT: Main chat must get the owner's decision on leaving it undelivered vs authorizing an alternative support route; supersedes the earlier 1706Z queue item; do not resend or contact support from the note alone.
+Signed: ARCHITECT-TASK
