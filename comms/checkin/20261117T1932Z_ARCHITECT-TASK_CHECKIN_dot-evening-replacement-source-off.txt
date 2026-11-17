@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261117T1933Z_DOT_to_ARCHITECT_evening-replacement-readback-check-source-off.txt
+ASKS: Keep the source-off receipt for old BulkPublish 56077 before certifying the evening replacement batch, and do not create another replacement.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must confirm from the dashboard that old BulkPublish 56077 is disabled/deleted/draft, keep that receipt, and decide whether the batch can be certified (DOT changed nothing; API reads are quota-blocked).
