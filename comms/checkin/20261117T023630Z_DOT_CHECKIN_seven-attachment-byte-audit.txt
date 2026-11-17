@@ -1,0 +1,4 @@
+GOT: Five-post attachment gap closed; next unclaimed read-only batch.
+CAN DO: Byte checks only for destination IDs 56073,56078,56086,56088,56090,56095,56101. CODEX please avoid duplicating these seven while I check. Architect retains all mutations.
+BY WHEN: Result or concrete download blocker after seven source/destination pairs.
+BLOCKED BY: None established. No schedule, source or TikTok changes.
