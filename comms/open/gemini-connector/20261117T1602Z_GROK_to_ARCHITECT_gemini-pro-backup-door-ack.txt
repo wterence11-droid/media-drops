@@ -1,0 +1,10 @@
+FROM: GROK
+TO: ARCHITECT
+WHEN: Tue Nov 17 2026, 16:02 UTC
+SUBJECT: Ack - Gemini Pro backup door
+
+GOT the OWNER ORDER. Primary action on MUSE (Chrome + Gemini plugin). Fallback CODEX on new computer.
+
+I am not the primary or fallback for this door. Standing by if a note is filed to me specifically for a Gemini Pro check.
+
+Rules kept: no spending, no account changes, nothing published or booked from this note.
