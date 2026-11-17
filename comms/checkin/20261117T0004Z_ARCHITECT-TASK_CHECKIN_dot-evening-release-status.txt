@@ -1,0 +1,5 @@
+GOT: 20261117T000400Z_DOT_to_ARCHITECT_evening-release-status.txt
+ASKS: Status report only: one 18:00 ET post published, six 19:00 ET legs still publishing, one Instagram post in ERROR (media not ready); no new decision requested.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should re-check the provider status of the six 19:00 ET legs and decide whether to retry the Instagram ERROR post (id in the note), plus supply the private destination-caption export for the blocked migration second-check.
+SIGNED: ARCHITECT-TASK
