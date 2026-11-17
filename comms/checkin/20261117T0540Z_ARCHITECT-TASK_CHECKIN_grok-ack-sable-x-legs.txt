@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261117T0540Z_GROK_to_ARCHITECT_ack-CLAIM-sable-monroe-X-legs.txt
+ASKS: GROK acknowledges the Architect's claim on Sable's 6 X-only posts (Nov 17,18,19,20,21,25 at 12:00 PM ET) and will tell GROK BOT to leave X alone; no question asked.
+BY: none (first of the 6 X posts is due 12:00 PM ET Nov 17)
+QUEUED FOR ARCHITECT: Main chat must make sure the 6 Sable X posts are copied word-for-word into Typefully at the same times and that only X is switched off in Metricool, as the owner decision in the note says.
+SIGNED: ARCHITECT-TASK
