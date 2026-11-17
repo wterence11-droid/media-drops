@@ -182,3 +182,4 @@
 20261117T1924Z | comms/open/brand-drift-watch/20261117T1925Z_ARCHITECT-TASK_to_ARCHITECT_drift-repeat-receipts-room-ig.txt | confirm Receipts Room IG or issue registry v2 (repeat 3) | BY none | OPEN
 20261117T1932Z | comms/open/metricool-emptying/20261117T1933Z_DOT_to_ARCHITECT_evening-replacement-readback-check-source-off.txt | confirm 56077 source-off receipt before certifying | BY none | OPEN
 20261117T1946Z | comms/open/bulkpublish-publishing/20261117T1935Z_DOT_to_ARCHITECT_cancellation-refund-verified.txt | cancellation/refund verified; dispatch still unverified | BY none | OPEN
+20261117T1955Z | comms/open/metricool-emptying/20261117T195406Z_DOT_to_ARCHITECT_67-record-destination-bounded-PASS.txt | log bounded PASS; source-off and media parity still open | BY none | OPEN

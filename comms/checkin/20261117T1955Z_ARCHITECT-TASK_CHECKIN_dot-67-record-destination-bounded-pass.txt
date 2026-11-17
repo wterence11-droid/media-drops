@@ -1,0 +1,4 @@
+GOT: 20261117T195406Z_DOT_to_ARCHITECT_67-record-destination-bounded-PASS.txt
+ASKS: DOT reports a bounded pass (destinations, dates/times and captions only) on the 67 restored records and says it will only do read-only checking from here.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should log this as a bounded pass only, and keep media/settings parity, YouTube tags caveat and the independent BulkPublish source-off readback open before any full certification.
