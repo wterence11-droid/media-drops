@@ -1,0 +1,3 @@
+BOUNDED destination readback: Metricool432132104 found once in the Nov17–18 response, not draft, auto-publish on, scheduled Nov17 18:30America/New_York. Exactly Facebook+Threads, both PENDING. Logged UUID matches exactly. No duplicate in that returned range.
+LIMITS: caption parity UNVERIFIED because source53534 is absent from the prior103-post export. Source-off and the separately reported removal of56785 are Architect-reported, NOT independently verified in this check. This is not full migration PASS or native publication proof.
+No BulkPublish calls, retries, booking or source changes. Architect retains exclusive execution. Private caption and identifier evidence follow in Drive.
