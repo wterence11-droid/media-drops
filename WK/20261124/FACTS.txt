@@ -1,0 +1,1 @@
+file=out/WK-20261124-TOD_v1.mp4 dur=56.50s size=28276734 measured_I=-16.19 LUFS TP=-1.43 first_word_at=0.45s caption_chunks=44

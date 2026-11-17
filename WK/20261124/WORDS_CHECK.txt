@@ -1,0 +1,17 @@
+WK-20261124-TOD v1 voice words check (faster-whisper small.en, each line transcribed alone)
+L1 MATCH first_word_start=0.00s dur=8.50s
+  want: a transfer on death deed names who gets your house when you die that house passes outside probate but there are three catches
+  heard: a transfer on death deed names who gets your house when you die that house passes outside probate but there are three catches
+L2 MATCH first_word_start=0.00s dur=11.42s
+  want: one it has to be recorded with the county before you die in texas and utah a signed deed that was never recorded does not work
+  heard: one it has to be recorded with the county before you die in texas and utah a signed deed that was never recorded does not work
+L3 DIFF first_word_start=0.00s dur=12.03s
+  want: two your debts can follow the house if your estate cannot pay what it owes the estate can go after that property utah allows twelve months to start hawaii allows eighteen
+  heard: 2 your debts can follow the house if your estate cannot pay what it owes the estate can go after that property utah allows 12 months to start hawaii allows 18
+L4 MATCH first_word_start=0.00s dur=9.24s
+  want: three in texas a will cannot change it to undo the deed you record a new one or a written cancellation before you die
+  heard: three in texas a will cannot change it to undo the deed you record a new one or a written cancellation before you die
+L5 MATCH first_word_start=0.00s dur=11.66s
+  want: so check three things is this deed allowed in your state is it recorded does it still name the right person this is general information not legal advice
+  heard: so check three things is this deed allowed in your state is it recorded does it still name the right person this is general information not legal advice
+total=56.50s
