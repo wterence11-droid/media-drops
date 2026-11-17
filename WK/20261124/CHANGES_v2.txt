@@ -1,0 +1,14 @@
+WK-20261124-TOD v2 changes (dot's three word fixes). Lines 2 and 5, title, chips, disclaimers, source plaque, footer unchanged.
+Picture fixes in v2: captions raised (bottom margin 300 -> 440 px); sources box text enlarged (30 -> 39 px) and moved up so captions do not collide.
+
+LINE 1 OLD: A transfer-on-death deed names who gets your house when you die. That house passes outside probate. But there are three catches.
+LINE 1 NEW: A valid transfer-on-death deed can pass your interest in a house to a beneficiary outside probate when you die. But there are three catches.
+
+LINE 3 OLD: Two. Your debts can follow the house. If your estate cannot pay what it owes, the estate can go after that property. Utah allows twelve months to start. Hawaii allows eighteen.
+LINE 3 NEW: Two. Debts can follow the house. If the probate estate cannot pay an allowed claim, it may seek payment from the transferred property. The proceeding must begin within twelve months after death in Utah, or eighteen months after death in Hawaii.
+
+LINE 4 OLD: Three. In Texas, a will cannot change it. To undo the deed, you record a new one, or a written cancellation, before you die.
+LINE 4 NEW: Three. In Texas, a will cannot revoke this deed. One way to revoke it is a properly acknowledged cancellation that expressly revokes it, recorded in the same county before death.
+
+Carousel v2: panel 2 (line 1), panel 4 (line 3), panel 5 (line 4) carry the new wording (leading 'Two.'/'Three.' omitted as in v1). Reel narration lines 1, 3, 4 re-voiced; lines 2 and 5 reused.
+Not booked, not published.

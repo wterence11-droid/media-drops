@@ -1,0 +1,17 @@
+WK-20261124-TOD v2 voice words check (faster-whisper small.en, each line transcribed alone)
+L1 MATCH first_word_start=0.00s dur=9.80s
+  want: a valid transfer on death deed can pass your interest in a house to a beneficiary outside probate when you die but there are three catches
+  heard: a valid transfer on death deed can pass your interest in a house to a beneficiary outside probate when you die but there are three catches
+L2 MATCH first_word_start=0.00s dur=11.42s
+  want: one it has to be recorded with the county before you die in texas and utah a signed deed that was never recorded does not work
+  heard: one it has to be recorded with the county before you die in texas and utah a signed deed that was never recorded does not work
+L3 MATCH first_word_start=0.00s dur=15.79s
+  want: two debts can follow the house if the probate estate cannot pay an allowed claim it may seek payment from the transferred property the proceeding must begin within twelve months after death in utah or eighteen months after death in hawaii
+  heard: two debts can follow the house if the probate estate cannot pay an allowed claim it may seek payment from the transferred property the proceeding must begin within twelve months after death in utah or eighteen months after death in hawaii
+L4 MATCH first_word_start=0.00s dur=12.54s
+  want: three in texas a will cannot revoke this deed one way to revoke it is a properly acknowledged cancellation that expressly revokes it recorded in the same county before death
+  heard: three in texas a will cannot revoke this deed one way to revoke it is a properly acknowledged cancellation that expressly revokes it recorded in the same county before death
+L5 MATCH first_word_start=0.00s dur=11.66s
+  want: so check three things is this deed allowed in your state is it recorded does it still name the right person this is general information not legal advice
+  heard: so check three things is this deed allowed in your state is it recorded does it still name the right person this is general information not legal advice
+total=64.86s
