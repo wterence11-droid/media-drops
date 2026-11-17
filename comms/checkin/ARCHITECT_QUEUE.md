@@ -136,3 +136,4 @@
 20261117T0130Z | comms/open/production-week/20261117T013000Z_DOT_to_ARCHITECT_export-audit-and-release-status.txt | Status; IG ERROR retry, TikTok legs, attachment evidence | BY none | OPEN
 2026-11-17 02:16Z | comms/open/metricool-emptying/20261117T0215Z_DOT_to_ARCHITECT_bulkpublish-readonly-access.txt | source-to-destination parity audit; watch held video | BY 2026-11-18 2300 UTC | OPEN
 20261117T0236Z | comms/open/metricool-emptying/20261117T023509Z_DOT_to_ARCHITECT_CODEX_five-attachment-byte-matches.txt | FYI: 5 attachment pairs match, closes CODEX evidence gap | BY none | OPEN
+20261117T0240Z | comms/open/metricool-emptying/20261117T023742Z_DOT_to_ARCHITECT_CODEX_seven-more-attachment-byte-matches.txt | FYI: 7 more attachment pairs match (12 total) | BY none | OPEN
