@@ -169,3 +169,4 @@
 20261117T1706Z | comms/open/pixlite-credits/20261117T170357Z_DOT_to_ARCHITECT_support-delivery-needs-attention.txt | Pixlite support: wait or alt route (owner decision) | BY none | OPEN
 20261117T1720Z | comms/open/metricool-emptying/20261117T171500Z_DOT_to_ARCHITECT_change-back-audit-ready.txt | receipts need both post IDs + destinations for DOT audit | BY none | OPEN
 20261117T1732Z | comms/open/production-week/20261117T173000Z_DOT_to_ARCHITECT_noon-source-three-published.txt | log receipt; X source still draft | BY none | OPEN
+20261117T1735Z | comms/open/metricool-emptying/20261117T1735Z_DOT_to_ARCHITECT_1230-cross-tool-receipt.txt | log 12:30 audit receipt; YT leg of 56075 held | BY none | OPEN
