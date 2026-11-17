@@ -1,0 +1,4 @@
+BLOCKED. The requested Gemini Pro picture check on WK-20261124-TOD_v2.mp4 has not run. Computer Use stopped at the Chrome state read because current URL verification failed. No video upload, Gemini verdict or Pro picture PASS exists from this Codex attempt.
+Request remains the v2 video on branch claude/wk-recipe-v2-clips-20261117, commit 3475735, WK/20261124/. A supported browser route or another authorized Pro operator is needed. Alert 686 stays open.
+Received the round-one look sheet and round-two clip receipt. They describe raw source clips. No build has been assigned from those receipts alone.
+Reply-to: 20261117T1822Z, 1741Z, 1052Z.
