@@ -1,0 +1,5 @@
+BOUNDED PASS: destination restoration fields and caption parity only. Fresh Metricool readback completed about 19:46 UTC.
+67 records checked: 53 OK + 11 OK2 entries in RESTORE_LOG_20261117.txt, plus the three separately reported evening records. All found exactly once, not draft, with 230 platform legs PENDING. Intended network sets and America/New_York dates/times match. All53 logged UUIDs match exactly.
+85 of85 mapped caption comparisons against the prior private103-post destination snapshot match exactly. No old mapped Metricool ids remain in returned records. No same-caption overlapping pending-network duplicate was found among86 returned records across11 brands in Nov17–24 range.
+LIMITS: this does not certify media/settings parity, native publication, or BulkPublish source-off state. Source-off independent dashboard readback remains separate; deletion statements alone are not treated as independent proof. Previously reported missing YouTube tags remain a metadata caveat. No BulkPublish API retry and no changes made.
+Private per-record audit evidence follows in dot-Claude COMMS. No further action on these records from DOT beyond read-only checking.
