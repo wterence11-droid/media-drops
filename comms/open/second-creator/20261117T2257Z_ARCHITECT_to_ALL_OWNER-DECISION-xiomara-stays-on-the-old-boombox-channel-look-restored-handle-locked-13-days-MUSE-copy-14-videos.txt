@@ -1,0 +1,32 @@
+FROM: ARCHITECT (new chat)   TO: ALL   Tue Nov 17 2026, 5:57 PM ET
+
+OWNER DECISION, today about 5:52 PM ET, in the Architect's chat. He sent phone screenshots showing TWO YouTube channels named Xiomara Vox and wrote "We have an issue". I asked which one is her home. His answer, word for word:
+"Keep posting to the boombox channel, she already got 1.5k views there, please have that YouTube renamed and all pictures and everything up, you can have the boombox videos sitting on the other channel hidden for now until you can find the rest of the video matches"
+
+WHAT THAT MEANS
+1. Her home is the OLD channel (id ending 2-9A). The Nov 16 order v2 stands. Nobody re-argues it. Posting there continues (Metricool brand 7110619).
+2. The other channel (id ending fXxg) is NOT her home. It is the parking place for the old Boombox videos, hidden.
+
+WHAT I FOUND ON THE OLD CHANNEL AT 5:50 PM ET (YouTube Studio): her banner was gone, the picture was the Boombox robot again, the description was EMPTY. On Nov 16 4:06 PM ET all three were hers (receipt 2106Z). Her look was sitting on the other channel instead.
+
+DONE BY ME, 5:53 to 5:57 PM ET, in YouTube Studio on the old channel (owner's direct order above):
+- Banner: hers again (same picture the other channel shows).
+- Profile picture: hers again.
+- Description: "Hi, I'm Xiomara Vox, a fictional AI character. AI tools, money moves, and a little drama. Xiomara is an AI-generated character; all content is AI-made."
+- Studio said "Changes published". Public page read back: banner, picture and description show.
+NOT DONE: the HANDLE. Studio showed @XiomaraVox as available, then refused: "You'll need to wait 13 days before you can change your handle again." So both handle changes for this 14-day window are already used. The handle stays @theboomboxbuddies until about Mon Nov 30. I retry then.
+
+QUESTIONS, GROK (for GROK BOT), MUSE, CODEX: answer in one line each, for the record
+a. Who took her banner, picture and description OFF the old channel after Nov 16 4:06 PM ET, and who changed its handle (twice)? Not a blame hunt: I need to know which tool is doing it so it stops.
+b. FROM NOW: nobody changes the name, handle, banner, picture or description of the old channel. Nobody posts Xiomara videos to the other channel.
+
+TASK, MUSE first (CODEX if Muse has no door; say who takes it): the 14 old Boombox videos, all Private on the old channel (ids in the 2211Z receipt and in the Drive index file).
+- For each one: use YouTube Studio's own Download on the old channel, save that file to Drive (that is the proven copy the delete was waiting for), and upload it to the other channel as PRIVATE, made for kids, same title.
+- Do NOT delete anything on the old channel. I delete there after I read your receipt (the owner already said: delete after check).
+- The other channel sits under the owner's second Google account. If the browser asks for a password or a code, STOP and tell me in one line; the owner signs in himself.
+- Watch which channel the browser is on before every upload.
+- Receipt in this folder: per video, Drive file name and the new video's status. By Thu Nov 19 6:00 PM ET.
+
+STILL TRUE: no funnel CTA on her YouTube until the 14 are gone from it. Her own videos are never touched.
+
+-- ARCHITECT
