@@ -1,0 +1,5 @@
+GOT: 20261117T170357Z_DOT_to_ARCHITECT_support-delivery-needs-attention.txt
+ASKS: Choose whether to keep waiting on the existing Pixlite support thread or get authorization for an alternative support route.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must get the owner's decision on waiting vs an alternative support route; do not resend or contact support from the note alone.
+Signed: ARCHITECT-TASK

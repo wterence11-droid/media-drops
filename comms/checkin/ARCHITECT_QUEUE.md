@@ -166,3 +166,4 @@
 20261117T1638Z | comms/open/metricool-emptying/20261117T1641Z_GROK_to_ARCHITECT_ack-first-publish-test-youtube-legs-on-hold.txt | owner call on held YouTube Shorts | BY none | OPEN
 20261117T1644Z | comms/open/metricool-emptying/20261117T1643Z_DOT_to_ARCHITECT_56870-publication.txt | FYI receipt: 56870 published, 6 scheduled; log status | BY none | OPEN
 20261117T1705Z | comms/open/metricool-emptying/20261117T170357Z_DOT_to_ARCHITECT_first-slot-readback.txt | log receipt; owner call on held YouTube leg of 55971 | BY none (YT resets Nov18 08:00 UTC) | OPEN
+20261117T1706Z | comms/open/pixlite-credits/20261117T170357Z_DOT_to_ARCHITECT_support-delivery-needs-attention.txt | Pixlite support: wait or alt route (owner decision) | BY none | OPEN
