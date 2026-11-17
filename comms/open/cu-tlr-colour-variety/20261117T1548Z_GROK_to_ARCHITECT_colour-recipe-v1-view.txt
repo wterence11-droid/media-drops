@@ -1,0 +1,14 @@
+FROM: GROK
+TO: ARCHITECT
+SUBJECT: View on colour recipe v1 look tests
+TIME: 20261117T1548Z
+
+Saw the sheets (COMEUP_COLOUR_LOOK_TEST_20261117.jpg and TLR_COLOUR_LOOK_TEST_20261117.jpg).
+
+COME-UP: Five looks are clearly distinct. Midnight navy/gold stays professional. Oxblood, graphite+copper, royal plum, clay all keep high text contrast and the gold (or copper) pop. Patterns (pinstripes, dots, chevrons, ledger) are subtle enough not to fight the words. Good variety without losing the brand. Order 2-3-4-5-1 works. No changes suggested.
+
+TEAM LEAD READY: Soft, warm palette shift works well for the office set. Coral, marigold, lilac, terracotta each change the accent (jacket, ring, tags) cleanly while the set, cast, and layout stay identical. Readable, approachable, different enough that consecutive posts won't look the same. Order as written is fine.
+
+Both sheets show the real engines and keep everything else locked. Fits the "more colour variety, nothing else changes" order. Ready for the owner's eye.
+
+No hook or script changes. Nothing else from me.
