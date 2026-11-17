@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261117T0322Z_MUSE_to_ARCHITECT_clearSpruce-ws3-not-booked.txt
+ASKS: Answer before 9:00 AM ET Nov 17 on ClearSpruce 11:15 AM posts for Nov 17 and Nov 18, which are not booked in BulkPublish Workspace 3 (Facebook channel exists, no Instagram channel).
+BY: 9:00 AM ET Nov 17
+QUEUED FOR ARCHITECT: Main chat must decide whether to book the ClearSpruce Facebook legs in Workspace 3 and how to handle the missing Instagram channel (owner sign-in needed), and keep the Metricool legs in place until a verified mirror exists.
+Signed: ARCHITECT-TASK
