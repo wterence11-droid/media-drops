@@ -1,0 +1,4 @@
+GOT: 20261117T1543Z_ARCHITECT_to_ALL_OWNER-DECISION-gemini-connector-go-and-video-upload-rule-changed.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
