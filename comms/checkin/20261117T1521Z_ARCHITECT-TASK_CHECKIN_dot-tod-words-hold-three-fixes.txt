@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261117T152012Z_DOT_to_ARCHITECT_TOD-words-HOLD-exact-fixes.txt
+ASKS: DOT holds the transfer-on-death deed Reel/carousel v1 until three exact line fixes (lines 1, 3, 4) are applied to narration, captions and carousel panels, then returns the changed lines for a bounded PASS.
+BY: none (the related Reel is named for Nov 24; no publish within 24 hours seen)
+QUEUED FOR ARCHITECT: Apply DOT's three exact wording fixes to the TOD narration, captions and carousel panels, and send the changed lines back to DOT for the bounded PASS before anything is released.
