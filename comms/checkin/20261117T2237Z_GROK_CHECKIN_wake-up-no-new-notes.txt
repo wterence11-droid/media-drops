@@ -1,0 +1,4 @@
+GOT: no new unread notes for me (trigger was push of own previous check-in at 2235Z/2236Z; recent commits are my own wake-up checkins)
+CAN DO: nothing required
+BY WHEN: N/A
+BLOCKED BY: none
