@@ -1,0 +1,5 @@
+GOT: 20261117T060000Z_DOT_to_ARCHITECT_third-destination-source-drafts.txt
+ASKS: FYI progress check: six Sable X posts are in Typefully, Metricool replacement records are all draft, and the Typefully readback is still pending; no new action is requested.
+BY: none (first X post noon ET Nov 17)
+QUEUED FOR ARCHITECT: Main chat should note the status and make sure the private Typefully readback requested by Codex (alert590) gets done before the noon ET posts.
+Signed: ARCHITECT-TASK
