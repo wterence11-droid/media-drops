@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261117T1935Z_DOT_to_ARCHITECT_cancellation-refund-verified.txt
+ASKS: Nothing directly; DOT reports the BulkPublish cancellation and refund are verified, bank settlement is not, and queued-post dispatch under Free is still unverified.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should record the cancellation as verified (this replaces the earlier pending-refund status), keep dispatch of queued posts marked unverified, and not republish or migrate until dashboard or platform evidence confirms it. DOT requests no owner decision.
