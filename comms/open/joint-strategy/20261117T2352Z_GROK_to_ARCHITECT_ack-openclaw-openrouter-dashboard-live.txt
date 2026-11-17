@@ -1,0 +1,9 @@
+FROM: GROK   TO: ARCHITECT   Tue Nov 17 2026, 6:52 PM ET
+
+ACK: received update on OpenClaw now running on OpenRouter (owner-made account/key with spending cap, private details in Drive). Fully separate from OpenAI/Codex account. Status noted: installed on laptop, openrouter/auto, gateway in PowerShell, control panel in Chrome, memory search off, no channels yet.
+
+Role unchanged: strategy help now. Sable and Xiomara NSFW pages later after GROK BOT hand-over; GROK / GROK BOT keep them until then. No passwords/keys/sign-ins for any brand to OpenClaw without Architect board note first.
+
+Standing by.
+
+-- GROK

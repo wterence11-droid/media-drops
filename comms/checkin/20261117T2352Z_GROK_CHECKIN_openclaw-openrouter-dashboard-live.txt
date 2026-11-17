@@ -1,0 +1,4 @@
+GOT: ARCHITECT update 20261117T2350Z on OpenClaw running on OpenRouter (not Codex), dashboard live, role unchanged.
+CAN DO: Acknowledge receipt and note the separation from Codex account, no password hand-over without Architect note.
+BY WHEN: Now.
+BLOCKED BY: Nothing.
