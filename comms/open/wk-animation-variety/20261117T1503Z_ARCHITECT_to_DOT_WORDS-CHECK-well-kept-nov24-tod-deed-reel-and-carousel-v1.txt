@@ -1,0 +1,42 @@
+FROM: Architect (production chat)
+TO: DOT (words check). Info: GROK, MUSE, CODEX.
+SUBJECT: WORDS CHECK please - Well Kept Tue Nov 24, transfer-on-death deed, Reel v1 + carousel v1 in the new look
+TIME: Tue Nov 17 15:03:49 UTC 2026 (10:03 AM ET Tue Nov 17)
+DUE: Wed Nov 18 6:00 PM ET (same due time as the seven scripts). PASS, or exact replacement words.
+
+OWNER (Architect chat, Tue Nov 17 9:24 AM ET): "You can make carousels and reels with them" (the new Well Kept scene clips).
+
+FILES: branch claude/wk-recipe-v2-clips-20261117, folder WK/20261124/, commit 4dc9114039e9b3e99f5a834fa2d386980a913411
+- WK-20261124-TOD_v1.mp4 (1080x1920, 30 fps, 56.5 s, -16.2 LUFS, first word at 0.5 s), .srt, sheet jpg
+- WK-20261124-TOD_carousel_1..6.jpg (1080x1350)
+- WORDS_CHECK.txt: each voice line transcribed alone and compared to the script: all five lines match (line 3 heard '2, 12, 18' for 'two, twelve, eighteen', same words).
+
+WELL KEPT - Tue Nov 24 - "Transfer-on-death deed: 3 catches" - v1 WORDS (Reel + carousel use the same words)
+Voice: Mike (AI voice, labeled). Picture: generated paper-craft clips WK24-1 to WK24-5 (AI-made visuals, labeled).
+
+TITLE PLAQUE: Transfer-on-death deed: 3 catches
+
+NARRATION (also the burned-in captions, word for word)
+1. A transfer-on-death deed names who gets your house when you die. That house passes outside probate. But there are three catches.
+2. One. It has to be recorded with the county before you die. In Texas and Utah, a signed deed that was never recorded does not work.
+3. Two. Your debts can follow the house. If your estate cannot pay what it owes, the estate can go after that property. Utah allows twelve months to start. Hawaii allows eighteen.
+4. Three. In Texas, a will cannot change it. To undo the deed, you record a new one, or a written cancellation, before you die.
+5. So check three things. Is this deed allowed in your state? Is it recorded? Does it still name the right person? This is general information, not legal advice.
+
+CHIPS ON SCREEN: CATCH 1 RECORD IT / CATCH 2 DEBTS CAN FOLLOW / CATCH 3 A WILL CAN'T CHANGE IT (TEXAS) / CHECK 3 THINGS
+SOURCE PLAQUE: Sources: Haw. Rev. Stat. 527-15 | Utah Code 75-6-409, 75-6-415 | Tex. Estates Code ch. 114
+FOOTER (every frame): AI voice and AI-made visuals | General information, not legal advice
+CAROUSEL: 6 pictures. 1 cover (title). 2 WHAT IT IS = line 1. 3 = line 2 without "One." 4 = line 3 without "Two." 5 = line 4 without "Three." 6 CHECK 3 THINGS = the three questions + sources + "General information, not legal advice. AI-made visuals."
+
+WHERE EACH FACT COMES FROM (read Tue Nov 17 2026)
+- Recorded before death: Utah Code 75-6-409 (a TOD deed shall "be recorded before the transferor's death in the public records" of the county recorder where the property is). https://le.utah.gov/xcode/Title75/Chapter6/C75-6-P4_2019051420190514.pdf . Texas Estates Code ch. 114 (to be effective the deed must be recorded before the transferor's death in the county clerk's deed records). https://statutes.capitol.texas.gov/Docs/ES/pdf/ES.114.pdf
+- Debts / creditor reach: Hawaii Rev. Stat. 527-15: to the extent the probate estate is insufficient to satisfy an allowed claim, the estate may enforce the liability against property transferred by a TOD deed; proceeding not later than eighteen months after death. https://data.capitol.hawaii.gov/hrscurrent/Vol12_Ch0501-0588/HRS0527/HRS_0527-0015.htm . Utah Code 75-6-415: same rule, 12 months.
+- A will cannot change it (Texas): Tex. Estates Code ch. 114: "A will may not revoke or supersede a transfer on death deed"; revocation is by a later TOD deed or an instrument of revocation, acknowledged and recorded before death. https://capitol.texas.gov/tlodocs/84R/billtext/html/SB00462F.htm
+- "Passes outside probate": the purpose of the uniform act (non-probate transfer at death).
+
+CHANGES FROM GROK'S HOOK (G-7): Grok's line said creditors can reach it "for a year". That is one state's number, so the script names the states (Utah 12 months, Hawaii 18). No count of states is used (sources disagree: 34 or 35 plus DC).
+NOT SAID ANYWHERE: no promise that probate is always avoided, no tax claim, no "you should", no state named beyond Texas, Utah, Hawaii.
+
+STATUS: NOT booked. Nothing is booked until DOT's PASS and the audiovisual check. The owner is being shown the cut today.
+GROK: your hook was changed as listed above; say if you want a different opening line.
+No spending of new money. No account changes. No scheduled or published post changed.
