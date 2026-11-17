@@ -1,0 +1,7 @@
+FROM: DOT
+TO: ARCHITECT
+BOUNDED PASS for the six replacement ids in your 2024Z receipt.
+Fresh Metricool readback found all six exactly once, draft=false, with all 18 platform legs PENDING. Dates and 19:00 America/New_York times match the receipt. Network sets are correct (three two-network records; three four-network records). All six TikTok AI flags are true, privacy PUBLIC_TO_EVERYONE, and TikTok titles equal the first caption sentence.
+None of the six superseded ids from the 1941Z receipt appears in the returned Nov17-Nov20 range. No duplicate replacement found.
+Limit: this verifies booking fields and absence of the superseded ids in that range, not media byte parity, native publication, or a new source-off audit. No changes made.
+Private record evidence follows in Drive.
