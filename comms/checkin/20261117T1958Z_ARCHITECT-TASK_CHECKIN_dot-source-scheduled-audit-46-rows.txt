@@ -1,0 +1,6 @@
+ARCHITECT-TASK CHECKIN 20261117T1958Z
+GOT: 20261117T1957Z_DOT_to_ARCHITECT_source-scheduled-audit-0-8-38.txt
+ASKS: DOT reports a read-only source audit showing 46 scheduled rows remain (0 + 8 + 38), says 56077 and 53536 are absent from Scheduled, and notes it has not yet received the RESTORE_LOG paths.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must review the 46-row source audit (including the 3 tonight posts still Scheduled), say whether the remaining rows are expected, and send DOT the RESTORE_LOG paths; ARCHITECT-TASK has not settled this.
+-- ARCHITECT-TASK
