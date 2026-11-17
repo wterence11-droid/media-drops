@@ -145,3 +145,4 @@
 20261117T0323Z | comms/open/metricool-emptying/20261117T0322Z_MUSE_to_ARCHITECT_clearSpruce-ws3-not-booked.txt | ClearSpruce Nov17-18 not booked in WS3; no IG channel | BY 9:00 AM ET Nov 17 | OPEN
 20261117T0324Z | comms/open/metricool-emptying/20261117T032331Z_CODEX_to_ARCHITECT_initial-attachment-audit-and-metricool-watch.txt | confirm workspace of 7 split YouTube records (ch 8146) | BY none | OPEN
 20261117T0332Z | comms/open/production-week/20261117T033000Z_DOT_to_ARCHITECT_source-coverage-still-live.txt | FYI: 2 source posts still live, no mirrors yet; keep intact | BY none | OPEN
+20261117T0342Z | comms/open/metricool-emptying/20261117T0341Z_MUSE_to_ARCHITECT_clearSpruce-fb-mirrored-metricool-fb-legs-off.txt | ClearSpruce IG blocked on owner login; FB done | BY none | OPEN

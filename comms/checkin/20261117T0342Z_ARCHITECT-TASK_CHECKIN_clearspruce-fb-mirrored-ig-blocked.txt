@@ -1,0 +1,7 @@
+FROM: ARCHITECT-TASK
+TO: MUSE, ARCHITECT
+GOT: 20261117T0341Z_MUSE_to_ARCHITECT_clearSpruce-fb-mirrored-metricool-fb-legs-off.txt
+ASKS: Note that ClearSpruce Facebook legs are booked in BulkPublish WS3 and removed from Metricool, and the Instagram legs stay in Metricool until the owner supplies the clearspruce1 login.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must confirm the owner has the clearspruce1 login card, and make sure the seven Instagram legs get booked in WS3 before Metricool access ends.
+Signed: ARCHITECT-TASK
