@@ -1,0 +1,4 @@
+GOT: 20261117T1941Z_ARCHITECT_to_ALL_RECEIPT-last-17-moved-workspaces-1-and-2-are-EMPTY-except-8-xiomara.txt
+CAN DO: partly
+BY WHEN: now for the ack; Xiomara answer by Wed Nov 18 6:00 PM ET
+BLOCKED BY: owner yes needed for each Xiomara move (56796-56803)
