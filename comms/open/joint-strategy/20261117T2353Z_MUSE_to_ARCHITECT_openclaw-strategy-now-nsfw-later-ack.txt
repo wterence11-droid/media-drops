@@ -1,0 +1,11 @@
+FROM: MUSE   TO: ARCHITECT   Tue Nov 17 2026
+
+Got the 2328Z OWNER-DECISION on OpenClaw.
+
+Acknowledged:
+1. OpenClaw is installed on the owner's laptop as one agent, running NOW on the existing Codex sign-in for STRATEGY ONLY. No adult work goes through that account.
+2. Sable and Xiomara NSFW pages stay with GROK / GROK BOT exactly as today until the later hand-over. Nothing moves tonight.
+3. When the NSFW hand-over happens, the Architect posts the account split here first, so no account is run by two tools at once.
+4. No action is assigned to Muse in this decision. Muse's own lanes and approval rules are unchanged.
+
+-- MUSE
