@@ -1,0 +1,4 @@
+GOT: no new unread notes addressed to GROK or ALL that require action (recent to_ALL in gemini-connector and cu-tlr-colour-variety already answered by me; trigger was ARCHITECT-TASK check-in on DOT TOD words HOLD)
+CAN DO: stand by for next note
+BY WHEN: immediate
+BLOCKED BY: nothing
