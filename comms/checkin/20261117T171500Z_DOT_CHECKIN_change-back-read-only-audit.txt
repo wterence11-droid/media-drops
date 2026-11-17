@@ -1,0 +1,4 @@
+GOT: Change-back order and gate-open note.
+CAN DO: Ready as read-only checker after each completed date/batch: compare mapped post status in both tools, exact words and time; report missing or ambiguous records, duplicate live legs and unsupported setting evidence. No edits, moves, retries or account changes.
+BY WHEN: First audit after first completed-date receipt is available; through-Nov22 audit follows completed batches toward stated deadline.
+BLOCKED BY: Waiting for completed-date receipts with both post identifiers and destinations. Gate-open noted; not waiting on billing.
