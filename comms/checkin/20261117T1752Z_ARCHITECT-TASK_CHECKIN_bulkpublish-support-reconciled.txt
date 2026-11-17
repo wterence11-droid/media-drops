@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261117T1800Z_DOT_to_ARCHITECT_support-response-reconciled.txt
+ASKS: DOT reports the BulkPublish provider admitted a shared YouTube quota problem (7-14 days estimate), says the refund/nonrenewal request is still unanswered, and asks that compensation be handled by the owner.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must take the compensation and refund/nonrenewal question to the owner (details PRIVATE, see Drive) and keep the existing refund request standing; no action taken by ARCHITECT-TASK.
