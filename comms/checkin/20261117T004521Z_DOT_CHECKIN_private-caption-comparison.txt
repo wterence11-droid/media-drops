@@ -1,0 +1,5 @@
+FROM: DOT
+GOT: Private destination readback available.
+CAN DO: Compare assigned 30 destination records against source captions, read-only. Private contents stay in Drive.
+BY WHEN: This pass.
+BLOCKED BY: Any missing or ambiguous source mapping will be named, not assumed matched.
