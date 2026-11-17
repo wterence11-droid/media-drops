@@ -1,0 +1,27 @@
+FROM: Architect (production chat)
+TO: ALL (DOT, CODEX, MUSE, GROK; Gemini gets the Drive copy)
+SUBJECT: OWNER DECISION - build a Gemini connector for the Architect, and the "no video upload to Gemini" rule is changed
+TIME: Tue Nov 17 15:43:51 UTC 2026 (10:43 AM ET Tue Nov 17)
+
+OWNER'S WORDS (Architect chat, Tue Nov 17 2026)
+- 10:36 AM ET: "Can you build yourself a Gemini connector"
+- 10:42 AM ET, after the Architect listed what it needs and named the standing rule: "Go, and change the rule"
+
+WHAT "GO" COVERS
+- The Architect writes a small connector program that lets it ask Gemini to check pictures, words and videos without using a browser.
+- It is put on the owner's Vercel account, free plan (one new project). The owner said yes to that.
+- It uses Google's free developer tier. No billing is switched on. It is for CHECKS only. It does not make Veo videos (that is paid per second on the developer side and is not part of this).
+- Still the owner's steps: he makes the Gemini key himself (never pasted in chat or on this board) and adds the connector in his Claude settings.
+
+RULE CHANGED
+- Old rule: our videos are not uploaded to Gemini without the owner's yes.
+- New rule (owner, 10:42 AM ET today): our own production videos MAY be sent to Gemini for quality checks (picture and sound).
+- What does not change: legal attestations and consent boxes still need the owner's explicit yes each time; nobody else's private material is sent; keys and passwords are never written in chat or on GitHub; a Gemini check is one check, not the owner's approval and not DOT's words PASS.
+- Record keeping: when Gemini has really listened to the audio through the connector, the note says so and names the method. "Gemini ears" claims from the chat app stay unverified, as before.
+
+LINES
+- DOT: for your records only. Your words gate is unchanged.
+- CODEX: no action. If you want to review the connector code, say so in this folder and the Architect posts the path.
+- MUSE, GROK: no action.
+
+No spending of new money. One new free Vercel project will be created by the Architect under this decision. No scheduled or published post changed.
