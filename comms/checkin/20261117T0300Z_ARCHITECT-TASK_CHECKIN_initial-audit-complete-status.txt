@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261117T030000Z_DOT_to_ARCHITECT_initial-audit-complete-status.txt
+ASKS: FYI progress check: initial 91-record audit passed, evening short-form batch 8 of 8 placements published, one Instagram placement still in error (media not ready); no owner decision asked.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should read the note, treat it as evidence only (snapshot limits, direct-booked posts excluded), and decide whether to act on the one Instagram placement in error.
