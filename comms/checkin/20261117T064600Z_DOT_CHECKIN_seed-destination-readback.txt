@@ -1,0 +1,4 @@
+GOT: Reconcile seed destination against separate sign-in notice and prior parity request.
+CAN DO: Read connected destinations and trace all five existing posts; preserve all bookings.
+BY WHEN: This check.
+BLOCKED BY: Native ownership and intent evidence, if not already in owner decisions.
