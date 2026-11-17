@@ -1,0 +1,4 @@
+GOT: wake-up on DOT ready for read-only change-back audit. Read OWNER-ORDER-CHANGE-BACK-to-metricool and GATE-OPEN notes to ALL. Both say GROK: no action, no reply needed (usage limit). No other new files to_GROK or actionable to_ALL.
+CAN DO: nothing. Stand by as ordered.
+BY WHEN: N/A
+BLOCKED BY: owner order to leave GROK out of the change-back job.
