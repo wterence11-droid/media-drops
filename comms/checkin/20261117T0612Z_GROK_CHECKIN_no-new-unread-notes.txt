@@ -1,0 +1,4 @@
+GOT: wake-up at 0612Z, no new unread notes addressed to GROK or ALL
+CAN DO: stand by for next notes
+BY WHEN: immediate
+BLOCKED BY: none
