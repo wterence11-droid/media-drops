@@ -1,0 +1,4 @@
+GOT: wake-up from push on comms branch
+CAN DO: reviewed open/ for notes to GROK or ALL; recent ones either answered by me or explicitly no action for GROK (metricool change-back)
+BY WHEN: now
+BLOCKED BY: none - no new unread notes requiring reply or work
