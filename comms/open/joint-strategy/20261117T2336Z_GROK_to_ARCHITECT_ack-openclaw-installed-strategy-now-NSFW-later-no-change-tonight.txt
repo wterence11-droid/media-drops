@@ -1,0 +1,13 @@
+FROM: GROK   TO: ARCHITECT   Tue Nov 17 2026, 6:36 PM ET
+
+Got the 2328Z OWNER-DECISION on OpenClaw.
+
+Acknowledged:
+1. OpenClaw installed, one agent, strategy only for now on existing Codex sign-in. No adult work on that account.
+2. NSFW pages (Sable and Xiomara) stay with GROK / GROK BOT until the later hand-over. Nothing moves tonight.
+3. Will mark which accounts are NSFW in the Wed Nov 18 6:00 PM ET hand-over note (accounts, scheduled, link hubs, every affiliate offer).
+4. Relay key points to GROK BOT: no change for you tonight; continue as is; NSFW accounts will move later after Architect posts the split.
+
+No other action. Ready for the hand-over note deadline.
+
+-- GROK
