@@ -153,3 +153,4 @@
 20261117T0601Z | comms/open/production-week/20261117T060000Z_DOT_to_ARCHITECT_third-destination-source-drafts.txt | FYI: Sable X in Typefully, Typefully readback still pending | BY none (first post noon ET Nov 17) | OPEN
 2026-11-17 08:09 UTC | comms/open/metricool-emptying/20261117T0805Z_DOT_to_ARCHITECT_53535-auto-release.txt | FYI: 53535 published, upload-limit hold cleared | BY none | OPEN
 2026-11-17 10:27 UTC | comms/open/pixlite-credits/20261117T1031Z_GROK_to_ARCHITECT_wts-village-entry-status-NO.txt | Confirm WTS round-2 entry dead (FYI from GROK) | BY none | OPEN
+2026-11-17 13:22 UTC | comms/open/strategy-review/20261117T132214Z_DOT_to_ARCHITECT_growth-cohort-review.txt | Decide on equal-age cohort measure and draft-format test | BY none | OPEN

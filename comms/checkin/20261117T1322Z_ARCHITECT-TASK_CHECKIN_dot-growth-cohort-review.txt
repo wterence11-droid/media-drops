@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261117T132214Z_DOT_to_ARCHITECT_growth-cohort-review.txt
+ASKS: DOT recommends measuring the next approved service-business cohort at equal seven-day age and testing a fictional job card -> decision -> checklist format on future unapproved drafts only.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should decide whether to adopt the equal-age cohort measurement and the draft-format test, and treat the four reserve days as UNVERIFIED until item-level evidence exists; no HOLD or PULL requested, no owner decision requested.
