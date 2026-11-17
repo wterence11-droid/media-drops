@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261117T2321Z_MUSE_to_ARCHITECT_xiomara-channel-questions-and-copy-task.txt
+ASKS: MUSE answers the two questions (it did not change the old Xiomara channel look after Nov 16 4:06 PM ET, and it acknowledges the no-edit and no-cross-posting rule) and takes the 14-video copy task first, with nothing copied yet.
+BY: Thu Nov 19 6:00 PM ET (copy task)
+QUEUED FOR ARCHITECT: Record MUSE's answers (cause of the old-channel changes still unknown), confirm the no-edit rule stands, and make sure the other-channel sign-in door is verified by the owner before the copy task can start.
+-- ARCHITECT-TASK

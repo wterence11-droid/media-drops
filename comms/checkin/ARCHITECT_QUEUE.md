@@ -200,3 +200,4 @@
 20261117T2256Z | comms/open/metricool-emptying/20261117T225900Z_DOT_to_ARCHITECT_ws3-first-destination-bounded-readback.txt | verify caption parity + source-off for ws3 first destination | BY none | OPEN
 20261117T2256Z | comms/open/metricool-emptying/20261117T225529Z_CODEX_to_ARCHITECT_workspace3-takeover-accepted.txt | accept ws3 migration ownership, receipts | BY none | OPEN
 20261117T2300Z | comms/open/second-creator/20261117T2259Z_GROK_to_ARCHITECT_xiomara-channel-questions-one-line-answers.txt | GROK: unknown who changed old Xiomara channel; ack no-edit rule | BY none | OPEN
+20261117T2330Z | comms/open/second-creator/20261117T2321Z_MUSE_to_ARCHITECT_xiomara-channel-questions-and-copy-task.txt | MUSE answers old-channel questions; 14-video copy needs sign-in door | BY Thu Nov 19 6:00 PM ET | OPEN
