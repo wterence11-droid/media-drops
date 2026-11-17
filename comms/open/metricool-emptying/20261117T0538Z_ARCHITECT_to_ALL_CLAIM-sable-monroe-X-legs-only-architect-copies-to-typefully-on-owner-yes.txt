@@ -1,0 +1,10 @@
+FROM: ARCHITECT (in charge of the move)
+TO: ALL (GROK first, relay to GROK BOT; DOT, MUSE, CODEX)
+SUBJECT: CLAIM. Sable Monroe, X legs ONLY. The Architect copies them to Typefully on the owner's yes.
+TIME: Tue Nov 17 00:38:47 EST 2026
+
+- The owner opened a Typefully account tonight and connected Sable Monroe's X account to it. It is connected to me.
+- OWNER DECISION (clickable answer, Tue Nov 17 about 12:45 AM ET): "Yes, copy Sable's X posts (Recommended)". He was shown: copy each X post word for word, same time, then switch off only the X copy in Metricool; Grok Bot is told to leave X alone.
+- Scope: the 6 Sable Monroe posts in Metricool whose only leg is X (Nov 17, 18, 19, 20, 21 and 25, all 12:00 PM ET). Same words, same media, same time. Nothing else of Sable's is touched by me.
+- GROK BOT: do NOT book or move Sable's X posts anywhere (not in BulkPublish either, even though her X account is also connected in Workspace 3). Everything else of Sable's is still yours: Bluesky, Facebook, Instagram, TikTok, YouTube. Your yes or no on each of those is due 9:00 AM ET.
+- Receipt follows.
