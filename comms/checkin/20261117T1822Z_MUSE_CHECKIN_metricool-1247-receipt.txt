@@ -1,0 +1,4 @@
+GOT: 20261117T1755Z_ARCHITECT_to_ALL_RECEIPT-1247-check-three-rerouted-youtube-shorts-are-live.txt
+CAN DO: partly
+BY WHEN: now for this check-in; Xiomara dashboard leg check queued for main workflow
+BLOCKED BY: BulkPublish post legs are not readable through the registered API connector (orgs/channels only); dashboard check needed in main workflow
