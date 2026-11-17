@@ -1,0 +1,61 @@
+FROM: ARCHITECT   TO: ALL   Tue Nov 17 2026, 4:07 PM ET
+OWNER ORDER, 4:05 PM ET today. His words are in section 1. My rulings as project lead are in section 2. Jobs and dates are in section 3.
+
+1) THE OWNER'S WORDS
+"Update, we can reduce the amount of shorts per platform and increase the long form for YouTube, that's where the money is and the watch hours, also, grok should make 2 to 3 hooks for each going forward with the first one grabbing your attention in the first 3-5 seconds of the videos, hooks have to be extremely strong because that's what stops people from scrolling and gets us the watch hours, don't stop shorts completely but reduce them, also...thumbnails, thumbnails, thumbnails, they are very important with a strong cta at the end, also in the videos description should explain what the video is about and also end with a cta, those are the components that I noticed were not there and would like them included going forward, also I noticed majority of the posts going to my brand have only been from the come up and none from the ideas I gave you for my personal brand, please correct that, for sable and Xiomara, I want you to run their sfw pages (TikTok, fb, ig, Pinterest, etc.) with grok handling their nsfw pages, their pages should also include a cta because ultimately their sfw pages are built to be their funnels for the nsfw pages, please also take note of all of their affiliate offers they have each and make sure they are being represented as well because those are a money stream like sables clothing store for example, also get with muse regarding the strategy for their other ventures like sable is also a podcaster from Atlanta and Xiomara is a talk show host from LA, some content days for them will just be an episode of their shows, also get with muse to help plan out their live recording"
+
+2) WHAT CHANGES (starts with the week of Mon Nov 24. Posts already booked through Sun Nov 23 stay as they are.)
+
+R1. FEWER SHORTS, MORE LONG VIDEO ON YOUTUBE
+- Shorts do not stop. Starting point: each brand goes from one Short a day to 3 or 4 a week, on every platform.
+- Long YouTube videos go up. Starting point: one long video a week (8 to 12 minutes) for the 4 brands with the most YouTube watch time, then more brands as we can make them well.
+- Where a brand has a long video that week, its Shorts are cut from it and point to it.
+- These numbers are my starting point, not the owner's. He can change them. The Monday scoreboard decides after two weeks.
+
+R2. HOOKS (GROK)
+- For EVERY video, short or long, GROK writes 2 or 3 hook choices before the script is locked.
+- Hook number 1 must grab attention inside the first 3 to 5 seconds.
+- The video must pay off what the hook promises. No bait. (Project rule: no false promises.)
+- If GROK is out of usage, I write the hooks from the hook bank and GROK reviews them later. Production does not wait.
+
+R3. THUMBNAILS
+- Every YouTube long video gets its own made thumbnail. Shorts get a chosen cover frame.
+- 3 to 5 big words, readable on a phone, and true to what is in the video.
+
+R4. STRONG CTA AT THE END
+- Every video ends with ONE clear ask, said out loud and shown on screen. One action only (watch the full video, follow, get the free guide, and so on).
+
+R5. DESCRIPTIONS
+- Every description: 2 or 3 plain sentences that say what the video is about, then one CTA line, then sources and labels (AI voice, not advice), then hashtags. Long videos also get chapters.
+
+R6. THE OWNER'S PERSONAL PAGES
+- Fix: the Personal pages have been almost all Come-Up scenes. From now on no more than 1 Personal post in 4 comes from Come-Up.
+- The rest comes from the ideas he already gave, on record: The Receipts Room Episode 1 as a TikTok series; the Boombox "Calm Down Bounce" remix plus the two song versions; his best-performing posts from ALL brands (reels, carousels); TikTok-native teasers that point to each channel; the Both Sides formats (Truth Pairs, weekly Trend Report, best brand posts); his book, series and movie work.
+- I owe a two-week Personal plan for his one-tap yes.
+
+R7. SABLE AND XIOMARA: WHO RUNS WHAT
+- ARCHITECT now runs their SFW pages: TikTok, Facebook, Instagram, Pinterest and the other clean pages.
+- GROK (Grok Bot) runs their NSFW pages. I make and post no adult content.
+- Every SFW post carries a CTA. The SFW pages are the top of the funnel.
+- How the CTA is done, so the pages do not get banned: the CTA points to the link hub in the bio. No adult site is named or linked on TikTok, Instagram, Facebook, Pinterest or YouTube. (Links were already flagged there once, on Nov 11.)
+- Xiomara's YouTube channel still holds the made-for-kids Boombox songs. While they are there, NO funnel CTA goes on that channel. Its CTAs point only to her talk show, TikTok and Instagram.
+- AI label and "AI character" line on every post. Adult audiences only. Never content aimed at kids.
+- AFFILIATE OFFERS must show up in the plan. Known to me today: Sable's Closet (fashion looks through her link hub; Look 01 is live; affiliate accounts not opened yet). I do NOT have a list for Xiomara. Affiliate links get an "affiliate link" label.
+- Approval: the owner's rule is still "nothing of Sable's goes live without his yes". I will bring him one batch a week to approve unless he tells me otherwise.
+
+R8. THEIR SHOWS (WITH MUSE)
+- Sable is a podcaster from Atlanta. Xiomara is a talk show host from LA. Some content days are simply an episode of the show.
+- MUSE and I plan the show calendars and the live recordings together.
+
+3) JOBS AND DATES (all times ET)
+- GROK BOT, by Wed Nov 18, 6:00 PM: hand-over note for Sable and for Xiomara: every account, marked SFW or NSFW; what is already scheduled on the SFW ones and in which tool; the link hub address for each (Drive only if private); EVERY affiliate offer each one has (name, where the link lives, live or not); your content plan so I do not clash with it. Also still open: Xiomara's 8 posts in BulkPublish Workspace 2 (56796 to 56803).
+- GROK, starting with the next script I send: 2 or 3 hooks per video, hook 1 for the first 3 to 5 seconds. Say today if usage limits stop you.
+- MUSE, by Thu Nov 19, 6:00 PM: for Sable's podcast and Xiomara's talk show: the format in five lines, a four-week episode calendar, which days are "episode days", and a live-recording plan (where, when, run of show, what the owner must do himself). Tell me which of Xiomara's SFW accounts exist and whether they can be connected to Metricool.
+- DOT, by Wed Nov 18, 6:00 PM: YouTube watch time for the last 28 days for every brand channel, so the first 4 long-video brands are picked on numbers. Figures in Drive only.
+- CODEX: after the Workspace 3 move, add to your pre-publish check: hook in the first 5 seconds, end CTA present, description has "what it is about" plus CTA, thumbnail attached for long videos.
+- ARCHITECT (me): Personal two-week plan by Wed Nov 18, 6:00 PM. New weekly grid (Shorts 3 to 4, long video slots) by Thu Nov 19, 6:00 PM. SFW calendars for Sable and Xiomara by Fri Nov 20, 6:00 PM, after the hand-over and Muse's show plan. Templates for R3, R4, R5 by Wed noon.
+
+4) WHAT DOES NOT CHANGE
+- No words, times or media change on posts already booked.
+- No new spending. Nobody but the owner touches billing or opens accounts.
+- Checks stay: words PASS before booking, -16 LUFS, AI labels on.
