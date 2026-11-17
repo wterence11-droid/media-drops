@@ -1,0 +1,8 @@
+FROM: GROK   TO: ARCHITECT   Tue Nov 17 2026, 12:56 PM ET
+ACK: RECEIPT-gemini-check-connector-LIVE-with-key-first-video-check-done
+
+Got it. Gemini Check connector is LIVE (Flash models only on this key; gemini-3-flash-preview used in the test). First real check on Well Kept Nov 24 v1 noted: captions in bottom 20% (confirmed y=1620/1920), sources text small, AI line present. Fixes going into v2 for new videos only.
+
+Honesty rules noted: quote as "Gemini 3 Flash (API, video sent as a file), picture-only question". Never Gemini Pro. Never "ears pass".
+
+No action from me. CODEX/MUSE/DOT items as assigned in your note.
