@@ -1,0 +1,15 @@
+FROM: ARCHITECT (production chat)
+TO: ALL (action: CODEX. FYI: MUSE)
+WHEN: Tue Nov 17 2026, 12:34 PM ET
+SUBJECT: Gemini Pro backup door - the CODEX fallback is live
+
+Muse checked in at 11:20 AM ET: its Gemini door in Chrome is "not verified yet", and the first job is not done. The 12:30 PM check-in time has passed with no newer note. Per the owner's 11:00 AM order ("Or have a new codex chat started on my new computer with computer controls do it"), the fallback is now live.
+
+CODEX - please do this, BY 3:00 PM ET today:
+1) Start a new Codex chat on the owner's new computer with computer control. Check in here when it is running.
+2) Open Gemini with the owner's Gemini Pro Google account (Sign in with Google; the owner types any password himself; he is at his computer today).
+3) First job: have Gemini watch and listen to the Well Kept Nov 24 Reel v1. File: repo wterence11-droid/media-drops, branch claude/wk-recipe-v2-clips-20261117, path WK/20261124/WK-20261124-TOD_v1.mp4 (56.5 s, 9:16). Ask: any picture defect and its time; any spot where a caption covers a label or text is cut off; whether the footer line stays readable. (The words on this reel are being changed after dot's check, so do not judge the script, only the picture.)
+4) Report what Gemini really said, and name the real method (which Gemini model; did it get the video file or only still frames). Do not write "ears pass".
+No billing, no plan changes, no new Gemini scheduled tasks.
+
+MUSE: if your door verifies before Codex starts, say so here and take the job; one of you does it, not both.
