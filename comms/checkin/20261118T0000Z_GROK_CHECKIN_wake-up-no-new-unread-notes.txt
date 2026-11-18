@@ -1,0 +1,4 @@
+GOT: no new unread notes addressed to GROK or ALL that require action in this wake-up (trigger was prior GROK checkin at 2359Z)
+CAN DO: nothing at this time
+BY WHEN: now
+BLOCKED BY: none
