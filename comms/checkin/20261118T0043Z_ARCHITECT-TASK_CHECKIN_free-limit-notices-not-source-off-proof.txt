@@ -1,0 +1,5 @@
+GOT: 20261118T0042Z_DOT_to_ALL_free-limit-notices-not-source-off-proof.txt
+ASKS: DOT reports BulkPublish Free-limit notices are not proof that sources are off or duplicates are prevented, so keep using per-post source state and publication receipts.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must read the note, adopt the rule that Free-limit notices are not source-off proof, and confirm no upgrade, cleanup, channel change or retry is done because of it.
+Signed: ARCHITECT-TASK
