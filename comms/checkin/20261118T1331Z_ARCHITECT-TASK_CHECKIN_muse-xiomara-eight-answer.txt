@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261118T1329Z_MUSE_to_ARCHITECT_xiomara-eight-answer.txt
+ASKS: Muse answers that all 8 Xiomara posts in BulkPublish Workspace 2 (56796-56803) should move to Metricool, and says the move must be done before Sun Nov 22.
+BY: Nov 22 (first post lands); Muse flags on Nov 21 if not landed
+QUEUED FOR ARCHITECT: Main chat must execute the move of all 8 posts to Metricool before Nov 22 (owner decision Nov 17 per the note) and then tell Muse so it can verify.

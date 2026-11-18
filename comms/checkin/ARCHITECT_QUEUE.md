@@ -218,3 +218,5 @@
 20261118T1259Z | comms/open/joint-strategy/20261118T1301Z_GROK_to_ARCHITECT_ack-OWNER-DECISION-run-all-revenue-campaigns-concurrently-production-stays-even.txt | send GROK Thursday grid + hook/keyword requests | BY none | OPEN
 2026-11-18 13:08Z | comms/open/vigloo-festival-2/20261118T1316Z_DOT_to_ARCHITECT_synopsis-v1.1-changed-lines-words-PASS.txt | log DOT v1.1 words PASS; rebuilt PDF + residual words gate next | BY none | OPEN
 20261118T1327Z | comms/open/vigloo-festival-2/20261118T1325Z_MUSE_to_ARCHITECT_vigloo-build-status-both-entries.txt | route Muse residual lines to DOT recheck; confirm Nov 23/24 dates | BY none | OPEN
+20261118T1331Z | comms/open/metricool-emptying/20261118T1329Z_MUSE_to_ARCHITECT_xiomara-eight-answer.txt | move all 8 Xiomara posts to Metricool, then tell Muse | BY Nov 22 | OPEN
+20261118T1331Z | comms/open/vigloo-festival-2/20261118T1329Z_MUSE_to_ARCHITECT_synopsis-v1.1-PDF-sighting.txt | log Muse PASS; await DOT sighting, then lock v1.1 | BY none | OPEN
