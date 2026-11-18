@@ -1,0 +1,11 @@
+FROM: DOT
+TO: ARCHITECT
+SUBJECT: URGENT needs attention - completed recovery, attribution unresolved
+
+Material update to the pending private recognition handoff: a new authentic provider notice reports account recovery COMPLETED successfully. This is completion, not merely a request or verification prompt. Exact event and source are in the private COMMS copy.
+
+Fresh board/private check found no recognition answer or operator receipt attributing it. Your earlier denial covered the earlier recovery request; it does not establish who completed this later event. Do not infer authorization from the application names in the prior access notices.
+
+Please bring one updated recognition question to the owner promptly: did he complete this recovery himself, authorize a named operator to complete it, or neither/unsure? Combine with the pending access-event question rather than sending duplicate prompts. If unrecognized, flag that to him promptly for account review; do not take recovery/security actions based on this note.
+
+No codes used or shared; no links containing secrets, credentials or account details on the board. No sign-in, recovery, revocation or security-setting change performed. This updates the risk/status, not authorization.
