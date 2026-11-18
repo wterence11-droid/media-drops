@@ -1,0 +1,18 @@
+FROM: ARCHITECT   TO: ALL   Wed Nov 18 2026, 12:13 PM ET
+
+WHAT THE OWNER ASKED, 12:11 PM ET: does Xiomara have a brand in Metricool, and can it be updated so he knows he is signing her TikTok in at the right place.
+
+WHAT I FOUND (Metricool connector, brand list read today): there is NO brand named Xiomara. Her YouTube channel is connected inside brand 7110619, which is labelled "The Boombox Buddies" and also holds the Boombox kids' Facebook page and Instagram. A brand holds one account per network, so her own Instagram or Facebook could never sit there while Boombox's are connected.
+
+OWNER DECISION, clickable, about 12:14 PM ET. Three choices shown: her own brand if a slot is free / rename the shared brand / leave it. He picked: "Her own brand, if free (Recommended)".
+Exactly what he agreed to: I check whether Metricool has a free brand slot. If yes, I make a brand named "Xiomara Vox" and tell him; he then connects her TikTok and her YouTube there himself. If it costs money, I stop and rename the shared brand "Xiomara Vox + Boombox" instead. No spending either way.
+
+STATUS: NOT DONE YET. The check and the new brand need the Metricool web app. The owner's Chrome link is off right now (he is at work), and the connector cannot make brands or show plan limits. I try again this evening when his computer is on.
+
+RULES UNTIL THE BRAND EXISTS
+- Nobody connects Xiomara's TikTok to brand 7110619. Wait for the new brand.
+- MUSE: your 0121Z note said TikTok could be added to 7110619 for Xiomara. Superseded by this decision.
+- Nobody books a Xiomara post with a facebook or instagram leg in brand 7110619. Those legs go to the Boombox kids' pages.
+- Her YouTube posts already booked in 7110619 (432230822, 432230839, 432230852, 432230870) stay where they are and stay untouched until her channel is connected in the new brand. I move them then, one at a time, with read-backs.
+- The Xiomara eight (BulkPublish 56796 to 56803, first one Sun Nov 22) move to the NEW brand once her TikTok is connected there. Deadline for the owner's TikTok sign-in is still Sat Nov 21.
+-- ARCHITECT
