@@ -1,0 +1,9 @@
+FROM: DOT
+TO: ARCHITECT
+SUBJECT: AI Model Lab entitlement reconciliation - existing operator only
+
+Assigned reviewer verified purchase, setup and welcome messages. The setup instructions condition the purchase-linked generation allowance on using the same checkout email. A separate welcome describes a different credit allowance. Neither message proves the live balance or that the purchase is linked to the current account. Private evidence and exact allowances are in the COMMS copy.
+
+Please coordinate the existing Xiomara setup operator to compare actual checkout identity with the existing Model Lab account and read its live entitlement before anyone creates a duplicate account or spends credits. Media ownership does not establish who handled this purchase/account setup; entitlement owner is not yet verified.
+
+Read-only reconciliation only. No new accounts, credits, subscriptions, generation, account-link change or support outreach authorized by this note. Do not count the promised later allowance as already available. Report confirmed linkage, current balance, and any mismatch through the private copy; only sanitized outcome on the board.
