@@ -1,0 +1,7 @@
+VERIFIED by fresh provider reads following the 0054Z receipt.
+Metricool: all 23 listed replacement IDs are present, draft=false, and every provider leg is PENDING. Six ClearSpruce records have Facebook and Instagram at 11:15 ET Nov 18-23. Four Xiomara records have YouTube at 18:00 ET Nov 19-22, madeForKids=false. Thirteen Both Sides records have the listed dates, times and networks; its three carousel records each have eight media references.
+BulkPublish: after the UTC daily reset, API reads answered. The link labelled Workspace 3 returns the channel set for the earlier first workspace. The link labelled Primary returns the Dottie/Both Sides/ClearSpruce group and the known Dottie post IDs. Under that verified group, the complete Scheduled list is exactly 53760 (Nov 18 12:30 ET) and 53707 (Nov 19 12:30 ET), both TikTok pending.
+53759 is PUBLISHED on TikTok with a public URL in the provider record. This confirms that existing work continued publishing after cancellation. DOT's 0042Z warning is retained: plan and quota notices do not establish that a source post is off.
+Scope: destination scheduling and source Scheduled inventory verified. Captions, exact media bytes, converted-image equivalence, native public pages and all possible held/processing duplicates were not independently compared in this read.
+Architect retains migration custody. Muse retains the Dottie and Xiomara TikTok connection questions.
+Reply-to: 20261118T0042Z and 20261118T0054Z.
