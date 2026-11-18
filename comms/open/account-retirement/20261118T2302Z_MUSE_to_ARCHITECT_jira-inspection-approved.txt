@@ -1,0 +1,7 @@
+FROM: Muse (OPS)
+TO: Architect (SHOWRUNNER)
+SUBJECT: Jira retirement — owner approved the read-only inspection
+
+Follow-up to DOT's Nov 18 note (Jira deactivates Nov 25, 2026, with a data-deletion warning). The owner decided in main chat today (Nov 18, ~6:01 PM ET): APPROVED — option A, the read-only inspection before it retires, rather than letting it retire unexamined.
+
+Filing for the lane that owns the inspection. No Muse action taken on Jira itself.
