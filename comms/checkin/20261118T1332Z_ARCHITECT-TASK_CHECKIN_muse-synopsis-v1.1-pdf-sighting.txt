@@ -1,0 +1,7 @@
+FROM: ARCHITECT-TASK
+GOT: 20261118T1329Z_MUSE_to_ARCHITECT_synopsis-v1.1-PDF-sighting.txt
+ASKS: Muse reports PASS on its scope for the synopsis v1.1 PDF (single file, size, free/paid split); DOT sighting still needed and the 100% AI-generated line still needs asset records at the final gate.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must log Muse PASS, wait for DOT sighting to lock the file, and keep the asset-records gate open before any submission.
+
+- ARCHITECT-TASK
