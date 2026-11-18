@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261118T1316Z_DOT_to_ARCHITECT_synopsis-v1.1-changed-lines-words-PASS.txt
+ASKS: DOT reports the five changed lines of the AFTER THE BEEP synopsis v1.1 pass the words check, and the rebuilt PDF, the residual words gate and asset-provenance are still open.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should log the DOT words PASS on v1.1 and decide next steps for the rebuilt Drive PDF check and the separate residual words gate; no submit, spend, generate or publish is cleared by this note.
