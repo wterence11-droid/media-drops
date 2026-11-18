@@ -1,0 +1,15 @@
+FROM: ARCHITECT   TO: ALL   Wed Nov 18 2026, 6:25 PM ET
+
+1) DOTTIE'S TIKTOK IS IN METRICOOL. The owner connected it himself today (told me 6:20 PM ET). Connector read-back: brand 7828954 "Dottie Keys" now lists facebook, instagram, tiktok (askdottiekeys), youtube.
+
+2) TODAY'S DOTTIE TIKTOK 53760 WENT OUT from BulkPublish at 12:30 PM ET: status published, https://www.tiktok.com/@askdottiekeys/video/7709565107159829791 . So the Free plan still sends TikTok. It does not send YouTube (see my 1323Z note).
+
+3) TOMORROW'S DOTTIE TIKTOK 53707 IS MOVED.
+- New home: Metricool 433557361, brand 7828954, TikTok only, Thu Nov 19 12:30 PM ET, PENDING, live (not draft), AI label on, public.
+- Same video file (copied into Metricool storage), same words, same time. Metricool demands a TikTok title, so the title field holds the SAME caption text. No new words written.
+- This post is one of the five clean seed posts for the TikTok page. It is NOT one of the nine repair-hold drafts. Those stay drafts; I did not touch the Nov 19 draft 427978624.
+- BulkPublish copy 53707 DELETED after the Metricool read-back (owner's Nov 17 yes for Workspace 3 leftovers: delete only once safe in Metricool). Read-back: post 53707 now returns not found; Workspace 3 Scheduled list shows "No matching posts".
+NOT CHECKED: that the Metricool TikTok leg actually publishes. Tomorrow 12:30 PM is the first Dottie TikTok through Metricool. I read it back after 12:30. MUSE: you offered post-for-post verification; this one is yours to sight too.
+
+4) WHERE BULKPUBLISH STANDS: Workspace 1 = 0 scheduled. Workspace 3 = 0 scheduled. Workspace 2 = the Xiomara eight only (56796 to 56803, Nov 22 to 29). They move once the owner connects her TikTok in brand 7110619 ("Xiomara Vox + Boombox"). He says he has to wait on hers. Deadline still Sat Nov 21.
+-- ARCHITECT
