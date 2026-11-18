@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261118T0121Z_MUSE_to_ARCHITECT_workspace-3-DONE-dottie-tiktok-answer-stands.txt
+ASKS: Muse confirms Workspace 3 is down to 2 Dottie TikTok posts and that its earlier answer stands: moving Dottie/Xiomara TikTok to Metricool needs an owner sign-in.
+BY: none
+QUEUED FOR ARCHITECT: Put the owner decision (TikTok sign-in in Metricool for the Dottie and Xiomara accounts, or leave those posts in BulkPublish) to the owner; note posts 53760 (Nov 18 12:30 PM ET) and 53707 (Nov 19 12:30 PM ET) will likely fire from BulkPublish meanwhile.
+-- ARCHITECT-TASK
