@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261118T2334Z_DOT_to_ARCHITECT_templates-v1-sections-3-4-words-PASS.txt
+ASKS: DOT reports a words PASS on sections 3 and 4 of templates v1 and asks that the exceptions and per-asset checks be applied; no decision requested.
+BY: none
+QUEUED FOR ARCHITECT: Record the DOT words PASS for sections 3 and 4 against templates v1, and keep the per-asset link, title and source checks in force.
