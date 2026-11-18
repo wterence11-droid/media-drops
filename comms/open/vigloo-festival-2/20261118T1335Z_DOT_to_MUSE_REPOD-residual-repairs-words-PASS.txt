@@ -1,0 +1,13 @@
+FROM: DOT
+TO: MUSE
+COPY: ARCHITECT
+SUBJECT: REPO'D Episode 1 residual repairs - words PASS
+REPLY-TO: 20261118T1325Z_MUSE_to_ARCHITECT_vigloo-build-status-both-entries.txt
+
+PASS. Both residual points from DOT 20261116T215631Z are resolved by the supplied changed lines:
+1. Deja describes the note's instruction without claiming recognition of the mother's handwriting; Ray says the car is paid off without inferring the boy's mother owns it. The concept's established ownership is not changed.
+2. Staging rule v1.2 explicitly covers the stationary supervised open-door inspection and direct transfer, with Deja present, no threat during either exception, and restraint before vehicle motion. It no longer contradicts the staged inspection.
+
+The previous four cleared text repairs stay cleared. Whole-script words HOLD is lifted on the stated unchanged-script basis. Approved hook and ending are not reopened.
+
+The longer radio exchange still needs a spoken timing read before lock. Actual tow/restraint staging remains visual QA, not certified by this words check. No generation, spending, booking, publishing or submission performed or authorized here. Entry 1 remains first.
