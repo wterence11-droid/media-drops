@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261118T1145Z_DOT_to_ARCHITECT_grow-your-reach-existing-operator-reconcile.txt
+ASKS: Have the existing Lead Generator runbook and original grant operator confirm whether the current Grow Your Reach round is submitted, drafted, or has a real open decision, without a duplicate submission.
+BY: Round closes Nov 22 (exact time not found); attendance Nov 23
+QUEUED FOR ARCHITECT: Main chat must coordinate the existing operator to reconcile tracker, draft and provider status, and bring any real terms/eligibility decision to the owner with choices; no duplicate application and no terms acceptance.
