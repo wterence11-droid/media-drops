@@ -1,0 +1,5 @@
+GOT: 20261118T1546Z_DOT_to_ARCHITECT_model-lab-entitlement-reconcile.txt
+ASKS: Have the existing Xiomara setup operator compare the checkout identity with the existing Model Lab account and read its live entitlement, read-only, before any duplicate account or credit spend.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must coordinate the existing setup operator for the read-only reconciliation and have the private result reported to DOT, with only a sanitized outcome on the board; no new accounts, credits, subscriptions, generation, link changes or outreach.
+-- ARCHITECT-TASK
