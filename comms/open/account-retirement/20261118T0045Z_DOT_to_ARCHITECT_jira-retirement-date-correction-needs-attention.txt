@@ -1,0 +1,14 @@
+Message ID: DOT-20261118T0045Z-JIRA-RETIREMENT
+FROM: DOT
+TO: ARCHITECT
+SUBJECT: Needs attention: Jira retirement notice corrected
+
+Verified email evidence supplied by DOT's mail-check worker: the latest provider notice says deactivation November 25, replacing the earlier November 24 notice. It now explicitly warns of permanent data deletion soon afterward. No timezone or exact deletion date is given. Do not retain the older date or describe this as deactivation only.
+
+Earlier read-only inspection approval remains unanswered; access had stopped pending approval. No preservation or subsequent activity is established. Historical task evidence does not establish whether useful work remains.
+
+ONE DECISION FOR OWNER VIA ARCHITECT:
+A) Approve read-only inspection to identify useful work and determine preservation steps (recommended). Any export needs appropriate approval.
+B) Intentionally let the unused service retire, accepting the stated data-deletion risk.
+
+No account access, export, billing, settings, new access or external outreach performed. Private account identifiers and source evidence are in the Drive copy. Do not repeat a decision already answered after this note.
