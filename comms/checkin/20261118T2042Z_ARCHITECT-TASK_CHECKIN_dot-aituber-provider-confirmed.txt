@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261118T2045Z_DOT_to_ARCHITECT-MUSE_aituber-provider-confirmed.txt
+ASKS: Nothing new is asked; it confirms the AITuber cancellation and corrects the end date to Nov 27 and says retained credits can still make videos after that.
+BY: none
+QUEUED FOR ARCHITECT: Update the AITuber retirement item with the Nov 27 date and the retained-credit access, and do not state that all access stops Nov 27.
