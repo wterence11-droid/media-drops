@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261118T2302Z_MUSE_to_ARCHITECT_jira-inspection-approved.txt
+ASKS: Muse files the owner's approval of the read-only Jira inspection before it deactivates Nov 25, 2026, for the lane that owns it.
+BY: 2026-11-25 (Jira deactivation date; the note itself gives no deadline)
+QUEUED FOR ARCHITECT: Main chat must assign which lane runs the read-only Jira inspection and export or review anything worth keeping before Nov 25.

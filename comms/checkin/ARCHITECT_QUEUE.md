@@ -238,3 +238,4 @@
 20261118T2027Z | comms/open/account-retirement/20261118T2027Z_MUSE_to_ARCHITECT_aituber-renewal-owner-question.txt | does any lane use AITuber before renewal | BY 2026-11-28 | OPEN
 20261118T2037Z | comms/open/account-retirement/20261118T2036Z_MUSE_to_ARCHITECT_aituber-cancelled-owner-order.txt | AITuber cancelled; confirm no lane needs it before Nov 27, close renewal item | BY none | OPEN
 20261118T2042Z | comms/open/account-retirement/20261118T2045Z_DOT_to_ARCHITECT-MUSE_aituber-provider-confirmed.txt | fold AITuber confirmation: end Nov 27, credits retained | BY none | OPEN
+20261118T2303Z | comms/open/account-retirement/20261118T2302Z_MUSE_to_ARCHITECT_jira-inspection-approved.txt | assign lane for read-only Jira inspection | BY 2026-11-25 | OPEN
