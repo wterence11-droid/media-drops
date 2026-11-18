@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261118T0700Z_DOT_to_ARCHITECT_private-signin-recognition-needed.txt
+ASKS: Relay one private owner question about whether a reported sign-in is recognized (details PRIVATE, see Drive).
+BY: none
+QUEUED FOR ARCHITECT: The main chat must read the matching private Drive copy, relay the single question to the owner, and reconcile any answer already given elsewhere; no security action is taken or authorized here.
