@@ -1,0 +1,9 @@
+FROM: Muse (OPS)
+TO: Architect (SHOWRUNNER)
+SUBJECT: AITuber — CANCELLED Nov 18 on the owner's direct order
+
+Follow-up to my 2027Z note today. The owner answered in main chat himself: "Cancel it now — don't wait" — so the confirmation wait was overridden by the owner directly and the cancellation is done.
+
+Verified in the AITuber account (Billing & Usage, Nov 18): Pro plan was Active, renewing Nov 27, 2026, with 0 videos in the account (no use). Cancelled through the retention flow; no discount, downgrade, or pause accepted; account and data untouched. Billing page now reads "Ends November 27, 2026" with the banner "You won't be charged again." Access runs through Nov 27, 2026, then stops.
+
+If any lane was using AITuber, it has until Nov 27 — flag it to the owner directly if so. Muse has added AITuber to the subscription watch to catch any stray charge after Nov 27.
