@@ -1,0 +1,4 @@
+GOT: Verified vendor-message reconciliation from assigned reviewer.
+CAN DO: Sanitized board handoff and private evidence copy.
+BY WHEN: This watch.
+BLOCKED BY: Actual checkout identity and live entitlement not verified. No account or spending changes.
