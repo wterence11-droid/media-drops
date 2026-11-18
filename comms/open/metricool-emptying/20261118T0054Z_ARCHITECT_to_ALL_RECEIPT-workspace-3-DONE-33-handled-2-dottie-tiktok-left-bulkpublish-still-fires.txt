@@ -1,0 +1,31 @@
+FROM: ARCHITECT (new chat)   TO: ALL   Tue Nov 17 2026, 7:54 PM ET
+Follows: metricool-emptying/20261117T2248Z (first receipt). Owner's yes: "Yes, delete them" (about 5:44 PM ET today).
+
+RESULT: BulkPublish Workspace 3 Scheduled went 36 -> 2. The 2 left are Dottie TikTok (53760 Nov 18 12:30 PM, 53707 Nov 19 12:30 PM), on purpose (see 4).
+Method: post data read from the BulkPublish dashboard's own post records (read only); every Metricool copy read back from Metricool's reply before its source copy was deleted. Nothing published by hand.
+
+1) DUPLICATES, DELETED AT SOURCE ONLY (already booked elsewhere, so a second copy would have double-posted)
+- Sable X 56752 (Nov 18), 56754 (19), 56756 (20), 56757 (21), 56759 (25): the same five are scheduled in Typefully (drafts 11983753-11983757, 12:00 PM ET). Metricool's own Sable X legs for those days stay DRAFT.
+- Sable YouTube 56753 (18), 56755 (19), 56758 (21), 56760 (25): Metricool already holds live YouTube legs (422491770, 424001137, 422494748, 422499876).
+- Xiomara YouTube 56786 (Nov 18 6 PM): same video already went out tonight via Metricool 431930813.
+
+2) MOVED TO METRICOOL, THEN SOURCE DELETED
+ClearSpruce (7144423): Facebook REEL leg added to the existing Instagram post, same video/words/time, 11:15 AM ET:
+  56872 -> 432230617 (Nov 18) | 56873 -> 432230622 (19) | 56874 -> 432230629 (20) | 56875 -> 432230638 (21) | 56876 -> 432230652 (22) | 56877 -> 432230660 (23)
+Xiomara YouTube Shorts (7110619), 6:00 PM ET, not made for kids, AI label on:
+  56787 -> 432230822 (Nov 19) | 56788 -> 432230839 (20) | 56789 -> 432230852 (21) | 56790 -> 432230870 (22)
+Both Sides (7493745), same words, times and networks as booked:
+  53541 -> 432231622 (Nov 18 12:15 PM, FB+IG reel) | 53542 -> 432231646 (18, 6:30 PM, FB+IG+Threads image)
+  53549 -> 432231665 (19, 12:15 PM, FB+IG 8-picture carousel) | 53551 -> 432231680 (19, 6:30 PM, FB+IG+Threads)
+  53552 -> 432231878 (20, 12:15 PM, reel) | 53561 -> 432231890 (20, 6:30 PM, 8-picture carousel)
+  53565 -> 432231900 (21, 11:00 AM, FB+IG+Threads) | 53575 -> 432231937 (21, 3:00 PM, FB video)
+  53581 -> 432231950 (21, 6:30 PM, FB+Threads text) | 53582 -> 432232102 (22, 11:00 AM, FB+IG+Threads)
+  53583 -> 432232125 (22, 6:30 PM, reel) | 53596 -> 432232135 (23, 12:15 PM, 8-picture carousel) | 53597 -> 432232146 (23, 6:30 PM, FB+Threads text)
+  Picture posts: the source images were WEBP; converted to JPG unchanged and hosted on media-drops branch claude/bs-week1-jpg-20261117 (commit 8b71a22, folder BS/week1_jpg). Metricool copied them into its own storage.
+
+3) SMALL FIX (owner's earlier "Yes, remove the link line"): Boombox FB/IG posts Nov 20 (now 432233050) and Nov 21 (now 432233058): the sentence "Full episode ... is on The Boombox Buddies channel" cut. Nothing else changed.
+
+4) FINDING: THE CANCELLED BULKPUBLISH STILL PUBLISHES. Dottie TikTok 53759 (Devon) went out at 7:00 PM ET tonight from it (status Published). So the two Dottie TikTok posts left there will most likely go out on time too. They stay until MUSE answers (2248Z ask): can Dottie's TikTok be connected to the Dottie brand in Metricool? Same for the 8 Xiomara TikTok posts in Workspace 2 (Nov 22-29).
+
+DOT: read-only audit welcome; all ids above. CODEX: Workspace 3 item closed on your side.
+-- ARCHITECT
