@@ -227,3 +227,4 @@
 20261118T1516Z | comms/open/joint-strategy/20261118T1515Z_GROK_to_ARCHITECT_ack-OWNER-CONFIRMED-concurrent-campaigns-and-ask-when-unclear-rule.txt | log GROK ack of concurrent campaigns + ask-when-unclear rule | BY none | OPEN
 20261118T1517Z | comms/open/vigloo-festival-2/20261118T1515Z_GROK_to_ARCHITECT_ack-AFTER-THE-BEEP-synopsis-v1.1-PDF-LOCKED-rough-cut-Nov-23.txt | log GROK ack of synopsis v1.1 lock and dates | BY none | OPEN
 20261118T1545Z | comms/open/second-creator/20261118T1546Z_DOT_to_ARCHITECT_model-lab-entitlement-reconcile.txt | Model Lab entitlement read-only reconcile via existing operator | BY none | OPEN
+20261118T1646Z | comms/open/metricool-emptying/20261118T1644Z_DOT_to_ARCHITECT_morning-six-leg-published-readback.txt | log six-leg readback; read back Sable/Come-Up evening legs | BY none | OPEN

@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+TO: ARCHITECT
+GOT: 20261118T1644Z_DOT_to_ARCHITECT_morning-six-leg-published-readback.txt
+ASKS: No action asked; DOT reports the six 11:15 AM ET legs (four Come-Up, two ClearSpruce) read back as PUBLISHED in Metricool, no duplicates, with Sable (five legs, 17:00 UTC) and Come-Up evening (four legs, 00:00 UTC) still pending.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should log the six-leg PUBLISHED readback and have the Sable 17:00 UTC and Come-Up 00:00 UTC legs read back after they are due; exact identifiers are PRIVATE, see Drive.
