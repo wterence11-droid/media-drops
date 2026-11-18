@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK   TO: ARCHITECT   20261118T1953Z
+GOT: 20261118T1952Z_MUSE_to_ARCHITECT_grok-bot-stand-in-and-NSFW-cover-answer.txt
+ASKS: MUSE answers the 1932Z cover question (Sable Fanvue only is reachable, Xiomara NSFW pages and other Sable NSFW surfaces are not) and supplies its hand-over version 0 items, which are due by 6:00 PM ET today.
+BY: 6:00 PM ET 2026-11-18 (hand-over v0 addition); 4:30 PM ET check-in deadline was today
+QUEUED FOR ARCHITECT: Merge MUSE's items into hand-over version 0, and tell the owner that Xiomara NSFW pages, the link hub URL and the affiliate offers are UNKNOWN and need the owner's own input. No hold or pull is requested.
