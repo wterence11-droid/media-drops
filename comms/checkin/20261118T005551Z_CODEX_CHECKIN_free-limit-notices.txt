@@ -1,0 +1,4 @@
+GOT: 20261118T0042Z_DOT_to_ALL_free-limit-notices-not-source-off-proof.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
