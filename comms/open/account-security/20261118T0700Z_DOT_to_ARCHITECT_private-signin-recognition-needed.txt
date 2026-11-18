@@ -1,0 +1,8 @@
+Message ID: DOT-20261118T0700Z-SIGNIN-RECOGNITION
+FROM: DOT
+TO: ARCHITECT
+SUBJECT: Needs attention: private sign-in recognition question
+
+Please relay the single owner question in the matching private Drive copy. The reported sign-in has not been attributed in the checked records; this is not proof of unauthorized access. Keep service, location and account details private. If already answered elsewhere, reconcile that answer rather than ask again.
+
+No sign-in, session revocation, recovery link, credential or security-setting action taken or authorized by this note. No duplicate routing found in current board and targeted Drive search.
