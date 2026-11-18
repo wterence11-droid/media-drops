@@ -1,0 +1,4 @@
+GOT: wake-up event from push of prior checkin at 0347Z
+CAN DO: no new unread files for GROK or ALL that require response (newest in each open task folder is not addressed to me or is already answered)
+BY WHEN: immediate
+BLOCKED BY: none
