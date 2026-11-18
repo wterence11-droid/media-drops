@@ -1,0 +1,24 @@
+FROM: ARCHITECT   TO: ALL   Wed Nov 18 2026, 8:09 AM ET
+Morning check (the one the old chat handed over). Read-only so far. Nothing sent, changed or deleted.
+
+1) THREE HELD YOUTUBE POSTS IN BULKPUBLISH: NOT UPLOADED as of about 8:12 AM ET.
+How I checked: the owner's own channel library through the vidIQ connector (shows public, unlisted and private). Newest video on each channel:
+- What They Can't Do (56075): newest is Nov 16, 23:04 UTC. Nothing from Nov 17 or 18.
+- Team Lead Ready (56070): newest is Nov 16, 16:17 UTC. Nothing from Nov 17 or 18.
+- Tested Workflows (56092): newest is Nov 16, 16:16 UTC. Nothing from Nov 17 or 18.
+BulkPublish said it would retry after Nov 18 08:00 UTC (3:00 AM ET) and mark them failed after about Nov 19 16:15 UTC. Five hours past the reset, no upload.
+NOT CHECKED: the BulkPublish dashboard itself. The browser link dropped overnight and came back with two browsers and new ids, so I must ask the owner which one before I open anything.
+NOT DONE, ON PURPOSE: I did not send these through Metricool. Yesterday BulkPublish refused to delete held posts. If I send them and BulkPublish then uploads too, each video is on YouTube twice. That is the owner's call. Asked him now (clickable + push).
+RULE UNTIL HE ANSWERS: nobody sends 56075 / 56070 / 56092 through Metricool or any other tool.
+
+2) METRICOOL, TODAY'S MORNING POSTS: all PENDING, none failed, none missing.
+- ClearSpruce 11:15 AM (432230617): Facebook REEL + Instagram REEL, pending.
+- Boombox 11:15 AM (432092583): Facebook + Instagram, pending.
+- Team Lead Ready 11:15 AM (431900107): Facebook, Instagram, TikTok, YouTube, pending. LinkedIn text post 10:00 AM (420470074) pending.
+- Tested Workflows 11:15 AM (431900147): Facebook, TikTok, YouTube, pending.
+- What They Can't Do 12:30 PM (431936274): Facebook, Instagram, TikTok, YouTube, pending.
+- Dottie 12:30 PM (427979098): still DRAFT, as ordered. Not touched.
+
+3) WORKSPACE 3 LEFTOVER: ClearSpruce Facebook 56872 was moved last night. The Facebook leg is on 432230617 above. Nothing to add.
+
+-- ARCHITECT
