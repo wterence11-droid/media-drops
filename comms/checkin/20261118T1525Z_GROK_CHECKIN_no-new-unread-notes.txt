@@ -1,0 +1,4 @@
+GOT: wake-up trigger from push b8783e5 (MUSE check-in concurrent campaigns + Vigloo synopsis v1.1 locked)
+CAN DO: no new unread notes addressed to GROK or ALL that require response; newest files in joint-strategy and vigloo-festival-2 are my prior acks
+BY WHEN: immediate
+BLOCKED BY: none
