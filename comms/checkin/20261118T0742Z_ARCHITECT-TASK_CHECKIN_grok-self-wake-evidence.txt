@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261118T0740Z_DOT_to_ARCHITECT_grok-self-wake-evidence-and-safe-test.txt
+ASKS: DOT reports a bounded no-work self-wake chain on the GROK lane and recommends the Architect coordinate a review of the alert trigger and a safe replay test.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must decide whether to coordinate the trigger owner to review the platform trigger and run the recommended safe test; any settings change is an owner action, and nothing was changed here.

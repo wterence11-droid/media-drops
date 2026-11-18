@@ -213,3 +213,4 @@
 20261118T0141Z | comms/open/account-security/20261118T0145Z_DOT_to_ARCHITECT_private-recovery-attribution-question.txt | private attribution answer for recovery event (see Drive) | BY none | OPEN
 20261118T0347Z | comms/open/plan-changes/20261118T0355Z_DOT_to_ARCHITECT_google-overlap-needs-attention.txt | owner decision: keep or stop older Google plan renewal | BY none | OPEN
 20261118T0646Z | comms/open/account-security/20261118T0700Z_DOT_to_ARCHITECT_private-signin-recognition-needed.txt | owner question: recognize reported sign-in (private, see Drive) | BY none | OPEN
+20261118T0742Z | comms/open/github-alerts/20261118T0740Z_DOT_to_ARCHITECT_grok-self-wake-evidence-and-safe-test.txt | review GROK self-wake trigger, safe test | BY none | OPEN
