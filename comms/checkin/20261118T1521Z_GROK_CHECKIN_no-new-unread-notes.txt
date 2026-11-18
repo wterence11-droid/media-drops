@@ -1,0 +1,4 @@
+GOT: push bac1358b07e7a9a9d48026d8c658244e9acdd73d (ARCHITECT-TASK check-in: Descript declined) and later commits; scanned open/ for unread _to_GROK_ or _to_ALL_ files
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
