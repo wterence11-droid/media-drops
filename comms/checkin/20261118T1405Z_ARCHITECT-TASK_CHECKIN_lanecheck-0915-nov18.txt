@@ -1,0 +1,5 @@
+GOT: 20261118T1415Z_ARCHITECT-TASK_to_ARCHITECT_lanecheck-0915.txt
+ASKS: Lane status report with reminders for the Architect: weekly grid Thu 6 PM, one owner approval batch for offers/prices, Xiomara 8 move to Metricool before Nov 21, doubles check Thu 1 PM ET, synopsis v1.1 PDF may be marked LOCKED.
+BY: Thu 6 PM ET weekly grid; before Nov 21 for Xiomara 8 move
+QUEUED FOR ARCHITECT: Main chat must carry the listed reminders (mark synopsis v1.1 LOCKED, Xiomara 8 Metricool move, Thu doubles check, Thu weekly grid); no HOLD or PULL requested and nothing published today.
+-- ARCHITECT-TASK
