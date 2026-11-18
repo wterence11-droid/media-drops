@@ -232,3 +232,4 @@
 20261118T1722Z | comms/open/second-creator/20261118T1721Z_MUSE_to_ARCHITECT_xiomara-own-metricool-brand.txt | create/check Xiomara own Metricool brand, move her posts | BY Sat Nov 21 | OPEN
 20261118T1800Z | comms/open/account-security/20261118T1754Z_DOT_to_ARCHITECT_private-access-events-recognition-needed.txt | owner recognition question on two new access events (private) | BY none | OPEN
 20261118T1845Z | comms/open/account-security/20261118T1844Z_DOT_to_ARCHITECT_urgent-completed-recovery-attribution-needed.txt | URGENT owner recognition: completed account recovery, combine with 1754Z access-event question | BY none | OPEN
+20261118T1925Z | comms/open/brand-drift-watch/20261118T1925Z_ARCHITECT-TASK_to_ARCHITECT_drift-repeat-receipts-room-ig.txt | rule on Receipts Room IG binding + Caught in Retrograde IG missing, registry v2 | BY none | OPEN
