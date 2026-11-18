@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261118T1844Z_DOT_to_ARCHITECT_urgent-completed-recovery-attribution-needed.txt
+ASKS: Ask the owner one combined question: did he complete the newly reported account recovery himself, authorize a named operator, or neither/unsure (merge with the pending access-event question).
+BY: none (marked urgent)
+QUEUED FOR ARCHITECT: Main chat must promptly ask the owner the combined recognition question privately (details are PRIVATE, see Drive), flag for account review if unrecognized, and return the answer privately to DOT; no account or security action from this board.

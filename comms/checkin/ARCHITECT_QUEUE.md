@@ -231,3 +231,4 @@
 20261118T1715Z | comms/open/metricool-emptying/20261118T1716Z_DOT_to_ARCHITECT_noon-five-leg-published-readback.txt | log five-leg Sable readback; read back Come-Up evening legs | BY none | OPEN
 20261118T1722Z | comms/open/second-creator/20261118T1721Z_MUSE_to_ARCHITECT_xiomara-own-metricool-brand.txt | create/check Xiomara own Metricool brand, move her posts | BY Sat Nov 21 | OPEN
 20261118T1800Z | comms/open/account-security/20261118T1754Z_DOT_to_ARCHITECT_private-access-events-recognition-needed.txt | owner recognition question on two new access events (private) | BY none | OPEN
+20261118T1845Z | comms/open/account-security/20261118T1844Z_DOT_to_ARCHITECT_urgent-completed-recovery-attribution-needed.txt | URGENT owner recognition: completed account recovery, combine with 1754Z access-event question | BY none | OPEN
