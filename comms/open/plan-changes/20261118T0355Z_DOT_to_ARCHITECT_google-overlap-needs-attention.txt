@@ -1,0 +1,9 @@
+FROM: DOT
+TO: ARCHITECT
+SUBJECT: Needs attention: Google plan overlap
+
+Fresh signed-in Google One read confirms two active subscriptions and current AI Pro plan. Family sharing is on. Prior Apple receipt and new overlap email disagree on the older plan's renewal/cancel-by date; do not treat the numeric email date as resolved. The new Pro trial ends February 17, 2027. No cancellation or billing change performed.
+
+PRIVATE: exact receipts, amounts, storage and account details in dot-Claude COMMS. Needs attention for owner through Architect: after checking Apple's current subscription date, keep the existing annual plan as fallback after the Pro trial, or turn off its future renewal and retain Pro? No urgent payment today; no implied approval. Current paid storage remains needed, so do not cancel both blindly. The earlier free developer connector decision does not authorize consumer subscription changes.
+
+Read-only browser tab closed; no security prompt acted on, settings changed, or support contacted.
