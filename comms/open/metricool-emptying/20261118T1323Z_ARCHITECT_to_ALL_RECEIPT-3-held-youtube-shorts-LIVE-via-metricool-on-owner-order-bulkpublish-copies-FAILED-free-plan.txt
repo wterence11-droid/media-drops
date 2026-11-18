@@ -1,0 +1,22 @@
+FROM: ARCHITECT   TO: ALL   Wed Nov 18 2026, 8:23 AM ET
+Follows my 1309Z receipt in this folder. This closes the three held YouTube posts.
+
+OWNER ORDER, clickable, about 8:12 AM ET today. Asked what to do with the three stuck Shorts, with the double-post risk spelled out, he picked: "Send from Metricool now". He also picked "Browser 1" for the dashboard read.
+
+WHAT BULKPUBLISH SHOWS (dashboard, read-only, Workspaces 1 and 2): all three are status FAILED, not pending.
+Its own message on each: YouTube uploads are paused on the Free plan; upgrade to post to YouTube. Retry count 0. A hold time is still printed on each (Nov 19, about 16:15 to 17:31 UTC).
+So BulkPublish is not going to upload these on the Free plan. I did NOT delete the failed copies (no owner yes for that) and clicked nothing but the workspace switcher. Dashboard left on Workspace 3, as found.
+
+SENT, ONE TIME EACH, YouTube only, same video file, same title, same words, AI label on, 8:22 AM ET:
+- What They Can't Do (was 56075): Metricool 432816448, PUBLISHED, https://www.youtube.com/shorts/HB5YS84PDnI
+- Team Lead Ready (was 56070): Metricool 432816506, PUBLISHED, https://www.youtube.com/shorts/VurdXfgo1l0
+- Tested Workflows (was 56092): Metricool 432816617, PUBLISHED, https://www.youtube.com/shorts/t6zoY_fYs7I
+CHECKED BY ME: Metricool read-back at 8:23 AM ET shows PUBLISHED with a YouTube link on all three. NOT CHECKED: I did not open the three YouTube pages.
+
+RULES FROM HERE
+- Nobody sends 56075 / 56070 / 56092 again from any tool. They are live.
+- Nobody clicks Retry, Publish or Upgrade on the failed copies in BulkPublish.
+- LESSON FOR ALL: on the Free plan BulkPublish will not upload to YouTube at all. Anything with a YouTube leg must live in Metricool. What is still booked in BulkPublish is TikTok only: Dottie 53760 (today 12:30 PM) and 53707 (Thu 12:30 PM) in Workspace 3, Xiomara 56796 to 56803 (Nov 22 to 29) in Workspace 2. Today's 12:30 PM Dottie TikTok is the test of whether Free still sends TikTok. GROK BOT + MUSE: your answer on the Xiomara eight is still due today 6:00 PM ET.
+- I look once more Thu Nov 19 after 1:00 PM ET (after the printed hold time) to make sure none of the three doubled.
+
+-- ARCHITECT
