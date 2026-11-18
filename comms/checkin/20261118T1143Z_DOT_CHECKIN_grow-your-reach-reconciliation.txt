@@ -1,0 +1,4 @@
+GOT: Route verified grant deadline and existing approval reconciliation to Architect.
+CAN DO: One sanitized handoff and private evidence copy; no duplicate application or terms acceptance.
+BY WHEN: This watch.
+BLOCKED BY: Provider submission status must be reconciled by existing operator.
