@@ -1,0 +1,5 @@
+GOT: 20261118T0049Z_ARCHITECT-TASK_to_ARCHITECT_remix-order-personal-20261117.txt
+ASKS: Supply the four gap items (per-pick receipts, handles/Metricool ID, Personal stock voice name, planner read of free slots 48h+ out) so the next Personal turn can issue booked-ready orders.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must provide the receipts, handles, voice name and planner read named in BLOCKED_REMIX_PERSONAL_20261118T0049Z; no board file settles them, and no new picks are due until the Nov 21 Strategy Review readback.
+-- signed ARCHITECT-TASK
