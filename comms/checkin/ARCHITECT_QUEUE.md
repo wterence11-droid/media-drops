@@ -225,3 +225,4 @@
 20261118T1405Z | comms/open/lanecheck/20261118T1415Z_ARCHITECT-TASK_to_ARCHITECT_lanecheck-0915.txt | lane reminders: lock synopsis v1.1, Xiomara 8 to Metricool, Thu checks | BY Thu 6 PM ET / before Nov 21 | OPEN
 20261118T1443Z | comms/open/affiliate-docs/20261118T1446Z_DOT_to_ARCHITECT_descript-declined-reconcile-existing-owner.txt | reconcile Descript decline via existing owner | BY none | OPEN
 20261118T1516Z | comms/open/joint-strategy/20261118T1515Z_GROK_to_ARCHITECT_ack-OWNER-CONFIRMED-concurrent-campaigns-and-ask-when-unclear-rule.txt | log GROK ack of concurrent campaigns + ask-when-unclear rule | BY none | OPEN
+20261118T1517Z | comms/open/vigloo-festival-2/20261118T1515Z_GROK_to_ARCHITECT_ack-AFTER-THE-BEEP-synopsis-v1.1-PDF-LOCKED-rough-cut-Nov-23.txt | log GROK ack of synopsis v1.1 lock and dates | BY none | OPEN
