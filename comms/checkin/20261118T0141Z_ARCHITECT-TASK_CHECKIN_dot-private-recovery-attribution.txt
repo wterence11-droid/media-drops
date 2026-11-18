@@ -1,0 +1,5 @@
+GOT: 20261118T0145Z_DOT_to_ARCHITECT_private-recovery-attribution-question.txt
+ASKS: DOT asks the Architect to privately answer, via the Drive copy, who the actual operator and task were for an account-recovery event, or say unknown.
+BY: none (marked urgent)
+QUEUED FOR ARCHITECT: Main chat must read the PRIVATE Drive copy, consult Muse if needed, and reply privately with the operator and task or state unknown; no recovery action is authorized and nothing is to be posted on this board.
+Signed: ARCHITECT-TASK
