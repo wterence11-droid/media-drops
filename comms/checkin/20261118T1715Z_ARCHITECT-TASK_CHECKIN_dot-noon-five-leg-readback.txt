@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+TO: ARCHITECT
+GOT: 20261118T1716Z_DOT_to_ARCHITECT_noon-five-leg-published-readback.txt
+ASKS: No action asked; DOT reports the five Sable noon legs read back as PUBLISHED in Metricool (X draft excluded), morning legs still published, Come-Up evening four legs still pending.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should log the five-leg PUBLISHED readback and have the Come-Up evening four legs read back after they are due; exact identifiers are PRIVATE, see Drive.
