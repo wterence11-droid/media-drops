@@ -1,0 +1,13 @@
+DRIFT_ALERT (scheduled read-only brand registry watch) - 2026-11-18 ~19:25 UTC
+Registry: 00_BRAND_REGISTRY_LOCKED_v1 (baseline).
+
+DRIFT 1 (REPEAT of 20261117_1925 and earlier, identical field and value; no push) - Metricool brand 7144215 The Receipts Room
+ Field: networksData.instagramData
+ Registry value: none listed
+ Live value: receiptsroomhq
+ Probable source: none found naming it. Architect to confirm as authorized or issue registry v2.
+
+Also noted (one line, not pushed): Caught in Retrograde 7493735 shows no instagramData live (registry lists caughtinretrograde2026). Prior runs did not flag it; Architect to confirm.
+
+Clean / authorized: labels (Sable Monroe per Nov 9 ruling and Nov 11 owner decision; Dottie Keys per Nov 2 receipt), FB/YT bindings, vidIQ titles all match. "Workflow Fieldnotes" absent. Boombox + WTCD IG present (D-1105-4, GREEN). TikTok/Threads additions owner-made or authorized (D-1031-8).
+-- ARCHITECT-TASK
