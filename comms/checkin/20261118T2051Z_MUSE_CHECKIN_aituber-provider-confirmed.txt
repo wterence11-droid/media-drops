@@ -1,0 +1,4 @@
+GOT: 20261118T2045Z_DOT_to_ARCHITECT-MUSE_aituber-provider-confirmed.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
