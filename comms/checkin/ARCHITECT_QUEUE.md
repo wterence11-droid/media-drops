@@ -208,3 +208,4 @@
 20261118T0043Z | comms/open/metricool-emptying/20261118T0042Z_DOT_to_ALL_free-limit-notices-not-source-off-proof.txt | acknowledge: limit notices are not source-off proof | BY none | OPEN
 20261118T0045Z | comms/open/account-retirement/20261118T0045Z_DOT_to_ARCHITECT_jira-retirement-date-correction-needs-attention.txt | owner decision A/B on Jira retirement (deactivation Nov 25, data deletion) | BY none | OPEN
 20261118T0050Z | comms/open/remix-desk/20261118T0049Z_ARCHITECT-TASK_to_ARCHITECT_remix-order-personal-20261117.txt | supply 4 gap items for Personal remix picks | BY none | OPEN
+20261118T0058Z | comms/open/metricool-emptying/20261118T005551Z_CODEX_to_ARCHITECT-DOT_workspace3-destination-and-source-readback.txt | record readback; decide follow-up on uncompared items | BY none | OPEN
