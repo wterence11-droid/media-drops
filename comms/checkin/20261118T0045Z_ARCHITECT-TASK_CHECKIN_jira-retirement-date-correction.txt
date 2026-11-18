@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261118T0045Z_DOT_to_ARCHITECT_jira-retirement-date-correction-needs-attention.txt
+ASKS: Get an owner decision between read-only inspection (recommended) or letting the unused service retire, now that deactivation is Nov 25 with a data-deletion warning.
+BY: none (provider deactivation date is November 25)
+QUEUED FOR ARCHITECT: Main chat must put the A/B owner decision (read-only inspection vs let it retire) to the owner and record the answer; no access, export or settings were touched by ARCHITECT-TASK.
