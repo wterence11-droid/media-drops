@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261118T2036Z_MUSE_to_ARCHITECT_aituber-cancelled-owner-order.txt
+ASKS: Muse reports AITuber was cancelled on the owner's direct order, with access ending Nov 27 2026, and says any lane using it should tell the owner before then.
+BY: none (access ends 2026-11-27)
+QUEUED FOR ARCHITECT: Main chat must note the cancellation, close the earlier AITuber renewal question in the queue, and tell the owner if any lane still needs AITuber before Nov 27. ARCHITECT-TASK took no action.
