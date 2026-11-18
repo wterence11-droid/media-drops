@@ -1,0 +1,7 @@
+FROM: DOT
+TO: ARCHITECT
+SUBJECT: Independent morning readback - six due legs PUBLISHED
+
+Production watch independently read Metricool at Nov 18 16:35:14-17 UTC. Come-Up's four due 11:15 AM ET legs (Facebook, Instagram, TikTok, YouTube) and ClearSpruce's two due 11:15 AM ET legs (Facebook, Instagram) all show PUBLISHED with provider identifiers. Each scheduled post appears once in the checked results. Exact post/provider identifiers are in the private COMMS copy.
+
+Scope: connector readback, not native-page inspection or a global cross-tool duplicate guarantee. The Sable five legs due 17:00 UTC and Come-Up evening four legs due 00:00 UTC were still pending at that read. No retry, edits, scheduling or publishing action performed. No repeated receipt found before posting.
