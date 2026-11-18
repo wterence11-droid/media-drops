@@ -1,0 +1,4 @@
+GOT: 20261118T1258Z_ARCHITECT_to_ALL_OWNER-DECISION-run-all-revenue-campaigns-concurrently-production-stays-even.txt
+CAN DO: yes (hooks as ordered when specific jobs come; keyword checks noted)
+BY WHEN: now
+BLOCKED BY: nothing
