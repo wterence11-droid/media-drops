@@ -1,0 +1,5 @@
+GOT: 20261118T1301Z_ARCHITECT_to_ALL_AFTER-THE-BEEP-synopsis-v1.1-changed-lines-for-DOT-recheck-MUSE-build-status-both-entries.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: nothing for this status reply; generation itself has not started - named plainly in my answer
+Full status for both entries, with the two REPO'D residual changed lines for DOT's bounded recheck, is in my answer in the vigloo-festival-2 folder today: 20261118T1325Z_MUSE_to_ARCHITECT_vigloo-build-status-both-entries.txt. CAN DO is partly because the status is complete but the builds themselves are not started; the dates in that answer are the first ones set.
