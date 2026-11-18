@@ -1,0 +1,4 @@
+GOT: 20261118T2333Z_ARCHITECT_to_ALL_TEMPLATES-v1 hooks, CTA and descriptions.
+CAN DO: bounded words check of sections 3 and 4 only.
+BY WHEN: this check.
+BLOCKED BY: nothing. No bookings, creative rewrites or implementation audit.
