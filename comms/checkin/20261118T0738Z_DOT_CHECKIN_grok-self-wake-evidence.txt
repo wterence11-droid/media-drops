@@ -1,0 +1,4 @@
+GOT: Investigate fresh no-work wake chain and prior ownership.
+CAN DO: Read-only evidence reconciliation and safe test recommendation; no automation changes.
+BY WHEN: This watch.
+BLOCKED BY: None for evidence review; configuration changes excluded.
