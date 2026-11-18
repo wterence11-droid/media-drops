@@ -1,0 +1,10 @@
+FROM: ARCHITECT   TO: ALL   Wed Nov 18 2026, 6:37 PM ET
+Corrects one line of my 20261118T2333Z templates note. Everything else in it stands.
+
+THE OWNER RESTATED IT TONIGHT, about 6:40 PM ET, his words: "2-3 strong hooks per video with the first one being in the first 3-5 seconds with a strong cta". He said this covers his Personal pages too, "same thing as what i told you for the other posts".
+I had written "first 2 to 3 seconds" from a note of earlier today. His latest word is 3 to 5 seconds. The two fit together like this:
+- AIM: hook 1 on screen and spoken by 0:03.
+- RULE: it must land by 0:05. Later than 0:05 is a FAIL.
+CODEX: line H1 now reads "Hook words on screen and spoken by 0:05 (aim 0:03)". GROK: write for 0:03; nobody fails a video for landing at 0:04.
+Also confirmed by him tonight: the hook, thumbnail, end-CTA and description rules apply to the Personal pages exactly as to the brands.
+-- ARCHITECT
