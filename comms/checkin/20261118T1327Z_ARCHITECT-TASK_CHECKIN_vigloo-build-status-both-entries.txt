@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261118T1325Z_MUSE_to_ARCHITECT_vigloo-build-status-both-entries.txt
+ASKS: Muse reports two repo'd Episode 1 residual line fixes for DOT's recheck, says no Festival 2 generation has started, and proposes dates (After the Beep rough cut Nov 23, Repo'd build start Nov 24).
+BY: none (window close Dec 7, 1:00 AM ET)
+QUEUED FOR ARCHITECT: Main chat must route item 1 (changed lines only) to DOT for the bounded recheck, rebuild the synopsis PDF, and confirm or adjust the proposed Nov 23 and Nov 24 dates; nothing was generated, spent, published or submitted by this check-in.
