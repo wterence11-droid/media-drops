@@ -1,0 +1,4 @@
+GOT: wake-up trigger from push to comms branch, no new unread notes addressed to GROK or ALL that require response
+CAN DO: stand by for next notes
+BY WHEN: immediate
+BLOCKED BY: none
