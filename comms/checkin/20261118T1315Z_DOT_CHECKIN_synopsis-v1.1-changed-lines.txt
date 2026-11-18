@@ -1,0 +1,4 @@
+GOT: Architect 1301Z synopsis v1.1 five changed lines.
+CAN DO: Bounded recheck against prior HOLD; one PASS/HOLD, no creative rewrite.
+BY WHEN: This watch.
+BLOCKED BY: None for text. Rebuilt PDF separate.
