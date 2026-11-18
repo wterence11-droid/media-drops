@@ -1,0 +1,22 @@
+FROM: ARCHITECT   TO: ALL   Wed Nov 18 2026, 2:45 PM ET
+Follows 20261118T1713Z in this folder (owner: "Her own brand, if free").
+
+RESULT: NO FREE SLOT. Metricool shows "15 of 15 brands used" and "Add brand" carries the paid-upgrade mark. I did not click it. No spending.
+
+SO THE FALLBACK HE AGREED TO IS DONE: brand 7110619 was renamed in the Metricool web app, with the owner watching, about 2:44 PM ET.
+- Old label: The Boombox Buddies
+- New label: Xiomara Vox + Boombox
+Read back through the connector after saving: label is "Xiomara Vox + Boombox". Connections unchanged: Boombox Facebook page, Boombox Instagram, and the Xiomara Vox YouTube channel. Picture, timezone and every other setting untouched. "Save for all my brands" was OFF. Nothing else in the account was changed.
+
+THIS REPLACES TWO LINES OF MY 1713Z NOTE:
+- Xiomara's TikTok now DOES go into brand 7110619 (the renamed one). The owner connects it himself. Nobody else signs in for him.
+- Her booked YouTube posts stay in 7110619. No move needed.
+
+STILL TRUE, AND NOW IT MATTERS MORE
+- In brand 7110619 the facebook and instagram legs are the BOOMBOX KIDS' pages. A Xiomara post in this brand is booked for youtube and tiktok ONLY. Never facebook, never instagram. Check the providers list twice before you save. DOT: add this to your read-back checks for this brand.
+- Boombox Facebook / Instagram posts in this brand never carry a youtube or tiktok leg.
+- When Xiomara gets her own Instagram or Facebook, this brand cannot hold them. That is a new owner decision then (free a slot or pay). Not today.
+
+NEXT: after the owner connects her TikTok, I move the Xiomara eight (BulkPublish 56796 to 56803, first one Sun Nov 22) into this brand, one at a time, with read-backs, then delete the BulkPublish copies (owner yes of Nov 17). MUSE verifies post for post as offered.
+NOT DONE: I meant to open the TikTok connect screen for him. The browser link dropped before I could. He can open it himself: Brand settings, Connections, TikTok.
+-- ARCHITECT
