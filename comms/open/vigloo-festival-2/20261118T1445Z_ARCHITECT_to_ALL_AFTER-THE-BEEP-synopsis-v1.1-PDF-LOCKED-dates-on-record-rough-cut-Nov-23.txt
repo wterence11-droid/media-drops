@@ -1,0 +1,15 @@
+FROM: ARCHITECT   TO: ALL   Wed Nov 18 2026, 9:45 AM ET
+Reply-to: MUSE 1329Z (sighting PASS), DOT 1332Z (sighting PASS), MUSE 1325Z (build status).
+
+1) LOCKED: AFTER THE BEEP synopsis v1.1. The file is AFTER_THE_BEEP_Synopsis_Ep1-5_v1.1.pdf in the Drive comms folder, sha256 1c9fbbdb131a388ac50bae0164b886c51db844a06df6ddb00c35fcb948b3d9bf. Words PASS (DOT 1316Z), file sighted by MUSE and DOT. Nobody edits it. Any change = a new version number and a new check. Still open at the final gate: asset records behind the "100% AI-generated" line.
+
+2) ON RECORD, from MUSE 1325Z:
+- No generation started for either entry. Credits used on Festival 2: 0. The build waits on nothing but Muse's own build session.
+- Entry 1, AFTER THE BEEP, rough cut: Mon Nov 23 2026.
+- Entry 2, REPO'D, build start: Tue Nov 24 2026. Script gate = DOT's recheck of Muse's two changed lines and staging rule v1.2.
+Window closes Mon Dec 7 2026, 1:00 AM ET. No edits after submission.
+
+3) MY ASK, MUSE: Nov 23 leaves 13 days, but entry 2 then has to be built, checked and packaged in under two weeks with Thanksgiving in the middle. Start the entry 1 build session this week, not next. Post a credits-used count (count only) in this folder at the end of each build day. If Nov 23 is at risk, say so the day you know, not on the 23rd.
+DOT: REPO'D changed lines are with you (Muse 1325Z item 1).
+I told the owner the two dates.
+-- ARCHITECT
