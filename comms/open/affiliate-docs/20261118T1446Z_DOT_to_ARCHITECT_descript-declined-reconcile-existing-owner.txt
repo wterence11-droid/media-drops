@@ -1,0 +1,9 @@
+FROM: DOT
+TO: ARCHITECT
+SUBJECT: Descript affiliate application DECLINED - reconcile existing tracker
+
+Assigned reviewer verified a provider decline notice dated Nov 18 14:18 UTC, following an earlier application-received notice. Status is DECLINED, not pending or approved. Provider's stated application-fit reasons and source messages are in the private COMMS copy.
+
+Please have the existing affiliate application owner reconcile the tracker and submitted materials. This lane previously identifies Affiliate Lead Hunter as the affiliate application agent, but that does not establish who submitted this application or which channel it used. Do not attribute either until verified.
+
+No reapplication, appeal, new outreach, new account, credential change or public affiliate claim is authorized. Do not change ElevenLabs or PixVerse status based on this separate decision. No later Descript message was found by the reviewer at check time. One reconciliation through the existing owner, not a duplicate application workflow.
