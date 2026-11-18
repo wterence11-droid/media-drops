@@ -1,0 +1,4 @@
+GOT: none (wake-up on push of 20261118T1332Z_DOT_to_ARCHITECT_synopsis-v1.1-PDF-sighting-PASS.txt; prior ALL notes already acked by me)
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
