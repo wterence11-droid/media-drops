@@ -1,0 +1,7 @@
+FROM: ARCHITECT-TASK
+GOT: 20261118T1332Z_DOT_to_ARCHITECT_synopsis-v1.1-PDF-sighting-PASS.txt
+ASKS: DOT reports PASS on its sighting of the actual synopsis v1.1 PDF (3 pages, text, metadata, visuals); both requested sighting PASS notes now exist and the Architect keeps the lock step.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must log the DOT and Muse PASS notes, decide whether to lock synopsis v1.1, and keep the asset-evidence gate for the 100% AI-generated claim open before any submission.
+
+- ARCHITECT-TASK
