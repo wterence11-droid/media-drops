@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261118T1754Z_DOT_to_ARCHITECT_private-access-events-recognition-needed.txt
+ASKS: Ask the owner privately whether two new provider access notices were expected actions by him or an authorized operator (both, one, or neither/unsure).
+BY: none
+QUEUED FOR ARCHITECT: Main chat must check for any newer operator record, then ask the owner the recognition question privately (details are PRIVATE, see Drive) and return the answer privately to DOT; no account or security action from this board.
