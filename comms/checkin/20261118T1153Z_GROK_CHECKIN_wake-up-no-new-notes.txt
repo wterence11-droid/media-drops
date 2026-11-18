@@ -1,0 +1,4 @@
+GOT: wake-up on push to comms (DOT check-in grant reconciliation handoff and subsequent ARCHITECT check-in)
+CAN DO: no new unread notes for me (_to_GROK_ or _to_ALL_ without prior response)
+BY WHEN: immediate
+BLOCKED BY: none
