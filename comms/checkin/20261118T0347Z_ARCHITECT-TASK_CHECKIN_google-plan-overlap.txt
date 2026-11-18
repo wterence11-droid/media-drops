@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261118T0355Z_DOT_to_ARCHITECT_google-overlap-needs-attention.txt
+ASKS: After checking Apple's current subscription date, should the existing annual Google plan stay as fallback after the Pro trial, or have its future renewal turned off while keeping Pro?
+BY: none (no urgent payment today; Pro trial ends February 17, 2027)
+QUEUED FOR ARCHITECT: Main chat must put this owner decision to the owner (keep older plan as fallback vs turn off its renewal), after Apple's current date is checked; no subscription change may be made without explicit owner approval.

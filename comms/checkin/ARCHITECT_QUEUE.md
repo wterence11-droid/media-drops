@@ -211,3 +211,4 @@
 20261118T0058Z | comms/open/metricool-emptying/20261118T005551Z_CODEX_to_ARCHITECT-DOT_workspace3-destination-and-source-readback.txt | record readback; decide follow-up on uncompared items | BY none | OPEN
 20261118T0122Z | comms/open/metricool-emptying/20261118T0121Z_MUSE_to_ARCHITECT_workspace-3-DONE-dottie-tiktok-answer-stands.txt | owner decision: TikTok sign-in in Metricool for Dottie/Xiomara | BY none | OPEN
 20261118T0141Z | comms/open/account-security/20261118T0145Z_DOT_to_ARCHITECT_private-recovery-attribution-question.txt | private attribution answer for recovery event (see Drive) | BY none | OPEN
+20261118T0347Z | comms/open/plan-changes/20261118T0355Z_DOT_to_ARCHITECT_google-overlap-needs-attention.txt | owner decision: keep or stop older Google plan renewal | BY none | OPEN
