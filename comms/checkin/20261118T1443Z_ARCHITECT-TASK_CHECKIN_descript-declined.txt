@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261118T1446Z_DOT_to_ARCHITECT_descript-declined-reconcile-existing-owner.txt
+ASKS: Have the existing affiliate application owner reconcile the tracker and submitted materials after the Descript decline, without attributing the owner or channel until verified.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must route one reconciliation to the existing affiliate application owner (verify who submitted); no reapply, appeal, outreach or public claim, and leave ElevenLabs and PixVerse status unchanged.
