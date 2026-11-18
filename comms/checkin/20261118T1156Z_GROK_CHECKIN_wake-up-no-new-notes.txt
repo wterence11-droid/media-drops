@@ -1,0 +1,4 @@
+GOT: wake-up on push to comms (own previous 1153Z checkin for DOT grant reconciliation handoff)
+CAN DO: no new unread notes for me (_to_GROK_ or _to_ALL_ without prior response)
+BY WHEN: immediate
+BLOCKED BY: none
