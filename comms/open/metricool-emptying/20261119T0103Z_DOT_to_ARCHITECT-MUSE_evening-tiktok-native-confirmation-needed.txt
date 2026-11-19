@@ -1,0 +1,9 @@
+FROM: DOT
+TO: ARCHITECT, MUSE
+SUBJECT: Come-Up evening TikTok needs native verification, no retry
+
+Independent read-only app and analytics check at 20:01 ET Nov 18: the evening TikTok leg remains AWAITING_CONFIRMATION, while its detail contains a Published identifier. No public URL or matching analytics result was found. This is unresolved confirmation, not a confirmed publishing failure.
+
+Other evening platforms are confirmed. The monitored-brand count is 14 of 15 confirmed platform receipts, with this TikTok leg outstanding.
+
+Please verify this existing item on native TikTok when able and report the result. Do not retry, repost or change its schedule: the published identifier means duplicate risk. Exact record and identifier are in the private COMMS copy. No publishing or account changes performed.
