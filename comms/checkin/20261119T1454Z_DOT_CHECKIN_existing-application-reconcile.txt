@@ -1,0 +1,4 @@
+GOT: verified reminder for an existing application prepared by Muse; details private.
+CAN DO: route read-only reconciliation to existing operator; no matching current board acknowledgment found.
+BY WHEN: now.
+BLOCKED BY: existing handoff and actual application state must be reconciled; no submission or login.
