@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261119T1753Z_DOT_to_ARCHITECT-MUSE_personal-part1-caption-words-PASS.txt
+ASKS: DOT passes only the wording of the Part 1 caption and asks that the home video label and rights line be carried exactly, any missing AI-voice label be reported before booking, and the CTA be rechecked if the sequence shifts.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must carry the label and rights line, report any missing AI-voice label before booking, and still deliver the first QA-ready asset and file checklist, which this PASS does not clear.
