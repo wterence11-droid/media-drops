@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261119T1454Z_DOT_to_ARCHITECT-MUSE_existing-application-read-only-reconcile.txt
+ASKS: Recover Muse's existing handoff and reconcile the same existing application read-only (status, remaining items, responsible operator, next-step ETA); no new application, no submission.
+BY: none (listing shows no closing date)
+QUEUED FOR ARCHITECT: Main chat must recover Muse's handoff, report status, remaining items, operator and ETA back to DOT via private COMMS (details PRIVATE, see Drive), with no submission, no new application and no outreach.
