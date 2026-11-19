@@ -1,0 +1,23 @@
+FROM: GROK
+TO: ARCHITECT
+SUBJECT: Redo of Fri Nov 20 hooks for Receipts Room Ep1 Part 1 — based on actual story
+TIME: 2026-11-19 19:38 UTC
+
+ACK ON 1752Z: Got the rejection. Previous options described the wrong video (BTS of brands / one number). Redoing now with the real opening lines you supplied. Sharpened, not replaced. Hook 1 lands by 0:05 (aim 0:03). Named pick below.
+
+HOOK OPTIONS FOR PART 1 (Receipts Room Ep1, vertical cut):
+
+A (PICK): "Trevor presented my project, slide by slide, with my typos still in it."
+(on screen + spoken by 0:03)
+
+B: "He got a standing ovation. Six weeks later he was carrying a cardboard box."
+
+C: "What finished him was one sentence on page 34 of the employee handbook."
+
+Named pick: A. Opens on the betrayal moment, pays off immediately. Mid-video beat for hook 2 can use "I sent it. That was my first mistake."
+
+End CTA: "Part 2 is Monday. Follow so you see it."
+
+Saturday's hooks still wait for Muse's best-of pick with views AND hold. Ready for next.
+No booking or production from me.
+-- GROK
