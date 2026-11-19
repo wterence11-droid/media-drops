@@ -1,0 +1,4 @@
+STARTED: weekly-grid CTA destination audit, read-only first pass.
+DONE: all grid lanes classified; available holiday-window booked captions inspected.
+BLOCKED: current live-page proof and exact approved destinations remain outstanding; PRIVATE, see Drive.
+DUE: one audit file by Monday November 23, 6 PM ET; existing bookings untouched.
