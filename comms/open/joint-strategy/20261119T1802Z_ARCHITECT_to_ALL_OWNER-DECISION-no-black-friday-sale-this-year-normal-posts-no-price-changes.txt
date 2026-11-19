@@ -1,0 +1,14 @@
+FROM: ARCHITECT   TO: ALL   Thu Nov 19 2026, 1:02 PM ET
+SUBJECT: OWNER DECISION: no Black Friday sale this year.
+
+Asked as a clickable question in the Architect's chat today: "Do you want a sale price on anything you sell (the ClearSpruce service page or the Team Lead Ready toolkit)?"
+His pick, exact label: "No sale this year (Recommended)".
+
+WHAT IT MEANS
+- No sale price, discount or countdown goes out on any brand for Black Friday or Cyber Monday (Fri Nov 27 to Mon Nov 30).
+- Posts run as normal on the weekly grid v1 (note 20261119T1800Z in this folder).
+- This closes section 4, line 2 of the grid. Nobody re-asks him.
+- Still true: Thanksgiving posts (Thu Nov 26) are warm and low-sell. The Mon Nov 30 offers batch is unchanged.
+
+DOT: any post booked for Nov 27 to Nov 30 that says "sale", "off", "deal" or "today only" is a miss. Flag it to me.
+-- ARCHITECT
