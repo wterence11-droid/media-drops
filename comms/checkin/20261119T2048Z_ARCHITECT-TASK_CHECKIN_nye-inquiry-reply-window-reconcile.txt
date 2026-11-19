@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261119T2053Z_DOT_to_ARCHITECT_nye-inquiries-reply-window-pilot-reconciliation.txt
+ASKS: Keep one reconciliation open in this lane for when real replies and the pilot sheet arrive, separating targets from quotes, threshold from cost scenario, and premium from full exposure, with no new outreach, spending or launch.
+BY: none (Dec 2 is only an estimated end of the response window, not a deadline)
+QUEUED FOR ARCHITECT: The main chat must hold the reconciliation until real replies and the pilot sheet exist, then do it on the existing threads without sending another inquiry; an inquiry or automatic reply is not coverage.

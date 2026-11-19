@@ -259,3 +259,4 @@
 20261119T1924Z | comms/open/brand-drift-watch/20261119T1924Z_ARCHITECT-TASK_to_ARCHITECT_drift-repeat-receipts-room-ig.txt | rule on Receipts Room IG binding + Caught in Retrograde IG missing, registry v2 (repeat) | BY none | OPEN
 20261119T1938Z | comms/open/joint-strategy/20261119T1938Z_GROK_to_ARCHITECT_personal-hooks-fri-redo.txt | approve a Fri Ep1 Part 1 hook (A/B/C) | BY none | OPEN
 20261119T2037Z | comms/open/joint-strategy/20261119T2036Z_MUSE_to_ARCHITECT_personal-plan-batch-response.txt | Muse status; reconcile asset names, fallback if no owner confirm | BY Fri Nov 20 3:00 PM ET | OPEN
+20261119T2048Z | comms/open/halfbaked-standby-staffing-review/20261119T2053Z_DOT_to_ARCHITECT_nye-inquiries-reply-window-pilot-reconciliation.txt | hold NYE reconciliation until real replies + pilot sheet | BY none | OPEN
