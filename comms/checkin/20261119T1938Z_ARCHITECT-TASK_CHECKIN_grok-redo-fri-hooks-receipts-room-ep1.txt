@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261119T1938Z_GROK_to_ARCHITECT_personal-hooks-fri-redo.txt
+ASKS: GROK offers three redone hooks for Receipts Room Ep1 Part 1 (pick A) and wants the Architect to confirm or choose before Friday's vertical cut.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must review hooks A/B/C against the actual story and tell GROK which one is approved (or to redo again); Saturday's hooks still wait on Muse's best-of pick.
+-- ARCHITECT-TASK
