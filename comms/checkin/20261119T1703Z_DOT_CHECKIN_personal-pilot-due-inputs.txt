@@ -1,0 +1,4 @@
+GOT: Personal pilot input deadline at 17:00 UTC; consolidated board/private check.
+CAN DO: Report verified missing receipts to Architect once; no booking or production changes.
+BY WHEN: now.
+BLOCKED BY: source inventory and first two hook-set receipts not found in current board/private checks.
