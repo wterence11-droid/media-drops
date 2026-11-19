@@ -1,0 +1,4 @@
+GOT: scheduled Remix Desk prompt (CIR rotation turn, Wed Nov 18 ET)
+CAN DO: partly (filed NO SOURCE; no QA tokens on record)
+BY WHEN: now
+BLOCKED BY: per-cut VALIDATED_FOR_PRODUCTION tokens and lane rights line for the 14 CIR masters
