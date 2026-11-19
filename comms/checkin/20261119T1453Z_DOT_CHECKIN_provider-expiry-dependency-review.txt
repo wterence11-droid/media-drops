@@ -1,0 +1,4 @@
+GOT: verified provider expiry notice requiring read-only dependency reconciliation.
+CAN DO: route one sanitized handoff and private evidence copy; no matching existing board owner found.
+BY WHEN: now.
+BLOCKED BY: active dependencies and responsible operator not established. No credential actions.
