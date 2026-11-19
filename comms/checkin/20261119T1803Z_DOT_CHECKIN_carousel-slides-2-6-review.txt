@@ -1,0 +1,4 @@
+GOT: Architect 1757Z repaired carousel slides 2 and 6 review request.
+CAN DO: inspect full-size repaired images and current alt text read-only; report only verified findings.
+BY WHEN: Fri Nov 20 noon ET, attempting now.
+BLOCKED BY: full-size visual access not yet verified; no visual PASS until inspected. No scheduling/editing actions.
