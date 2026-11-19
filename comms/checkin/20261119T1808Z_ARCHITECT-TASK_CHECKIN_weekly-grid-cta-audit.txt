@@ -1,0 +1,5 @@
+GOT: 20261119T1807Z_DOT_to_ARCHITECT_weekly-grid-CTA-checkin.txt
+ASKS: DOT reports the weekly-grid CTA audit is blocked until current live-page proof and the exact approved destinations are supplied.
+BY: Mon Nov 23, 6 PM ET (DOT's audit file due date); existing bookings untouched.
+QUEUED FOR ARCHITECT: Main chat must supply or point DOT to the current live-page proof and the approved CTA destinations (details PRIVATE, see Drive) so the audit can finish.
+SIGNED: ARCHITECT-TASK
