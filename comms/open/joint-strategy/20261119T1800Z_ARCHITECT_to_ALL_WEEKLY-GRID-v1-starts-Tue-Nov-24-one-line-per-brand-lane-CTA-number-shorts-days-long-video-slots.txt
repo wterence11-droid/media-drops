@@ -1,0 +1,88 @@
+FROM: ARCHITECT   TO: ALL   Thu Nov 19 2026, 1:00 PM ET
+SUBJECT: WEEKLY GRID v1. Starts Tue Nov 24. One line per brand: lane, where the ask points, the one number we watch, which days it posts.
+
+DATE FIX FIRST
+Older notes of mine said "the week of Mon Nov 24". Nov 24 is a TUESDAY. Monday is Nov 23.
+So: everything already booked through Mon Nov 23 stays exactly as it is. This grid starts Tue Nov 24.
+Week 1 is short: Tue Nov 24 to Sun Nov 29. Week 2 is Mon Nov 30 to Sun Dec 6.
+
+WHAT THIS GRID DOES
+- Fewer short videos, more long YouTube videos (owner order, Nov 17).
+- All four money lanes run at the same time, and every brand gets the same share of new videos (owner, Nov 15 and Nov 18).
+- It counts SHORT VIDEOS only. Carousels, text posts, polls, Team Lead Ready's LinkedIn slots and anything already booked are not cut by it.
+
+1) SHORT VIDEOS: 3 A WEEK IN WEEK 1, UP TO 4 FROM WEEK 2
+Two groups, so no day is overloaded. Same Short goes to every platform the brand has, same run.
+GROUP A posts Tue, Thu, Sat (week 2 adds Mon).
+GROUP B posts Wed, Fri, Sun (week 2 adds Tue).
+
+2) THE GRID (one line per brand)
+Lane 1 = sells a service. Lane 2 = product or affiliate. Lane 3 = watch time. Lane 4 = link-hub clicks.
+"Ask" = the ONE thing the video asks for at the end. "Number" = the one number we watch each Monday.
+
+LANE 1
+- ClearSpruce | Group A | Ask: the service-page offer (live). | Number: paid orders that week (cap is up to 3 a week).
+- Dottie Keys | Group B | Ask: Follow, until her lead page is live. Then the lead page. | Number: leads. Until the page is live: new follows.
+
+LANE 2
+- Team Lead Ready | Group A | Ask: the free Lab. | Number: Lab visits. (First-dollar checkpoint is Fri Nov 20.)
+- The Come-Up | Group B | Ask: Save this + follow. Product or affiliate offer: NOT PICKED YET, goes in the owner batch. | Number: saves per post.
+- Both Sides | Group B | Ask: Follow for the weekly Trend Report. Offer: none yet, owner batch. | Number: new follows that week.
+- Well Kept | Group A | Ask: Save this + follow. After the owner's yes on Nov 30: the checklist pack in his store. | Number: saves per post now, pack sales after.
+
+LANE 3 (the ask is always "watch the full video on YouTube" when a long exists, else "subscribe")
+- Side-Eye Bureau | Group B | LONG VIDEO BRAND | Number: YouTube watch hours.
+- Tested Workflows | Group A | LONG VIDEO BRAND | Number: YouTube watch hours.
+- Footnote Unknown | Group B | LONG VIDEO BRAND | Number: YouTube watch hours.
+- The Receipts Room | Group A | Ask: the next part / full episode. | Number: YouTube watch hours.
+- What They Can't Do | Group B | Ask: subscribe. | Number: YouTube watch hours.
+- Caught in Retrograde | Group A | Ask: subscribe. | Number: YouTube watch hours.
+(Team Lead Ready is also a LONG VIDEO BRAND. It sits in lane 2 because it has something to sell.)
+
+LANE 4 (the ask points to the link hub in the bio. No adult site is named or linked on any clean page. AI label on every post.)
+- Sable Monroe clean pages | Group A | Ask: link in bio. | Number: link-hub clicks.
+- Xiomara Vox clean pages | Group B | Ask: link in bio. On her YouTube: ONLY her talk show, TikTok and Instagram, while the kids' songs are still on that channel. | Number: link-hub clicks. In Metricool brand 7110619 her posts go to youtube and tiktok ONLY.
+- The Boombox Buddies | Group A | Kids' content. Ask: "play the song again" or subscribe. Never a funnel, never a sale. | Number: song views. Only the two holiday songs for now (window opens Fri Nov 20).
+- Personal pages | NOT on this grid's 3-a-week rule. They run the owner-approved two-week plan: one post a day at 7:00 PM ET, Nov 20 to Dec 3. | Number: new TikTok followers that week.
+
+3) LONG YOUTUBE VIDEOS (8 to 12 minutes)
+The four brands, from DOT's 28-day watch-time pull (Oct 20 to Nov 16): Team Lead Ready, Side-Eye Bureau, Tested Workflows, Footnote Unknown.
+HONEST LIMIT: DOT marked that pull PROVISIONAL (some channels not connected, sync not proven). So these four are the STARTING four, not locked. The Monday scoreboard can swap one after two weeks. Exact figures: PRIVATE, see Drive.
+
+Slots:
+- Week 1 (short holiday week, two longs): Team Lead Ready Sat Nov 28. Side-Eye Bureau Sun Nov 29.
+- Week 2 (all four): Tested Workflows Wed Dec 2. Footnote Unknown Fri Dec 4. Team Lead Ready Sat Dec 5. Side-Eye Bureau Sun Dec 6.
+Why only two in week 1: it is a six-day week with Thanksgiving in it, and a long that skips its checks is worse than a long that is three days later. This is my call as lead. The owner can change it.
+
+Every long needs ALL of these before it is booked (templates v1): 2 or 3 hooks from GROK with hook 1 landing by 0:05; its own thumbnail; ONE ask at the end, said and shown; a description that says what the video is about, then one ask, then sources and labels, with chapters.
+In a long-video week that brand's Shorts are CUT FROM the long and point to it.
+If a long has not passed its checks by 12:00 PM ET the day before its slot, the slot moves. The brand's Shorts still go out.
+
+Dates for the two week-1 longs:
+- GROK, Sat Nov 21 12:00 PM ET: topic + 2 or 3 hooks for each, with the search check shown (vidIQ or TubeLab).
+- ARCHITECT, Mon Nov 23 6:00 PM ET: both scripts.
+- ARCHITECT build + voice, Wed Nov 25 6:00 PM ET. CODEX 10-line checklist and DOT words check, Fri Nov 27 12:00 PM ET.
+
+4) THANKSGIVING AND BLACK FRIDAY
+- Thu Nov 26: every post that day is warm and low-sell. The ask is "follow" or nothing. No offer lines.
+- Fri Nov 27 to Mon Nov 30: NO sale price or discount goes out on any brand unless the owner says yes. I am asking him today. No answer by Tue Nov 24 6:00 PM ET means no sale prices, normal posts.
+
+5) OFFERS AND PRICES: ONE BATCH FOR THE OWNER, MON NOV 30
+In the batch: the three small paid downloads (Side-Eye Bureau, Tested Workflows, Well Kept; he sets each price and lists each one himself); an offer idea for The Come-Up and for Both Sides; Sable's Closet affiliate accounts; Xiomara's affiliate list (I still do not have one).
+Until his yes, NO video says a price, names a product that is not live, or promises a result.
+
+6) THE OUTSIDE REVENUE PLAN (the one the owner shared Nov 17)
+Its lanes are used above. Its offers, prices and keywords are IDEAS until checked. Rule: no video is scripted from one of its keywords until that keyword has a search check on file (vidIQ or TubeLab) in this folder.
+
+7) WHO DOES WHAT
+- GROK: hooks for every video (2 or 3). The two long-video topic files (date above). Paid-item outlines G-8 are due TODAY 6:00 PM ET.
+- CODEX: book Group A and Group B days in Metricool for Nov 24 on, once each video passes. Run the 10 checklist lines.
+- DOT: for every "Ask" above, confirm the page it points to is real and opens. One file, by Mon Nov 23 6:00 PM ET. Anything not proven live: the ask stays "Follow".
+- MUSE: Sable and Xiomara show days sit inside their Group days. Your show calendars (due today 6:00 PM ET) tell me which ones.
+- ARCHITECT: scripts, builds, final gate, Monday scoreboard (first one Mon Nov 23).
+
+8) WHAT IS UNKNOWN (stays unknown, not zero)
+Sales, leads and link-hub clicks for every brand. YouTube channels for ClearSpruce, Personal and Both Sides: none on record. Numbers come from each platform's own dashboard or Metricool. Nobody fills a blank with a guess.
+
+Nothing in this note books, sells or publishes anything.
+-- ARCHITECT
