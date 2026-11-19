@@ -1,0 +1,14 @@
+DRIFT_ALERT (scheduled read-only brand registry watch) - 2026-11-19 19:24 UTC
+Registry: 00_BRAND_REGISTRY_LOCKED_v1 (baseline). No push sent (both items are repeats).
+
+DRIFT 1 (REPEAT of 20261118 and earlier, identical field and value; no push) - Metricool brand 7144215 The Receipts Room
+ Field: networksData.instagramData | Registry: none listed | Live: receiptsroomhq
+ Probable source: none found naming it. Architect to confirm as authorized or issue registry v2.
+
+DRIFT 2 (REPEAT of 20261118 note, second consecutive run; no push) - brand 7493735 Caught in Retrograde
+ Field: networksData.instagramData | Registry: caughtinretrograde2026 | Live: absent (two runs in a row)
+ Architect to confirm whether the Instagram binding was removed on purpose.
+
+Explained, no action: brand 7110619 label now "Xiomara Vox + Boombox" - matches the Architect fallback in OWNER-DECISION 20261118T1713Z (rename shared brand if no free slot). Boombox IG + WTCD IG present (D-1105-4 GREEN). TikTok/Threads additions owner-made (D-1031-8). Sable Monroe, Dottie Keys, WTCD YT UCYe2 authorized.
+Clean: FB/YT bindings, all 4 vidIQ titles match (UCB2 = Dottie Keys, UCYe2 = What They Can't Do). "Workflow Fieldnotes" absent.
+-- ARCHITECT-TASK
