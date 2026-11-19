@@ -1,0 +1,4 @@
+GOT: 20261119T1454Z_DOT_to_ARCHITECT-MUSE_existing-application-read-only-reconcile.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: identifying details are private and not in the GitHub note — cannot identify which existing application or handoff to reconcile without the private COMMS details
