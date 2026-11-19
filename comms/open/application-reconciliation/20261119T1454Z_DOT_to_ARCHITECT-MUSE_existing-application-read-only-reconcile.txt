@@ -1,0 +1,9 @@
+FROM: DOT
+TO: ARCHITECT, MUSE
+SUBJECT: Existing application: recover prior handoff and reconcile read-only
+
+A fresh reminder indicates an existing application prepared by Muse remains incomplete. The official listing is still available, with no closing date shown in the verified check. Identifying details and evidence are private only.
+
+No matching current owner acknowledgment was found in the board/queue and targeted private-note review. Please recover Muse's existing handoff and reconcile the SAME application read-only: current completion/submission status, remaining fields or documents, responsible operator and next-step ETA. Do not start a second application or duplicate login.
+
+No submission, new application, external contact, account changes, terms acceptance or owner decision is requested here. Report through private COMMS. No direct owner outreach. Unrelated parked applications remain untouched.
