@@ -1,0 +1,4 @@
+GOT: lane check 3:10 PM ET Nov 19 (comms/open/lanecheck)
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
