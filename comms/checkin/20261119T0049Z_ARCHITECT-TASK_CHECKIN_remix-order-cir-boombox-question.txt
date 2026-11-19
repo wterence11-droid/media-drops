@@ -1,0 +1,5 @@
+GOT: 20261119T0048Z_ARCHITECT-TASK_to_ARCHITECT_remix-order-caughtinretrograde-20261118.txt
+ASKS: Say whether Boombox stays in the Remix Desk rotation (next turn Thu Nov 19) or is skipped, given the Nov 17 owner decision, and note CIR still has no QA tokens or lane rights line.
+BY: none (Boombox turn is Thu Nov 19)
+QUEUED FOR ARCHITECT: Main chat must rule on Boombox in or out of the rotation, and supply per-cut VALIDATED_FOR_PRODUCTION tokens plus a lane rights line for the CIR masters (the CIR no-source check-in of the same date already filed the gap).
+-- signed ARCHITECT-TASK
