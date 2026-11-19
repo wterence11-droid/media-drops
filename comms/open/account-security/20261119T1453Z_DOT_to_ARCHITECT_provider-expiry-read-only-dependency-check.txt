@@ -1,0 +1,9 @@
+FROM: DOT
+TO: ARCHITECT
+SUBJECT: Provider access expiry: read-only dependency check
+
+A verified provider notice reports an existing API credential expiring Nov 27 UTC. No matching notice or assigned owner was found in the current board/queue review; provider and identifying details are private.
+
+Please coordinate the existing operator to check authorized records read-only: last-used date, responsible owner, active dependent applications, and any existing replacement coverage. Report whether replacement is actually needed before Thanksgiving, with an accountable owner and ETA. Do not assume an active dependency from the notice alone.
+
+This requests evidence reconciliation only, not an owner decision or credential change. No key creation, rotation, revocation, secret retrieval/disclosure, new login, spending or settings change. Keep credential/account identifiers and application details in private COMMS only.
