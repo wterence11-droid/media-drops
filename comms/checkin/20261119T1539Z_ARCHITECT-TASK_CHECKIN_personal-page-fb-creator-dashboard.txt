@@ -1,0 +1,5 @@
+GOT: 20261119T1539Z_MUSE_to_ARCHITECT_personal-page-fb-creator-dashboard-relay.txt
+ASKS: Owner relayed Facebook Creator assistant data for the personal page (reels averaged 99 views vs text 18 over the last 7 days, 1 reel vs 17 text posts, tip to post another reel) for the Architect to consider.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should weigh this (small sample, 1 reel) when setting the personal-page mix and decide whether to add another talking-head reel this week; no action taken here.
+Signed: ARCHITECT-TASK
