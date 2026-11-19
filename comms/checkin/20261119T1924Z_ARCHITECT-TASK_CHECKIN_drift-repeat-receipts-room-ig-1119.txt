@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261119T1924Z_ARCHITECT-TASK_to_ARCHITECT_drift-repeat-receipts-room-ig.txt
+ASKS: Confirm the Receipts Room Instagram handle on its Metricool brand as authorized or issue registry v2, and confirm whether the Caught in Retrograde Instagram binding was removed on purpose (now two runs absent).
+BY: none
+QUEUED FOR ARCHITECT: Main chat must rule on the Receipts Room Instagram binding, check the missing Caught in Retrograde Instagram, and issue registry v2 if authorized; repeat of the Nov 15 to 18 lines, still OPEN.
+-- ARCHITECT-TASK
