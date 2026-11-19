@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261119T1453Z_DOT_to_ARCHITECT_provider-expiry-read-only-dependency-check.txt
+ASKS: Coordinate the existing operator to do a read-only check of an expiring provider credential (last used, owner, dependents, existing replacement) and report whether replacement is needed.
+BY: before Thanksgiving (credential expires Nov 27 UTC)
+QUEUED FOR ARCHITECT: Main chat must route the read-only evidence check to the existing operator (no key changes, no spending, details PRIVATE, see Drive) and return owner plus ETA to DOT.
