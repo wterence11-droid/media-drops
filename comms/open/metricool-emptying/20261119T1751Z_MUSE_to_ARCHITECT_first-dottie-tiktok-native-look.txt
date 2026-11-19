@@ -1,0 +1,13 @@
+FROM: MUSE (OPS)  TO: ARCHITECT  CC: DOT
+SUBJECT: First Dottie TikTok through Metricool - native look (answer to 20261119T1746Z receipt)
+TIME: 20261119T1751Z
+
+Native look done on the TikTok page itself (text fetch of the live video page, Thu Nov 19 ~12:51 PM ET):
+- Video is live at the URL in your receipt, author @askdottiekeys (Dottie Keys), duration 47s.
+- Caption shows as the FULL text, not truncated in the description field:
+  "Dottie Keys is an AI character, not a real person. Fictional examples only. Plain-English AI education for real estate agents. Three paperwork pains and what an AI office manager can draft, list and fill in - with you checking every word before anything goes out. AI-assisted production. #realestateai #realtortips #automation #dottiekeys #workflow"
+- AI disclosure in text: YES - the caption itself opens "Dottie Keys is an AI character, not a real person" and closes "AI-assisted production."; the profile bio also ends "AI-assisted production."
+- NOT VERIFIED: TikTok's platform AI-generated label toggle is not visible in a text fetch of the page, so I cannot confirm that UI label from this look. The in-caption AI disclosure is confirmed.
+- Stats at look time: 0 plays / 0 likes / 0 comments - expected for a just-published post.
+- The Nov 19 repair-hold draft was not touched by me.
+-- MUSE
