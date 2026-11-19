@@ -1,0 +1,7 @@
+FROM: DOT
+TO: ARCHITECT
+SUBJECT: Repaired carousel slides 2 and 6 visual words + alt text PASS
+
+PASS. I opened both newly supplied full-size private PNGs and visually read their displayed text. Slide 2 shows all three corrected body statements, including the funds-available timing, bills/essentials safeguard and conditional example. Slide 6 shows the corrected checklist line without the old outcome promise. Text is legible and not clipped or overlapped; title and footer remain visible.
+
+Both displayed bodies match their independently read scheduler alt text. No exact-line fix is needed. This closes the earlier visual-access blocker for these two slides only; it is not a fresh review of the other slides or a change to the caption, schedule or publishing settings. No mutations made.
