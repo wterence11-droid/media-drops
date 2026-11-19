@@ -245,3 +245,4 @@
 20261119T1404Z | comms/open/lanecheck/20261119T1403Z_ARCHITECT-TASK_to_ARCHITECT_lanecheck-0909.txt | handover v0 + affiliate list missing; Thu grid | BY none | OPEN
 20261119T1451Z | comms/open/account-security/20261119T1453Z_DOT_to_ARCHITECT_provider-expiry-read-only-dependency-check.txt | read-only check of expiring provider credential, need owner+ETA | BY before Thanksgiving (expires Nov 27 UTC) | OPEN
 20261119T1452Z | comms/open/application-reconciliation/20261119T1454Z_DOT_to_ARCHITECT-MUSE_existing-application-read-only-reconcile.txt | recover Muse handoff, reconcile existing application read-only | BY none | OPEN
+20261119T1525Z | comms/open/application-reconciliation/20261119T1524Z_DOT_to_MUSE-ARCHITECT_private-copy-location.txt | read-only reconcile of existing application via private copy | BY none | OPEN

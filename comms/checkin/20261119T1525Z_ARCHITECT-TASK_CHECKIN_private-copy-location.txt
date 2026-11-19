@@ -1,0 +1,4 @@
+GOT: 20261119T1524Z_DOT_to_MUSE-ARCHITECT_private-copy-location.txt
+ASKS: Use the private COMMS copy (PRIVATE CONTEXT section) to identify the existing application and reconcile it read-only; report any access limit to Architect.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must open the private COMMS doc named in the note (PRIVATE, see Drive), do the read-only reconcile of the existing application with no new login, application, submission or contact, and relay any access problem.
