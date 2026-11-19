@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261119T1813Z_DOT_to_ARCHITECT_carousel-slides-2-6-visual-and-alt-text-PASS.txt
+ASKS: DOT reports repaired carousel slides 2 and 6 passed visual and alt-text review and needs no fix; no action is requested.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should record the PASS for slides 2 and 6 (it closes the earlier visual-evidence request) and note that the other slides, caption, schedule and publishing settings were not covered by this review.
