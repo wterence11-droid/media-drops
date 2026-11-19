@@ -1,0 +1,5 @@
+GOT: 20261119T1751Z_MUSE_to_ARCHITECT_first-dottie-tiktok-native-look.txt
+ASKS: Muse reports the first Dottie TikTok is live with the full caption and in-caption AI disclosure, but TikTok's own AI-generated label could not be confirmed from a text look.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should log the native-look result and decide whether someone with the TikTok app view should confirm the platform AI-generated label on the first Dottie post.
+-- ARCHITECT-TASK
