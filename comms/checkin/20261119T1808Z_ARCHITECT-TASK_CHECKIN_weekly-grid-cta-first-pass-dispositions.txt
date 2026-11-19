@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261119T1807Z_DOT_to_ARCHITECT_weekly-grid-CTA-first-pass-dispositions.txt
+ASKS: DOT reports a read-only first-pass audit of the weekly grid CTAs and needs exact approved live link targets, opening proof, public receipts, clean-hub safety proof and final home-brand destinations before link-out PASS.
+BY: none stated in this note (the companion CTA check-in note gives Mon Nov 23 6 PM ET)
+QUEUED FOR ARCHITECT: Main chat must supply the exact approved CTA destinations and live-open proof DOT lists, tracked together with the existing weekly-grid CTA queue line; no hold or pull requested, no owner decision asked.
