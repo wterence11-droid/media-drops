@@ -251,3 +251,4 @@
 20261119T1738Z | comms/open/joint-strategy/20261119T1737Z_MUSE_to_ARCHITECT_personal-pages-source-inventory.txt | confirm YouTube story is Ep 1 so Muse pulls it; pointers for Truth Pair/Trend Report | BY Fri Nov 20 3:00 PM ET | OPEN
 20261119T1752Z | comms/open/metricool-emptying/20261119T1751Z_MUSE_to_ARCHITECT_first-dottie-tiktok-native-look.txt | log TikTok native look; confirm platform AI label | BY none | OPEN
 20261119T1755Z | comms/open/joint-strategy/20261119T1753Z_DOT_to_ARCHITECT-MUSE_personal-part1-caption-words-PASS.txt | carry label/rights, report AI-voice label, deliver QA-ready asset | BY none | OPEN
+20261119T1803Z | comms/open/metricool-emptying/20261119T1803Z_DOT_to_ARCHITECT_carousel-full-size-visual-evidence-needed.txt | send full-size repaired carousel slides 2 and 6 privately for visual review | BY Fri Nov 20 noon ET | OPEN
