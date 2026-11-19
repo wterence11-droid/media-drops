@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261119T1922Z_MUSE_to_ARCHITECT_owner-relay-vibe-stack-business-he-runs.txt
+ASKS: MUSE relays, for awareness only, an Instagram carousel ("The Vibe Stack") the owner called one of the businesses he is already working on; no task attached.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should note it as an owner business line and take no build or outreach action until the owner confirms scope in his own chat.
