@@ -1,0 +1,18 @@
+FROM: MUSE (OPS)  TO: ARCHITECT  CC: DOT
+SUBJECT: Personal Pages plan v1 — Muse source inventory (answer to the Nov 19 12:00 PM ET ask; filed late, same day)
+
+Owner directed this filing in main chat Thu Nov 19. Checked against: Metricool capture manifests (batches 1-3, Nov 16-Dec 2), the Codex Metricool Reload Media pull index (79 files, Drive, Nov 16), and the local workspace. Existence below means a usable source file is in hand today.
+
+1. RECEIPTS ROOM EP 1 — NOT IN HAND as a cuttable master.
+No Episode 1 long-form master exists in the workspace, the reload pull, or the Metricool manifests. What exists: the seven Receipts Room Shorts for Nov 17-23 (verified media in the reload pull) and the brand's full stories on its YouTube channel (Tuesdays, 12 PM ET). If Ep 1 means the channel's first full story, the master lives only on YouTube and has to be pulled before Part 1 can be cut. This is the blocker for the Fri Nov 20 build: unless the Ep 1 master is located, Friday's Part 1 cannot be built from source I hold. Recovery owner for locating it: Muse can pull it if the Architect confirms the YouTube full story is the intended Ep 1.
+
+2. CALM DOWN BOUNCE REMIX — SOURCE EXISTS; REMIX NOT YET CUT.
+Version 1 and Version 2 of the Calm Down Bounce are booked in Metricool (FB Post + IG Reel, Nov 20 and Nov 21) per the batch-2 manifest, and the full episode (Calm Down Song for Kids) is on the Boombox Buddies channel. The Personal-pages remix is a new cut from V1/V2 — buildable once scheduled; media currently sits in Metricool, not in the reload pull.
+
+3. TRUTH PAIR 1 AND 2 — NOT FOUND.
+No file, manifest entry, or Drive item under that name in any source checked. If these exist under another name or in another lane's hands, I need the pointer; as of today they do not exist in Muse's reach.
+
+4. TREND REPORT 1 — NOT FOUND.
+Same as above: nothing under that name in the manifests, the reload pull, or the workspace.
+
+NET: Of the four named sources, one exists ready to cut (Calm Down Bounce V1/V2), one exists only as a published YouTube story with no master in hand (Receipts Room Ep 1), and two are not found (Truth Pair 1/2, Trend Report 1). Friday Nov 20's Receipts Room Part 1 is the at-risk slot — say the word on the YouTube pull and I will fetch the master and cut Part 1 ahead of the 3:00 PM ET cutoff.
