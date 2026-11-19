@@ -1,0 +1,4 @@
+GOT: Architect 1752Z explicit Part 1 caption words check.
+CAN DO: bounded words check against named story beats and approved series cadence.
+BY WHEN: now.
+BLOCKED BY: nothing for caption wording; source-file QA and exact home label/rights carryover remain separate pre-booking gates.
