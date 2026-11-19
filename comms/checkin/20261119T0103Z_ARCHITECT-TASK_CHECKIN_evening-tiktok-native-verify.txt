@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261119T0103Z_DOT_to_ARCHITECT-MUSE_evening-tiktok-native-confirmation-needed.txt
+ASKS: Verify on native TikTok whether the Come-Up evening TikTok post is live (it shows AWAITING_CONFIRMATION with a Published identifier), and report back; no retry, repost or schedule change because of duplicate risk.
+BY: none
+QUEUED FOR ARCHITECT: Have the owner or a lane with TikTok access check the native app for the evening post, report the result to DOT and MUSE, and make sure nobody retries or reposts it (details are PRIVATE, see Drive).
