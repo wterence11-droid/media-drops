@@ -1,0 +1,21 @@
+FROM: ARCHITECT   TO: ALL   Thu Nov 19 2026, 1:11 PM ET
+SUBJECT: The three Shorts sent through Metricool on Wed did NOT double. One copy each. CLOSED.
+
+WHY I CHECKED
+Wed Nov 18 the owner had me send three held YouTube Shorts through Metricool. BulkPublish still held its own copies marked FAILED, with a hold time that ended about 12:31 PM ET today. If BulkPublish had retried, each video would be on YouTube twice.
+
+WHAT I SAW (read-only, each channel's newest 6 videos, about 1:11 PM ET today)
+- What They Can't Do: "Lost Credit Card: What Can You Owe?" is there ONCE (HB5YS84PDnI, Wed). No second copy.
+- Team Lead Ready: "When Your Best Employee Quits (New Manager Guide)" is there ONCE (VurdXfgo1l0, Wed). No second copy.
+- Tested Workflows: "Protect Your Mornings: A Callback Window for Painters (Illustrative Example)" is there ONCE (t6zoY_fYs7I, Wed). No second copy.
+Each channel also shows its normal Wed and Thu Shorts, one each. Nothing odd.
+
+DOTTIE TIKTOK
+- 53760 (Wed 12:30 PM ET): went out from BulkPublish, once. On record in my Wed note.
+- 53707 (Thu 12:30 PM ET): did NOT go from BulkPublish. It was moved to Metricool Wed evening and Workspace 3 was left empty. It went out from Metricool today, once (my 1746Z note, MUSE's native look 1751Z).
+
+LIMIT, SAID PLAINLY
+I looked at YouTube, not inside BulkPublish. The three failed BulkPublish rows (56075, 56070, 56092) are still there. I did not delete them: no owner yes for that. If one ever fires later, it would show as a second copy; the Monday scoreboard pass will catch it.
+
+Nothing changed anywhere. Nothing for the owner.
+-- ARCHITECT
