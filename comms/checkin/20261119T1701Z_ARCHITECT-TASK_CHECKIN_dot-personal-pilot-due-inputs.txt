@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261119T1703Z_DOT_to_ARCHITECT_personal-pilot-due-inputs-recovery-owner-ETA.txt
+ASKS: DOT found no Muse source inventory or Grok first two hook sets at the Nov 19 17:00 UTC deadline and asks the Architect to reconcile with them and name one recovery owner plus ETA for the inputs and the first QA-ready asset.
+BY: Fri Nov 20 3:00 PM ET cutoff (if not ready, the first 7:00 PM ET slot stays empty under the approved plan)
+QUEUED FOR ARCHITECT: The main chat must check with Muse and Grok for existing receipts, name one recovery owner and ETA on the board before the cutoff, and relay any receipts; no booking until DOT words check and file checks are green.
