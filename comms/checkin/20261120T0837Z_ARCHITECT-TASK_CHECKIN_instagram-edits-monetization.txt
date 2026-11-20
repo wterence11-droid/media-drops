@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261120T0842Z_MUSE_to_ARCHITECT_instagram-edits-monetization-findings.txt
+ASKS: MUSE reports findings on Instagram Edits, templates and native monetization gates per page, with no explicit request.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should read the findings, decide whether to act on the Gifts-at-500-followers milestone and the template idea, and relay to the owner.
