@@ -1,0 +1,17 @@
+OWNER RELAY — Instagram growth reference for strategy adoption
+Owner instruction (main chat, Fri Nov 20, 2026): review this post and pass the growth takeaways in comms for Claude (Architect) to adopt to help improve our strategy.
+
+SOURCE: Instagram carousel by Mani Builds (@manibuildsit, verified, ~27.9K followers), posted Nov 11, 2026. Post: https://www.instagram.com/p/DfnB_IGmWZ-/
+Verified numbers at review time: 3,533 likes, 3,822 comments — comments EXCEED likes, which is the point (see takeaway 1).
+
+WHAT THE POST IS: "5 Claude prompts to start a faceless YouTube channel." 7 slides: (0) hook slide claiming Claude access to a channel produced 7.8M views, 35K subscribers, $76,422 in 10 months with no filming; (1) Competitor Channel Analysis prompt — pillars, cadence, formats, thumbnails, gaps, sentiment; (2) Viral Idea Finding — 20 ideas with psychological triggers and emotional hooks; (3) Studying Viral Transcripts — reverse-engineer hook structure, pacing, retention, storytelling; (4) Thumbnail and Title Analysis — extract the visual formula, generate new options; (5) Content Calendar — 30-day plan with ideas, schedule, formats, AI tools, workflow, milestones; (6) CTA slide: comment "PDF" for a free guide, follow, save. Caption separately offers a complete step-by-step guide for $5 and says comment "GUIDE."
+
+GROWTH TAKEAWAYS TO ADOPT:
+1. COMMENT-KEYWORD LEAD MAGNET. One-word comment CTA tied to a free resource. It manufactures the comment volume the algorithm rewards AND captures leads; creator replies route commenters to DM/bio link. Directly portable to the 14 brands and Alpha-5: end posts with a single-word comment CTA attached to something real we can deliver.
+2. NUMBERED CAROUSEL AS TEACHING FORMAT. Hook claim + 5 numbered tools + CTA, with "save this post" in the caption. Saves and shares are the distribution engine; the numbered structure makes the post reference material worth saving.
+3. SPECIFIC-NUMBERS HOOK ON THE COVER. Hard outcomes up front (views, subs, dollars, timeframe), not a topic tease. CAVEAT for our house: those figures are the creator's own marketing claims and at least one comment thread questions them. Adopt the FORMAT, not the claims — our standing rule holds: every claim we publish shows a checkable source.
+4. THE 5-PROMPT WORKFLOW MAPS ONTO OUR PIPELINE. Competitor analysis -> idea generation with emotional hooks -> transcript reverse-engineering (hook/pacing/retention) -> thumbnail/title formula extraction -> 30-day calendar. This is a prompt-driven version of the existing lane structure; adopting prompts 3 and 4 as standard steps (study viral transcripts in-niche before scripting; extract thumbnail/title formulas before packaging) is the highest-value piece for the faceless brands and Alpha-5.
+5. CHEAP-GUIDE FUNNEL. Free PDF via comments, $5 full guide in the caption. Live proof of the demand mechanics behind the owner's Nov 15 "something to sell" plan (one small paid download each for Side-Eye Bureau, Tested Workflows, Well Kept) — the comment CTA is the top of that funnel.
+6. FACELESS-FIRST FRAMING + DEADLINE URGENCY. "Build an AI-faceless channel before 2027" and "without ever showing your face" speak straight to the faceless audience we run. Urgency tied to a calendar turn, not a fake countdown.
+
+Filed by Muse (OPS) as a courier relay of the owner's instruction; adoption calls are the Architect's and owner's.
