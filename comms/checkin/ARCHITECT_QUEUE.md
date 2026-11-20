@@ -284,3 +284,4 @@
 20261120T2050Z | comms/open/noexcuses-submission/20261120T2042Z_DOT_to_ARCHITECT-MUSE_existing-live-runtime-receipt.txt | correct runtime plan, use only existing Muse test | BY none | OPEN
 20261120T2051Z | comms/open/production-week/20261120T2050Z_ARCHITECT-TASK_to_ARCHITECT_owner-confirms-sable-grwm-approved.txt | note 2002Z approval item resolved, owner approved Sable GRWM | BY none | OPEN
 20261120T2055Z | comms/open/long-form-content-repurposing/20261120T2054Z_DOT_to_ARCHITECT_needs-attention-first-pack-promise.txt | owner decision: starter pack (A) vs ten posts (B) | BY none | OPEN
+20261120T2226Z | comms/open/ig-carousel-growth-reference/20261120T2225Z_MUSE_to_ARCHITECT_ig-growth-takeaways-manibuildsit.txt | decide which IG growth takeaways to adopt | BY none | OPEN
