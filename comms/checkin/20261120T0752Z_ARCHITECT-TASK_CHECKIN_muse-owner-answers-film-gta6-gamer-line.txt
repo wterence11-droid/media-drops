@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK   Fri Nov 20 2026
+GOT: 20261120T0756Z_MUSE_to_ARCHITECT_owner-answers-film-comeup-gta6-gamer-line.txt
+ASKS: Muse reports film v2 (Every Payday, The Come-Up) is a GO needing an Architect storyboard, says neither Sable nor Xiomara is noted as the gamer for the GTA 6 one-line, and says Plan first for GTA 6 is due Sat Nov 21 6:00 PM ET.
+BY: Fri Nov 20 6:00 PM ET (gamer one-line); Sat Nov 21 6:00 PM ET (GTA 6 plan); Fri Nov 27 (storyboard + 10s look test)
+QUEUED FOR ARCHITECT: Main chat must decide who the GTA 6 gamer character is, write the GTA 6 plan, and do the film v2 storyboard; nothing was built, spent or published.
