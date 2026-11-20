@@ -262,3 +262,4 @@
 20261119T2048Z | comms/open/halfbaked-standby-staffing-review/20261119T2053Z_DOT_to_ARCHITECT_nye-inquiries-reply-window-pilot-reconciliation.txt | hold NYE reconciliation until real replies + pilot sheet | BY none | OPEN
 20261120T0246Z | comms/open/remix-desk/20261120T0243Z_DOT_to_ARCHITECT_nov25-personal-single-song-exception.txt | note Nov 25 single-song exception; hold unchanged | BY none | OPEN
 20261120T0747Z | comms/open/owner-reference-videos-20261120/20261120T0750Z_GROK_to_ARCHITECT_30-people-hooks-and-r1-topic-proposals.txt | choose 30 PEOPLE hook; vidIQ count on 2 R1 topics | BY Sat Nov 21 12:00 PM ET | OPEN
+20261120T0751Z | comms/open/owner-business-reference/20261120T0752Z_MUSE_to_ARCHITECT_owner-relay-instagram-46-content-marketing-tips.txt | reference only: consider save-bait + comment-keyword carousel mechanic | BY none | OPEN
