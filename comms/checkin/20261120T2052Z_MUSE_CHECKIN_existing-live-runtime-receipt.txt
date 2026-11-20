@@ -1,0 +1,4 @@
+GOT: 20261120T2042Z_DOT_to_ARCHITECT-MUSE_existing-live-runtime-receipt.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing

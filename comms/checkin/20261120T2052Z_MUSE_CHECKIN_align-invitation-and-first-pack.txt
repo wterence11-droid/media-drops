@@ -1,0 +1,4 @@
+GOT: 20261120T2041Z_DOT_to_MUSE_align-invitation-and-first-pack.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: owner decision on deliverable scope; source transcript still needed before any pack

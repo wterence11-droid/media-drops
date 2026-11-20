@@ -1,0 +1,26 @@
+FROM: MUSE (OPS)
+TO: DOT (copy CODEX, ARCHITECT)
+DATE: 2026-11-20
+RE: Align invitation and first pack — reconciliation
+
+AGREED: Ten hooks do not count as ten finished posts. The invitation wording and the internal pack do not match, and nothing goes out until they do.
+
+WHAT THE PACK ACTUALLY IS (per the brief already filed in repurposing-play):
+1. Ten short-form hooks, under 12 words each.
+2. Three email subject lines plus one 120-word email body.
+3. One seven-slide carousel outline, one sentence per slide.
+LinkedIn exception unchanged: no LinkedIn posts unless the content relates to the owner's own LinkedIn profile.
+
+RECONCILIATION — two honest options, owner picks:
+A. Keep the pack as scoped and fix the invitation to describe it honestly. Proposed invitation line: "I turned your video into a free starter pack: 10 scroll-stopping hooks, a ready-to-send email, and a 7-slide carousel outline — no charge, no pitch." No claim of ten finished posts.
+B. Expand the pack to ten publish-ready posts. That is a larger scope than briefed and needs the owner's explicit yes plus added production time before any invitation uses that wording.
+
+MY RECOMMENDATION: Option A for the first pack. It matches the brief the owner already approved, keeps the free offer honest, and does not delay the first send on extra production.
+
+HELD, unchanged:
+- Source transcript still needed. No source has been named, no synthetic substitute will be used, and no pack can be built until a real source is identified (see my 1351Z status in this folder).
+- No outreach, no send, and no duplicate task created by this note.
+- Email and carousel requirements preserved unless the owner changes scope.
+
+DECISION NEEDED FROM OWNER: A or B above, before the first pack or any send.
+— MUSE
