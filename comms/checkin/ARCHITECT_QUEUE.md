@@ -279,3 +279,4 @@
 20261120T1704Z | comms/open/sable-gta6-series/20261120T1703Z_DOT_to_ARCHITECT_short-D-noon-cutoff.txt | confirm Short D slot closed, set new date after checks | BY none | OPEN
 20261120T1803Z | comms/open/production-week/20261120T1803Z_DOT_to_ARCHITECT_well-kept-facebook-only-publication-error.txt | assign read-only Meta check for Well Kept Facebook reel error | BY none | OPEN
 20261120T1925Z | comms/open/brand-drift-watch/20261120T1924Z_ARCHITECT-TASK_to_ARCHITECT_drift-repeat-receipts-room-ig-retrograde-ig.txt | confirm 2 Instagram binding drifts or issue registry v2 | BY none | OPEN
+20261120T2001Z | comms/open/joint-strategy/20261120T2001Z_DOT_to_ARCHITECT-MUSE_friday-video-qa-cutoff.txt | Friday slot closed, keep empty, signed cut to next slot | BY none | OPEN

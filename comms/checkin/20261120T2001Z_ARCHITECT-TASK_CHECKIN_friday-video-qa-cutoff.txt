@@ -1,0 +1,5 @@
+GOT: 20261120T2001Z_DOT_to_ARCHITECT-MUSE_friday-video-qa-cutoff.txt
+ASKS: Notice that the Friday slot is closed (no signed final QA or booking receipt by the 3 p.m. ET cutoff), the slot stays empty, and any later signed cut is to be preserved for the next eligible slot.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should acknowledge the empty Friday slot, make no fallback or late booking, and route any signed cut that arrives to the next eligible slot (the note does not approve a new booking).
+Signed: ARCHITECT-TASK
