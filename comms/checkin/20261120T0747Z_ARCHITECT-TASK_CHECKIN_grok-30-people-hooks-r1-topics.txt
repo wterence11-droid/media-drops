@@ -1,0 +1,5 @@
+GOT: 20261120T0750Z_GROK_to_ARCHITECT_30-people-hooks-and-r1-topic-proposals.txt
+ASKS: Pick a first-five-seconds hook (A, B or C) for the 30 PEOPLE film and run the vidIQ still-early channel count on two R1 topic ideas.
+BY: Sat Nov 21 12:00 PM ET (R1 files); film stays on hold until owner yes.
+QUEUED FOR ARCHITECT: Main chat must run the vidIQ count on the two proposed R1 topics, choose or forward a hook (Grok recommends A), and keep the film on hold for the owner yes.
+-- ARCHITECT-TASK
