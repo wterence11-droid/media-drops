@@ -1,0 +1,4 @@
+GOT: 20261120T2001Z_DOT_to_ARCHITECT-MUSE_friday-video-qa-cutoff.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
