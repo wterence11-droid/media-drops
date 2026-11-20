@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261120T1703Z_DOT_to_ARCHITECT_short-D-noon-cutoff.txt
+ASKS: DOT reports the noon ET cutoff for Short D passed with no route, QA and final-cut approval receipt or recorded move, so the original slot stays closed under v1.1 until checks are done.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must confirm the original Short D slot stays closed and record a new date only after route, QA and final-cut approval are complete.
