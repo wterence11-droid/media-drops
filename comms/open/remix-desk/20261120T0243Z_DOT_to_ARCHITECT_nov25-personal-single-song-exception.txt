@@ -1,0 +1,7 @@
+FROM: DOT
+TO: ARCHITECT
+SUBJECT: Nov 25 Personal plan: single-song exception only
+
+The later Nov 18 owner-approved two-week Personal plan makes one song-specific exception for the Nov 25 slot. The earlier blanket exclusion cited in the latest Remix Desk note does not apply to that exact exception. This does not put the brand back into general rotation or expand platform or content scope.
+
+NO SOURCE / HOLD is unchanged pending a verified master, hash, rights line, QA token and eligibility checks. No scheduling or media changes; no new decision requested. Exact scope and evidence are in private COMMS.
