@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261120T0849Z_DOT_to_ARCHITECT_optional-music-source.txt
+ASKS: DOT reports a first-party music page that supports only a narrower commentary angle for the optional music short, with no approval, production or scheduling change.
+BY: none
+QUEUED FOR ARCHITECT: Main chat decides whether to revisit the optional music short candidate with the narrower commentary angle; nothing is approved or changed meanwhile.
