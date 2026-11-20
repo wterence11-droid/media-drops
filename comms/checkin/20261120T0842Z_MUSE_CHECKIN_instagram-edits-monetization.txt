@@ -1,0 +1,4 @@
+GOT: Owner task in main chat (Fri Nov 20, ~3:35 AM ET): use Instagram Edits to see what each page can do to monetize, inspect the whole website, find the templates, relay findings to the Architect.
+CAN DO: yes
+BY WHEN: now (findings filed this run)
+BLOCKED BY: nothing — note: per-account monetization toggles themselves live in the in-app Professional Dashboard, which no connector reads; follower gates below are from the connector's live profile reads plus Meta's published requirements.

@@ -1,0 +1,32 @@
+FROM: MUSE (OPS)
+TO: ARCHITECT
+DATE: 2026-11-20 ~08:42 UTC
+RE: Instagram Edits + per-page monetization — owner-ordered inspection, findings
+
+1) WHAT EDITS IS
+Meta's free video editor for Instagram creators (mobile iPhone/Android since Apr 2025; Mac desktop since Nov 5, 2026 — Apple silicon only, NO Windows version). Multi-track timeline, keyframes, auto-captions, licensed audio library, 4K export with no watermark, direct publish to Instagram, post-publish insights, and MCP support so AI agents can operate the editor. The "website" is only a download page for the apps — there is no web editor and no monetization inside Edits. Money tools live in Instagram itself (Professional Dashboard -> Monetization). One caution: edits.in is a parked domain for sale, NOT Meta's page.
+
+2) TEMPLATES (owner asked specifically)
+- Templates live in the Instagram app: Reels editor -> Templates tab (recommended / trending / saved), or "Use Template" on a Reel in the feed. Mobile-only.
+- Edits connection: a video exported from Edits can be shared with "Share as template" ON. The creator's username is credited on the template and on every reel made from it. In Edits, Template settings let you mark up to 10 clips as reusable by others.
+- Template rules: must have music and at least 3 clips, averaging under 5 seconds per clip.
+- Use for us: our own best-performing Reels can be turned into templates so other creators remake them with our format and our handle credited — a discovery lever, not a direct payout.
+
+3) INSTAGRAM'S NATIVE MONEY GATES (Meta's published requirements, checked Oct-Nov 2026 sources)
+Universal: professional account (creator/business), 18+, eligible country (US qualifies), Partner + Content Monetization Policies compliance, payout account for paid tools.
+- Gifts on Reels: 500+ followers. Pays $0.01 per Star.
+- Creator Marketplace (brand deals): ~1,000+ followers.
+- Native affiliate: ~1,000+ followers.
+- Subscriptions: 10,000+ followers. Creator sets the price.
+- Badges in Live: 10,000+ followers.
+- Bonuses: INVITE-ONLY. The Aug 2026 expansion pays for photos/carousels too, but targets accounts at roughly 500k-5M monthly views. Not plannable.
+
+4) WHERE EACH OF OUR PAGES STANDS (follower counts read live via the Instagram connector this morning, Nov 20)
+All 8 connected accounts are professional — the universal gate is met everywhere.
+- @terence_williams12 (Personal) — 1,965 followers: CLEARS Gifts (500) and Creator Marketplace (~1,000) by the numbers. The only account with any native tool in reach today. Subscriptions/Badges need 10,000.
+- @teamleadready — 41 followers: below every native gate.
+- @sideeyebureau — 4; @sablemonroeofficial — 2; @thecomeupblueprinthq — 2; @whattheycantdo — 1; @well.kepthq — 0; @both.sideshq — 0: below every native gate.
+
+5) BOTTOM LINE
+Native Instagram money is an audience-size game and, Personal aside, our pages are not there yet. What every page CAN do today has no follower gate: branded-content/partnership labels, and off-platform funnels (link-in-bio to our own offers — the AllMyLinks route Sable already runs, the three paid downloads in the joint plan). Edits helps the growth side (free pro editing, insights, templates others can reuse with our handle attached), not the payout side. First native milestone to aim at: Gifts at 500 followers on the strongest brand page; the in-app Professional Dashboard on each account is the only place the actual per-account toggles can be confirmed — no connector reads it.
+— MUSE
