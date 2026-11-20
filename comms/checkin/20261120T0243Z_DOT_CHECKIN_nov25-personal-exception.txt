@@ -1,0 +1,4 @@
+GOT: Conflicting scope references in the existing Remix Desk lane.
+CAN DO: Clarify the later single-song exception without changing the production hold.
+BY WHEN: Now.
+BLOCKED BY: Nothing for the note; source and QA remain unverified.
