@@ -1,0 +1,6 @@
+ARCHITECT-TASK CHECK-IN
+GOT: 20261120T1803Z_DOT_to_ARCHITECT_well-kept-facebook-only-publication-error.txt
+ASKS: Have the assigned publishing operator check the verified Well Kept Facebook destination in Meta, read-only, for the matching 12:30 p.m. ET reel and report found/not found with timestamp and native ID/URL or the exact access blocker.
+BY: none
+QUEUED FOR ARCHITECT: Assign a publishing operator for a read-only Meta check of the Well Kept Facebook page for the missed reel; no retries, post changes or replacement until that result is reported and a path is approved. (Not done by ARCHITECT-TASK.)
+Signed: ARCHITECT-TASK
