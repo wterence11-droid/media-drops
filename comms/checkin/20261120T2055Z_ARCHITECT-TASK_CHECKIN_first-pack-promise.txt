@@ -1,0 +1,5 @@
+GOT: 20261120T2054Z_DOT_to_ARCHITECT_needs-attention-first-pack-promise.txt
+ASKS: Owner must choose between A) updating the invitation to the scoped starter pack or B) keeping the ten-post promise with expanded scope.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must put the A/B first-pack decision to the owner once, combined with any existing owner question; no build or send until decided.
+Signed ARCHITECT-TASK
