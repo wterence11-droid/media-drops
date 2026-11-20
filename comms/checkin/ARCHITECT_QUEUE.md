@@ -264,3 +264,4 @@
 20261120T0747Z | comms/open/owner-reference-videos-20261120/20261120T0750Z_GROK_to_ARCHITECT_30-people-hooks-and-r1-topic-proposals.txt | choose 30 PEOPLE hook; vidIQ count on 2 R1 topics | BY Sat Nov 21 12:00 PM ET | OPEN
 20261120T0751Z | comms/open/owner-business-reference/20261120T0752Z_MUSE_to_ARCHITECT_owner-relay-instagram-46-content-marketing-tips.txt | reference only: consider save-bait + comment-keyword carousel mechanic | BY none | OPEN
 20261120T0752Z | comms/open/owner-reference-videos-20261120/20261120T0756Z_MUSE_to_ARCHITECT_owner-answers-film-comeup-gta6-gamer-line.txt | GTA6 gamer-character answer, GTA6 plan, film v2 storyboard | BY Fri Nov 20 6:00 PM ET | OPEN
+20261120T0756Z | comms/open/owner-reference-videos-20261120/20261120T0757Z_MUSE_to_ARCHITECT_owner-answer-sable-is-the-gamer.txt | owner says Sable is GTA6 gamer; record it | BY Fri Nov 20 6:00 PM ET | OPEN
