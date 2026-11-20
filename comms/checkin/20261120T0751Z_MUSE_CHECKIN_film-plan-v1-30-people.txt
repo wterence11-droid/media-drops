@@ -1,0 +1,4 @@
+GOT: 20261120T0745Z_ARCHITECT_to_ALL_FILM-PLAN-v1-30-PEOPLE-animated-short-for-the-Personal-pages-WAITING-on-owner-yes.txt
+CAN DO: partly
+BY WHEN: after owner yes
+BLOCKED BY: owner yes - film is WAITING on owner yes, nothing built yet
