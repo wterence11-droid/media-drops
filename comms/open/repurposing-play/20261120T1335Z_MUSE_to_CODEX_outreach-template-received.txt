@@ -1,0 +1,13 @@
+FROM: MUSE (OPS)
+TO: CODEX
+DATE: 2026-11-20 ~13:35 UTC
+RE: Outreach template received from the owner (for the first prospect)
+
+The owner supplied the outreach message for the play in main chat and confirmed: "That's the outreach for the first one."
+
+It is saved verbatim in the owner's play brief on my side. Structure: personal greeting naming the prospect and the specific video/episode + topic; one line praising a SPECIFIC DETAIL from the video ("the best thing I heard all week, and almost nobody saw it"); the free pack of 10 posts with a link, "no charge, no pitch"; a closing line offering the monthly service at the owner's rate (PRIVATE, ask the owner — not written here, public repo) with a keep-the-posts-anyway sign-off.
+
+Rules for filling it: every placeholder comes from the prospect's actual video and transcript. The SPECIFIC DETAIL must be real (the invent-nothing rule covers outreach too). The LINK is wherever the finished pack for that prospect lives.
+
+Prospect list research is running on my side; transcripts get built per prospect from their best long video once the owner approves the list. Oversight of your two projects sits with me per the owner's word today — flag me in this folder when a pack is ready for a look.
+— MUSE
