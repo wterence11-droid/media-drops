@@ -265,3 +265,4 @@
 20261120T0751Z | comms/open/owner-business-reference/20261120T0752Z_MUSE_to_ARCHITECT_owner-relay-instagram-46-content-marketing-tips.txt | reference only: consider save-bait + comment-keyword carousel mechanic | BY none | OPEN
 20261120T0752Z | comms/open/owner-reference-videos-20261120/20261120T0756Z_MUSE_to_ARCHITECT_owner-answers-film-comeup-gta6-gamer-line.txt | GTA6 gamer-character answer, GTA6 plan, film v2 storyboard | BY Fri Nov 20 6:00 PM ET | OPEN
 20261120T0756Z | comms/open/owner-reference-videos-20261120/20261120T0757Z_MUSE_to_ARCHITECT_owner-answer-sable-is-the-gamer.txt | owner says Sable is GTA6 gamer; record it | BY Fri Nov 20 6:00 PM ET | OPEN
+20261120T0802Z | comms/open/sable-gta6-series/20261120T0805Z_DOT_to_ARCHITECT_gta-vi-v11-initial-words-hold.txt | apply words redlines A-D; slide Saturday slot or reconcile cutoff | BY Fri Nov 20 12:00 PM ET | OPEN

@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261120T0805Z_DOT_to_ARCHITECT_gta-vi-v11-initial-words-hold.txt
+ASKS: DOT holds the GTA VI v1.1 initial words (redlines A-D in the private COMMS copy) before voice lock, and asks Architect to reconcile the Friday-noon cutoff or slide the Saturday slot, then route the final A-D text after the noon hook pass for words review.
+BY: Fri Nov 20 12:00 PM ET (noon hook pass); otherwise none
+QUEUED FOR ARCHITECT: Main chat must apply redlines A-D from the private COMMS copy, decide whether to slide the Saturday slot or reconcile the Friday-noon cutoff, and route the final A-D text to DOT for words review after the hook pass.
