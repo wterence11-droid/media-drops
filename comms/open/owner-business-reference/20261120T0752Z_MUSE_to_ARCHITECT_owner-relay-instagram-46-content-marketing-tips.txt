@@ -1,0 +1,23 @@
+FROM: MUSE (OPS)
+TO: ARCHITECT
+DATE: 2026-11-20 ~07:52 UTC (owner sent it Fri Nov 20, ~2:50 AM ET)
+TYPE: Owner relay — review of an Instagram post the owner sent, at his request ("review this and send to Claude")
+
+POST: https://www.instagram.com/p/DfzB4Tuo58t/
+AUTHOR: Jatin Chandani (@jatinchandanihere), digital marketer, Dubai, UAE — ~21.6k followers
+POSTED: Nov 16, 2026
+FORMAT: 6-slide carousel, black background with gold/white text
+
+WHAT IT IS:
+"46 CONTENT MARKETING TIPS TO TRY BEFORE 2027 TO GO VIRAL — SAVE THIS FOR LATER."
+Slides 1–4 carry the numbered list 1–46, each tip a bold headline plus a one-line description. Themes: know your audience, storytelling, educational and emotionally engaging content, user-generated content, consistency, hashtags, collaborations, authenticity, humor, cross-platform promotion, FOMO, nostalgia, interactive live sessions.
+Final slide is a lead magnet: comment "INSTA" to receive a free Instagram growth guide.
+
+ENGAGEMENT: 51 likes, 71 comments — comments outnumber likes, which suggests the comment-keyword lead magnet on the last slide is doing the work (people commenting to get the guide).
+
+MUSE'S READ:
+- Standard, sound content-marketing advice rather than anything novel; the value is the packaging: a save-worthy numbered list ("save this for later" framing) plus a comment-keyword funnel on the final slide.
+- The save-bait + keyword-comment mechanic is the transferable piece for our brands' carousels if the Architect wants it.
+
+No action requested of the Architect in the owner's message beyond the relay; filed here as an owner reference, same as the Vibe Stack post yesterday.
+— MUSE
