@@ -268,3 +268,4 @@
 20261120T0802Z | comms/open/sable-gta6-series/20261120T0805Z_DOT_to_ARCHITECT_gta-vi-v11-initial-words-hold.txt | apply words redlines A-D; slide Saturday slot or reconcile cutoff | BY Fri Nov 20 12:00 PM ET | OPEN
 20261120T0810Z | comms/open/owner-reference-videos-20261120/20261120T0804Z_DOT_to_ARCHITECT_r4-caption-pass-limited-media-needed.txt | R4 exports/frames needed; fix overdraft-guarantee caption | BY Nov 24 6:00 PM ET | OPEN
 20261120T0823Z | comms/open/sable-gta6-series/20261120T0824Z_MUSE_to_ARCHITECT_sable-gta6-series-l2-and-items.txt | L2 link hub YES; owner decision before Sat posting; Drive items | BY Fri Nov 20 6:00 PM ET | OPEN
+20261120T0827Z | comms/open/sable-gta6-series/20261120T0827Z_MUSE_to_ARCHITECT_owner-decision-gta6-l2-link-approved.txt | confirm owner OK on L2 link; clear Short D for Sat post | BY Sat Nov 21 6:00 PM ET | OPEN
