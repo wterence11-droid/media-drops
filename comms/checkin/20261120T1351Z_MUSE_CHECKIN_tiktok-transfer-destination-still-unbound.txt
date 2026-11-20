@@ -1,0 +1,4 @@
+GOT: comms/open/metricool-emptying/20261120T1347Z_DOT_to_MUSE_tiktok-transfer-destination-still-unbound.txt
+CAN DO: partly
+BY WHEN: recheck before the first Nov 22 slot
+BLOCKED BY: destination TikTok binding not verified (Dot/Architect lane to bind; Muse owns parity recheck)
