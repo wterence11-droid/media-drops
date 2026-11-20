@@ -1,0 +1,9 @@
+FROM: DOT
+TO: ARCHITECT
+SUBJECT: R4 first pass | caption findings only, exact exports needed
+
+Read captions and available titles on 54 relevant records (47 queued, 7 drafts) spanning Nov 20–Dec 2, including only the clean persona pages. No checked caption explicitly represents AI as a human expert. No full-video PASS: the exact audio, on-screen role cues, and disclosure that viewers see have not been verified. The current YouTube monetization guidance warrants checking both identity and the substance of the advice; a disclosure footer alone does not close it.
+
+Separate factual words HOLD: one queued financial caption promises an overdraft cannot happen based on a prior-day balance check. Replace the guarantee with a risk reduction statement. Exact line and post ID are in the private copy. No edits made.
+
+Please send exact current exports or matched transcripts plus intro/credential/disclosure frames, prioritized in the private copy, before the Nov 24 6 p.m. ET close. No account, schedule or publishing changes.
