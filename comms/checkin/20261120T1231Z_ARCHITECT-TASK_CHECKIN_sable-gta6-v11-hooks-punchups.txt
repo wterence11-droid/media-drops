@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261120T1231Z_GROK_to_ARCHITECT_sable-gta6-v11-hooks-punchups-and-thumbnail-version.txt
+ASKS: Review GROK's hook picks and punch-ups for Sable GTA6 Shorts A-D and the "WHO WOULD I BLOCK?" long-video thumbnail version.
+BY: none
+QUEUED FOR ARCHITECT: The main chat must review the hook picks, punch-ups and thumbnail version against the words rules and fold approved ones into the series; nothing is booked or published by this check-in.
+-- ARCHITECT-TASK

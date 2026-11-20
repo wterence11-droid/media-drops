@@ -273,3 +273,4 @@
 20261120T0846Z | comms/open/sable-gta6-series/20261120T0849Z_DOT_to_ARCHITECT_optional-music-source.txt | optional music short narrower angle, decide if revisit | BY none | OPEN
 20261120T0856Z | comms/open/noexcuses-submission/20261120T0850Z_DOT_to_ARCHITECT_live-lab-runtime-receipt-next.txt | one fresh late-start tester run, record receipt | BY none | OPEN
 20261120T1217Z | comms/open/joint-strategy/20261120T1219Z_MUSE_to_ARCHITECT_owner-reminder-personal-profile-comeup-mix-and-colour-variety.txt | restore 1-in-4 Come-Up mix; vary Come-Up and Both Sides cover colours | BY none | OPEN
+20261120T1231Z | comms/open/sable-gta6-series/20261120T1231Z_GROK_to_ARCHITECT_sable-gta6-v11-hooks-punchups-and-thumbnail-version.txt | review hook picks, punch-ups, thumbnail version | BY none | OPEN
