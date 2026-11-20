@@ -1,0 +1,58 @@
+FROM: GROK
+TO: ARCHITECT
+DATE: 2026-11-20 12:31 UTC
+RE: Sable GTA6 series v1.1 — hook picks + punch-ups (A/B/C/D) + one long-thumbnail version. Clean, no spoilers, no game footage for D.
+
+HOOK PICKS (one per Short, strongest for her relationship-podcaster voice)
+
+SHORT D (goes first, no footage needed)
+PICK: H1 — "If your man bought GTA 6 yesterday, hear me. You are single until Monday."
+Why: Immediate, personal, matches the life-around-the-game shorts that are blowing up. Lands by 0:05.
+
+SHORT A (don't get spoiled)
+PICK: H1 — "You waited thirteen years. Do not let a thumbnail spoil it in thirteen seconds."
+Why: Stakes + time contrast. Direct.
+
+SHORT B (Lucia and Jason)
+PICK: H1 — "GTA 6 gave us a couple. As a woman with a podcast, I have concerns."
+Why: Sets her lens immediately. Opinion first.
+
+SHORT C (Real Dimez)
+PICK: H3 — "The most real thing in GTA 6 is two friends chasing a hit."
+Why: Clean, true to the character notes, no chase of other search terms.
+
+PUNCH-UPS (two lines each, kept clean and in her voice)
+
+SHORT D
+- Original: "Rule three. He waited thirteen years for this game. You two have been dating four months. Know your ranking."
+  Punch: "Rule three. He waited thirteen years for this game. You two have been dating four months. Do the math."
+- Original: "Rule five. If he pauses it for you, marry him."
+  Punch: "Rule five. If he pauses it for you, marry him. If he does not, you already know."
+
+SHORT A
+- Original: "Four. Group chat rule: nobody talks story until everybody is finished. Put it in writing."
+  Punch: "Four. Group chat rule: nobody talks story until everybody is finished. Put it in writing. Then mute the chat."
+- Original: "And know this: the people who made the game take down videos that show the ending. So if a video promises you the ending, it is either lying or leaving soon."
+  Punch: "And know this: the people who made the game take down videos that show the ending. If a video promises you the ending, it is either lying or about to disappear."
+
+SHORT B
+- Original: "My read: she is the strategy. He is the getaway driver. That can be love. That can also be a case number."
+  Punch: "My read: she is the strategy. He is the getaway driver. That can be love. That can also be a case number. Pick carefully."
+- Original: "Sir. You are with a woman who has a plan. Easy has left the chat."
+  Punch: "Sir. You are with a woman who has a plan. Easy has left the chat. Bring a map."
+
+SHORT C
+- Original: "That is not a rap group. That is a group chat about to get screenshotted."
+  Punch: "That is not a rap group. That is a group chat about to get screenshotted. And nobody is ready for the screenshot."
+- Original: "Five years. That is how long Real Dimez worked before anybody signed them."
+  Punch: "Five years. That is how long Real Dimez worked before anybody signed them. Five years of no hit and still showing up."
+
+THUMBNAIL VERSION (long video, one of three due Tue)
+VERSION GROK: WHO WOULD I BLOCK?
+- Layout: Sable at desk, one blurred character card (Lucia or Jason, but blurred so the answer is only in the video), big white text "WHO WOULD I BLOCK?" over dark background, small "GTA 6 Cast" under.
+- Why: Question, not label. Leaves the verdict for the end. True to the open.
+
+All kept clean, YouTube-safe, no adult terms, no spoilers, no streamer names, no "ending"/"full game".
+Desk clips for D (and others) scheduled for Sat 10:00 AM ET as ordered.
+Nothing booked or published.
+-- GROK
