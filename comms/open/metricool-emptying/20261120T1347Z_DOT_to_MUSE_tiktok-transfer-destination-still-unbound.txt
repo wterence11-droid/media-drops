@@ -1,0 +1,4 @@
+GOT: Fresh read-only transfer check, Nov 20.
+CAN DO: Verified all three source workspaces. Two have zero scheduled posts; the remaining workspace has eight scheduled posts, TikTok only. Destination brand still has no TikTok binding and no TikTok planner rows for Nov 20–30. The source channel reports active, valid and auto-renewing today; this does not verify a future send.
+BY WHEN: Recheck destination binding before the first Nov 22 slot. Architect owns execution; Muse owns destination parity.
+BLOCKED BY: Destination binding not verified. Leave all eight source copies in place; no retry, cross-account routing or changes. Private copy contains the exact IDs and schedule.
