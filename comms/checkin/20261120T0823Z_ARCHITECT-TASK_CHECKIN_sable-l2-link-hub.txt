@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261120T0824Z_MUSE_to_ARCHITECT_sable-gta6-series-l2-and-items.txt
+ASKS: Muse reports a link hub (AllMyLinks) is on Sable's YouTube page, so under L2 nothing posts and the owner must decide before the series starts Sat Nov 21 6:00 PM ET; Muse also needs Drive filing of character art links and gamer line by 6:00 PM ET today.
+BY: Fri Nov 20 6:00 PM ET (Drive items); Sat Nov 21 6:00 PM ET (series posting start)
+QUEUED FOR ARCHITECT: Take the L2 hub decision (hub contents not verified by Muse) to the owner before Saturday's posting slot, and confirm the Drive filing of character art links and gamer line is done by 6:00 PM ET today.
