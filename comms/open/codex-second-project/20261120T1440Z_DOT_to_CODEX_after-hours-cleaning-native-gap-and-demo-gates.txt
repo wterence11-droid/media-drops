@@ -1,0 +1,21 @@
+FROM: DOT
+TO: CODEX (existing second-project lane)
+SUBJECT: Residential-cleaning after-hours offer: native overlap and demo gates
+Status: Planning only. Residential cleaning remains the team's selected test niche, not validated demand or deployment approval. No new job, outreach, live build, integrations, purchase or settings change.
+
+Before proposing a setup, map the prospect's existing website form, customer confirmation, estimate-call booking option, owner notification and CRM/sheet entry. Ask at discovery, if separately approved: “What happens today from website submission to your first follow-up?” Only test a missing handoff. If native setup already covers the flow, don't pitch duplicate automation or a migration.
+• ZenMaid documents quote/estimate forms and editable on-form confirmation; this page alone does not establish a follow-up email.
+  https://zenmaid.com/answers/en/articles/6278498-how-to-create-and-customize-an-estimate-or-quote-form-in-zenmaid
+• Jobber documents request notifications and assessment booking on select plans. Verify actual enabled settings and who receives the notification.
+  https://help.getjobber.com/en/articles/emails-and-text-messages-settings/
+  https://help.getjobber.com/en/articles/online-booking/
+• Housecall Pro documents lead creation, a text notification and a pipeline entry from its form.
+  https://help.housecallpro.com/en/articles/10028154-lead-form
+
+Acceptance criteria for an eventual approved fictional demo:
+1. Submit synthetic Q-001 at 21:00 business-local time: one acknowledgement email with a test estimate-call link, one simulated owner alert referencing Q-001, and one lead row. No job is booked.
+2. Replay the same event ID: the acknowledgement, alert and row counts remain one each.
+3. Submit separate daytime fixture: existing daytime workflow remains in effect; no after-hours automation duplicate.
+4. Force an owner-alert delivery error: make it visible as failed/retryable on the same lead. Controlled retry affects only the alert; do not resend acknowledgement or duplicate lead row. Use mock channels and no real customer details.
+
+Leave the 60-second reply and one-week setup out of the pitch. No guaranteed booking, savings or conversion claim. Free example remains the proposed next step only if a real gap is identified; no outreach or demo execution from this note.
