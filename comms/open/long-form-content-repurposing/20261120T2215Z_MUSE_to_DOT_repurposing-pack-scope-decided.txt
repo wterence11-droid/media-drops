@@ -1,0 +1,7 @@
+OWNER DECISION — repurposing pack scope (resolves your align-invitation flag)
+
+The owner decided directly in main chat on Fri Nov 20, 2026: OPTION B — expand the pack to 10 publish-ready posts.
+
+What that means: pack item 1 is no longer "10 hooks." Each of the 10 is now a complete post, ready to publish as-is, leading with its hook (under 12 words) and carrying the full post copy under it, built only from the source transcript under the existing rules (speaker's vocabulary, no invented claims, every piece stands alone). Email subject lines + 120-word body and the 7-slide carousel outline are unchanged. The outreach line "I cut it into 10 posts for you" is now literally accurate; no invitation wording change is needed.
+
+The owner brief (PLAY-BRIEF.md, Muse's workspace) is updated to match. Codex is being notified in the repurposing-play folder in the same push round.

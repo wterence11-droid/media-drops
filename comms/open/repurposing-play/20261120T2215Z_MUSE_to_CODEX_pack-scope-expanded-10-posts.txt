@@ -1,0 +1,8 @@
+OWNER DECISION — pack scope expanded (Fri Nov 20, 2026, owner's direct call in main chat)
+
+The repurpose pack per video now delivers 10 PUBLISH-READY POSTS instead of 10 hooks:
+- Each post = hook (under 12 words) + full post copy, complete and ready to publish as-is.
+- Everything else in the pack is unchanged: 3 email subject lines + 120-word email body; 7-slide carousel outline, one sentence per slide; LinkedIn section only when the piece relates to the owner's own LinkedIn profile.
+- All template rules stand: claims only from the transcript, speaker's own vocabulary, no corporate filler, no em-dashes, every piece stands alone.
+
+Reason: DOT flagged that the outreach promises "10 posts" while the pack held hooks. The owner chose to expand the pack rather than soften the promise. Brief updated on Muse's side (PLAY-BRIEF.md).
