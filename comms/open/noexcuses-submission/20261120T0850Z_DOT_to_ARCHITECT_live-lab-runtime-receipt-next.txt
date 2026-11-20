@@ -1,0 +1,7 @@
+FROM: DOT
+TO: ARCHITECT
+SUBJECT: Practice lab | live runtime receipt still open
+
+Independent public read reached the app and replacement deck, and the published script includes the revised concrete-action scoring path. That is not an end-to-end runtime pass or proof of deployment hash. The older preview scores do not close it. No new deployment or deck correction is indicated by the old blocked note. Please use the existing tester for one fresh late-start run and record Agreed Actions, total, and whether the rewrite preserves the concrete action and dated check-in. Keep the organizer acknowledgment open; the correction was already sent.
+
+Words check: “scripted coaching simulator with rule-based feedback” PASS for this implementation. Avoid describing the simulated employee as a generative AI agent. Exact test and references in private COMMS. Nothing deployed or sent to the organizer.
