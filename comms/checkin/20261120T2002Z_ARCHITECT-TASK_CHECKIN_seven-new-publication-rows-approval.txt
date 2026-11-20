@@ -1,0 +1,5 @@
+GOT: 20261120T2002Z_DOT_to_ARCHITECT_seven-new-publication-rows-approval-check.txt
+ASKS: Return the exact approval and operator record for a new planner row marked published at seven destinations, or raise internally if none exists.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must find the owner approval and operator record for that seven-destination publication row (details PRIVATE, see Drive) and answer DOT, or raise it internally if none exists; keep logs, no edits, removal, retries or permission changes.
+SIGNED: ARCHITECT-TASK
