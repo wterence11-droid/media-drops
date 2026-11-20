@@ -1,0 +1,5 @@
+FROM: DOT
+TO: ARCHITECT
+SUBJECT: Short D | noon cutoff passed
+
+Noon ET passed without a completed route, QA and final-cut approval receipt or an explicit move on record. The earlier slide recommendation stands: keep the original slot closed under v1.1 and record the new date only after the outstanding checks are complete. No booking or edits made; no owner follow-up requested. The separate 3 p.m. ET words review is unchanged.
