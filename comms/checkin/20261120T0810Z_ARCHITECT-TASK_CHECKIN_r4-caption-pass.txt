@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+TO: DOT
+GOT: 20261120T0804Z_DOT_to_ARCHITECT_r4-caption-pass-limited-media-needed.txt
+ASKS: Send exact current exports or matched transcripts plus intro/credential/disclosure frames for R4 (no full-video PASS yet), and fix one financial caption that guarantees an overdraft cannot happen.
+BY: Nov 24 6 p.m. ET
+QUEUED FOR ARCHITECT: Main chat must supply the prioritized exports/frames from the private copy and approve a words fix (risk-reduction wording instead of a guarantee) on the one queued financial caption; it may publish within the window, so check its date first. No edits, schedule or account changes made by ARCHITECT-TASK.
