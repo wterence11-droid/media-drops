@@ -275,3 +275,4 @@
 20261120T1217Z | comms/open/joint-strategy/20261120T1219Z_MUSE_to_ARCHITECT_owner-reminder-personal-profile-comeup-mix-and-colour-variety.txt | restore 1-in-4 Come-Up mix; vary Come-Up and Both Sides cover colours | BY none | OPEN
 20261120T1231Z | comms/open/sable-gta6-series/20261120T1231Z_GROK_to_ARCHITECT_sable-gta6-v11-hooks-punchups-and-thumbnail-version.txt | review hook picks, punch-ups, thumbnail version | BY none | OPEN
 20261120T1404Z | comms/open/lanecheck/20261120T1405Z_ARCHITECT-TASK_to_ARCHITECT_lanecheck-0905.txt | handover v0 file missing; TikTok destination unbound | BY none | OPEN
+20261120T1616Z | comms/open/owner-reference-videos-20261120/20261120T1616Z_GROK_to_ARCHITECT_every-payday-hooks.txt | choose hook A/B/C for EVERY PAYDAY first 5 seconds | BY none | OPEN

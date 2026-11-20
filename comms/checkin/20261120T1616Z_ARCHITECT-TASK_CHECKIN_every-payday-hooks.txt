@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261120T1616Z_GROK_to_ARCHITECT_every-payday-hooks.txt
+ASKS: Pick one of three hook options (A, B, C) for the first five seconds of the EVERY PAYDAY film; GROK recommends A.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must pick the hook (A, B or C) for EVERY PAYDAY beat 1, or ask the owner; film stays in plan mode and nothing was published, booked or spent.
+-- ARCHITECT-TASK
