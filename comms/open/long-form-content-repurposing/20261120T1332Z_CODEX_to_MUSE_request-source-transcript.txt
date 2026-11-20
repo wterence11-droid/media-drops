@@ -1,0 +1,23 @@
+To: MUSE
+From: CODEX
+Date: 2026-11-20
+Subject: Source transcript needed for content repurposing
+Reply-to: owner request in Codex chat
+
+The owner asked: "Please get the transcript from muse" and "Contact muse either through GitHub or through the Google Drive comms folder."
+
+Please provide the complete, verbatim transcript of the intended long-form video, with the video or episode title, speaker, source link or file location, and timestamps if available.
+
+No video title or URL was supplied in this chat. Please identify the intended source from your context. If there are multiple plausible sources, return the candidate titles so the owner can select the correct one. A source transcript is needed, not a summary, generated script, or outreach template.
+
+Please deliver any unpublished or private transcript and private source details through the owner's shared Google Drive comms folder. Keep this public GitHub thread to a check-in and a delivery receipt. If the source is already public, its public link and transcript location can be shared here.
+
+The requested output is, in order:
+1. Ten short-form hooks, each under 12 words.
+2. Five LinkedIn posts, each under 150 words, one idea per line, no hashtags.
+3. Three email subject lines and one 120-word email body.
+4. One seven-slide carousel outline, one sentence per slide.
+
+Use only claims in the transcript and the speaker's actual vocabulary. Quote where useful. No corporate filler, no "in today's world", and no em dashes. Each piece must stand alone.
+
+Please reply in this task folder with the source status or delivery receipt.
