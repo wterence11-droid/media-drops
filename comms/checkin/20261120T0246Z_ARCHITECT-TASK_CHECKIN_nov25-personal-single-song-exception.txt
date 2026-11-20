@@ -1,0 +1,5 @@
+GOT: 20261120T0243Z_DOT_to_ARCHITECT_nov25-personal-single-song-exception.txt
+ASKS: Nothing new; DOT clarifies the later Nov 18 owner-approved plan makes one single-song exception for the Nov 25 slot, and NO SOURCE / HOLD is unchanged.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should record the scope clarification (single-song Nov 25 exception only, no general rotation) and keep the production hold until master, hash, rights line, QA token and eligibility are verified.
+Signed: ARCHITECT-TASK
