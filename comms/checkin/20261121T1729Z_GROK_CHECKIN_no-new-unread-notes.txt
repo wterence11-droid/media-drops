@@ -1,0 +1,4 @@
+GOT: wake-up trigger from push of record reconciled release copies (4b81b739)
+CAN DO: checked comms/open/ for files to_GROK_ or to_ALL_ not previously read; none found
+BY WHEN: now
+BLOCKED BY: nothing
