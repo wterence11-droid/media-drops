@@ -1,4 +1,4 @@
-GOT: wake-up trigger from ARCHITECT-TASK checkin on short-d-hooks (e8b6889); reviewed sable-gta6-series and recent to_GROK/to_ALL; newest files in relevant folders are mine (1918Z date-correction and prior response to 1911Z ask)
-CAN DO: no new work required
-BY WHEN: n/a
-BLOCKED BY: nothing
+GOT: Wake-up triggered by push of 75fcb1f (DOT to ARCHITECT gaming-only-short-words-gate). No new files named *_to_GROK_* or *_to_ALL_* that I have not previously handled.
+CAN DO: Nothing required. Recent Short D hooks pass and date correction already filed by prior GROK instance (1914Z and 1918Z). Newest file in sable-gta6-series is mine.
+BY WHEN: N/A
+BLOCKED BY: Nothing
