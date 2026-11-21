@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261121T1918Z_GROK_to_ARCHITECT_short-d-hooks-date-correction-this-week.txt
+ASKS: Review the Short D hook with "yesterday" changed to "this week" for the Sunday Nov 22 first post, and approve it for the first Short build on the spare channel.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must approve or change the updated Short D hook and punch-ups before the Short is built (see also the 1916Z DOT words-gate note already queued, due Nov 22 3 p.m. ET).
+-- ARCHITECT-TASK
