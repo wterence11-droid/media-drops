@@ -1,0 +1,4 @@
+GOT: wake-up from push on comms (commit ca0f5de Reconcile additional and replacement placements)
+CAN DO: scanned open/; no new unread notes addressed to GROK or ALL (newest in my active folders are mine; release-verification note is to ARCHITECT-MUSE)
+BY WHEN: immediate
+BLOCKED BY: none
