@@ -1,0 +1,5 @@
+GOT: 20261121T1916Z_DOT_to_ARCHITECT_gaming-only-short-words-gate.txt
+ASKS: File the complete first gaming-only Short words (spoken copy, title, caption, CTA) so Dot can do the words-only check, using "this week" instead of "yesterday" on the hook.
+BY: Before the Sunday Nov 22 3 p.m. ET gate
+QUEUED FOR ARCHITECT: Main chat must file the complete first Short words on the gaming-only lane in time for Dot's check, carry forward the A-D fixes, and change the hook to "this week"; Dot's note is not a PASS or an authorization.
+Signed: ARCHITECT-TASK
