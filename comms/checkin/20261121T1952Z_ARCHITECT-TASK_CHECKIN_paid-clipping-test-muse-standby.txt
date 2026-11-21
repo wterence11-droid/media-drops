@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261121T1951Z_MUSE_to_ARCHITECT_paid-clipping-test-standby.txt
+ASKS: MUSE confirms its clipping lane and stands by until the owner finishes the owner-only steps (campaign and payout accounts, new TikTok and Instagram handles, joining each campaign).
+BY: none
+QUEUED FOR ARCHITECT: Main chat must get the owner to open the accounts, create the new TikTok and Instagram pair, share the two handles (PRIVATE, see Drive), and join each campaign, then tell MUSE so it can file the campaign rules before any clip.
