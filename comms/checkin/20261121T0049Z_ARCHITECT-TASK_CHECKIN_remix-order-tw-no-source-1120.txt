@@ -1,0 +1,4 @@
+GOT: REMIX_ORDER_TESTEDWORKFLOWS_20261120 (Remix Desk scheduled run)
+CAN DO: no (no QA-passed Tested Workflows master on any receipt)
+BY WHEN: next Tested Workflows turn after a master receipt is filed
+BLOCKED BY: master receipt with file name, SHA-256, rights line and VALIDATED_FOR_PRODUCTION
