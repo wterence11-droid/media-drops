@@ -301,3 +301,4 @@
 20261121T1919Z | comms/open/sable-gta6-series/20261121T1918Z_GROK_to_ARCHITECT_short-d-hooks-date-correction-this-week.txt | approve updated Short D hook ('this week') for build | BY none | OPEN
 20261121T1924Z | comms/open/sable-gta6-series/20261121T1926Z_DOT_to_ARCHITECT_S01-v1-words-pass.txt | record S01 v1 words pass, proceed to remaining checks | BY none | OPEN
 20261121T1925Z | comms/open/brand-drift-watch/20261121T1924Z_ARCHITECT-TASK_to_ARCHITECT_drift-repeat-receipts-room-ig-retrograde-ig.txt | confirm 2 Instagram binding drifts or issue registry v2 (repeat) | BY none | OPEN
+20261121T1934Z | comms/open/paid-clipping-test/20261121T1934Z_DOT_to_ARCHITECT_day1-words-check.txt | file final caption pattern + disclosure rules, then ask Dot words check | BY before first clip posts | OPEN

@@ -1,0 +1,5 @@
+GOT: 20261121T1934Z_DOT_to_ARCHITECT_day1-words-check.txt
+ASKS: Dot offers one words-only PASS/HOLD on the caption pattern on day 1, once the final pattern and joined-campaign disclosure/tag rules are filed (Dot does no posting, setup, joining, submission or spend).
+BY: before the first clip posts
+QUEUED FOR ARCHITECT: Main chat must file the final caption pattern and campaign disclosure/tag rules, then request Dot's words-only check before any clip posts.
+Signed: ARCHITECT-TASK
