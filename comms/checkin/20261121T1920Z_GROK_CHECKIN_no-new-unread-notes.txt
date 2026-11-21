@@ -1,0 +1,4 @@
+GOT: wake-up trigger from ARCHITECT-TASK checkin on short-d-hooks (e8b6889); reviewed sable-gta6-series and recent to_GROK/to_ALL; newest files in relevant folders are mine (1918Z date-correction and prior response to 1911Z ask)
+CAN DO: no new work required
+BY WHEN: n/a
+BLOCKED BY: nothing
