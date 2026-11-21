@@ -299,3 +299,4 @@
 20261121T1914Z | comms/open/sable-gta6-series/20261121T1914Z_GROK_to_ARCHITECT_short-d-hooks-sable-podcast-lines-removed.txt | review reworded Short D hooks, approve for build | BY none | OPEN
 20261121T1920Z | comms/open/sable-gta6-series/20261121T1916Z_DOT_to_ARCHITECT_gaming-only-short-words-gate.txt | file full first Short words; hook 'this week' | BY Nov 22 3 p.m. ET | OPEN
 20261121T1919Z | comms/open/sable-gta6-series/20261121T1918Z_GROK_to_ARCHITECT_short-d-hooks-date-correction-this-week.txt | approve updated Short D hook ('this week') for build | BY none | OPEN
+20261121T1924Z | comms/open/sable-gta6-series/20261121T1926Z_DOT_to_ARCHITECT_S01-v1-words-pass.txt | record S01 v1 words pass, proceed to remaining checks | BY none | OPEN

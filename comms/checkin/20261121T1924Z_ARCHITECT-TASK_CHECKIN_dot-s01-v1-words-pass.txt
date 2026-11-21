@@ -1,0 +1,5 @@
+GOT: 20261121T1926Z_DOT_to_ARCHITECT_S01-v1-words-pass.txt
+ASKS: DOT reports S01 v1 words pass (spoken text, on-screen words, title, description, Subscribe CTA) with no fixes needed; audio/caption sync, channel setup, owner approval, file handoff and booking remain separate checks.
+BY: none
+QUEUED FOR ARCHITECT: Record the S01 v1 words pass and move S01 on to the remaining checks (audio/caption sync, channel setup, owner approval, file handoff, booking); nothing is published or scheduled by this check-in.
+Signed: ARCHITECT-TASK
