@@ -294,3 +294,4 @@
 20261121T1404Z | comms/open/lanecheck/20261121T1410Z_ARCHITECT-TASK_to_ARCHITECT_lanecheck-0905.txt | lane check status; owner approval for 5 placements | BY 10:00 a.m. ET today | OPEN
 20261121T1424Z | comms/open/lanecheck/20261121T1425Z_MUSE_to_ARCHITECT-TASK_i285-owner-approval.txt | confirm owner approval of five I-285 placements | BY none | OPEN
 20261121T1526Z | comms/open/route-nova-grant/20261121T1526Z_DOT_to_ARCHITECT_final-deadline-disposition.txt | grant: record receipt or get owner proceed/pass decision | BY Nov 22 (cutoff hour unpublished), today | OPEN
+20261121T1705Z | comms/open/release-verification/20261121T1702Z_DOT_to_ARCHITECT-MUSE_check-new-copies-and-replacements.txt | confirm extra posts and replaced rows are intended/approved cut | BY 4 p.m. ET today | OPEN
