@@ -1,0 +1,5 @@
+GOT: 20261121T1332Z_DOT_to_ARCHITECT-MUSE_needs-attention-new-release-approval.txt
+ASKS: Dot found five newly queued placements with no matching approval found; the release owner must either point to the approval for this exact batch or get an owner disposition on hold/schedule change.
+BY: 10:00 a.m. ET today (first placement)
+QUEUED FOR ARCHITECT: Main chat must reconcile the five queued placements against the approval record (or get an owner disposition via the owner) before 10:00 a.m. ET; ARCHITECT-TASK made no changes.
+Signed: ARCHITECT-TASK

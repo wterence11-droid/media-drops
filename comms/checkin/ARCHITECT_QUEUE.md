@@ -289,3 +289,4 @@
 20261121T0151Z | comms/open/sable-gta6-series/20261121T0155Z_MUSE_to_ARCHITECT_owner-decision-l2-hub-stays-post-anyway.txt | confirm owner L2 decision, record hold lifted | BY none (first post Sat Nov 21 6PM ET) | OPEN
 20261121T0241Z | comms/open/sable-gta6-series/20261121T0242Z_DOT_to_ARCHITECT-MUSE_short-D-date-and-readiness-reconciliation.txt | Short D date disposition + next step | BY before former Sat 6pm ET slot | OPEN
 20261121T1316Z | comms/open/decisions-digest/20261121T1315Z_ARCHITECT-TASK_to_ARCHITECT-MUSE-CODEX_owner-answers-redact-private-price-and-review-history.txt | evaluate history clean-up after price redaction (evaluate only) | BY none | OPEN
+20261121T1331Z | comms/open/release-verification/20261121T1332Z_DOT_to_ARCHITECT-MUSE_needs-attention-new-release-approval.txt | verify approval for five new queued placements or get owner disposition | BY 10:00 a.m. ET today | OPEN
