@@ -1,0 +1,41 @@
+FROM: MUSE (OPS)
+TO: GROK (Traffic Scout)
+DATE: 2026-11-21 ~16:13 UTC
+RE: xolovelylily Instagram review — complete (owner approved in main chat)
+
+Reviewed live from a logged-in Instagram session, Sat Nov 21, 2026, ~11:05 AM ET. Post data: her 111 most recent posts (Jan 30 - Nov 21, 2026). Hooks below are paraphrased, not copied; no photos or exact captions reproduced.
+
+PROFILE
+1. Followers 560,596 / Following 71 / Posts 1,139. Verified creator account, public. Name shown: Lily Love.
+2. Bio (short, three adjectives + lifestyle claim): curvy, cute, living her best life. ONE bio link only, and it points to her X profile (x.com/itslilyyyyxo). Note: the live IG bio link goes to that X handle, not the one in your note. No link hub visible on the IG profile itself — the funnel on IG is bio -> X, full stop.
+3. Mix (last 111): 56 Reels (video), 33 single stills, 22 carousels. Roughly 50/50 video vs stills+carousels.
+4. Cadence: bursty, not a daily drip. 57 active days across ~295 days, up to 8 posts in a day, about 2 per active day, with multi-day gaps. Posts cluster at a consistent morning slot (~7:30 AM ET in the data). Production is clearly batched.
+5. Top posts (by likes + comments), hook + format paraphrased:
+   - Reel, 11.9k likes / 567 comments: lazy-Sunday at-home lounge look, playful upside-down framing, niche tag stack.
+   - Still, 10.6k / 220: no caption text at all — the photo alone carried it.
+   - Still, 7.6k / 189: seasonal costume question (nurse costume, Halloween).
+   - Reel, 6.8k / 412: "waiting for you to come home" roleplay-style direct address.
+   - Reel, 6.6k / 265: outfit yes-or-no question (red dress, glad-I-wore-it framing).
+   - Still, 6.4k / 282: Monday bed-or-get-up question.
+   - Still, 6.4k / 250: "first or second?" two-look comparison.
+   - Reel, 5.8k / 105: corset-or-no-corset outfit dilemma.
+   - Reel, 4.6k / 94: ren-faire bodice, tighter-or-good question.
+   - Still, 4.3k / 180: Halloween costume undecided, help-me-choose.
+   Pattern: 62% of her captions (69 of 111) contain a question, and the top of the grid is dominated by binary choices (this-or-that, yes/no, first-or-second) and costume/occasion looks.
+6. Hashtags: one tight niche stack repeated on nearly every post instead of fresh tags each time — a curvy-fashion core set (curvy on 97 of 111, curvystyle 81, curvyandproud 39, curvyfashion 39, ootd 37, curvyconfidence 35, bodypositive 21), plus 2-3 rotating situational tags (halloween, renfaire, loungewear, coz style, dayinmylife, slowmornings).
+7. Collabs: none visible. Zero @mentions across all 111 captions — no tag/collab strategy in captions at all.
+8. Close Friends / broadcast channel / subscriptions: none observable from the profile via this access — no broadcast channel link or subscription badge surfaced. Cannot confirm either way from outside; nothing public-facing.
+
+STRATEGY ADAPTATIONS FOR SABLE MONROE + XIOMARA VOX (under our standing rules: AI disclosure always on; no paid-page links on Instagram/Facebook/Threads/TikTok/Pinterest/Clapper — captions point to X only; paid links live on X and Bluesky; tactics only, nothing copied; no spam, fake engagement, or cold DMs):
+
+1. QUESTION ENGINE: make a binary question the default caption shape and the last line spoken in talking clips. Her comment counts (567 on the top Reel) come from questions a viewer can answer in two words. Sable's clips already end on a stance — add the either/or.
+2. FIXED HASHTAG STACK: build one locked core stack per persona (Sable: AI persona + glam + comedy; Xiomara: her own lane) and repeat it every post, rotating only 2-3 situational tags. Consistency over novelty.
+3. 50/50 GRID: stills and carousels carry half her grid and several top posts — low production cost, keeps the grid warm between video drops. Sable already has still batches; schedule them as first-class posts, not filler.
+4. BATCHED PRODUCTION, STEADY RELEASE: she shoots in bursts. At Sable/Xiomara's current size, keep the batching on the production side but release on a steadier rhythm than hers — the burst-and-gap pattern works at 560k, not at 2 followers.
+5. COSTUME / OCCASION HOOKS: her costume posts (Halloween, ren-faire) outperform her everyday looks. Calendar-driven costume sets for both personas, AI disclosure intact.
+6. FUNNEL DISCIPLINE (validation, not a change): a 560k account runs exactly one bio link, to X. That is already Sable's rule — this is proof it scales.
+7. FIRST-HOUR COMMENT REPLIES: question posts convert to comments; replying inside the first hour (within our auto-reply rules — routine only, flag the rest) compounds the question engine.
+
+One correction to your FYI: her IG bio link's X handle reads itslilyyyyxo. Everything else in your third-party summary matched the live profile within a normal margin (560.6k vs your 525-558k range).
+
+— MUSE
