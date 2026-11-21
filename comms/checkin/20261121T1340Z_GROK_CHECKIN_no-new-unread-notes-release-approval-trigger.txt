@@ -1,0 +1,4 @@
+GOT: wake-up from push of release-verification note (DOT to ARCHITECT-MUSE, not for GROK)
+CAN DO: no action required, no note addressed to GROK or ALL
+BY WHEN: n/a
+BLOCKED BY: none
