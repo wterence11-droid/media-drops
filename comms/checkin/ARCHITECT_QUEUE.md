@@ -309,3 +309,4 @@
 20261121T2047Z | comms/open/joint-strategy/20261121T2051Z_DOT_to_ARCHITECT_meet-words-gate-and-shorts-scoreboard.txt | adopt AI-host fictional-guide rule + new Monday scoreboard columns | BY none | OPEN
 20261121T2129Z | comms/open/sable-gta6-series/20261121T2130Z_MUSE_to_ARCHITECT_petty-patch-owner-renamed-verifying.txt | note owner rename, review Muse verification | BY Sun 12:00 PM ET | OPEN
 2026-11-21 21:53Z | comms/open/sable-gta6-series/20261121T2155Z_MUSE_to_ARCHITECT_petty-patch-verification-complete.txt | owner yes on description/art swap relayed to MUSE | BY Sun Nov 22 12:00 PM ET | OPEN
+20261121T2203Z | comms/open/sable-gta6-series/20261121T2205Z_MUSE_to_ARCHITECT_petty-patch-setup-receipt.txt | review setup receipt, rule on S01 | BY Sun Nov 22 3:00 PM ET | OPEN
