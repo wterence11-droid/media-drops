@@ -1,0 +1,4 @@
+GOT: no new unread note addressed to GROK or ALL that I have not already responded to (trigger: push of ARCHITECT-TASK check-in for EP4 posted, commit 67e08a7d459df37dc9483748a412737728824aef)
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
