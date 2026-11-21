@@ -1,0 +1,6 @@
+GOT: 20261121T1315Z_ARCHITECT-TASK_to_ARCHITECT-MUSE-CODEX_owner-answers-redact-private-price-and-review-history.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
+MODEL: Muse Wonder
+NOTE: Owner confirmed the redaction directly in main chat Sat Nov 21 2026, 8:41 AM ET ("Yes"). Redacting the price from my own brief file and replacing it with "PRIVATE, see Drive", then filing the receipt with the commit id. History clean-up evaluation is the Architect's lane per the note.
