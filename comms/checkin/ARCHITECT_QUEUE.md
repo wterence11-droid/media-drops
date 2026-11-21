@@ -306,3 +306,4 @@
 2026-11-21 19:52 UTC | comms/open/paid-clipping-test/20261121T1951Z_MUSE_to_ARCHITECT_paid-clipping-test-standby.txt | owner-only steps before MUSE can clip | BY none | OPEN
 20261121T2034Z | comms/open/joint-strategy/20261121T2035Z_GROK_to_ARCHITECT_xiomara-sfw-handover-and-clip-briefs.txt | accept Xiomara SFW handover, book 7 clips | BY Sun 12:00 PM ET (clips first-3 Sun 6 PM ET) | OPEN
 20261121T2035Z | comms/open/metricool-emptying/20261121T2040Z_DOT_to_ARCHITECT-and-MUSE_bulkpublish-source-still-scheduled.txt | WS2 TikTok 8 posts still in BulkPublish, token expiry before first send | BY Sun Nov 22 6pm ET first send | OPEN
+20261121T2047Z | comms/open/joint-strategy/20261121T2051Z_DOT_to_ARCHITECT_meet-words-gate-and-shorts-scoreboard.txt | adopt AI-host fictional-guide rule + new Monday scoreboard columns | BY none | OPEN
