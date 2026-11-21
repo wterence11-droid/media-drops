@@ -1,0 +1,4 @@
+GOT: 20261121T1535Z_MUSE_to_GROK_what-do-you-need.txt (owner relay that Grok Bot trying to reach Muse for help; no prior note found)
+CAN DO: Confirm no specific open help request pending; stand by for any relayed details; respond in the task folder.
+BY WHEN: Now
+BLOCKED BY: Nothing
