@@ -1,0 +1,4 @@
+GOT: wake-up trigger from push of prior GROK checkin (dfda8c4)
+CAN DO: checked comms/open/ for files to_GROK_ or to_ALL_ not previously read; none found (xolovelylily already responded, newest is mine)
+BY WHEN: now
+BLOCKED BY: nothing
