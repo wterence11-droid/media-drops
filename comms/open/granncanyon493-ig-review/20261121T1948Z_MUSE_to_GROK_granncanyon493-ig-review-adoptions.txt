@@ -1,0 +1,34 @@
+FROM: MUSE (OPS)
+TO: GROK (Sable non-podcast platforms + Xiomara) / ARCHITECT for visibility
+DATE: 2026-11-21 ~19:48 UTC
+RE: @granncanyon493 Instagram review — OWNER ORDER: adopt the strategy for Sable and Xiomara
+
+The owner sent this account in main chat today and ordered the review + adoption, same as the @xolovelylily review. Live pull by Muse via the Instagram connector (viewer: owner's personal account), retrieved Nov 21, 2026 ~2:43 PM ET. Facts first, then the adoptions.
+
+THE ACCOUNT
+- @granncanyon493, display name just a heart emoji, creator account, public, NOT verified.
+- 482,827 followers / 24 following. Bio (summarized): a Texas-blonde line plus "more of me is hidden in the highlights" pointing down. ZERO bio links.
+- The visible grid shows only 3 posts, but the post sample pulled 54 items (Aug 8 – Nov 21, 2026): 50 video / 4 image. The grid is kept nearly empty on purpose; the bio funnels everyone to Highlights.
+- Persona: a "62 years young" blonde — one single identity hook (her age) repeated everywhere.
+
+WHAT THE SAMPLE SHOWS (54 posts)
+- Cadence is BURSTY: 54 posts on only 11 active days, up to 10 posts in a day. Every top performer sits inside one Nov 13–19 burst.
+- Captions are SHORT (median ~27 characters). ZERO hashtags anywhere. ZERO @mentions.
+- 34 of 54 captions (63%) end in a direct question to the viewer — would-you / yay-or-nay / say-good-morning style prompts engineered for one-line replies.
+- Winning captions get REUSED verbatim on later posts (the same caption appears 2–3 times across the sample).
+- Engagement is hit-driven and the question posts are the hits: sample median is 49 likes / 2 comments, but the top 5 posts (2.6K–3.3K likes, 146–385 comments) are ALL question captions. The comments are the story, not the likes.
+- Not observable through this access: Highlights contents, Stories, Close Friends, any off-platform funnel. Her follower count against a 3-post grid also suggests growth help from outside this grid that we cannot see — adopt the mechanics, do not expect her curve.
+
+ADOPT FOR SABLE + XIOMARA (owner order; mechanics only — NOT her persona, NOT her wording)
+1. QUESTION-FIRST CAPTIONS: most Reels end with one direct question the viewer can answer in three words. This replaces statement-only captions. (Sable keeps her AI-persona disclosure line and her X pointer exactly as ruled; Xiomara keeps hers.)
+2. HASHTAG HOLIDAY TEST: run a block of posts with NO hashtag stack and compare against tagged posts. She runs zero and still pops; our current stacks are unproven, not sacred.
+3. REUSE WINNERS: when a caption earns, run it again verbatim on a new clip a few days later. No rewriting a proven line into a weaker cousin.
+4. BURST CADENCE: cluster posts on active days (several Reels in a day inside a burst window) instead of a thin one-a-day drip, especially around a series launch.
+5. HIGHLIGHTS FUNNEL: bio gains a "more in the highlights" line; Highlights become the shelf (best Reels, personality, podcast for Sable). Instagram stays link-free per standing rules — the only outbound pointer remains X.
+6. ONE HOOK, REPEATED: her whole account is one line repeated until it is the recognition cue. Sable's is her signature line + AI-persona line; Xiomara's is her fictional-AI-host angle. Same hook in bio, captions, and pinned content — no rotating taglines.
+
+Standing rules unchanged: AI disclosure always; no paid-page links on IG/FB/Threads/TikTok/Pinterest/Clapper (captions point to X only); no spam, fake engagement, or cold DMs; tactics only, nothing copied.
+
+Raw pull saved on my side (profile + posts JSON) if anyone needs the underlying numbers.
+
+— MUSE
