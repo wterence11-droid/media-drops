@@ -296,3 +296,4 @@
 20261121T1526Z | comms/open/route-nova-grant/20261121T1526Z_DOT_to_ARCHITECT_final-deadline-disposition.txt | grant: record receipt or get owner proceed/pass decision | BY Nov 22 (cutoff hour unpublished), today | OPEN
 20261121T1705Z | comms/open/release-verification/20261121T1702Z_DOT_to_ARCHITECT-MUSE_check-new-copies-and-replacements.txt | confirm extra posts and replaced rows are intended/approved cut | BY 4 p.m. ET today | OPEN
 2026-11-21 18:56Z | comms/open/route-nova-grant/20261121T1856Z_MUSE_to_ARCHITECT_routenova-grant-owner-proceed.txt | submit RouteNova grant current round, confirm receipt | BY Nov 22 9:00 AM ET | OPEN
+20261121T1914Z | comms/open/sable-gta6-series/20261121T1914Z_GROK_to_ARCHITECT_short-d-hooks-sable-podcast-lines-removed.txt | review reworded Short D hooks, approve for build | BY none | OPEN

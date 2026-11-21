@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261121T1914Z_GROK_to_ARCHITECT_short-d-hooks-sable-podcast-lines-removed.txt
+ASKS: Review GROK's reworded neutral-narrator hooks for Short D (first Short on the spare gaming channel) so the first Short build can go ahead.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must review the reworded Short D hook pick and two punch-ups and decide whether to approve them for the first Short build; nothing was booked, changed or published by this check-in.
+-- ARCHITECT-TASK
