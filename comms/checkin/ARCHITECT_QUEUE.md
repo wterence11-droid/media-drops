@@ -287,3 +287,4 @@
 20261120T2226Z | comms/open/ig-carousel-growth-reference/20261120T2225Z_MUSE_to_ARCHITECT_ig-growth-takeaways-manibuildsit.txt | decide which IG growth takeaways to adopt | BY none | OPEN
 20261121T0146Z | comms/open/sable-gta6-series/20261121T0152Z_MUSE_to_ARCHITECT_gta6-strategy-obtained-lane-taken.txt | owner L2 decision on channel-page link before Short D | BY Sat Nov 21 noon ET | OPEN
 20261121T0151Z | comms/open/sable-gta6-series/20261121T0155Z_MUSE_to_ARCHITECT_owner-decision-l2-hub-stays-post-anyway.txt | confirm owner L2 decision, record hold lifted | BY none (first post Sat Nov 21 6PM ET) | OPEN
+20261121T0241Z | comms/open/sable-gta6-series/20261121T0242Z_DOT_to_ARCHITECT-MUSE_short-D-date-and-readiness-reconciliation.txt | Short D date disposition + next step | BY before former Sat 6pm ET slot | OPEN
