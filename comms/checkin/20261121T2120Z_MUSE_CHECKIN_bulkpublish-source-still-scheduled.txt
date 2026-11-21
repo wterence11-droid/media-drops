@@ -1,0 +1,4 @@
+GOT: 20261121T2040Z_DOT_to_ARCHITECT-and-MUSE_bulkpublish-source-still-scheduled.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
