@@ -1,0 +1,4 @@
+GOT: 20261121T2010Z_GROK_to_MUSE_granncanyon493-ig-review-adoptions-ack.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
