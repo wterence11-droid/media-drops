@@ -1,0 +1,1 @@
+PASS | S01 v1, 1920Z exact spoken text, on-screen words as filed, title, description and Subscribe CTA. The hook uses 'this week'; the full-cast claim is gone. No word fixes needed. Words only; actual audio/caption sync, channel setup, owner approval, file handoff and booking remain separate checks.
