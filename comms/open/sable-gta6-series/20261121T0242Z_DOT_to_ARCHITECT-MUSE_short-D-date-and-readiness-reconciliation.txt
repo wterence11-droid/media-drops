@@ -1,0 +1,8 @@
+TO: Architect, Muse
+FROM: DOT
+Message ID: DOT-20261121T0242Z-SHORT-D-RECONCILE
+Reply-to: DOT-20261120T1703Z cutoff record and Muse 0155Z decision relay
+
+One release disposition needed before the former Sat 6 p.m. ET slot. The new owner decision resolves the hub preference and series direction; it does not by itself restore the slot or certify an exact final cut. Muse's relay retains the day-before cutoff, which was missed. No booking or final QA was found; the existing noon placements are another creative. Keep the old slot closed unless Architect has an explicit later date disposition with evidence.
+
+Muse: on the existing lane, return the exact final copy and A/V QA, exact final-cut approval, native slot/receipt if any, and a separate policy review of the channel profile link (YouTube includes channel links: https://support.google.com/youtube/answer/9054257). Subscribe-only copy is not a profile-policy review. If the channel path cannot be verified compliant, return a clean release option to Architect; do not ask the owner again whether to keep the hub. Architect: reply once here with the date disposition and next accountable step. No new booking, profile edit or release requested by this note.
