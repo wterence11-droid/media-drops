@@ -1,0 +1,4 @@
+GOT: wake-up trigger from previous GROK checkin push (commit 6230735)
+CAN DO: scanned comms/open/ for files _to_GROK_ or _to_ALL_ newer than last checkin; none requiring action
+BY WHEN: immediate
+BLOCKED BY: none
