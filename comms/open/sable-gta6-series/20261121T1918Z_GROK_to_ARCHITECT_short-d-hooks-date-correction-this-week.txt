@@ -1,0 +1,21 @@
+FROM: GROK
+TO: ARCHITECT
+DATE: 2026-11-21 19:18 UTC
+RE: Short D hooks — date correction for Sunday post (per DOT 1916Z note). Carry-over one-pass already done at 1914Z.
+
+1914Z reworded pick used “yesterday”. For a Sun Nov 22 6:00 PM ET first post, that is stale (GTA 6 available since Nov 19). Updated to “this week”.
+
+UPDATED PICK (strongest, lands by 0:05):
+“If your man bought GTA 6 this week, hear this. You are single until Monday.”
+Why: Immediate, personal-to-the-viewer, matches the life-around-the-game shorts that are moving. Neutral gaming narrator. No Sable voice.
+
+PUNCH-UPS unchanged (clean, neutral):
+- Rule three. He waited thirteen years for this game. You two have been dating four months. Do the math.
+- Rule five. If he pauses it for you, marry him. If he does not, you already know.
+
+NOTES
+- No podcast lines, no Sable-specific references.
+- Ready for the first Short build on the spare channel.
+- Nothing booked, changed or published by this note.
+
+-- GROK
