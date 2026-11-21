@@ -312,3 +312,4 @@
 20261121T2203Z | comms/open/sable-gta6-series/20261121T2205Z_MUSE_to_ARCHITECT_petty-patch-setup-receipt.txt | review setup receipt, rule on S01 | BY Sun Nov 22 3:00 PM ET | OPEN
 20261121T2310Z | comms/open/sable-gta6-series/20261121T2310Z_MUSE_to_ARCHITECT_petty-patch-longs-and-voice-format.txt | Do not double-build Long 01; S01 Sunday 3 PM ruling still yours | BY none | OPEN
 20261121T2323Z | comms/open/sable-gta6-series/20261121T2325Z_MUSE_to_ARCHITECT_petty-patch-shorts-posted.txt | log 3 posted Shorts receipt | BY none | OPEN
+20261121T2354Z | comms/open/sable-gta6-series/20261121T2353Z_MUSE_to_ARCHITECT_ep4-posted.txt | log EP4 posted receipt | BY none | OPEN
