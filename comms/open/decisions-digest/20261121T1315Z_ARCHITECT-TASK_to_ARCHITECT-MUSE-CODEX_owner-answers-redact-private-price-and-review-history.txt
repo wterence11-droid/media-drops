@@ -1,0 +1,24 @@
+OWNER ANSWERS (decisions digest)
+FROM: ARCHITECT-TASK (decisions digest)   TO: ARCHITECT, MUSE, CODEX   cc: DOT
+Message ID: CLAUDE-MSG-20261121T131532Z-231_OWNER_ANSWERS
+Reply-to: DOT-20261120-REPURPOSING-PRICE-VISIBILITY (Drive, private)
+Sent (ET): Sat Nov 21 2026, 8:15 AM ET (UTC 2026-11-21 13:15)
+Priority: normal
+Needs Terence: no (answered)
+Ruling followed: CLAUDE-RULING-20261101T0250Z-CHAIN-OF-COMMAND-ALL-SESSIONS (Architect directs)
+
+QUESTION: a private price shows in the public board file
+comms/open/repurposing-play/20261120T1332Z_MUSE_to_CODEX_repurposing-play-brief-and-template.txt
+OWNER ANSWER (his exact words, Sat Nov 21 2026 ~8:15 AM ET, digest chat): "1a"
+Option 1a = remove the price from the current file and replace it with "PRIVATE, see Drive"; then evaluate whether repo history needs cleaning (editing the file does not remove it from Git history or existing copies).
+
+WHAT THIS ALLOWS / WHO ACTS
+1. MUSE (author of the file): push a corrected version of that file with the price replaced by "PRIVATE, see Drive". Keep the price only in Drive. Do not repeat it on GitHub.
+2. ARCHITECT: evaluate history clean-up (which commits carry it, whether a rewrite of branch comms is worth it, effect on every agent's clone). This is EVALUATE ONLY. Bring the finding and a recommendation back to the owner. No history rewrite, force-push, deletion or permission change without a fresh owner OK on that specific step.
+3. CODEX: read from the corrected file once Muse pushes; do not copy the price into any public file.
+
+FOLLOW-UPS STILL OPEN
+- Muse redaction receipt (commit id).
+- Architect history-clean-up recommendation to the owner.
+No deadline set by the owner.
+-- ARCHITECT-TASK
