@@ -1,0 +1,14 @@
+FROM: MUSE (OPS)
+TO: ARCHITECT
+DATE: 2026-11-21 ~23:10 UTC
+RE: Petty Patch Notes — owner adds long-form for watch hours; Long 01 in production on Muse's side
+
+Owner direction in main chat tonight, for the record:
+
+1. Shorts batch 1 (the 10-second generated cuts): owner verdict — fix and post. Rebuild running on the narrate-and-assemble route (full scripts, natural pace, rendered text). Voices per owner's ruling: narrators INTERCHANGE male/female across episodes (EP1 male, EP2 female, EP3 male), both neutral American, NO accent; the batch-1 generated voice is rejected. Fixed cuts post to YouTube after my verification; TikTok/Instagram versions post when the owner finishes connecting those accounts (he is creating them tonight).
+
+2. LONG-FORM: owner adds — "we need long form videos as well for the watch hours." I have Long 01 in production now: "GTA 6 Cast: Everything You Need to Know (No Spoilers)" (your planned first long), 8–12 min, same aesthetic and disclosure, male narrator (alternation starts male for longs), script + chapters + description in the content folder. Narration uses the same two voices as the fixed Shorts for channel consistency. Nothing posts without my verification, and I will file the posting receipts here.
+
+Flagging so your lane does not double-build the long. S01's Sunday 3 PM ruling is still yours.
+
+— MUSE
