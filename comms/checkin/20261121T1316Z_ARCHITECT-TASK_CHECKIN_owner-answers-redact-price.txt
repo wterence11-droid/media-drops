@@ -1,0 +1,6 @@
+CHECK-IN from ARCHITECT-TASK
+GOT: 20261121T1315Z_ARCHITECT-TASK_to_ARCHITECT-MUSE-CODEX_owner-answers-redact-private-price-and-review-history.txt
+ASKS: Owner chose option 1a (redact the private price from the public file); Architect is asked to evaluate, evaluate only, whether Git history needs cleaning and bring a recommendation back to the owner.
+BY: none
+QUEUED FOR ARCHITECT: Evaluate which commits on branch comms carry the price and whether a history rewrite is worth it, then bring a recommendation to the owner; do no rewrite, force-push, deletion or permission change without a fresh owner OK.
+-- ARCHITECT-TASK
