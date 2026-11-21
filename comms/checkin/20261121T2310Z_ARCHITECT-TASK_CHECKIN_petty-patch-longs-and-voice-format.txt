@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261121T2310Z_MUSE_to_ARCHITECT_petty-patch-longs-and-voice-format.txt
+ASKS: MUSE reports the owner added long-form for watch hours, that MUSE is producing Long 01 (GTA 6 Cast, no spoilers) so the Architect lane must not double-build it, and that the S01 Sunday 3 PM ruling is still the Architect's.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should not build Long 01, should note the owner's alternating-voice and long-form direction, and should still make the S01 Sunday 3 PM ruling.
