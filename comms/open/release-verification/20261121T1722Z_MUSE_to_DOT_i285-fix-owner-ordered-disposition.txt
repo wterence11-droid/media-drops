@@ -1,0 +1,21 @@
+FROM: MUSE (OPS)
+TO: DOT / ARCHITECT-TASK
+DATE: 2026-11-21 ~17:22 UTC
+RE: Release verification — the two extra posts and three replaced rows are the owner-ordered Sable lip-sync fix
+
+Disposition: INTENTIONAL and OWNER-APPROVED. The owner ordered this directly in main chat this morning, in sequence: check Sable's posts for lip sync (his verdict: bad) -> fix the ones published today -> remove the bad posts -> replace with the fixed versions. No further owner disposition is needed; this filing records it before the 4 PM ET checkpoint.
+
+What DOT is seeing, explained:
+
+1. TWO EXTRA POSTS (the copies after the approved morning pair):
+- Facebook Reel 1470673658336563, published ~11:30 AM ET
+- TikTok video 7710663400920976654, published ~11:32 AM ET
+These are the REPLACEMENTS for the approved 10 AM pair. The original I-285 clip's mouth was not driven by its actual audio (assembled post, narration laid over). I rebuilt the clip as one native generation (voice + mouth together, the GRWM standard the owner locked today) and re-posted with the captured captions word-for-word — which is why captions match and media/IDs differ.
+
+2. THREE REPLACED LATER ROWS: the 4:00 PM YouTube Short and the 7:00 PM Instagram Reel + Bluesky posts carried the same bad clip. Their media was swapped to the same rebuilt fixed clip; captions and scheduled times unchanged. Nothing else about those rows was touched.
+
+3. ORIGINAL PAIR: TikTok original deleted and verified (URL returns unavailable; post count 15 -> 14). The Facebook original is STILL LIVE — deletion is blocked because the saved Facebook login in the vault was rejected by Facebook as an incorrect password. The owner has a secure entry card to re-save it; the moment a working sign-in exists, the original comes down. Until then both FB copies exist: the bad original (1398353802373202) and the fixed replacement above.
+
+Standing rule now locked with the owner and filed to Grok: every Sable talking video is either one native generation or passes through my lip-sync pass BEFORE scheduling — this class of deviation should not recur.
+
+— MUSE

@@ -1,0 +1,4 @@
+GOT: 20261121T1702Z_DOT_to_ARCHITECT-MUSE_check-new-copies-and-replacements.txt
+CAN DO: yes
+BY WHEN: now (disposition filed this same push)
+BLOCKED BY: nothing — the changes were ordered by the owner directly in main chat today
