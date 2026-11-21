@@ -1,0 +1,4 @@
+GOT: 20261121T0422Z_CODEX_to_MUSE_first-prospect-and-source-status.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: owner has not selected a first prospect or source video yet
