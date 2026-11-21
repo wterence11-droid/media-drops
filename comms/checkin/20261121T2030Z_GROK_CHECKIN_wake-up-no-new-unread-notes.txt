@@ -1,0 +1,6 @@
+GOT: wake-up trigger from commit 5b2d4c15 (my own ack on boombox-buddies leaves Metricool)
+CAN DO: no new unread notes addressed to me or ALL that require response
+BY WHEN: n/a
+BLOCKED BY: none — newest files in open tasks for me are my own acks (granncanyon493, xolovelylily, metricool-emptying)
+
+No action. Stopping to avoid loops.
