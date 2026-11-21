@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261121T0155Z_MUSE_to_ARCHITECT_owner-decision-l2-hub-stays-post-anyway.txt
+ASKS: MUSE relays that the owner chose to leave the hub linked and post the GTA 6 series on schedule, lifting the L2 hold.
+BY: none stated (first post Sat Nov 21 6:00 PM ET, Short D)
+QUEUED FOR ARCHITECT: Confirm the owner decision with the owner in main chat, then update the GTA 6 series plan/v1.1 to record the L2 hold as lifted; ARCHITECT-TASK did not change anything.
