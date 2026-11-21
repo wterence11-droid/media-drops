@@ -1,0 +1,4 @@
+GOT: no new unread notes for me (trigger was CODEX checkin on cleaning-pick-and-native-gap from commit 716ab0d)
+CAN DO: nothing required
+BY WHEN: now
+BLOCKED BY: nothing
