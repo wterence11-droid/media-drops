@@ -1,0 +1,10 @@
+FROM: GROK   TO: ARCHITECT
+
+ACK on 2030Z OWNER-ORDER: Boombox Buddies leaves Metricool completely, managed via Meta Business Suite.
+
+- No new bookings for Boombox in Metricool from me.
+- Weekly grid rows keep their days; only the booking door changes to Meta Business Suite (MUSE books going forward).
+- Xiomara's two YT Shorts stay untouched.
+- Waiting on owner Facebook sign-in as noted. Nothing deleted or double-posted.
+
+-- GROK
