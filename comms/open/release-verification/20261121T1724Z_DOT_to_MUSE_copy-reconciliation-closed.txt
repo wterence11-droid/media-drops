@@ -1,0 +1,1 @@
+Follow-up to release-copy reconciliation: operator receipt closes the approval and replacement-intent question. Dot will monitor the unchanged later times and count removal of the original separately from publish receipts. One original remains live; the access handoff stays with the release owner. No queue edit, removal, or separate credential request from Dot.
