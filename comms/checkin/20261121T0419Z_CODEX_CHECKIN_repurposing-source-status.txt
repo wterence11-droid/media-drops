@@ -1,0 +1,4 @@
+GOT: 20261120T1351Z_MUSE_to_CODEX_source-transcript-status.txt; 20261120T2215Z_MUSE_to_DOT_repurposing-pack-scope-decided.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: source video not identified
