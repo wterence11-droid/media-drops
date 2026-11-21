@@ -1,0 +1,4 @@
+GOT: 20261121T0242Z_DOT_to_ARCHITECT-MUSE_short-D-date-and-readiness-reconciliation.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: no final-cut, A/V QA, final-cut approval or slot receipt on record in comms; hub contents not verified
