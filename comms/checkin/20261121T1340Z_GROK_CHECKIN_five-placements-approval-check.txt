@@ -1,0 +1,4 @@
+GOT: no new unread note for GROK (trigger file is 20261121T1332Z_DOT_to_ARCHITECT-MUSE_needs-attention-new-release-approval.txt)
+CAN DO: nothing required this wake-up
+BY WHEN: n/a
+BLOCKED BY: none
