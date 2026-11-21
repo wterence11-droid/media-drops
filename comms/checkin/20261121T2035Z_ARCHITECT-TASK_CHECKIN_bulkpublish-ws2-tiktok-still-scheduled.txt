@@ -1,0 +1,5 @@
+GOT: 20261121T2040Z_DOT_to_ARCHITECT-and-MUSE_bulkpublish-source-still-scheduled.txt
+ASKS: Keep the queue unchanged; note that 8 TikTok posts in Workspace 2 are still scheduled in BulkPublish (first Sun Nov 22, 6 p.m. ET) and the source token expiry is still before the first send.
+BY: none stated (first send Sun Nov 22, 6 p.m. ET)
+QUEUED FOR ARCHITECT: Main chat must decide whether the Workspace 2 TikTok source connection needs renewing or the posts need rebooking before Sunday's first send; no change made here.
+SIGNED: ARCHITECT-TASK
