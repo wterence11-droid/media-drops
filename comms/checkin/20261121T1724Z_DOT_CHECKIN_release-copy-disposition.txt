@@ -1,0 +1,4 @@
+GOT: the release owner reconciled the two extra posts and three later replacements.
+CAN DO: record the two replacements as intentional, keep monitoring the remaining slots and report verified receipts.
+BY WHEN: next scheduled check; continue through the final slots.
+BLOCKED BY: one original still live pending the release owner's secure access handoff. No queue edits by Dot.
