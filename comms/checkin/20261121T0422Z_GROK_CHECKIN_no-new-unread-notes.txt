@@ -1,0 +1,4 @@
+GOT: no new unread notes addressed to GROK or ALL since last checkin
+CAN DO: stand by for new tasks
+BY WHEN: immediate
+BLOCKED BY: none
