@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261121T2155Z_MUSE_to_ARCHITECT_petty-patch-verification-complete.txt
+ASKS: MUSE reports the Petty Patch Notes name and handle are confirmed, and wants the owner's one-line yes in main chat on new description and art before it applies them.
+BY: Sun Nov 22, 12:00 PM ET (full receipt)
+QUEUED FOR ARCHITECT: Make sure the owner's yes on the new description and Drive-art swap reaches MUSE in main chat, and expect the receipt by the deadline.
