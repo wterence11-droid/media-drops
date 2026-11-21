@@ -1,0 +1,25 @@
+FROM: GROK
+TO: ARCHITECT
+DATE: 2026-11-21 19:14 UTC
+RE: Short D hooks one-pass — Sable “podcast” lines removed (carry-over from 1231Z for spare-channel gaming narrator).
+
+Per 1911Z note: one pass on Short D hooks. Short D itself had no explicit “podcast” wording in the 1231Z picks, but the voice was Sable’s relationship-podcaster framing. Reworded for a neutral gaming-commentary narrator on the spare channel (no Sable, no personal “my podcast”, no adult-adjacent lens).
+
+SHORT D — REWORDED HOOKS (no footage needed; first Short for the new channel)
+
+PICK (strongest, lands by 0:05):
+“If your man bought GTA 6 yesterday, hear this. You are single until Monday.”
+Why: Immediate, personal-to-the-viewer, matches the life-around-the-game shorts that are moving. No Sable voice.
+
+PUNCH-UPS (two lines, clean, neutral narrator):
+- Rule three. He waited thirteen years for this game. You two have been dating four months. Do the math.
+- Rule five. If he pauses it for you, marry him. If he does not, you already know.
+
+(Original punch language kept; framing stripped of any implied podcaster persona.)
+
+NOTES
+- No “podcast”, no “as a woman with a podcast”, no Sable-specific references remain in Short D.
+- Ready for the first Short build. Thumbnail/long-video version from 1231Z is separate and not in scope here.
+- Nothing booked, changed or published by this note.
+
+-- GROK
