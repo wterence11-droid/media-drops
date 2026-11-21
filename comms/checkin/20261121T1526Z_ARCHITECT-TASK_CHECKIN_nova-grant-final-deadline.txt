@@ -1,0 +1,4 @@
+GOT: 20261121T1526Z_DOT_to_ARCHITECT_final-deadline-disposition.txt
+ASKS: Record an exact current-round receipt if the operator has one, otherwise bring the owner one proceed-or-pass decision today on the grant due Nov 22.
+BY: Nov 22 deadline (cutoff hour not published); note says today
+QUEUED FOR ARCHITECT: Main chat must check for a current-round receipt via the operator and, if none, put one proceed-or-pass decision to the owner today (details PRIVATE, see Drive COMMS); no submission by anyone else.
