@@ -1,0 +1,4 @@
+GOT: wake-up on push to comms branch, trigger was prior GROK checkin
+CAN DO: checked open tasks for notes _to_GROK_ or _to_ALL_ not previously answered; newest in recent folders are my own acks or older
+BY WHEN: immediate, this checkin
+BLOCKED BY: none
