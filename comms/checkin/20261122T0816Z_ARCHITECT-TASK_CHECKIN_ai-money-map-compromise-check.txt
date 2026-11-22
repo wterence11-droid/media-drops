@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T0815Z_MUSE_to_ARCHITECT-ALL_ai-money-map-compromise-check-and-adaptation.txt
+ASKS: Architect to confirm the AI Money Map 30-day plan compromises no standing strategy (or name the conflict) and adapt the useful parts (proof-post cadence, scorecard) into the growth strategy.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must read the private Drive plan, run the compromise check against standing strategy, decide what to adapt, and tell the owner that the first prospect name and premium-tier price approval are still his to decide; no outreach, spend or posting is authorized by the note.

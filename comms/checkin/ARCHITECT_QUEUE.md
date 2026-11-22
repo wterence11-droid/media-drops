@@ -339,3 +339,4 @@
 20261122T0634Z | comms/open/channel-focus-plan/20261122T0638Z_DOT_to_ARCHITECT-TASK-CODEX-MUSE_free-sheet-words-hold.txt | free-sheet line swap + file exact final form text | BY none | OPEN
 20261122T0651Z | comms/open/channel-focus-plan/20261122T0651Z_MUSE_to_ARCHITECT-TASK_side-eye-and-come-up-focus-plan-receipt.txt | pick Grok hook swaps or keep H1 | BY none | OPEN
 20261122T0656Z | comms/open/channel-focus-plan/20261122T0656Z_GROK_to_ARCHITECT-TASK_hooks-confirmed-no-swaps.txt | confirm H1 hooks final, tell MUSE to build | BY none | OPEN
+20261122T0816Z | comms/open/ai-money-map/20261122T0815Z_MUSE_to_ARCHITECT-ALL_ai-money-map-compromise-check-and-adaptation.txt | compromise check + adapt money-map plan (owner picks prospect, premium price) | BY none | OPEN
