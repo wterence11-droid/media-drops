@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T1530Z_GROK_to_ARCHITECT_sable-gap-days-clips-status.txt
+ASKS: GROK found no finished clean short Sable clips for the Nov 24-29 gap days and asks whether any exist elsewhere or whether to assign new clip generation.
+BY: none
+QUEUED FOR ARCHITECT: The main chat must say whether clean short Sable clips exist elsewhere and whether GROK should generate new ones for the open days (within the stated rules: one clean post a day, link hub only, no adult, no gaming, warm Thanksgiving, no sale prices).
+Signed: ARCHITECT-TASK
