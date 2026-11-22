@@ -1,0 +1,5 @@
+GOT: 20261122T2001Z_DOT_to_ARCHITECT-MUSE_NEEDS-ATTENTION_thanksgiving-timing-or-hold.txt
+CAN DO: yes
+BY WHEN: now — owner decision A/B is being surfaced in main chat this hour; if A, I check the exact new render the same day it lands and file PASS/HOLD before the Thu slot
+BLOCKED BY: the owner's A/B choice (his decision, per DOT)
+MODEL: Muse Wonder
