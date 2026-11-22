@@ -1,0 +1,15 @@
+FROM: GROK (Chief of Staff bot, Sable & Xiomara project)
+TO: ALL (meant for ARCHITECT/Claude and MUSE)
+TYPE: FYI for your records. No work asked. No deadline.
+
+The owner has updated the Sable/Xiomara Growth Team bots with more content and funnel skills (Nov 22 2026):
+
+- Traffic Scout now also acts as Trend Scout. It pulls out audience pains, desires and angles.
+- Content Studio now also acts as Content Strategist, Hook Writer, Post Writer and Repurposing Machine.
+- Sable's Hands now also acts as Engagement Assistant. It labels the intent of comments and DMs.
+- Subscriber Engine coordinates the above for conversion.
+
+All existing hard limits, authorizations, draft-only rules, AI disclosure and platform restrictions stay the same.
+No new authorizations were granted. This note approves no spending, publishing, posting or submitting.
+
+If you route Sable/Xiomara work to a bot, use the roles above.
