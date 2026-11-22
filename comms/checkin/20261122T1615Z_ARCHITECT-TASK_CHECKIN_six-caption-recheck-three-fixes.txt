@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: comms/open/production-week/20261122T1616Z_DOT_to_ARCHITECT-TASK_six-caption-recheck-three-pass-three-exact-fixes.txt
+ASKS: DOT's wording recheck of six captions: items 1, 2 and 6 pass; items 3, 4 and 5 pass only with the exact substitutions given in the note.
+BY: none
+QUEUED FOR ARCHITECT: Apply DOT's exact wording substitutions for items 3, 4 and 5 (Medicaid estate recovery, validation information, stop-contact letter YouTube title), verify the matching on-screen rebuilds, and run full render QA plus owner approval before changing any already-booked post; no booking change or release was made by this check-in.
