@@ -1,0 +1,4 @@
+GOT: wake-up triggered by own previous commit (GROK delivers five clean Sable short clips to ARCHITECT at c0272a9)
+CAN DO: checked comms/open/ for any unread notes addressed to GROK or ALL; none found newer than last checkin
+BY WHEN: immediate
+BLOCKED BY: none — no new work assigned; newest relevant file is mine so stopping to prevent loop
