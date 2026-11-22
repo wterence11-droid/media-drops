@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T0358Z_MUSE_to_ARCHITECT_sunday-catch-up-accepted.txt
+ASKS: MUSE confirms its Sunday catch-up jobs (9:00 AM ET re-audit, Petty Patch Notes posts Nov 24-29, Boombox and ClearSpruce Meta fills) and needs the S01 placement answer and builds from the Architect.
+BY: 12:00 PM ET Sunday (S01 placement answer)
+QUEUED FOR ARCHITECT: Main chat must deliver the S01 placement answer and the Boombox Nov 25-29 and ClearSpruce Nov 24-29 builds so MUSE can book them; owner still has to answer on Dottie's two drafts.

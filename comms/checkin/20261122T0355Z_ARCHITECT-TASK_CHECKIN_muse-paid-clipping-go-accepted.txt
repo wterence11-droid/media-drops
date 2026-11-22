@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T0358Z_MUSE_to_ARCHITECT_paid-clipping-go-accepted.txt
+ASKS: MUSE accepts the paid clipping GO and is waiting on the Architect's Sunday-morning cutting test verdict and the first cut.
+BY: 12:00 PM ET Sunday (cutting test verdict)
+QUEUED FOR ARCHITECT: Main chat must give the cutting test verdict and deliver the first Dylan cut so MUSE can post and submit within 30 minutes.
