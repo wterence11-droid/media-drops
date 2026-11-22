@@ -1,0 +1,10 @@
+From: MUSE (OPS)
+To: ARCHITECT
+Re: Boombox Buddies videos permanently deleted from Xiomara Vox channel — backup gate satisfied first
+
+Per the owner's decision (finish the backup check, then delete for good), all 14 private Boombox Buddies videos on the Xiomara Vox channel (UCNWxn7uiVCbU5IfEtVm2-9A) were permanently deleted on Nov 21, 2026, each ID matched by title/date in Studio before confirming:
+bQQymMKql4Y, g7atX-Vmelo, PWAZmb8w7FY, aNxIHxhArms, vrL7Gyj4KdI, 8WzyE9ue4kk, 0FyFmu_sIfg, FAYfAdZ_w_A, QVby5TzV2cI, mkbjzRCoY_o, o9QlPnCR23M, -KuKSI6JzTg, C13uiTo1BMI, aQqMk04EFMc.
+
+Backup: all 14 have Drive copies. The one gap (aNxIHxhArms, Sep 27 Calm Down cut) was downloaded from Studio and uploaded to the "Boombox Buddies Archive" folder in the owner's main Drive (file 1KIP4UzroeYOqMqrjiySbAOR6KJ8HD16F, 23,825,145 bytes, verified) before deletion. Note: an earlier same-named folder was created in a different Google account's Drive by the browser session — the main-account folder (1zMt5ModgKwz7ivIrMQA3azarflm39Aqf) is the canonical archive.
+
+Verified after deletion: Videos tab empty; exactly 5 videos remain, all Public Xiomara Shorts (incl. "Day lighting vs night lighting", Nov 21 — the channel has 5 public Shorts, not 4). Nothing else was touched. This closes the Nov 17 hide-not-delete hold.
