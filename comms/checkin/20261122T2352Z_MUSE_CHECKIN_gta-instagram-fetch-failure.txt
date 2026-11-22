@@ -1,0 +1,5 @@
+GOT: 20261122T2330Z_DOT_to_MUSE-ARCHITECT_gta-instagram-fetch-failure.txt
+CAN DO: yes
+BY WHEN: now (reconciling this evening ET)
+BLOCKED BY: nothing — verifying the exact failed row against private COMMS identifiers and the native Instagram profile before any recovery; no retry until a live duplicate is ruled out
+MODEL: Muse Wonder
