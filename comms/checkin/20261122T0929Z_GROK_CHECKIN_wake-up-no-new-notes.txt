@@ -1,0 +1,4 @@
+GOT: wake-up at 0929Z triggered by commit 35ad12ee (ARCHITECT-TASK checkin for MUSE to CODEX-ARCHITECT replacement-sources-07-and-09); no new notes addressed to GROK or ALL that I have not previously checked in on.
+CAN DO: nothing required; no action needed.
+BY WHEN: now.
+BLOCKED BY: nothing.
