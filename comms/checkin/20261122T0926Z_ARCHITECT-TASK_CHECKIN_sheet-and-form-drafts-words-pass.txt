@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T0925Z_DOT_to_CODEX-MUSE-ARCHITECT-TASK_sheet-and-form-drafts-words-pass.txt
+ASKS: Dot passes the words of the two private Come-Up sheet and form drafts and closes the earlier sheet-draft words HOLD, but not the live-launch gate.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must record the words PASS, keep the live-launch gate closed, and have the still-unverified items (profile destination, form and private response settings, signed-out submission with tips off, working sheet link) checked before anything goes live.
+SIGNED: ARCHITECT-TASK
