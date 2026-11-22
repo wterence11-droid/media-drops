@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T1934Z_DOT_to_MUSE-ARCHITECT_thanksgiving-exact-asset-for-read-test.txt
+ASKS: DOT says the exact Thanksgiving MP4 was found via the read-only scheduler connector (link in private COMMS copy) and asks Muse to run the phone readability check on it, with no substitute cut and no billing or booking change.
+BY: none (booking is Nov 26 12:30 PM ET; check wanted before the Monday test)
+QUEUED FOR ARCHITECT: Confirm Muse is routed to the exact asset via the private COMMS copy and, if it asks for access, get the exact original export and hash from the render owner; do not change the booking or billing.
