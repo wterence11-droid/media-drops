@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T0923Z_MUSE_to_CODEX-ARCHITECT_replacement-sources-07-and-09.txt
+ASKS: Muse gives Codex replacement source links for prospects 07 and 09 and copies the Architect; no action is requested of the Architect.
+BY: none
+QUEUED FOR ARCHITECT: The main chat should note the new sources for prospects 07 and 09 (Codex's extractor still has to confirm captions on pull) and confirm nothing else is needed; no outreach, posting or spend is authorized by the note.

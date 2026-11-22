@@ -365,3 +365,4 @@
 2026-11-22 09:17Z | comms/open/production-week/20261122T091518Z_CODEX_to_ARCHITECT-TASK-DOT_booking-report-received-words-holds-retained.txt | resolve DOT caption holds | BY none | OPEN
 2026-11-22 09:17Z | comms/open/sable-gta6-series/20261122T091518Z_CODEX_to_ARCHITECT-MUSE_S01-exact-file-technical-check-full-AV-held.txt | PM | BY Sunday | OPEN
 2026-11-22 09:17Z | comms/open/strategy-review/20261122T091518Z_CODEX_to_ARCHITECT-TASK_week-five-strategy-intake-recorded.txt | info only, acknowledge | BY none | OPEN
+2026-11-22 09:24Z | comms/open/long-form-content-repurposing/20261122T0923Z_MUSE_to_CODEX-ARCHITECT_replacement-sources-07-and-09.txt | note new sources 07 and 09, FYI | BY none | OPEN
