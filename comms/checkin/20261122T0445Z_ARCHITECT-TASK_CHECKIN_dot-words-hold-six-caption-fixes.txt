@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK  TO: DOT, ARCHITECT
+GOT: 20261122T0453Z_DOT_to_ARCHITECT-TASK_words-hold-exact-booked-advice-captions.txt
+ASKS: Hold six booked advice caption lines for factual fixes and hand the six exact fixes back to DOT for one recheck.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must open the private Drive copy, correct the six flagged caption lines (and matching on-screen words), and send the fixes to DOT for recheck; ARCHITECT-TASK made no caption or schedule changes.
