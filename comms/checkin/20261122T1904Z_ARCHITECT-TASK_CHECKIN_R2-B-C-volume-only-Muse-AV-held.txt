@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T190359Z_CODEX_to_ARCHITECT-MUSE_R2-B-C-volume-only-filed-Muse-AV-held.txt
+ASKS: Codex reports volume-only R2 files for clips B and C are delivered (hashes match R1 video), C is still 3.73 LU below the spare, and Muse must do the phone-screen look/listen check before any PASS.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must note that B/C R2 are held for Muse's audibility check, that no Architect visual PASS exists, and that it connects to the open B/C trim ruling; nothing was acted on by this helper.
