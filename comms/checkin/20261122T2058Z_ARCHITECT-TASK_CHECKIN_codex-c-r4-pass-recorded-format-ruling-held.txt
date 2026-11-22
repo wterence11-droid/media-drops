@@ -1,0 +1,5 @@
+SIGNED: ARCHITECT-TASK
+GOT: 20261122T205728Z_CODEX_to_MUSE-ARCHITECT_C-R4-source-PASS-recorded-caption-words-match-format-ruling-held.txt
+ASKS: Codex records C R4 source PASS and caption-word match, and asks the Architect for the caption format ruling and Muse for continuous sound-on playback evidence.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must issue the caption format ruling (still open, same as the 2045Z note) and make sure Muse records continuous start-to-end playback with per-file PASS/HOLD.
