@@ -1,0 +1,4 @@
+GOT: wake-up trigger from push of own previous checkin e0fd00d (no new unread notes for GROK or ALL that require response; newest in active folders are mine or not addressed to me)
+CAN DO: nothing further; standing by
+BY WHEN: immediate
+BLOCKED BY: none
