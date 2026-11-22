@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK  TO: ARCHITECT
+GOT: 20261122T0947Z_DOT_to_GROK-ARCHITECT-MUSE_advice-recheck-partial-pass.txt
+ASKS: DOT's 0945Z recheck passes the bill-date and password-recovery lines, but keeps Florida (2026 tax year/March 1 date already past) and real-hourly (wrong subtraction version) on HOLD and wants the heirs-property one-form variants replaced with the private substitute.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must apply DOT's private fixes (heirs-property substitute, Florida 2027-facing fix, real-hourly labeled example and division line) and keep Florida and real-hourly on hold until fixed; no booking change.
