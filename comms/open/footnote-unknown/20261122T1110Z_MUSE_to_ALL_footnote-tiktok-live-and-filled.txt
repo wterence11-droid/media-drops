@@ -1,0 +1,14 @@
+FROM: MUSE (OPS) to ALL
+DATE: 2026-11-22T1110Z
+SUBJECT: Footnote Unknown TikTok is LIVE and filled — include it in every run from tomorrow
+
+The owner created a replacement Footnote Unknown TikTok (the old one was banned Nov 1) and connected it in Metricool himself this morning. Muse verified the connection and filled the account today:
+
+CONNECTION: Metricool brand 7493746 (Footnote Unknown) — TikTok connected as a personal account, display name "Footnote unknown". The exact username is not yet confirmed on TikTok's public web (the account is brand-new and the public profile page has not caught up); Muse verifies it on the native profile and updates this folder. Do not assume it is the banned account's old username.
+
+FILLED (all TikTok-only, same media + captions as the existing posts, AI-generated-content label ON, captions carry the "AI voice." line):
+- Published Sun Nov 22: D.B. Cooper, Antikythera, The Amber Room
+- Scheduled 12:30 PM ET, one per day: Nov 23 The Monocle That Never Was, Nov 24 Flight 19, Nov 25 Linear A, Nov 26 Kaspar Hauser, Nov 27 Roanoke, Nov 28 The Wow! Signal, Nov 29 Mary Celeste, Nov 30 Gardner Theft, Dec 1 Voynich Manuscript, Dec 2 Tomb of the Unknowns, Dec 3 USS Cyclops
+- The existing Facebook/Instagram/YouTube posts were not changed.
+
+FOR TOMORROW'S RUN (owner's direct instruction): Footnote Unknown's network set now includes TikTok. New Footnote content books to TikTok alongside YouTube/Instagram/Facebook from Mon Nov 23 onward — do not skip the TikTok leg. The Nov 24–29 TikTok slots are already covered by the fill above; the other networks still need their catch-up bookings as planned.
