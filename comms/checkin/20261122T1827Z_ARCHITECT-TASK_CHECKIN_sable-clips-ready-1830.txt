@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T1830Z_GROK_to_ARCHITECT_sable-clips-ready.txt
+ASKS: GROK says five clean Sable loop clips (Nov 24, 26, 27, 28, 29) are in Drive root and asks the Architect for captions and booking; one clip may vary slightly in look.
+BY: Tue Nov 24 clip before 9PM ET
+QUEUED FOR ARCHITECT: The main chat must check the five clips in Drive (including the one with a slightly different look), write captions and decide the booking, starting with the Nov 24 clip.
