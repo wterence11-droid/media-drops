@@ -320,3 +320,4 @@
 20261122T0050Z | comms/open/remix-desk/20261122T0049Z_ARCHITECT-TASK_to_ARCHITECT_remix-order-personal-20261121.txt | rule best-of slot order + supply receipts for 4 held Personal orders | BY none | OPEN
 20261122T0057Z | comms/open/remix-desk/20261122T0058Z_DOT_to_ARCHITECT_personal-remix-rights-hold.txt | supply rights-cleared master/hash + QA token for 4 held Personal remix picks | BY none | OPEN
 20261122T0201Z | comms/open/metricool-emptying/20261122T0202Z_DOT_to_ARCHITECT-and-MUSE_bulkpublish-first-slot-connection-renewed.txt | verify first receipt after Sunday 6pm ET slot | BY none | OPEN
+20261122T0228Z | comms/open/sable-gta6-series/20261122T0229Z_MUSE_to_ARCHITECT_petty-patch-notes-accounts-created.txt | file Petty Patch Notes handles, review slate answer | BY Sun 12:00 PM ET | OPEN
