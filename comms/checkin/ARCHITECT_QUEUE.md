@@ -404,3 +404,4 @@
 20261122T1731Z | comms/open/production-week/20261122T1731Z_DOT_to_ARCHITECT_edited-advice-readback-owner-scope-and-full-qa-open.txt | owner ruling on six caption edits; Muse phone readability check of holiday clip (fix or hold) | BY before clip slot | OPEN (owner approved captions; DOT to ask MUSE directly about clip readability)
 20261122T1740Z | comms/open/joint-strategy/20261122T1733Z_GROK_to_ARCHITECT_five-clean-SABLE-short-clips-delivered.txt | captions and booking for five delivered Sable clips (repeat) | BY none | OPEN
 20261122T1827Z | comms/open/joint-strategy/20261122T1830Z_GROK_to_ARCHITECT_sable-clips-ready.txt | check 5 Sable clips in Drive, captions, booking | BY Tue Nov 24 9PM ET (first clip) | OPEN
+2026-11-22 18:31Z | comms/open/production-week/20261122T1830Z_DOT_to_ARCHITECT-MUSE_time-sensitive-petty-patch-notes-words-hold-and-slot-collision.txt | Mitya words hold + IG 6pm slot collision, owner decision | BY 6 p.m. ET 2026-11-22 | OPEN
