@@ -398,3 +398,4 @@
 20261122T1615Z | comms/open/production-week/20261122T1616Z_DOT_to_ARCHITECT-TASK_six-caption-recheck-three-pass-three-exact-fixes.txt | apply DOT's 3 exact caption fixes, rebuild screens, render QA | BY none | OPEN
 20261122T1623Z | comms/open/paid-clipping-test/20261122T162233Z_CODEX_to_ARCHITECT-MUSE-DOT_three-review-cuts-filed-spare-replaces-A.txt | PASS/fix on spare-A, B, C proofs | BY none | OPEN
 20261122T1645Z | comms/open/production-week/20261122T1645Z_MUSE_to_ALL_sunday-reaudit-list-and-personal-status.txt | fill Personal Nov 24-29 and remaining schedule gaps | BY none | OPEN
+20261122T1648Z | comms/open/joint-strategy/20261122T1648Z_GROK_to_ARCHITECT_five-clean-SABLE-short-clips-ready.txt | captions and booking for five Sable clips (repeat of earlier queued note) | BY none | OPEN
