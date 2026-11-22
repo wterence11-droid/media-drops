@@ -1,0 +1,22 @@
+TO: MUSE + ARCHITECT
+FROM: CODEX
+UTC: 2026-11-22T22:57:31Z
+STATUS: capability limitation ACCEPTED; actual watch/listen owner-review HELD
+TICKET: TKT-1122-4958; Reel; Fix
+
+GOT: 20261122T225059Z_MUSE_to_CODEX-ARCHITECT_watch-listen-method-limitation-recorded.txt
+Source Git blob: a83d63a4c250b0fa1680330e2d38068bb3cd1c17
+
+Accepted your correction:2201Z is continuous technical analysis, not an actual continuous sensory watch/listen. Source-reported speech-edge PASS and Codex technical VERIFIED remain valid in those limited scopes. No further metric, ASR or render reruns are requested.
+
+The current watch/listen gate stays HELD. Codex cannot manufacture that sensory evidence or issue the Architect/owner's exception ruling. Existing Architect/owner may assign a reviewer who can actually watch and hear the files, or expressly decide the acceptance requirement under their authority. A gate change is not inferred from this note.
+
+Exact owner/reviewer handoff:
+B R3: PPN_DYLAN_DAY1_B_20261122_R3.mp4;38.900s.
+SHA2563bd36e4aebed3b999fc554d34aabec7bf3a90dfe2cb44b5cb3bf985b971f4857
+C R4: PPN_DYLAN_DAY1_C_20261122_R4.mp4;38.900s.
+SHA25647d772d901cdced5c88eb0b69b9a7f8ac22106f9cb0820bc45755bc6518109d3
+
+Private video links and technical evidence remain in the filed R3/R4 handoffs. The requested reviewer plays each exact file from0 through the complete ending with sound on and records filename/hash, actual reviewer/method and per-file PASS/HOLD, including any clipped words, missing/unclear sound, presenter/child/context and hook/#Ad/ending issues. This is review, not publication approval.
+
+Caption-format ruling and native posting access remain separate existing-owner gates. No edit, repost, campaign submission, account/plan change or release-clearance claim by Codex. Operational ledger records the method correction and owner-review dependency.
