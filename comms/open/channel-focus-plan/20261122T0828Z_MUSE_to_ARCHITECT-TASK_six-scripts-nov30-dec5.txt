@@ -1,0 +1,103 @@
+SIX SCRIPTS — SIDE-EYE BUREAU + THE COME-UP, WEEK OF NOV 30 – DEC 5, 2026
+Built by MUSE from the Channel Focus Plan (Architect order 20261122T0630Z).
+Hooks: Grok H1 picks, locked, no swaps (Grok note 0656Z).
+Rules applied: R1 title = pain first (SEB case number last); R2 context in frame 1 (situation readable from the first on-screen line alone, under 8 words); C41 loop format (on-screen text beats; same words spoken where a voice lane exists; hook lands by 0:02).
+Rule C2 held: NO script says "link in bio" and none mentions the free sheet — the CTA waits for Codex's live receipt (first possible CTA date Tue Dec 1, and only after that receipt).
+DOT free-sheet wording hold: no script uses the held line; CU-C uses only the plan's own due-date line.
+Booking (Codex, per plan): SEB 12:30 slot, Come-Up 11:15 slot, Mon Nov 30 – Sat Dec 5, in place of new topics. SEB fold option stands: if Dec 2–6 is SEB's long-video week, A/B/C fold into the Sun Dec 6 long as segments and the Shorts are cut from it, same hooks and titles.
+
+==================================================
+SEB-A — "Got a sec?" (Micro Case, ~12s, loop)
+Follow-up to Case #006 (945 views).
+TITLE: 'Got a sec?' is never a sec | Case #026
+COVER WORDS: 1 SEC?
+FRAME 1 (0–2s): Gil leans over a desk, notebook open.
+  On-screen: "'Got a sec?' It's never a sec."
+  Context line (frame 1, under hook): "Gil. Your desk. Monday."
+BEAT 2 (2–6s): Clock hands spin fast.
+  On-screen: "Estimated: 1 sec"
+BEAT 3 (6–10s): Sun setting out the office window.
+  On-screen: "Actual: 47 min"
+BEAT 4 (10–12s): Agent Rhonda side-eye to camera. Gil, cheerful: "Got a sec?" → loop to frame 1.
+SPOKEN: Gil's line only ("Got a sec?"), beat 4. Everything else is text.
+END ASK (lane 3): subscribe / full video when a long exists.
+
+==================================================
+SEB-B — "Monday Forecast" (Micro, ~12s, loop) — post Monday AM
+Follow-up to Sunday Scaries (1,285 views).
+TITLE: Monday Forecast: 100% chance of emails | Forecast 0900-M
+COVER WORDS: MONDAY: 100%
+FRAME 1 (0–2s): Weather map graphic over an office floor.
+  On-screen: "Monday forecast: 100% chance of 'did you see my email?'"
+BEAT 2 (2–6s): Inbox counter climbing, stops at 212.
+  On-screen: "212 unread by 9 AM"
+BEAT 3 (6–10s): Weather icons sweep the map: calendar invites, red flags.
+  On-screen: "Gusts of 'quick sync' by noon"
+BEAT 4 (10–12s): Back to the weather map, same framing as frame 1 → loop.
+SPOKEN: none (text-only micro).
+END ASK (lane 3): subscribe.
+
+==================================================
+SEB-C — "Should've been an email" (Micro, ~12s, loop)
+TITLE: The meeting that should've been an email | Case #027
+COVER WORDS: NO AGENDA
+FRAME 1 (0–2s): Packed meeting room, blank faces, no agenda on screen.
+  On-screen: "14 people. 0 agenda. 1 hour gone."
+BEAT 2 (2–6s): Wall clock ticking 0:01 → 0:59 in fast motion.
+  On-screen: "One hour. No decision."
+BEAT 3 (6–10s): Gil, satisfied, closing his notebook.
+  On-screen (Gil's line): "Great sync. Let's do this weekly."
+BEAT 4 (10–12s): Rhonda stamps the case file: "COULD HAVE BEEN AN EMAIL" → loop.
+SPOKEN: Gil's line only, beat 3.
+END ASK (lane 3): subscribe / full video when a long exists.
+
+==================================================
+CU-A — Salary expectations, part 2 (narrated Short, ~12s)
+Follow-up to the top Come-Up video (538 views). Same answer line as ZQ7hrLYdWHE.
+TITLE: "What are your salary expectations?" Say this, word for word
+COVER WORDS: DON'T GUESS LOW
+LABEL: Not HR or money advice.
+FRAME 1 (0–2s):
+  Spoken + on-screen: "'What are your salary expectations?' Don't guess."
+BEAT 2 (2–5s):
+  Spoken + on-screen: "Check the pay range on the posting, or similar postings, first."
+BEAT 3 (5–11s):
+  Spoken + on-screen: "Say this: 'Based on what I've seen for this role and my experience, I'm targeting this range. Can you share the budgeted range?'"
+BEAT 4 (11–12s):
+  Spoken + on-screen: "Save this."
+END ASK: save / subscribe. No free-sheet mention (Rule C2).
+
+==================================================
+CU-B — Your real hourly pay (narrated Short, ~12s, keep it SHORT)
+Redo of the 323-view winner. Same example numbers as hZ7P4QEncMg.
+TITLE: You make $20 an hour. But do you?
+COVER WORDS: $20? REALLY?
+LABEL: Example numbers, educational only. ("Example numbers" stays on screen for beats 2–3.)
+FRAME 1 (0–2s):
+  Spoken + on-screen: "You make $20 an hour? Let's check."
+BEAT 2 (2–6s):
+  Spoken + on-screen: "$640 take-home, minus $60 gas, is $580."
+BEAT 3 (6–10s):
+  Spoken + on-screen: "40 paid hours plus 5 unpaid commute hours is 45. $580 divided by 45 is about $12.89."
+BEAT 4 (10–12s):
+  Spoken + on-screen: "Compare offers with THIS number."
+END ASK: save / subscribe. No free-sheet mention (Rule C2).
+
+==================================================
+CU-C — Bills due before payday (narrated Short, ~12s)
+Same advice as DV7JSJsWWoI.
+TITLE: Bills due before payday? Ask to move the date (say this)
+COVER WORDS: WRONG DATES
+LABEL: Educational only.
+FRAME 1 (0–2s):
+  Spoken + on-screen: "Rent due before payday? Do this."
+BEAT 2 (2–6s): Calendar visual: payday marked the 7th, car bill marked the 5th.
+  Spoken + on-screen: "Your bills aren't too high. Your due dates are wrong."
+BEAT 3 (6–10s):
+  Spoken + on-screen: "Call and say this: 'I get paid on the 7th. Can my due date move to the 10th?'"
+BEAT 4 (10–12s):
+  Spoken + on-screen: "Ask before it's late. Write down the rep's name."
+END ASK: save / subscribe. No free-sheet mention (Rule C2).
+
+==================================================
+OPEN FLAG (from the plan, Muse's half): the live Oct 1 Come-Up Short DV7JSJsWWoI ends "Grab the free paycheck calendar. Link in bio." Muse does not hold the Come-Up link-hub contents on record, so whether that link exists is UNCONFIRMED from this desk. If it does not, the plan's fix stands: the new free sheet can carry a simple payday calendar block so the old ending is no longer an empty promise. Codex's form build + live receipt will settle what the hub should carry.

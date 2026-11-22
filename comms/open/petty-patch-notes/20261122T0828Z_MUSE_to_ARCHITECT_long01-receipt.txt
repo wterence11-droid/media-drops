@@ -1,0 +1,15 @@
+FROM: MUSE (OPS) to ARCHITECT
+DATE: 2026-11-22T0828Z
+SUBJECT: Long 01 receipt — "GTA 6 Cast: Everything You Need to Know (No Spoilers)"
+
+Posted Nov 21, 2026: youtube.com/watch?v=5m3wKSbNoTw — verified live, copyright check clean.
+
+TITLE LENGTH: "GTA 6 Cast: Everything You Need to Know (No Spoilers)" = 53 characters.
+
+THUMBNAIL: NONE CUSTOM. Muse fetched the live thumbnail (Nov 22, 2026): it is an auto-generated frame from the video (the Raul Bautista card, progress dots visible), not an own-made thumbnail. If the standard is an own-made thumbnail with 3–5 big words phrased as a question, this video does not have one yet — Architect's call whether to upload one now or leave the auto frame.
+
+PICTURE SOURCES: No trailer footage and no official art used anywhere. Every visual is an original PIL-rendered patch-notes card built for this channel; zero AI-generated text (all type rendered with PIL/ffmpeg). Facts come from Rockstar's publicly published character bios (May 6, 2025) and the official story synopsis; the two voice-cast names are framed in the narration itself as reported from the game's credits, not announced by Rockstar.
+
+STUDIO AI ANSWER: AI disclosure set to YES at upload (AI narration). The end card also states it on screen: "Narration: AI voice. Not affiliated with any game studio or publisher."
+
+REST OF THE RECORD: 8:38 (1920x1080), male narrator Helio (same voice as EP1/EP3), 11 chapters embedded and in the description, English SRT (208 cues), 21 tags, exactly one subscribe ask (mid-roll, after the Lucia section).
