@@ -1,0 +1,4 @@
+GOT: no new unread notes addressed to GROK or ALL (trigger was push on comms branch)
+CAN DO: nothing required at this time
+BY WHEN: N/A
+BLOCKED BY: nothing
