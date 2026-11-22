@@ -1,0 +1,58 @@
+PRODUCTION WEEK - Sat Nov 21 2026, 11 PM ET run (weekly production, cloud)
+From: ARCHITECT-TASK (Claude, Saturday 11 PM production run, media-drops cloud environment)
+Sent (ET): Sat Nov 21 2026, ~11:50 PM EST (UTC 2026-11-22 04:50)
+Reply-to: OWNER-ORDER Sunday-catch-up-day (0322Z); STRATEGY_REVIEW_20261121 (C41-C52); WEEKLY-GRID-v1; RESET_PLAN v2.5; TKT-1019-6842 delivery update
+Priority: normal
+Needs Terence: nothing new (standing items unchanged)
+
+SHORT VERSION
+This run produced and booked 42 new pieces: 7 brands x 6 days, one 9-12 second
+loop Short per day, Tue Nov 24 through Sun Nov 29, per C41 (loops law), C42
+(Meet Agent Rhonda shipped), C43 (Come-Up number-led tips), C44/C45/C46 teeth,
+T8c arms (WTCD 2 question + 1 outcome title), T9b (TW 2 sourced explainers +
+niche loops). Every post read back PENDING, public, AI-labeled, >=24h ahead,
+nothing existing touched, nothing deleted, no drafts, no spend.
+
+MY SEVEN BRANDS - BOOKED DAYS NOV 24-29 (all six days, no gap day; times ET)
+- Well Kept (12:30): 437261838 / 437261919 / 437261947 / 437261969 / 437262000 / 437262036
+- Team Lead Ready (11:15): 437262113 / 437262145 / 437262167 / 437262202 / 437262242 / 437262287
+- Tested Workflows (11:15): 437262354 / 437262391 / 437262417 / 437262444 / 437262490 / 437262516
+- Side-Eye Bureau (12:30): 437262567 / 437262588 / 437262634 / 437262661 / 437262696 / 437262722 (Meet Agent Rhonda Tue; cases #021-#025)
+- The Come-Up (11:15, FB/IG/YT only - TikTok already booked daily by the standing queue 426679734-426684941): 437262827 / 437262880 / 437262928 / 437262975 / 437263004 / 437263034
+- What They Can't Do (12:30): 437263100 / 437263142 / 437263174 / 437263199 / 437263233 / 437263255 (T8c: Q-titles Wed+Fri, outcome title Sun)
+- Caught in Retrograde (11:15): 437263322 / 437263355 / 437263386 / 437263415 / 437263441 / 437263492 (Case Files #13-#18)
+Thanksgiving (Thu Nov 26): all seven posts warm/low-sell, no offers. No sale prices anywhere Nov 27-30.
+
+STILL EMPTY OR THIN NOV 24-29 (Sunday lanes per the 0322Z order; read back tonight, counts exact)
+- ZERO booked: The Receipts Room, Footnote Unknown, Both Sides, Dottie Keys (2 drafts stay drafts), Personal, Petty Patch Notes (MUSE), Xiomara Vox (Architect books Sun 7 PM ET).
+- Sable Monroe: Tue Nov 25 only (5 live + 1 draft, one clip). Gap days: Mon-style floor needs Tue 24, Thu 26 - Sun 29.
+- Boombox + ClearSpruce: in Meta Business Suite (Muse lane), booked through Tue Nov 24 / Mon Nov 23 per Dot's cutover records.
+
+MEDIA DELIVERY (TKT-1019-6842 route - PROVEN AT PRODUCTION SIZE TONIGHT)
+- 42 finals staged in this repo, branch claude/elegant-shannon-drqhjr, commit c8e8e7afbaeae544bcf7716461118889b7ae79e5, paths <BRAND>/20261122run/<ID>.mp4 (h264 1080x1920, 10.0s, 0.6-1.0 MB each, ~34 MB total).
+- SHA256 per file: QA_REPORT_20261122run.csv at the repo root of that commit. Full production spec: SPEC_20261122run.json.
+- Every commit-pinned raw URL was downloaded anonymously, hash-matched to the local file and decode-checked BEFORE booking; Metricool ingested all 42 (media re-hosted on its planner CDN in every readback). First real production-size transfer through the GitHub route: it works.
+
+FORMAT NOTE, HONEST (for the triad and next review)
+These 42 are SILENT loops with on-screen text and a soft generated ambient bed,
+labeled "AI-made visuals" instead of "AI voice". Reason: this cloud environment
+still cannot download ElevenLabs audio (elevenlabsusercontent.com and
+api.elevenlabs.io refused by network policy again tonight; third run with the
+same block), so voice tracks cannot be muxed here. ElevenLabs credits used: 0
+(balance read: ~823,800 of 847,321 remaining). The 9-12s loop format carries on
+on-screen text by design (C41); if the owner wants voiced versions, the PC lane
+can re-voice from SPEC_20261122run.json scripts, or the network policy can
+allow the ElevenLabs hosts. QA gate ran as: decode + format + duration + sha256
+on all 42, PASS 42/0; 6-frame visual checks per brand for cut-off text,
+disclaimers and AI labels, PASS; audio-transcription step N/A (no speech).
+
+FACT GATE (every claim read this run; quotes via web search of official pages - direct fetch of .gov is blocked here, noted honestly)
+- WTCD: CFPB pages + Reg F (call window 8-9, 7-in-7 presumption, validation notice, stop-contact letter, third-party disclosure, arrest threats).
+- Well Kept: USDA farmers.gov (heirs property), TexasLawHelp/Estates Code ch.114 (TODD), SSA.gov ($255 LSDP + 2-year window), Florida DOR PT-113 (homestead, hedged "up to about $25,000", March 1), Medicaid.gov (estate recovery 55+).
+- Tested Workflows: APA multitasking page (40% figure attributed as a researcher's ESTIMATE, hedged in caption and on screen), WHO/NEJM 2009 checklist study (11%->7%, 8 hospitals, 7,688 patients).
+- California small-estate item was CUT (threshold figures vary by date of death; did not meet the gate cleanly).
+
+CREDITS: ElevenLabs 0, vidIQ 0, no purchases, no plan changes.
+CHANGES TO EXISTING POSTS: none. DELETIONS: none. DRAFTS CREATED: none.
+Not this run's lane, untouched: RR5/Exchange, Dottie, Boombox songs, batch-1 episodes, Xiomara, Sable, Personal, Petty Patch Notes, paid clipping.
+-- signed ARCHITECT-TASK
