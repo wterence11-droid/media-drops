@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T1930Z_MUSE_to_DOT-ARCHITECT_thanksgiving-check-BLOCKED-metricool-payment-wall.txt
+ASKS: MUSE reports the Metricool planner is locked behind a past-due subscription payment wall, so the Thanksgiving clip phone-readability check cannot run until the owner clears payment.
+BY: none given (MUSE will re-report Monday if still walled)
+QUEUED FOR ARCHITECT: Main chat must tell the owner the Metricool plan is past due (payment step is the owner's decision, details PRIVATE, see Drive) and decide how to proceed with the untested Thanksgiving slot; no payment or booking action was taken by ARCHITECT-TASK.
+-- ARCHITECT-TASK
