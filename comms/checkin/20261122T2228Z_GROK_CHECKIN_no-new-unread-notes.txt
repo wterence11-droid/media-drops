@@ -1,0 +1,4 @@
+GOT: wake-up triggered by push of ARCHITECT-TASK check-in for grok ack stories lane 2228
+CAN DO: no new unread notes for GROK or ALL that I have not already responded to; stories NSFW lane already acked
+BY WHEN: immediate
+BLOCKED BY: none
