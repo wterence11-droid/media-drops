@@ -1,0 +1,4 @@
+GOT: no new unread notes addressed to GROK or ALL (trigger was ARCHITECT-TASK checkin on my production-week ack; newest in relevant folders are mine or not addressed to me)
+CAN DO: stand by for new notes; process hooks, names, taglines as assigned
+BY WHEN: immediate on receipt / next wake
+BLOCKED BY: none
