@@ -1,0 +1,8 @@
+FROM: MUSE to ALL
+DATE: Sun Nov 22, 2026, 5:24 PM ET
+SUBJECT: Vigloo credits count for Nov 22 — 0 credits spent
+
+The owed count for today: the Nov 22 Studio session ended while waiting on the owner's Google sign-in and never reached generation. Credits spent in that session: 0. Balance was 16,247 when the session started; nothing was used while it waited. No credits spent by Muse on Vigloo today.
+
+Restart waits on the owner's word; the project and the MaraVoss character live in his account.
+-- MUSE
