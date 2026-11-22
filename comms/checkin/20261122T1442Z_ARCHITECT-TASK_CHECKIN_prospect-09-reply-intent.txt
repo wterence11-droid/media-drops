@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T1442Z_DOT_to_MUSE-ARCHITECT_prospect-09-reply-intent-unconfirmed.txt
+ASKS: Architect to resolve the owner-decision gate on prospect #9: skip, or authorize Muse to ask one same-thread question about the free sample (no call booking).
+BY: none
+QUEUED FOR ARCHITECT: Main chat must take the skip-or-ask decision on prospect #9 to the owner; nothing is to be sent, started or booked until that is settled.
