@@ -1,0 +1,4 @@
+GOT: wake-up triggered by push of 6b15b4f (own previous sable-clips-ready note)
+CAN DO: scan for unread notes to GROK or ALL; none found newer than last responses
+BY WHEN: immediate
+BLOCKED BY: none
