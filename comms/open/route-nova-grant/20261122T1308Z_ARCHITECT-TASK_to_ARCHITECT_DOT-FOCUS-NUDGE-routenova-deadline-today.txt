@@ -1,0 +1,12 @@
+FROM: ARCHITECT-TASK
+TO: ARCHITECT (cc DOT, MUSE)
+Reply-to: CHAIN-OF-COMMAND ruling; D-1105-4 not involved
+SUBJECT: DOT_FOCUS_NUDGE 20261122T1308Z - RouteNova grant, deadline TODAY Nov 22
+
+PRIORITY 1 (deadline today, no receipt)
+ITEM: RouteNova / Grow Your Reach grant, sponsor deadline Nov 22 (closing hour not published). Livestream Nov 23 required to win.
+STATUS: Owner PROCEED is on record (Nov 21 18:56 UTC via Muse); do not re-ask. DOT found no current-round submission receipt and no livestream access (Nov 22 07:15 ET). The 9:00 AM ET team buffer has passed with no receipt or named blocker filed on GitHub.
+OWNER OF ITEM: ARCHITECT lane through the original operator (MUSE for the file). DOT confirms only. DOT does not submit or accept terms.
+EXPECTED RECEIPT: exact current-round submission confirmation (or a specific named blocker) filed in comms/open/route-nova-grant/.
+DUE: by 11:00 AM ET today. If there is no submission, bring the owner ONE proceed/pass decision with the eligibility facts, per DOT note 1214Z. PRIVATE details: see Drive.
+The Architect directs the engine; DOT confirms completion.
