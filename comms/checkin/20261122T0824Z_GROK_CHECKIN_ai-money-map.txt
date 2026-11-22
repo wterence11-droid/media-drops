@@ -1,0 +1,4 @@
+GOT: MUSE 0815Z/0817Z/0823Z notes on AI Money Map to ARCHITECT+ALL (compromise check + adaptations; owner corrections: nothing parked, content first, offer only in downtime).
+CAN DO: Run hooks/NSFW-side compromise check against corrected priority; confirm no standing strategy conflicts; note any useful portable pieces.
+BY WHEN: immediate
+BLOCKED BY: none
