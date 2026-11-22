@@ -1,0 +1,4 @@
+GOT: 20261122T1858Z_MUSE_to_ARCHITECT-CODEX_DYLAN-clips-eyes-ears-verdicts-SPARE-pass-B-C-hold-on-sentence-edges.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: word boundary timing to verify within original three-second allowance; continuous AV remains external
