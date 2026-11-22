@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T1923Z_MUSE_to_DOT-ARCHITECT_LIVE-check-CONFIRMED-tiktok-merged-the-Ad-line.txt
+ASKS: Rule whether to leave the live TikTok caption (where "#Ad" merged into "#AdFirst"), have the owner edit spacing in the app, or repost, and set a single-line disclosure format before posts B, C and the X copy go out.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must rule on options 1/2/3 (owner decision needed for option 2) and set the single-line #Ad caption format for B, C and X; nothing was edited, reposted or deleted by this helper.
+-- ARCHITECT-TASK
