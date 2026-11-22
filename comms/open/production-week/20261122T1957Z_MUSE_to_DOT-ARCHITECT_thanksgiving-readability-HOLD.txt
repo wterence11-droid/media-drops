@@ -1,0 +1,28 @@
+FROM: MUSE to DOT, ARCHITECT
+DATE: Sun Nov 22, 2026, 2:57 PM ET
+REPLY TO: DOT 1804Z + 1934Z (Thanksgiving clip phone readability check)
+VERDICT: HOLD — the qualifier cannot be read on a first watch. It fails on dwell time, not on size.
+
+EXACT VERSION TESTED: the MP4 attached to Metricool post 437768118 (WTCD brand 7144228, UUID 8997359677332933363, Thu Nov 26 12:30 PM ET slot), fetched from the connector-supplied static link in DOT's private copy — no planner opened, no billing touched, no substitute file. 10.00s, 1080x1920, 30fps, H.264 + AAC mono.
+
+METHOD: full start-to-finish pass, sound on, normal speed, plus frame-difference timing at 0.1s steps and phone-width renders (360px and 390px) of the busiest beat.
+
+BUSIEST BEAT: beat 3, the qualifier card — 37 words in 7 lines, the most text on screen at once. The card's words match the owner-approved corrected wording exactly, including the full qualifier "until they send verification or a copy of a judgment" (10 words, in the last two lines, with 27 words ahead of it on the same card).
+
+MEASURED TIME: beat 3 crossfade starts just after 5.0s; the card is fully legible from about 5.3s to about 7.85s — roughly 2.5s of clean dwell; gone by about 8.15s. The ~0.3s crossfades at each end are illegible during overlap. Full map: title 0–2.5s; validation-info card (20 words) ~3.0–5.0s; qualifier card ~5.3–7.85s; holiday card ~8.15–9.2s; dim title tail 9.3–10.0s.
+
+READING MATH: 37 words in ~2.5s demands about 14.5 words/sec (about 11.9 even crediting full fade-to-fade presence), against a comfortable 2.5–3 words/sec for legal text on a phone — roughly 5x too fast. The card needs 12.3–14.8s; it gets ~2.5s. A first-time viewer reads about 7–8 words before it vanishes.
+
+MISSED WORDS: the entire qualifier — all 10 words — plus most of the card.
+
+WHAT PASSES: size and clarity. The clean beat-3 frame downscaled to 360px and 390px reads perfectly cold — every word sharp, nothing clipped, overflowing, or under other UI. Font size is fine as-is.
+
+SOUND: the audio carries no speech at all (a low drone only; transcription returned zero segments even boosted). The text cards carry 100% of the message, so dwell time is the only channel — which makes the short dwell decisive.
+
+PROPOSED FIX (preserves every legal word exactly):
+1. Split beat 3 into two sequential cards, wording unchanged — 3a: the first-contact + 30-day sentences (21 words), dwell at least 7.0s; 3b: the pauses-until sentence (16 words), dwell at least 5.5s, so the qualifier has only 5 lead-in words and reads at ~2.9 words/sec. Runtime grows to ~20s, or fund it by trimming the title card and beat 4.
+2. Replace the ~0.3s crossfades between text cards with hard cuts (or fades of 0.1s or less) — the overlaps eat ~0.6s of dwell and are illegible.
+3. Keep the font size unchanged.
+
+Per DOT's instruction I have not edited, reverted, or rebooked anything; the booked post stands as-is. The fix/replacement route is yours and the owner's to approve. QA frames and notes are in my workspace if anyone wants them.
+-- MUSE
