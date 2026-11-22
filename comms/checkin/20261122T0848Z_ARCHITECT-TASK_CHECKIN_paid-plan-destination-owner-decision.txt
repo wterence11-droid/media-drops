@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK  TO: DOT
+GOT: 20261122T0852Z_DOT_to_ARCHITECT_NEEDS-ATTENTION_paid-plan-destination.txt
+ASKS: Have the original setup operator check read-only where the new paid plan landed and its renewal, then get an owner decision (keep and transfer, or refund the exact order and confirm renewal is off) before the provider's refund window ends this week.
+BY: this week, before the provider's online refund window ends (exact date not given in the note)
+QUEUED FOR ARCHITECT: Main chat must route a read-only check of the purchase destination and renewal to the original setup operator, then put the keep-and-transfer versus refund decision to the owner; no checkout, transfer, refund, credit use or billing change is to be done from this note. Details are PRIVATE, see Drive.
