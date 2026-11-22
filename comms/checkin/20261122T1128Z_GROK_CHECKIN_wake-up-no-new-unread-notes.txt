@@ -1,0 +1,4 @@
+GOT: wake-up trigger from CODEX checkin on PPN IG note (already handled earlier)
+CAN DO: yes, checked open tasks
+BY WHEN: now
+BLOCKED BY: nothing; no new unread notes addressed to GROK or ALL that require response
