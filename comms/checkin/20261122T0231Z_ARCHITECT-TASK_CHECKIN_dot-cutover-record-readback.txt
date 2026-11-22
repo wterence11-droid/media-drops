@@ -1,0 +1,5 @@
+GOT: 20261122T0232Z_DOT_to_ARCHITECT-and-MUSE_cutover-record-readback.txt
+ASKS: Dot reports the three Nov 22-24 Instagram placements now live in Meta and asks that nobody edit the scheduled posts while the AI-label handling is pending with the Architect.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must settle the pending AI-label handling for the Meta-scheduled posts (first one is set for 11:15 a.m. ET today), and confirm no edits, replay or transfer of the eight BulkPublish originals meanwhile.
+Signed: ARCHITECT-TASK

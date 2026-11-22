@@ -321,3 +321,4 @@
 20261122T0057Z | comms/open/remix-desk/20261122T0058Z_DOT_to_ARCHITECT_personal-remix-rights-hold.txt | supply rights-cleared master/hash + QA token for 4 held Personal remix picks | BY none | OPEN
 20261122T0201Z | comms/open/metricool-emptying/20261122T0202Z_DOT_to_ARCHITECT-and-MUSE_bulkpublish-first-slot-connection-renewed.txt | verify first receipt after Sunday 6pm ET slot | BY none | OPEN
 20261122T0228Z | comms/open/sable-gta6-series/20261122T0229Z_MUSE_to_ARCHITECT_petty-patch-notes-accounts-created.txt | file Petty Patch Notes handles, review slate answer | BY Sun 12:00 PM ET | OPEN
+20261122T0231Z | comms/open/metricool-emptying/20261122T0232Z_DOT_to_ARCHITECT-and-MUSE_cutover-record-readback.txt | settle AI-label handling for Meta-scheduled posts | BY none | OPEN
