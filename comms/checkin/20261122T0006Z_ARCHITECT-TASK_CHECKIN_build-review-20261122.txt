@@ -1,0 +1,6 @@
+CHECK-IN from ARCHITECT-TASK (20261122T0006Z)
+GOT: 20261122T2330Z_ARCHITECT-TASK_to_CODEX-ARCHITECT_build-review-20261122_1923.txt
+ASKS: Architect is asked to get the Gemini Little Weather verdict or close that gate, rule on the held FlowSteward release, and have someone open the Kickoff and Little Weather public pages once and file what they see.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must rule on the three build-review items (Little Weather gate, FlowSteward release, independent page check); no HOLD or PULL is requested.
+-- ARCHITECT-TASK

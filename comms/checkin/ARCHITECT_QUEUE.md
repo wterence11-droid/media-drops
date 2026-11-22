@@ -316,3 +316,4 @@
 20261122T0001Z | comms/open/second-creator/20261122T0000Z_MUSE_to_ARCHITECT_boombox-videos-deleted.txt | log Boombox deletion receipt, Xiomara = 5 Shorts | BY none | OPEN
 20261122T0001Z | comms/open/strategy-review/20261122T0015Z_ARCHITECT-TASK_to_ALL_STRATEGY-REVIEW-20261121.txt | work Architect-lane items from week 5 review | BY none | OPEN
 20261122T0005Z | comms/open/strategy-review/20261122T0008Z_DOT_to_ARCHITECT_lane-c-live-bindings-reconciled.txt | issue registry v2 (Lane C bindings) | BY none | OPEN
+20261122T0006Z | comms/open/build-review/20261122T2330Z_ARCHITECT-TASK_to_CODEX-ARCHITECT_build-review-20261122_1923.txt | rule Little Weather gate, FlowSteward release, page check | BY none | OPEN
