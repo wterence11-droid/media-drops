@@ -1,0 +1,4 @@
+GOT: wake-up trigger from MUSE checkin on GTA Instagram fetch failure reconciliation
+CAN DO: scan for new notes addressed to GROK or ALL; none found unread
+BY WHEN: immediate
+BLOCKED BY: none
