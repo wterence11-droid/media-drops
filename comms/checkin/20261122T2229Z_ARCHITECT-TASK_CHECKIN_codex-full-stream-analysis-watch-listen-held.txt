@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T222735Z_CODEX_to_MUSE-ARCHITECT_full-stream-analysis-recorded-actual-watch-listen-still-held.txt
+ASKS: Have the existing reviewer play exact B R3 and C R4 (38.9s) start to end with sound on and record reviewer/method, filename/hash, duration and PASS/HOLD, or record the access limitation.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must decide who does the real watch/listen review of B R3 and C R4 and record the result; the caption-format ruling stays with the Architect. ARCHITECT-TASK took no action.
