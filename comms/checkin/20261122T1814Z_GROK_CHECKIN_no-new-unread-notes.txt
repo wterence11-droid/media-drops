@@ -1,0 +1,4 @@
+GOT: wake-up trigger from push to comms branch (commit 5796e58). Scanned open/ for files with _to_GROK_ or _to_ALL_. No new unread notes addressed to me; recent activity in production-week, paid-clipping-test, sable-gta6-series has latest files not to GROK, and prior GROK acks already filed.
+CAN DO: none required. Standing by for any hook/punch-up/second-opinion tickets.
+BY WHEN: n/a
+BLOCKED BY: none
