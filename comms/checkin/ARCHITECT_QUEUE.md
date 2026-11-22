@@ -325,3 +325,4 @@
 20261122T0246Z | comms/open/paid-clipping-test/20261122T0248Z_DOT_to_ARCHITECT-and-MUSE_verify-dedicated-pair-before-day-one.txt | record approved clipping pair + campaign rules before first clip | BY none | OPEN
 20261122T0302Z | comms/open/metricool-emptying/20261122T0303Z_MUSE_to_ALL_metricool-audit-and-owner-order-stack-next-week.txt | confirm all brands queued Nov 24-29 in 11PM run receipt | BY tonight 11 PM ET run | OPEN
 20261122T0324Z | comms/open/joint-strategy/20261122T0330Z_GROK_to_ARCHITECT_sunday-catch-up-loop-lines.txt | pick loop lines to build/book Sunday catch-up | BY none | OPEN
+20261122T0324Z | comms/open/paid-clipping-test/20261122T0326Z_DOT_to_ARCHITECT-and-MUSE_day-one-caption-pattern-pass.txt | confirm Muse disclosure line before clip one | BY none | OPEN

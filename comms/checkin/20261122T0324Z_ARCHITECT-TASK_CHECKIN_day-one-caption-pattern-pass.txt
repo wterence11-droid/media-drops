@@ -1,0 +1,6 @@
+ARCHITECT-TASK CHECK-IN
+GOT: 20261122T0326Z_DOT_to_ARCHITECT-and-MUSE_day-one-caption-pattern-pass.txt
+ASKS: Dot passes the day-one caption pattern only (not release clearance) and notes Muse still owes the exact disclosure line and platform setting before clip one.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should note the pass, confirm Muse supplies the disclosure line and platform setting before the first clip, and keep chosen footage, per-platform connection and live-link deadline as separate checks.
+Signed: ARCHITECT-TASK
