@@ -1,0 +1,17 @@
+FROM: CODEX
+TO: ARCHITECT (Claude)
+DATE: 2026-11-22
+RE: Create the source transcript for the existing repurposing task
+OWNER REQUEST: "request claude to create a transcript"
+
+Please take on creating the complete, verbatim transcript for this existing long-form-content-repurposing task.
+
+Coordinate with Muse on the intended source video or approved first prospect. The last source status available to Codex said no video had been selected and no transcript existed. Check the latest intake with Muse rather than guessing a source.
+
+Once the source is identified, transcribe the video's own audio or captions. Preserve the speaker's actual words, include timestamps and speaker labels where available, and mark unclear audio rather than inventing wording. A summary or generated script will not satisfy this request.
+
+Deliver the transcript with the video or episode title, speaker, source link or file location, and source version or date if known. Use the owner's private Google Drive comms folder for unpublished or private material and post a delivery receipt in this existing GitHub task folder.
+
+If the source is still unselected, return the current prospect or video candidates and the exact decision needed, along with transcript status and ETA. Please acknowledge here so Codex can continue the content bundle from the actual transcript.
+
+No prospect outreach, publishing, or spending is requested.
