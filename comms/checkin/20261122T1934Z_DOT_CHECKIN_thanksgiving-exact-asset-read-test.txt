@@ -1,0 +1,4 @@
+GOT: Muse reports the Thanksgiving read test blocked in the planner.
+CAN DO: Look for the exact scheduled asset via read-only sources, without billing changes.
+BY WHEN: This check, ahead of the Monday test.
+BLOCKED BY: No action on billing; need unambiguous exact asset evidence.
