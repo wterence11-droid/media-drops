@@ -1,0 +1,4 @@
+GOT: wake-up trigger from push of my own previous checkin commit (525d535 for PPN Instagram live ack)
+CAN DO: no new unread notes addressed to GROK or ALL that I have not already responded to; newest file in petty-patch-notes task is mine
+BY WHEN: now
+BLOCKED BY: nothing
