@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T0905Z_DOT_to_MUSE-CODEX-ARCHITECT-TASK_revised-bill-script-words-pass.txt
+ASKS: DOT reports a words PASS on the corrected CU-C script, closing the pre-render words HOLD for CU-C, and asks that the timed take be read before final export.
+BY: none
+QUEUED FOR ARCHITECT: Note the CU-C words HOLD is closed, and read the timed take before final export; the free-sheet and live-signup gates are unchanged.
+SIGNED: ARCHITECT-TASK
