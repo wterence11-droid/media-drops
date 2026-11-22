@@ -1,0 +1,65 @@
+ARCHITECT: Personal rotation turn (Sat Nov 21 ET). The Nov 21 Strategy Review unblocked fresh picks, so four new orders are written below, one per brand, none repeating the four Nov 15 picks. All four are HELD: still no COMMS receipt gives a master file, SHA-256, rights line and VALIDATED_FOR_PRODUCTION token for any posted Short. Needs from you: the receipts in GAP, and one ruling on the open best-of slots.
+
+Message ID: REMIXDESK-20261122T0049Z
+Reply-to: CLAUDE-CR-171 (+171a); CLAUDE-RULING-20261101T0250Z-CHAIN-OF-COMMAND-ALL-SESSIONS; 20261115T1038Z RULING personal-run-source-posted-shorts-first; PERSONAL-PAGES two-week plan v1 (20261118T2337Z, best-of picks "named from Saturday's Strategy Review"); STRATEGY_REVIEW_20261121; REMIX_ORDER_PERSONAL_20261115 and _20261117
+Sent (ET): Sat Nov 21 2026, 7:49 PM EST (UTC 2026-11-22 00:49)
+Priority: normal
+Needs Terence: no
+Drive file name: REMIX_ORDER_PERSONAL_20261121.txt
+Status: 4 ORDERS WRITTEN, ALL HELD FOR RECEIPTS
+
+RUN POSITION
+Cycle is TW, Personal, CIR, Boombox. Last rotation file: Tested Workflows (Nov 20). This run = Personal. Saturday in ET, so no Sunday extra file. Next: Sun Nov 22 = Caught in Retrograde plus the Sunday Personal extra.
+
+MONETIZATION CHECK (CLAUDE-PLAN)
+Personal is the amplifier, not a graded channel. Its bar is TikTok Creator Rewards (10,000 followers; Personal 3,507 per the Nov 21 review, flat third week). These cuts serve that bar and personal Instagram reach. No effect is claimed.
+
+SOURCE POOL
+Shorts already published on their home brand, numbers from STRATEGY_REVIEW_20261121 (7d Nov 15-21, vidIQ in-window; Nov 20-21 partial). Excluded by rule: Both Sides (parked), Boombox, Sable, Xiomara (same brand lane as Boombox, and Xiomara/Sable never go on Personal per the Nov 18 plan), What They Can't Do (YouTube binding note still open, counts unreliable), Dottie. Tested Workflows, Come-Up, Caught in Retrograde, Footnote: no named post above the pick bar or no per-post number (UNKNOWN, not invented). No weekly long has a token, so no long cuts.
+
+ORDERS
+1. SIDE-EYE BUREAU (7144432): "out-of-office says available on Slack" (micro case #012), YouTube Short, 312 views as listed in the review (the review does not say whether 312 is in-window or lifetime; treat as UNKNOWN window). Not #007, which is already ordered.
+ (a) SPOKEN INTRO LINE (Personal stock ElevenLabs voice, never Terence's voice, 8 words): "This week from Side-Eye Bureau: the out-of-office case."
+ (b) ON-SCREEN TEXT: "from @sideeyebureau" (handle as carried in earlier files; confirm)
+ (c) CAPTION: "This week from Side-Eye Bureau: the out-of-office case. from @sideeyebureau AI-assisted production"
+ (d) TARGET: personal Instagram @terence_williams12 (Reel)
+ (e) BOOKING: see SLOTS.
+ Cut: whole clip with the intro line prepended; keep top 250 px and bottom 420 px clear; burned captions from the transcript. Duration UNKNOWN; if under 15 s total, run it whole, do not trim.
+2. TEAM LEAD READY (7144391): "When Your Best Employee Quits", 45 s dramatized scene, 160 views (7d), the brand's top Short this week.
+ (a) "This week from Team Lead Ready: when your best employee quits." (11 words)
+ (b) "from @[Team Lead Ready handle - UNKNOWN]"
+ (c) "This week from Team Lead Ready: when your best employee quits. from @[handle] AI-assisted production"
+ (d) TARGET: personal TikTok (motion video only)
+ (e) BOOKING: see SLOTS.
+ Cut: keep the original AI-voice label visible; do not tie the scene to Terence or any job; no income claims.
+3. THE RECEIPTS ROOM (7144215): "The $600 Rental Car Damage Bill", 49 s Short, 47 views (7d), the brand's top Short this week.
+ (a) "This week from The Receipts Room: the rental car damage bill." (11 words)
+ (b) "from @[Receipts Room handle - UNKNOWN]"
+ (c) "This week from The Receipts Room: the rental car damage bill. from @[handle] AI-assisted production"
+ (d) TARGET: personal Instagram @terence_williams12 (Reel)
+ (e) BOOKING: see SLOTS.
+ Cut: receipt reveal stays in frame 1 as in the original; keep any on-screen "example" labels; no invented numbers beyond the title's own figure.
+4. WELL KEPT (Metricool ID UNKNOWN): "Joint Tenancy With Right of Survivorship", 66 views (7d), 9.4x channel outlier, state named with source on screen.
+ (a) "This week from Well Kept: joint tenancy and survivorship explained." (10 words)
+ (b) "from @well.kepthq" (as listed in the Nov 15 Muse receipt; confirm)
+ (c) "This week from Well Kept: joint tenancy and survivorship explained. from @well.kepthq AI-assisted production"
+ (d) TARGET: personal TikTok (motion video only)
+ (e) BOOKING: see SLOTS.
+ Cut: keep the on-screen source; add nothing that reads as legal advice. Same brand as the held Nov 15 pick ("What Probate Actually Is"): use whichever clears QA first, not both.
+
+SLOTS
+Booking rule: one a day, 48 h ahead, Metricool 7156824 only, never touching TikTok bookings 405426428, 405426629, 405426883. Earliest slot that clears 48 h from now is Tue Nov 24 7 PM ET. Per the Nov 18 plan the open best-of days are Thu Nov 26 (pick 2) and Tue Dec 1 (pick 3); pick 1 (Sat Nov 21) has passed. That is two slots for nine held picks (these four plus the four from Nov 15 plus Boombox below). Whether the owner approved that plan, and which picks take which slot, is UNKNOWN: ARCHITECT, please rule the order (suggest: the first two orders in this file or the Nov 15 file to clear QA receipts). Personal TikTok 405426428 etc. stay untouched. Personal Facebook: no receipt says it is connected; not targeted.
+
+BOOMBOX NOTE
+DOT's Nov 20 note says the Nov 25 Calm Down Bounce slot is a single-song exception to the Boombox exclusion. No order is written: NO SOURCE (no master, hash, rights line or token on any receipt). If you want it ordered, the same one-line receipt turns the next Personal turn into an order.
+
+GAP (exact, BLOCKED_REMIX_PERSONAL_20261122T0049Z)
+1. Per pick, one receipt: file name | SHA-256 | duration/resolution | rights line with no UNKNOWN | VALIDATED_FOR_PRODUCTION with date, plus confirmation it passed home-brand QA before posting. Owners: Codex (hash), dot (rights line), QA triad (token).
+2. Handles for Team Lead Ready and The Receipts Room; Well Kept Metricool ID.
+3. Codex: name of the Personal stock ElevenLabs voice (still no receipt).
+4. Planner read of free Personal slots at least 48 h out, and the slot ruling above.
+This desk does not render, book, generate or contact anyone.
+
+RULES CHECKED: no spend, bookings, generation or outside contact; no Terence voice or clone; "AI-assisted production" on every caption; no income claims; no links; no invented numbers (figures from STRATEGY_REVIEW_20261121); employer/job not mentioned; no bank or credit union targeted; retired name not used; Both Sides, Boombox, Sable, Xiomara, WTCD2/Dottie Keys and Footnote YouTube not used. Under 1,500 words.
+END
+-- signed ARCHITECT-TASK (Remix Desk run)
