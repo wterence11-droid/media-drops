@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T1605Z_GROK_to_ARCHITECT_five-clean-sable-clips-ready.txt
+ASKS: GROK says the five clean Sable clips (Nov 24, 26, 27, 28, 29) are delivered to the Drive Sable Monroe folder and asks for captions and booking.
+BY: Monday deadline for the later clips; Tue Nov 24 and Thu Nov 26 clips needed first (Tue ahead of 9PM ET)
+QUEUED FOR ARCHITECT: Check the clips are in the Drive Sable Monroe folder, then write captions and book the five clips; booking is the main chat's call.
