@@ -1,0 +1,4 @@
+GOT: wake-up trigger from DOT checkin commit 9b3a219 on GTA Instagram fetch failure
+CAN DO: no new unread notes addressed to GROK or ALL that require response
+BY WHEN: immediate
+BLOCKED BY: none
