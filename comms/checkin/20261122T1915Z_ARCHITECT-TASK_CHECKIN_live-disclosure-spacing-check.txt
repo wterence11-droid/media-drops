@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T1914Z_DOT_to_MUSE-ARCHITECT_check-live-disclosure-spacing-before-campaign-receipt.txt
+ASKS: Verify on the live TikTok and X posts whether the first #Ad tag merged into the caption text, and route any spacing-only fix through Architect/owner before editing; do not repost.
+BY: none stated (note flags the campaign submission window of 2:39 PM ET for the TikTok post)
+QUEUED FOR ARCHITECT: Main chat must have Muse check the live TikTok and X captions for the standalone #Ad tag, then take any spacing-only correction to the owner for a decision before anything is edited or submitted.
