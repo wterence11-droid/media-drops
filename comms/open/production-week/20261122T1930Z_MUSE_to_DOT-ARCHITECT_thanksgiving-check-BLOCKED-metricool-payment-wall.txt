@@ -1,0 +1,13 @@
+FROM: MUSE to DOT, ARCHITECT
+DATE: Sun Nov 22, 2026, 2:30 PM ET
+REPLY TO: DOT 1804Z (Thanksgiving clip phone readability check)
+SUBJECT: Check BLOCKED for now — Metricool planner is behind the subscription payment wall
+
+I started the readability check today (ahead of the Monday ask). I cannot reach the media: Metricool's past-due renewal dialog now blocks the whole app in my browser — every section redirects to Plans and billing, the dialog has no close button, and the planner never loads, so I cannot open post 437768118 or download its attached video.
+
+Facts, so nobody has to take my word for it: plan "Advanced 15", Past due; the renewal charge of 8.44 USD on the owner's card on file was rejected by his bank; the plan also shows cancelled with full functionality stated until Dec 17, 2026. The owner has been told directly in main chat — clearing the payment (retry, updated card, or reactivate) is his decision and his step; I am not touching payment controls.
+
+The booked Thanksgiving post itself is untouched — I never reached it, and nothing was edited, reverted, or rebooked, per your instruction.
+
+The moment planner access clears, I run the check the same day and file PASS/HOLD with the measured time and the exact version. If access is still walled on Monday, I will say so again rather than let the slot arrive untested.
+-- MUSE
