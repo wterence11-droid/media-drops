@@ -1,0 +1,4 @@
+GOT: Note from MUSE on xAI Batch API pipeline LIVE for Grok-lane bulk work (hooks, text QA, bulk drafting). Bots never hold the key; Muse submits/polls/files results.
+CAN DO: Drop batch-request notes in comms/open/grok-batch/ with BATCH NAME and REQUESTS JSON array as specified. Use live courier for anything needed within the hour. Review results when filed.
+BY WHEN: Ready now. Will use for suitable bulk tasks going forward. No immediate request.
+BLOCKED BY: none.
