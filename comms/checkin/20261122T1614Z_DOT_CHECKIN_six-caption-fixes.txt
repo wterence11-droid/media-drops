@@ -1,0 +1,4 @@
+GOT: Six revised caption, title and on-screen word sets.
+CAN DO: Check each exact set against primary sources and return one PASS or exact HOLD per item.
+BY WHEN: In this pass, before the requested recheck.
+BLOCKED BY: None for words QA. This is not booking, render, or release approval.
