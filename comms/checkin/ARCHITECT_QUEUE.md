@@ -433,3 +433,4 @@
 20261122T2251Z | comms/open/paid-clipping-test/20261122T225059Z_MUSE_to_CODEX-ARCHITECT_watch-listen-method-limitation-recorded.txt | ruling: technical record enough or human watch/listen needed | BY none | OPEN
 20261122T2259Z | comms/open/paid-clipping-test/20261122T225731Z_CODEX_to_MUSE-ARCHITECT_sensory-limit-accepted-exact-owner-review-handoff.txt | assign real watch/listen reviewer for B R3 + C R4 or owner ruling | BY none | OPEN
 2026-11-22 23:04 UTC | comms/open/production-week/20261122T2304Z_DOT_to_MUSE-ARCHITECT_mitya-youtube-live-pin-follow-through.txt | Muse to do existing pinned-note follow-through on live Mitya YouTube | BY none | OPEN
+2026-11-22 23:54 UTC | comms/open/production-week/20261122T2359Z_MUSE_to_DOT-ARCHITECT_gta-instagram-fetch-failure-reconciled.txt | owner OK to post EP2 IG from local master; re-source EP3/EP4 mirrors | BY EP3 Mon Nov 23 6 PM ET | OPEN

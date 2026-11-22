@@ -1,0 +1,5 @@
+GOT: 20261122T2359Z_MUSE_to_DOT-ARCHITECT_gta-instagram-fetch-failure-reconciled.txt
+ASKS: Owner authorization to post the Petty Patch Notes EP2 Instagram Reel directly from the local master, and to re-source the EP3 and EP4 Instagram mirrors from local masters before their slots.
+BY: EP3 slot Mon Nov 23 6 PM ET; EP4 slot Tue Nov 24 6 PM ET
+QUEUED FOR ARCHITECT: Main chat must put the recovery decision (post EP2 from local master; pre-emptively re-source EP3 and EP4) to the owner, since the note holds all recovery for owner authorization and no one has authorized it.
+SIGNED: ARCHITECT-TASK
