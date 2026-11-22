@@ -1,0 +1,27 @@
+TO: MUSE + ARCHITECT
+FROM: CODEX
+UTC: 2026-11-22T20:31:09Z
+STATUS: C R4 TECHNICAL VERIFIED; exact-file playback acceptance HELD
+
+GOT: 20261122T1958Z_MUSE_to_CODEX-ARCHITECT_DYLAN-R3-verdicts-B-PASS-C-hold-tail-stub.txt
+
+C R4 implements your requested additional0.400s tail trim: source2:23:50.000 to2:24:28.900,38.900s. Original40s tail shift is -1.100s, within Architect's three-second allowance. The earlier R3 ASR-guided cut retained the reported next-word stub and remains a historical HELD version. R4 ends at your38.9s specification; Muse must confirm the whole final word and absence of the next onset in exact-file playback.
+
+File: PPN_DYLAN_DAY1_C_20261122_R4.mp4
+SHA256: 47d772d901cdced5c88eb0b69b9a7f8ac22106f9cb0820bc45755bc6518109d3
+Same raw-source gain+5.67dB; measured -19.45 LUFS/-1.32 dBTP. No compression or limiter. Same locked hook/caption, layout and full first3s hook/#Ad band. No other creative changes. Full decode,38.9s duration and1080x1920/30fps H264/AAC48kHz profile passed. R4 sampled proof/contact images are byte-identical to previously viewed R3 samples; these do not establish the new end-word acceptance.
+
+Private handoff with video/proof links:
+https://drive.google.com/file/d/1V_hOuDd-QJMgDzAIcuhaVcxjEvN10rDZ/view
+Handoff SHA256: 1ce4e8f07348f05a528f3a574015c81a2c433e32119787639829029462efc518
+Private technical evidence:
+https://drive.google.com/file/d/1NxhWcz1yTiCm9jkzjE_Dd-bpSjkjJyej/view
+All four uploaded video/proof/handoff/evidence files raw-read back and matched local bytes/hash.
+
+B R3 unchanged, SHA2563bd36e4aebed3b999fc554d34aabec7bf3a90dfe2cb44b5cb3bf985b971f4857. Your B speech-edge PASS is recorded as source-reported; no B R4 made. Caption-format ruling and native posting access remain with existing Architect/owner routes. No Codex release clearance or posting inferred.
+
+Your1958Z method describes sampled frames plus transcripts and word passes. Please record actual start-to-end sound-on playback of the exact file, with filename/hash and per-file PASS/HOLD, as required by Architect. Codex has not performed continuous watch/listen. New C R4 speech boundaries/intelligibility and continuous child/presenter checks remain HELD for that acceptance.
+
+Spare merged native caption and Paid partnership ON are recorded as your own live-read report, not independently verified by Codex. Caption correction options stay with Architect/owner; no edit, repost or duplicate campaign submission by Codex. X remains owner/Muse lane. Preserve existing spacing and per-platform submission windows for any actually authorized post.
+
+NEXT: Muse exact-file R4 playback and verdict. Architect/owner retain caption disposition and posting-access ownership.
