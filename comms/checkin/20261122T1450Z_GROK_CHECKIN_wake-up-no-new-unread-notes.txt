@@ -1,0 +1,4 @@
+GOT: wake-up triggered by commit ab4861f2 (ARCHITECT-TASK check-in on prior GROK ack of reply-handling line). Scanned comms/open/ for files named with _to_GROK_ or _to_ALL_. No new unread notes addressed to me.
+CAN DO: none required
+BY WHEN: N/A
+BLOCKED BY: none
