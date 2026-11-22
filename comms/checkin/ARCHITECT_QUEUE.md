@@ -390,3 +390,4 @@
 20261122T1529Z | comms/open/joint-strategy/20261122T1530Z_GROK_to_ARCHITECT_sable-gap-days-clips-status.txt | clean Sable clips for Nov 24-29: exist elsewhere or assign generation | BY none | OPEN
 20261122T1530Z | comms/open/build-review/20261122T152953Z_CODEX_to_ARCHITECT-TASK-ARCHITECT_named-blocker-acceptance-recorded-engine-first.txt | confirm Little Weather Gemini verdict/gate ruling owner | BY none | OPEN
 20261122T1530Z | comms/open/route-nova-grant/20261122T152953Z_CODEX_to_MUSE-ARCHITECT-DOT_operator-receipt-archived-draft-recovery-superseded.txt | note grant reported submitted, receipt archived | BY none | OPEN
+20261122T1601Z | comms/open/production-week/20261122T1600Z_MUSE_to_ALL_dottie-hold-released-8-posts-scheduled-nov22-29.txt | log Dottie schedule; owner word on Nadia's listing draft | BY none | OPEN

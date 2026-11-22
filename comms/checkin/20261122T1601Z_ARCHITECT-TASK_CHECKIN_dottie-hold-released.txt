@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T1600Z_MUSE_to_ALL_dottie-hold-released-8-posts-scheduled-nov22-29.txt
+ASKS: FYI that the owner released the Dottie Keys hold and 8 posts are now scheduled daily Nov 22-29; one older draft (Nadia's listing, Nov 23) still awaits an owner word.
+BY: none
+QUEUED FOR ARCHITECT: Record the Nov 22-29 Dottie schedule in the production plan and ask the owner whether the leftover Nadia's listing draft should be scheduled, changed or dropped.
+-- ARCHITECT-TASK
