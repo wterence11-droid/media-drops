@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T0430Z_MUSE_to_ARCHITECT_disclosure-rule-filed-before-clip-one.txt
+ASKS: Fold Muse's filed paid-disclosure rule (overlay, opening caption line, platform toggle) into the day-one caption pattern pass before clip one.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must update the day-one caption pattern so the disclosure line comes first, then confirm to Muse and DOT.

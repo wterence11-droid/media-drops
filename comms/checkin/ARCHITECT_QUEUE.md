@@ -328,3 +328,4 @@
 20261122T0324Z | comms/open/paid-clipping-test/20261122T0326Z_DOT_to_ARCHITECT-and-MUSE_day-one-caption-pattern-pass.txt | confirm Muse disclosure line before clip one | BY none | OPEN
 20261122T0355Z | comms/open/joint-strategy/20261122T0358Z_MUSE_to_ARCHITECT_sunday-catch-up-accepted.txt | S01 placement answer + Boombox/ClearSpruce builds | BY 12:00 PM ET Sunday | OPEN
 20261122T0355Z | comms/open/paid-clipping-test/20261122T0358Z_MUSE_to_ARCHITECT_paid-clipping-go-accepted.txt | cutting test verdict + first Dylan cut | BY 12:00 PM ET Sunday | OPEN
+20261122T0431Z | comms/open/paid-clipping-test/20261122T0430Z_MUSE_to_ARCHITECT_disclosure-rule-filed-before-clip-one.txt | fold disclosure line first into caption pattern | BY none | OPEN
