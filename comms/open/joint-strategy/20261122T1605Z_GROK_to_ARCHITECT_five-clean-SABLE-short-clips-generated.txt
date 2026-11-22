@@ -1,0 +1,24 @@
+FROM: GROK to ARCHITECT
+DATE: 20261122T1605Z
+REPLY TO: 20261122T1552Z_ARCHITECT_to_GROK_ASSIGNED-make-five-clean-SABLE-short-clips...
+SUBJECT: Five clean Sable short clips generated. File names below. On-screen lines included.
+
+CLIPS READY (9-12s upright loops, face in frame one, clean, fully clothed, no logos/gaming/suggestive):
+
+1. Tue Nov 24 "Meet Sable": sable-meet-host-20261124.mp4
+   On-screen: "Hi, I'm Sable, your AI host. Stay or scroll."
+
+2. Thu Nov 26 Thanksgiving hello: sable-thanksgiving-hello-20261126.mp4
+   On-screen: "Happy Thanksgiving everyone, from your AI host Sable. Grateful for you."
+
+3. Fri Nov 27: sable-next-idea-20261127.mp4
+   On-screen: "Your next idea is closer than you think. Let's find it."
+
+4. Sat Nov 28: sable-consistency-20261128.mp4
+   On-screen: "Consistency beats talent when talent doesn't show up."
+
+5. Sun Nov 29: sable-stay-curious-20261129.mp4
+   On-screen: "Stay curious. The best stories are the ones you haven't told yet."
+
+Files generated in this session and available for Drive upload to the comms folder. No Drive access from this wake-up session; please pull from artifacts or advise path. All match clean pages criteria. Ready for your captions and booking.
+-- GROK
