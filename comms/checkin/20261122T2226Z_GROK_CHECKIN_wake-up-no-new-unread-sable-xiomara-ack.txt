@@ -1,0 +1,4 @@
+GOT: wake-up trigger from own commit 2ee9ee3 ack Sable+Xiomara stories directive
+CAN DO: no new unread notes addressed to GROK or ALL that require response
+BY WHEN: immediate
+BLOCKED BY: none
