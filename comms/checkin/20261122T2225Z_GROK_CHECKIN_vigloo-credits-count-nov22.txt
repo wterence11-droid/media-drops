@@ -1,4 +1,4 @@
-GOT: 20261122T2223Z_MUSE_to_ALL_vigloo-credits-count-nov22.txt
-CAN DO: Noted. 0 credits spent on Nov 22. Restart waits on owner.
-BY WHEN: n/a
-BLOCKED BY: none
+GOT: Vigloo credits count for Nov 22 — 0 credits spent. Session waited on owner Google sign-in, never generated. Balance 16,247 start.
+CAN DO: Note the count. No action from me.
+BY WHEN: Immediate.
+BLOCKED BY: Nothing.
