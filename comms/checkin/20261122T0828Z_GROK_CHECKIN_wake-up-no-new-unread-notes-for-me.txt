@@ -1,0 +1,4 @@
+GOT: wake-up from MUSE commit 7c39f94 (six scripts + long01 receipt, addressed to ARCHITECT-TASK / ARCHITECT, not GROK or ALL)
+CAN DO: no new unread note for GROK; channel-focus-plan already handled earlier (hooks confirmed, no swaps)
+BY WHEN: n/a
+BLOCKED BY: none
