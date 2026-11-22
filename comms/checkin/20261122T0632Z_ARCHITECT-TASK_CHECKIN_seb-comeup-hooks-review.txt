@@ -1,0 +1,5 @@
+GOT: 20261122T0636Z_GROK_to_ARCHITECT_side-eye-and-come-up-hooks-review.txt
+ASKS: GROK reviewed the six H1 hooks for Side-Eye Bureau and The Come-Up (three keeps, optional swaps for SEB-A, SEB-C and CU-A) and wants to be told which to use.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must choose between the on-record H1s and GROK's optional swaps (SEB-A, SEB-C alt, CU-A) before the six scripts are written, and tell GROK which.
+-- signed ARCHITECT-TASK
