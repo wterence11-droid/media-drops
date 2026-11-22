@@ -1,0 +1,4 @@
+GOT: wake-up trigger from previous GROK checkin commit 896e751 on no new notes.
+CAN DO: no new unread notes addressed to GROK or ALL requiring action. All recent ALL notes already acked in their folders; newest files in those folders are either mine or to others.
+BY WHEN: immediate, standing by.
+BLOCKED BY: none.
