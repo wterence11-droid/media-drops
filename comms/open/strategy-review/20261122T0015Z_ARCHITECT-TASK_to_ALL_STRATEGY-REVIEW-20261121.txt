@@ -1,0 +1,141 @@
+STRATEGY REVIEW - Sat Nov 21 2026 (weekly #5; prior: STRATEGY_REVIEW_20261114.txt)
+From: ARCHITECT-TASK (Claude, scheduled Saturday strategy-review run). Data pulled 23:10-00:10 UTC Nov 21-22; file written Sat Nov 21 2026, ~7:15 PM EST (00:15Z Nov 22). Real clock times.
+Reply-to / governs this file: CLAUDE-RULING-20261101T0250Z-CHAIN-OF-COMMAND-ALL-SESSIONS; CLAUDE-PLAN-20261031T2310Z-MONETIZATION-SCHEDULE-TO-FEB1 (graduation rule + thresholds); WEEKLY-GRID-v1 (20261119T1800Z, starts Tue Nov 24 - the standing cadence); OWNER-ORDERS 20261121T2032Z (Architect runs Xiomara SFW; what works on her YouTube rolls out to every channel).
+Also read: OWNER-DECISION no-Black-Friday-sale (Nov 19); OWNER-DECISIONS boombox-off-xiomara-channel + post-on-best-judgment (Nov 17, 2157Z); OWNER-DECISIONS joint-plan four answers (Nov 15); OWNER-ORDER Boombox leaves Metricool for Meta Business Suite (Nov 21, 2030Z); CLAUDE-MSG-231 OWNER ANSWERS (Nov 21); CLAUDE_LANECHECK 20261121 1503ET; PRODUCTION_WEEK_20261115; ANALYTICS_DEFINITIONS_v4 (owner "USE CLAUDE PROPOSALS" Oct 17 - proposals adopted, applied).
+Read by: tonight's Saturday 11 PM production run, dot, Codex, Muse, Grok, the Architect, Terence.
+Run was READ-ONLY on all platforms: no post, schedule, account or file outside COMMS was changed. Spend: vidIQ read credits only (~95; balance ~5,653 left, renews Nov 25; 10-credit reserve kept).
+
+DATA SOURCES (every number traces to a tool export; gaps say "unknown")
+- Metricool getBrandSettings + getAnalyticsDataByMetrics, pulled 23:15-00:05 UTC, 14 brands. Windows: "7d" = Nov 15-21 ET (Nov 20-21 PARTIAL - most Nov 20-21 cells still null) and "28d" = Oct 25 - Nov 21 ET.
+- vidIQ: balance 5,748 at start; ~95 credits used (10 channel_analytics 7d, 8 top_videos 7d, 1 get_videos_by_ids). All 10 connected channels pulled. vidIQ per-video "in-window" views lag ~2 days; lifetime counts noted where they differ. YouTube scorecards use vidIQ (channel-wide); Metricool YTEV13 counts only videos published in range and reads lower - both recorded where they differ.
+- Monetization thresholds: per CLAUDE-PLAN-20261031 sec 1 (verified Oct 31); next web re-check due Mon-Tue Nov 24 - NOT re-searched this run (inside the monthly cadence).
+- Honest context for every number below: Nov 16-17 was the Metricool move-out / move-back operation (owner orders; posts switched off, then restored Nov 17 evening; a YouTube upload-limit hold Nov 16). Midweek dips are partly operational, not only audience.
+
+======================================================================
+1. HEADLINE, SIMPLE VERSION
+======================================================================
+The owner's new host beat every brand we built this quarter, in five days, with four 9-second videos. Xiomara Vox's YouTube went from 3 to ~21 subscribers and did ~3,642 views this week; her "Meet Xiomara Vox, a fictional AI host" Short did 2,533 views (a 4,342x outlier for that channel) and people watched her 9-second loops more than 1.5 times through on average. The two channels that had a real week - Xiomara (154% average watched) and Side-Eye Bureau (164%) - are exactly the two whose videos loop. Every channel whose Shorts get watched less than two-thirds through went nowhere, again. That is why the Nov 21 rollout order (every grid Shorts slot becomes a 9-12 second loop; one "Meet the host" Short per channel) is not a bet, it is this week's own data. Elsewhere: Side-Eye held a floor (~1,100 YT views) but gave back the launch spike; Footnote quietly had the #2 YouTube week (~856 views, still not connected to vidIQ); Team Lead Ready's Instagram is compounding (+16 followers, ~3,392 views); Well Kept's TikTok had a 1,219-view day; Come-Up's scene-vs-tip test finally scored - and the scenes LOST; Dottie finally posts (TikTok only); Receipts Room, WTCD and Tested Workflows still have not shipped the longs their tests are waiting on.
+
+======================================================================
+2. SCORECARD PER BRAND (7d = Nov 15-21 partial / 28d = Oct 25 - Nov 21; YT = vidIQ channel-wide unless marked Metricool)
+======================================================================
+XIOMARA VOX (brand 7110619 "Xiomara Vox + Boombox" | UCNWxn7uiVCbU5IfEtVm2-9A) - BEST BRAND OF THE WEEK, BIGGEST WEEK ANY CHANNEL HAS EVER HAD
+- YT 7d: 3,642 views, 1,425 engaged, 372 min watched (portfolio-best), +20 subs (channel now 21), 92 likes, 10 comments, avg 153.9% watched (loops replayed).
+- Top: "Meet Xiomara Vox, a fictional AI host" (9s, Nov 17) 2,533 views / 59 likes / outlier 4,342x - people subscribe to a named face. "Snap. Business Xiomara is in the building" (9s, Nov 19) 1,243 / 38 likes / 3,592x - the loop format repeats. Bottom: "Ask Xiomara: the sound-wave pendant" 61 views - about an object, not her (the Architect's read stands; the Nov 28 retry is a people question).
+- Subs per 1,000 views: ~5.5 - no other channel is above ~1.8. IG/TikTok/FB sides: no data (TikTok not connected in Metricool - owner step already asked Nov 21; not re-asked here).
+- This is 4 Shorts over 5 days. Strong signal, small sample - rolled out as a TEST with the Monday scoreboard, per the Architect's order, not as law.
+SIDE-EYE BUREAU (7144432 | UCrnQQCyN8XdEa45wBkmuTXw) - FLOOR HELD, SPIKE GONE
+- YT 7d: 1,098 views, 230 engaged, 180 min, +2 subs (3), avg 163.9% watched - the only other looping channel. 28d Metricool published-video views ~7,755.
+- Top new cases (in-window vidIQ / lifetime): #016 "As Discussed" 122/437 (8.1 VPH, best new case - corporate-jargon-on-trial beats object gags), #012 "out-of-office says available on Slack" 312, #013 "printer only jams for Gil" 256, #014 "Reply All to Unsubscribe" 109, #015 "Potluck Sheet" 83. Carried: "Sunday Scaries" (Nov 14) 164 in-window.
+- IG 7d: ~4,905 views (2,371 Nov 15; 1,659 Nov 20). TikTok 7d: ~2,042 views, 46 interactions, followers flat at 2. FB reels: ~8.
+- T10 verdict in sec 3. Last week's 4,287 was launch novelty + the Scaries day (2,064 pub views Nov 14); the new-case floor is real (75-437 each, vs ~8/wk pre-breakout).
+TEAM LEAD READY (7144391 | UCdvzlxywM7CPZ0DIc8KVe7Q) - IG IS THE STORY
+- YT 7d: 456 views, 181 engaged, 87 min, 0 subs, avg 61.1%. Top: "When Your Best Employee Quits" 160 (45s scene, outlier 160x), "Fix the Handoff" 157 (52x), "First Performance Review" 57, "I'm Overwhelmed" 49. The scene format holds; none loop (45s).
+- IG 7d: ~3,392 views, followers 26 -> 42 (+16; second straight growth week after 7 -> 24). TikTok: 712 views, followers 3 -> 9. FB reels 194. LinkedIn: followers 152 -> 153; ~221 impressions across 3 posting days (Nov 18: 62, Nov 19: 60, Nov 20: 99) - see T6b.
+- Long "The Hard Conversation"-style slot Sat Nov 28 per grid; cold open = the "best employee quits" dynamics (this week's #1).
+FOOTNOTE UNKNOWN (7493746, Metricool only - NOT in vidIQ) - QUIET #2
+- YT 7d (Metricool published-video views): ~856 (Nov 15: 77, Nov 16: 358, Nov 17: 307, Nov 18: 45, Nov 19: 69). 28d shows a 1,130-view day Nov 13. Subs 1. No engaged/watch-time data possible until the channel is connected to vidIQ (third week of this gap).
+- IG 7d: ~545 views. FB reels: ~48 (44 on Nov 19).
+WELL KEPT (7144157 | UC-RsUzXuqj2VzI0GHs3fJuw) - TIKTOK POPPED
+- YT 7d: 295 views, 123 engaged, 60 min, 0 subs, avg 59.8%. Top: "Joint Tenancy With Right of Survivorship" 66 (9.4x outlier), "CA Supplemental Tax Bill" 55 (7.9x), "Prop 19 One-Year Clock" 40. The C35 formula (one legal mechanism, state named, source on screen) is every piece above 40 views - third straight week it holds.
+- TikTok 7d: ~1,987 views, 75 interactions, followers 6 -> 11. Nov 18 alone: 1,219 views + 56 interactions, ~5.3x the brand's ~229/day 28d TikTok mean. Which video did it is UNKNOWN (brand TikTok per-video views still null in Metricool) - raw evidence, no surge call without the post ID; the WK lane should identify it from the TikTok app and clone it twice next week.
+- IG 7d: ~795 views (followers field reads 0 - connector gap, unknown). FB reels ~363.
+CAUGHT IN RETROGRADE (7493735) - STEADY PULSE
+- YT 7d: 334 views, 91 engaged, 29 min, 0 subs, avg 48.5%. Best non-breakout improver two weeks running. IG ~327, TikTok ~181, FB ~6.
+THE COME-UP (7144182 | UCFp88tVrafIMFDN6EV8v1AA) - YT MIRROR RULE WORKED; SCENES LOST
+- YT 7d: 195 views, 42 engaged, 15 min, +1 sub (6). ~11 uploads this week (C33 mirror rule held - up from 2 the week it died). Top: "$1,000 Is $20 a Week: 50-Box Tracker" 33 (number-led tip), "Do you have any other offers? (Scene)" 29.
+- IG ~556, TikTok ~344, FB reels ~105. T5 scored in sec 3: scenes DID NOT beat tips.
+THE RECEIPTS ROOM (7144215 | UCTjr73CufGNgtiG4OeDgUjA)
+- YT 7d: 94 views, 42 engaged, 20 min, 0 subs; 5 uploads. Top: "The $600 Rental Car Damage Bill" 47 (49s, 4.7x) - the standalone-receipt format works at its small scale; "Contractor $4,000 Deposit" 11.
+- IG ~724, TikTok ~537, FB reels ~63. Watch-depth per view still elite. T3b: the new "The Receipt" long DID NOT SHIP - the only long on the channel is Oct 2's (84 lifetime views). Second carry.
+WHAT THEY CAN'T DO (7144228 | UCYe2VWbljvf5FrKJzN81BFQ) - TIKTOK CARRIES, SUBS READ 0
+- TikTok 7d: ~1,134 views (460 Nov 15), followers 283 -> 286. Law-first rule keeps doing its job where videos post.
+- YT 7d: 65 views, 14 engaged; 5 uploads; subs now read 0 (was 2) - the WTCD/Dottie binding-identity REGISTRY NOTE is still open, FOURTH week; sub counts on this channel stay unreliable until dot's Lane C closes it. Top: "Lost Credit Card: What Can You Owe?" 28 (28x outlier), "Credit Bureau 30 Days" 16 - question-format search titles are the brand's best YT pieces. T8 did not run again (sec 3).
+- IG ~429, FB reels ~20.
+TESTED WORKFLOWS (7144497 | UCPRXlxLxgD2PDVjRmU1iflg) - SURGE WASTED
+- YT 7d: 99 views, 24 engaged, 6 min, 0 subs, avg 42.1% (portfolio-worst hold). Down from 1,354 the breakout week. Top: "5-Minute Friday Review" 51, "Time-Boxing vs To-Do List" 44 - both niche "illustrative example" pieces. The brain-freeze-style sourced-explainer follow-ups (T9, the one thing the surge rule required) NEVER SHIPPED. TikTok ~748 views, followers 7 -> 14.
+DOTTIE KEYS (7828954 | UCB2wGJwzDvPiNmJBQc7hKHA) - FIRST REAL POSTS, TIKTOK ONLY
+- TikTok 7d: 429 views across 5 videos (Nov 17: 194, Nov 18: 131, Nov 19: 104) - the lane finally moves, through Metricool after the Nov 18 TikTok connection. YT: 0 uploads, subs 2. IG/FB ~0. Lead page not live, so every ask stays "Follow" (grid rule). T7 still waiting on YT posts. Third week the lead-gen line earns nothing, but first week it is no longer idle.
+BOTH SIDES (7493745) - WEEK 1 ON THE BOARD
+- Posting started Nov 17-18: 7 IG pieces, ~141 IG views; FB follower 1, reels views ~1. Tiny, expected for day 2-5 of a page. C39's own Friday rule (any format >=50 IG views or >=5 comments keeps its slot) cannot be scored per-format from the evolution export - per-format split is the Both Sides lane's call from the IG app; carried to next Friday.
+PERSONAL (7156824, amplifier - not graded): TikTok followers 3,505 -> 3,507 (flat), 7d TikTok views ~568, IG views ~1,036, IG followers ~1,964. The owner-approved nightly 7 PM plan (Nov 20 - Dec 3) started Fri Nov 20; first scoreboard next week.
+SABLE MONROE (7493729, owner's lane - one line): YT 18 views, IG ~206, TikTok ~176; Meet-Sable loop is in the Architect's rollout this week.
+BOOMBOX BUDDIES: no separate YouTube (the old channel IS Xiomara's now, owner decision Nov 17); FB/IG leaving Metricool for Meta Business Suite (owner order Nov 21, waiting on owner Facebook sign-in). The two holiday songs remain the only Boombox deliverable (window opened Nov 20); no song receipt found in COMMS this run - Architect lane item, not an owner item, flagged to the Architect queue again.
+CLEARSPRUCE: brand NO LONGER in Metricool (moved out in the Nov 16-17 emptying; FB mirrored off per Muse 0341Z Nov 17). No numbers this run - UNKNOWN, not zero. Its Lane-1 grid line (paid orders) needs a data home; Architect/Muse lane.
+
+======================================================================
+3. LAST WEEK'S TESTS - SCORED FIRST (P-d applies: <3 eligible = reported, not ranked)
+======================================================================
+T3b (RR: first "The Receipt" long >=79 views at 7d): DID NOT RUN - no new long shipped. Carried once more; it now rides the grid (RR is a Lane-3 watch-time brand; its Shorts already point at "the next part").
+T5 (Come-Up scene vs tip Shorts): SCORED - FAIL. In-window YT views: scenes 29/23/17/14/8 (avg ~18.2) vs tips 33/18/15/14 (avg ~20). Bar was scene avg >= 2x tip avg; actual ~0.9x. Verdict: at YouTube Shorts scale the two-voice scenes do NOT out-pull number-led tips. The scene format is not deleted (TikTok/Personal is where scenes earned their keep and per-video TikTok data is still null); but Come-Up YT Shorts stop favoring scenes - see C43.
+T6b (TLR LinkedIn text-question vs document carousel, round 2): DIRECTIONAL CAROUSEL AGAIN - ADOPTED WITH A CAVEAT. Round 1: carousel 18 vs text 8 impressions. Round 2 (this week, daily account-level impressions on the posting days): text-day 62 vs carousel-day 99. Both rounds point the same way, so per the test's own rule the DOCUMENT CAROUSEL is the standing TLR LinkedIn format. Caveat recorded: this week's split is day-level, not post-level (the export has no per-post attribution) - if the lane can read per-post impressions in LinkedIn itself and they contradict this, reopen. Both rounds remain far below Nov 3's 192 impressions; LinkedIn stays 2 posts/week, no expansion.
+T7 (Dottie hook A/B): DID NOT RUN - 0 YT uploads. Carried; hooks stay locked. First YT piece is now the "Meet Dottie" 9s loop (Architect order), so T7 becomes the SECOND and THIRD YT posts.
+T8 (WTCD exact-search vs outcome titles): DID NOT RUN - "The Call" long and its cuts never shipped. Re-scoped to fit the loop grid: next week's 3 WTCD Shorts = 2 question-format (the proven family: 28x/16x outliers this week) vs 1 outcome-format, all 9-12s loops; score views at 7d. Small n, reported not ranked.
+T9 (TW sourced-explainer follow-ups vs niche): DID NOT RUN - the follow-ups never shipped and the 605x surge died (1,354 -> 99 views). This is the week's clearest process failure: the catch-and-surge rule's whole point is follow-ups within 7 days. Re-ordered as T9b with teeth: TW's grid Shorts next week are 2 sourced general-science explainer LOOPS + 1 niche loop. If the lane cannot ship them, say so in COMMS instead of shipping substitutes.
+T10 (SEB micro-case cadence): SCORED - SPLIT. New cases >=500 combined: PASS (~874 in-window; #016 alone is 437 lifetime). Channel holds >=2,000/wk without launch videos: FAIL (1,098 total). Reading: the micro-case is a durable format with a 75-450 view floor (vs ~8/wk pre-breakout) but launch week was partly novelty. Format stays standing; growth needs the long ("The Hearing", Sun Nov 29) + loops pointing at it.
+
+======================================================================
+4. GRADUATION PASS (CLAUDE-PLAN-20261031 rule; window Nov 15-21)
+======================================================================
+Bars: POSSIBLE = Short >=5,000 views/7d OR subs/day >=3 OR long-form hrs/day >=2 OR remix >=25,000 views/7d. ON TRACK = subs/day >=10 AND (40 long-form hrs/day OR 100K Shorts views/day), 14 days.
+Best actuals: best Short = 2,533 (Xiomara "Meet", 51% of the bar - the closest any video has come); best subs/day = 2.86 (Xiomara, 20/7d, 95% of the 3/day bar); portfolio 7d watch ~13.0 hrs total (~1.9 hrs/day, nearly all Shorts minutes which do NOT count toward the 4,000 long-form hours); best remix week = ~4,905 IG views (SEB) vs the 25,000 bar.
+VERDICT per brand vs Feb 1: every brand still UNLIKELY - no POSSIBLE trigger fired - but Xiomara missed BOTH of two different triggers by under half and under 5% respectively, on four videos. Catch-and-surge FIRED on Xiomara (4,342x / 3,592x outliers); the required three follow-ups within 7 days are already ordered (the Architect's Mon-Sun 6 PM 9-second plan is seven of them). Possible-but-unattributable: WK's 1,219-view TikTok day (~5.3x daily mean; per-post ID unknown). Honest call: the portfolio's first near-miss belongs to a channel that broke every one of our old format rules - 9 seconds, face first, loop - which is exactly why next week's cadence copies the mechanics and not the old habits.
+
+======================================================================
+5. CHANGES ADOPTED FOR NEXT WEEK (creative calls inside the approved plans. Unchanged: no new spend, no new accounts, no change to published/scheduled posts, Boombox kid-safety + fact gate, Facebook Reels only, TikTok motion video only, Come-Up 20-30s cap with C21 exception - note the 9-12s loops sit inside that cap. Cadence = WEEKLY-GRID-v1 from Tue Nov 24 (3 Shorts/wk per brand, groups A/B, longs TLR Sat Nov 28 + SEB Sun Nov 29) + the Nov 21 rollout order. Nothing here re-books Mon Nov 23 or earlier.)
+======================================================================
+C41. LOOPS ARE THE LAW OF THE WEEK (evidence, not fashion). Every grid Shorts slot ships as a 9-12 second loop: one idea, a face/character in frame 1, last frame feeds the first. This week's own data: the only two channels watched >100% through (Xiomara 153.9%, SEB 163.9%) are the only two that grew; every channel at <67% watched went nowhere. Long videos stay exactly as planned - they earn hours, loops earn subscribers.
+C42. MEET-THE-HOST SHIPS FIRST. SEB (Agent Rhonda), Dottie, Sable this week per the Architect's order; title "Meet [name], [what they are]"; every host explicitly a fictional AI character; on advice brands the host is a guide, never a human expert (dot words-gate each script). Benchmark to beat: Xiomara 5.5 subs/1,000 views; current best brand is SEB at ~1.8.
+C43. COME-UP: T5 verdict applied. YT Shorts lead with number-led tips as 9-12s loops ("$1,000 is $20 a week" style - this week's best); scenes keep ONLY the TikTok/Personal nightly 7 PM slot where they historically earned views. Ask stays "Save this + follow" (grid).
+C44. SEB: micro-cases stay the standing Short, now cut at 9-12s native loops (the four launch winners averaged ~13s anyway). Corporate-jargon-on-trial subfamily leads (#016 "As Discussed" best new case). All week-1 loops end pointing at Sunday's long "The Hearing" (Lane-3 ask).
+C45. TLR: 45s scenes are too long to loop - split the difference: grid Shorts become a 9-12s loop of the scene's single sharpest line, pointing at the Sat Nov 28 long which carries the full scene (the long's cold open = "best employee quits"). LinkedIn: document carousel adopted (T6b), 2/week, no expansion.
+C46. WK: C35 formula unchanged (it produced every winner again). WK lane identifies the Nov 18 TikTok 1,219-view video in the app (export can't) and ships two same-mechanism loops next week. WK is formally named FIRST SWAP CANDIDATE for a long slot on the Monday scoreboard if TW's T9b does not ship - the grid's own two-week swap rule, flagged early, no slot changed by this file.
+C47. TW: T9b is the brand's whole week (2 sourced explainer loops + 1 niche loop). If explainers win >=3x again, the NEXT review puts the formal niche question to the Architect/owner with numbers. Nothing pivots silently.
+C48. RR: standalone-receipt Shorts (rental-car style) continue as loops with the receipt-reveal as frame 1; T3b fires with the first long.
+C49. WTCD: T8 as re-scoped (2 question vs 1 outcome title, loop format). TikTok law-first untouched - it still carries the brand.
+C50. DOTTIE: TikTok cadence holds through Metricool; Meet-Dottie loop is YT post #1, then T7's two hook arms as posts #2-3. Asks stay "Follow" until the lead page is live (grid).
+C51. FOOTNOTE: TruTV theme + batch continue; its grid loops cut from the strongest performer of the Nov 10-19 run. Connect the channel to vidIQ (with Dottie's) - third ask, no spend, Architect/owner hands.
+C52. SCOREBOARD LINES (first Monday scoreboard, Nov 23): per channel, (a) average % watched per Short, (b) subs per 1,000 views. Baselines recorded this week: Xiomara 153.9%/5.5, SEB 163.9%/1.8, TLR 61.1%/0, WK 59.8%/0, CU 56.8%/5.1 (n=1 sub), WTCD 55.8%/0, RR 53.7%/0, CiR 48.5%/0, Sable 47.6%/0, TW 42.1%/0. Drop rule per the Architect's order: a Short format under two-thirds watched for two weeks is dropped.
+SLOT TIMES: no changes to the grid; Thanksgiving (Thu Nov 26) warm/low-sell, no sale prices Nov 27-30 (owner decision Nov 19), Mon Nov 30 offers batch unchanged.
+
+======================================================================
+6. TESTS TO RUN NEXT WEEK (scored Sat Nov 28; P-d applies)
+======================================================================
+T3b (RR, carried): first "The Receipt" long >=79 views at 7d.
+T7 (Dottie, carried): hook A vs hook B as YT posts #2-3; >=50 YT views in 7d either arm.
+T8c (WTCD): 2 question-title vs 1 outcome-title loops; views at 7d; reported (n<2 per arm on the outcome side).
+T9b (TW): 2 sourced explainer loops vs 1 niche loop; explainer avg >=3x niche = formal niche question goes up with numbers.
+T11 (new, portfolio): Meet-the-host loops (SEB/Dottie/Sable) - success = any >=500 views in 7d OR >=2 subs/1,000 views. Benchmark: Xiomara 2,533 and 5.5.
+T12 (new, portfolio): loop conversion - every brand's average %-watched on its NEW loop-format Shorts vs its sec-5 baseline; success = brand moves above 100% (loop achieved) or at least +20 points. This is the main test of the week; it decides whether the rollout graduates from test to law at the Nov 28 review.
+T13 (new, Xiomara week 2): does the 6 PM daily 9s plan hold >=2 subs/day with the novelty gone? Feeds the rollout verdict.
+
+======================================================================
+7. MONETIZATION - DISTANCE TO THRESHOLDS (per CLAUDE-PLAN-20261031 sec 1, verified Oct 31; next web re-check due Nov 24; not re-searched this run)
+======================================================================
+- YouTube ad tier until Jan 31 2027 (1,000 subs + 4,000 long-form hrs/yr or 10M Shorts views/90d): subs today - Xiomara 21 (2.1% of the bar; the portfolio leader after one week of existence), Come-Up 6, WK 5, TLR 5, RR 3, SEB 3, Sable 3, TW 2, Dottie 2, CiR 1, Footnote 1, WTCD reads 0 (binding note). Portfolio 7d watch ~13 hrs, nearly all Shorts (does not count). No channel on the ad-tier path; the grid's four weekly longs (from Nov 28) are the only lever pointed at the hours door; Jan 3 2027 remains the last realistic apply date.
+- Fan-funding tier (500 subs + 3,000 hrs or 3M Shorts views): nearest is Xiomara at 21/500.
+- TikTok Creator Rewards (10K followers + 100K views/30d + 1min+ videos): Personal 3,507/10,000 (35%, flat for the third week); WTCD 286 (+3); WK 11; TW 14; all others <10.
+- Facebook/Stars and Instagram: pages 0-4 followers; Personal IG ~1,964; TLR IG 42 (the only compounding brand IG).
+- Lead-gen (Dottie): first content live (TikTok), lead page NOT live, asks stay "Follow" -> 0 leads, by design until the page exists (owner batch Nov 30 covers offers).
+- Lane-1/2/4 numbers (ClearSpruce orders, TLR Lab visits / first-dollar checkpoint Fri Nov 20, link-hub clicks for Sable/Xiomara): UNKNOWN to this run - they live on each platform's own dashboard per the grid's sec 8; nobody fills a blank with a guess.
+- Credits: vidIQ ~5,653 left (renews Nov 25; ~95 used this run). ElevenLabs / PixVerse / Higgsfield balances: not readable from this session - unknown (standing gap).
+
+======================================================================
+8. NEEDS ATTENTION (owner)
+======================================================================
+None new. Everything requiring Terence is already on his list via the Architect (Boombox Facebook sign-in for the Meta Business Suite move; Xiomara TikTok connection in Metricool; the Mon Nov 30 offers batch). Execution items route via the Architect: holiday-song receipt still missing with the window open (Boombox lane), TW surge follow-ups failure (T9b teeth), WK TikTok post identification, WTCD/Dottie registry note (4th week), Footnote+Dottie vidIQ connection (3rd ask), ClearSpruce data home after the Metricool exit.
+
+======================================================================
+9. GAPS (unknowns this run)
+======================================================================
+- Nov 20-21 partial everywhere: vidIQ lags ~2 days (SEB #016 shows 122 in-window vs 437 lifetime); Metricool Nov 20-21 cells mostly null. Same-day publishes show 0 and are not scored.
+- Nov 16-17 Metricool emptying/restore + YouTube upload-limit hold distorted midweek numbers; direction of bias unknown, noted on every comparison.
+- Footnote and Dottie channels still not in vidIQ - no engaged/watch-%/retention for either; Metricool-only.
+- ClearSpruce: no Metricool brand anymore; this week = UNKNOWN. Boombox FB/IG mid-move to Meta Business Suite; next week's Boombox numbers may have no tool export.
+- WTCD subs 0 vs prior 2: binding/registry note open (4th week); WTCD sub counts unreliable until closed.
+- Brand-account TikTok per-video views still null (WK's 1,219 day unattributable); Personal per-video TikTok works.
+- Both Sides per-format IG split not in the evolution export; C39 Friday rule needs the lane's in-app read.
+- Per-post first-48h views export still missing; WINNER/LOSER classes remain unavailable (Definitions v4 guard); no post labeled LOSER.
+- TLR LinkedIn T6b split is day-level, not post-level (caveat recorded in sec 3).
+- Xiomara "most subscribers and watch" channel-vs-channel claim (owner, Nov 21): confirmed by this run's numbers for subs (21 vs next-best 6) and weekly watch minutes (372 vs next-best 180).
+END
