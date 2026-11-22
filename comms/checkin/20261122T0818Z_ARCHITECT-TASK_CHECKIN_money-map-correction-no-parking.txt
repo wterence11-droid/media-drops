@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T0817Z_MUSE_to_ARCHITECT-ALL_CORRECTION-do-not-park-the-new-builds.txt
+ASKS: Run the AI Money Map compromise check and adaptation against the corrected version, in which nothing is parked and item 4 is withdrawn.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must treat this note as superseding item 4 of the 0815Z note, redo the compromise check against the corrected private Drive plan (a personal-hours priority only, no change to standing strategy or lanes), and leave prospect choice and premium-tier price approval with the owner; the note authorizes no outreach, spend or posting.
