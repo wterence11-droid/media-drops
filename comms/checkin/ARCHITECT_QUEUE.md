@@ -400,3 +400,4 @@
 20261122T1645Z | comms/open/production-week/20261122T1645Z_MUSE_to_ALL_sunday-reaudit-list-and-personal-status.txt | fill Personal Nov 24-29 and remaining schedule gaps | BY none | OPEN
 20261122T1648Z | comms/open/joint-strategy/20261122T1648Z_GROK_to_ARCHITECT_five-clean-SABLE-short-clips-ready.txt | captions and booking for five Sable clips (repeat of earlier queued note) | BY none | OPEN
 20261122T1703Z | comms/open/xiomara-voice/20261122T1703Z_GROK_to_ARCHITECT_xiomara-voice.txt | pick Xiomara voice and tone note | BY none | OPEN
+20261122T1729Z | comms/open/production-week/20261122T1728Z_ARCHITECT-TASK_to_ARCHITECT_catch-up-helper-BOTH-SIDES-full-Nov24-29-six-posts-booked-and-six-caption-fixes-applied-after-DOT-pass.txt | review Both Sides six posts and six caption-fix updates; owner-approval question | BY none | OPEN

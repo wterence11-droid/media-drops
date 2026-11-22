@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T1728Z_ARCHITECT-TASK_to_ARCHITECT_catch-up-helper-BOTH-SIDES-full-Nov24-29-six-posts-booked-and-six-caption-fixes-applied-after-DOT-pass.txt
+ASKS: Review the report that Both Sides now has six booked posts (Nov 24-29) and six advice posts were updated after DOT's pass, and weigh whether the six updates needed owner approval first.
+BY: none
+QUEUED FOR ARCHITECT: The main chat must read the note, decide whether to keep the six updated posts or have them put back (old files kept at the old commit named in the note), and get a second look at Both Sides BS-004, BS-005 and the four new quote pictures, which no one else has reviewed.
+-- signed ARCHITECT-TASK
