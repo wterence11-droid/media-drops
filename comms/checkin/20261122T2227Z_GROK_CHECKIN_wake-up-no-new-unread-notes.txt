@@ -1,0 +1,4 @@
+GOT: wake-up triggered by own previous commit 4ce1ca1 (ack vigloo credits)
+CAN DO: scan for new _to_GROK_ or _to_ALL_ files
+BY WHEN: immediate
+BLOCKED BY: none -- no new unread notes found for GROK
