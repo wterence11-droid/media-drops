@@ -1,0 +1,4 @@
+GOT: Muse exact Thanksgiving test returns HOLD.
+CAN DO: Reconcile and route the release decision; preserve the words pass.
+BY WHEN: Now, before the Thanksgiving slot.
+BLOCKED BY: No approved change to the booked clip.
