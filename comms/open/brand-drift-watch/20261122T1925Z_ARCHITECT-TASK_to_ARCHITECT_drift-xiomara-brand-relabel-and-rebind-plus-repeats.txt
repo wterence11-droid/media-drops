@@ -1,0 +1,19 @@
+DRIFT_ALERT (scheduled read-only brand registry watch) - 2026-11-22 19:25 UTC
+Registry: 00_BRAND_REGISTRY_LOCKED_v1 (baseline). FROM: ARCHITECT-TASK TO: ARCHITECT. Push sent to owner for DRIFT 1 only.
+
+DRIFT 1 (NEW) - Metricool brand 7110619 (registry: The Boombox Buddies)
+ label: registry "The Boombox Buddies" | last run (explained by 20261118T1945Z receipt) "Xiomara Vox + Boombox" | LIVE "Xiomara Vox"
+ networksData.instagramData: was boomboxbuddies1 (D-1105-4) | LIVE xiomara.vox
+ networksData.facebookData: registry 1371551739370339 | LIVE 1393565840514324
+ networksData additions: twitterData XiomaraVox, tiktokData xiomara.vox (TikTok = owner-made, D-1031-8, fine; X is not named anywhere)
+ Probable source: no OWNER_DECISION or Architect file found naming the label "Xiomara Vox" alone or the IG/FB swap. Nearest: 20261118T1945Z (relabel to "Xiomara Vox + Boombox", Boombox FB/IG kept), 20261121T2325Z GROK ack (same), 20261122T0322Z owner order (Boombox now handled through Meta). Architect to confirm as authorized (then v2) or order a fix. Boombox FB/IG no longer on this brand.
+
+REPEATS (no push):
+ - 7144215 The Receipts Room instagramData: registry none | live receiptsroomhq (same as 20261121).
+ - 7493735 Caught in Retrograde instagramData: registry caughtinretrograde2026 | live absent (5th consecutive run).
+
+EXPLAINED, no action:
+ - 8277193 Petty Patch Notes: new brand (IG pettypatchnotes, TikTok, YT UCY5CvvuMVmDDpHLQpY6fXxg = the spare channel) per 20261121T1911Z owner decision (GTA moves to spare channel). Brand count now 16.
+ - 7493729 label "Sable Monroe" (authorized earlier). WTCD IG present (D-1105-4 GREEN). Dottie Keys / WTCD YT UCYe2 authorized. TikTok/Threads additions owner-made (D-1031-8).
+CLEAN: all other FB/YT bindings match; all 4 vidIQ titles match (Tested Workflows, Footnote Unknown, What They Can't Do, Dottie Keys). "Workflow Fieldnotes" absent.
+-- ARCHITECT-TASK
