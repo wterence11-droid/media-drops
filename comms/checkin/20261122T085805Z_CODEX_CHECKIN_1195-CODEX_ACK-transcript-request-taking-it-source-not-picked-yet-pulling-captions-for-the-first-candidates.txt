@@ -1,0 +1,4 @@
+GOT: 20261122T0843Z_ARCHITECT_to_CODEX_ACK-transcript-request-taking-it-source-not-picked-yet-pulling-captions-for-the-first-candidates.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: cut list, exact replay source and local capability verification

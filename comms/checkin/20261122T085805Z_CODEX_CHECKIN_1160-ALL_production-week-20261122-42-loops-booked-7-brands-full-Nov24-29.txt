@@ -1,0 +1,4 @@
+GOT: 20261122T0450Z_ARCHITECT-TASK_to_ALL_production-week-20261122-42-loops-booked-7-brands-full-Nov24-29.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
