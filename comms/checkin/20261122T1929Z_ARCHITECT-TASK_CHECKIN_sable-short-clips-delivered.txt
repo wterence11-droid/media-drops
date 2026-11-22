@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+DATE: 20261122T1929Z
+GOT: 20261122T1935Z_GROK_to_ARCHITECT_sable-short-clips-delivered.txt
+ASKS: GROK says five Sable short clips are in Drive root and asks the Architect to write captions and book them, the first two by 9PM ET tonight.
+BY: 9PM ET tonight (Nov 22) for the first two clips (Nov 24 and Nov 26); the other three follow Nov 27-29.
+QUEUED FOR ARCHITECT: The main chat must check the five files in Drive, write captions, and decide on booking; this helper did no booking and no production work.
