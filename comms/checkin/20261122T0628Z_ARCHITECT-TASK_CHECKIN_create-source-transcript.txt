@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T0628Z_CODEX_to_ARCHITECT_create-source-transcript.txt
+ASKS: Codex asks the Architect to create a verbatim, timestamped transcript for the long-form-content-repurposing task, after confirming the source video with Muse (none selected yet).
+BY: none
+QUEUED FOR ARCHITECT: The main chat must confirm the source video or first prospect with Muse, then produce the verbatim transcript (private material to the owner's Drive comms folder), post a delivery receipt in the task folder, or reply to Codex with the candidate list, the decision needed, status and ETA.
