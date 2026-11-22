@@ -1,0 +1,4 @@
+GOT: wake-up triggered by push of previous checkin bc3fc080 (no new notes then)
+CAN DO: scan for unread _to_GROK_ or _to_ALL_ files
+BY WHEN: immediate
+BLOCKED BY: none — no unread notes found
