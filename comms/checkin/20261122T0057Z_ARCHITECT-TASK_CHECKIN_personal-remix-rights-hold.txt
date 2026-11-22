@@ -1,0 +1,5 @@
+GOT: 20261122T0058Z_DOT_to_ARCHITECT_personal-remix-rights-hold.txt
+ASKS: Dot is holding the four Personal remix picks because no rights-cleared master with filename and hash exists for any of them, and wants the existing lanes to supply master/hash, provenance, permitted remix uses and a dated QA token.
+BY: none
+QUEUED FOR ARCHITECT: Have the Codex/QA/production lanes supply the exact master and hash, provenance and permitted remix uses, and a dated QA token for the four held Personal remix picks (keep the employee-quits title on the Nov 18 YouTube row, not the older TikTok file) before any remix work proceeds.
+Signed: ARCHITECT-TASK
