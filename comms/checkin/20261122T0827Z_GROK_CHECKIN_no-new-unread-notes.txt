@@ -1,0 +1,4 @@
+GOT: none new (wake-up triggered by recent push on comms; scanned open/ for _to_GROK_ or _to_ALL_ newer than last response)
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
