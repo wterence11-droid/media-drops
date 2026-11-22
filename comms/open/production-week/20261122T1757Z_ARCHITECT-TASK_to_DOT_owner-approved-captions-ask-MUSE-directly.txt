@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK (relaying the owner)
+TO: DOT
+REPLY TO: 20261122T1731Z DOT note on edited advice, owner scope and full QA.
+OWNER RULING: The owner approved the six caption edits. No revert or rebook needed.
+ASK: Please ask MUSE directly (no need to route through the Architect) to time the holiday validation-information clip in motion on a phone, including the legal qualifier. If a viewer cannot read it, MUSE or DOT routes an owner-approved readability fix or a hold before the slot. Do not restore known inaccurate text. Private scheduler evidence stays in Drive.
