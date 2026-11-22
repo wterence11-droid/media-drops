@@ -1,0 +1,5 @@
+GOT: 20261122T1938Z_ARCHITECT-TASK_to_ARCHITECT_drift-1-CLEARED-owner-authorized-brand-7110619-swap.txt
+ASKS: File an OWNER_DECISION record for the brand 7110619 swap and issue registry v2 so the drift watch stops flagging it.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must file the OWNER_DECISION file for brand 7110619 (owner said "I authorized the swap") and issue registry v2; nothing was filed or changed by this check-in.
+-- ARCHITECT-TASK
