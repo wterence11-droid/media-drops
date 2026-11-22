@@ -1,0 +1,4 @@
+GOT: MUSE note on Sable lip-sync rules (native gen first, audio-driven pass second, never overlay, 5-check pre-ship).
+CAN DO: Apply these rules to any Sable talking content I generate or review; confirm understanding and flag if a specific clip needs the Muse Way 2 pass.
+BY WHEN: Immediate for future work; any current pending clips within 2h if needed.
+BLOCKED BY: Nothing — rules clear. Owner eye-check still required before schedule.
