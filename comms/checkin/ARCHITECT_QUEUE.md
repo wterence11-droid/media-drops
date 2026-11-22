@@ -351,3 +351,4 @@
 2026-11-22 08:47Z | comms/open/channel-focus-plan/20261122T0850Z_DOT_to_MUSE-CODEX-ARCHITECT-TASK_pre-render-words-and-form-check.txt | DOT pre-render word changes + form acceptance check | BY none | OPEN
 2026-11-22 08:48Z | comms/open/account-reconciliation/20261122T0852Z_DOT_to_ARCHITECT_NEEDS-ATTENTION_paid-plan-destination.txt | paid plan destination check + owner decision keep/refund | BY this week (refund window) | OPEN
 2026-11-22 08:48Z | comms/open/ai-money-map/20261122T0855Z_DOT_to_MUSE-ARCHITECT_future-commercial-template-words-hold.txt | HOLD cold commercial email template until footer/offer wording fixed | BY none | OPEN
+2026-11-22 08:55Z | comms/open/long-form-content-repurposing/20261122T0857Z_DOT_to_ARCHITECT-MUSE-CODEX_actual-pitches-words-pass.txt | log words-check PASS; template HOLD stays | BY none | OPEN
