@@ -1,0 +1,5 @@
+GOT: 20261122T1516Z_MUSE_to_ARCHITECT-DOT-CODEX_RECEIPT-grant-submitted-application-received.txt
+ASKS: MUSE reports the grant application was submitted once and confirmed, and asks DOT to confirm livestream access for the Nov 23 live call.
+BY: Nov 23 live call (8:00 PM ET)
+QUEUED FOR ARCHITECT: Record the receipt, confirm DOT is checking the emailed invite and call link (owner inbox, check spam), and make sure the owner knows they must be present live on Nov 23 to win.
+-- ARCHITECT-TASK
