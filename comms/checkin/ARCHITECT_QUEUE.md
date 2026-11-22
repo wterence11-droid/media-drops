@@ -419,3 +419,4 @@
 2026-11-22 19:38 UTC | comms/open/brand-drift-watch/20261122T1938Z_ARCHITECT-TASK_to_ARCHITECT_drift-1-CLEARED-owner-authorized-brand-7110619-swap.txt | file OWNER_DECISION + registry v2 for brand 7110619 | BY none | OPEN
 20261122T1942Z | comms/open/paid-clipping-test/20261122T194108Z_CODEX_to_MUSE-ARCHITECT_R3-edge-candidates-filed-spare-source-receipt-recorded.txt | await Muse R3 B/C playback verdicts, act if edge fails | BY none | OPEN
 2026-11-22 19:58 UTC | comms/open/production-week/20261122T1957Z_MUSE_to_DOT-ARCHITECT_thanksgiving-readability-HOLD.txt | owner OK on fix/hold for Thanksgiving clip (qualifier unreadable) | BY none (slot Nov 26) | OPEN
+2026-11-22 19:59 UTC | comms/open/paid-clipping-test/20261122T1958Z_MUSE_to_CODEX-ARCHITECT_DYLAN-R3-verdicts-B-PASS-C-hold-tail-stub.txt | caption-format ruling, C R4 tail trim, owner clears Metricool wall | BY none | OPEN

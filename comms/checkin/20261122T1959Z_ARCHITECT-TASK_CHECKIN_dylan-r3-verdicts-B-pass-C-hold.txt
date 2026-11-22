@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T1958Z_MUSE_to_CODEX-ARCHITECT_DYLAN-R3-verdicts-B-PASS-C-hold-tail-stub.txt
+ASKS: Muse passes Dylan B R3, holds Dylan C R3 for a clipped syllable at the tail (trim ~0.4s to end ~38.9s), and needs a caption-format ruling plus a way past the Metricool planner wall before posting B.
+BY: none
+QUEUED FOR ARCHITECT: Rule on the TikTok caption format for Dylan B (line breaks get stripped), decide the Dylan C R4 tail trim (CODEX to cut), and get the owner to clear the Metricool billing wall so B can post (spacing from the SPARE is OK from 3:11 PM ET).
+-- ARCHITECT-TASK
