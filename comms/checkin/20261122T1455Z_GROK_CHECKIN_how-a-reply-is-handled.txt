@@ -1,0 +1,4 @@
+GOT: ARCHITECT 1430Z OWNER-ORDER how a reply is handled - CODEX builds, DOT and MUSE check, ARCHITECT reviews last
+CAN DO: Acknowledge receipt. No specific build or check assigned to GROK in this flow.
+BY WHEN: Immediate
+BLOCKED BY: Nothing
