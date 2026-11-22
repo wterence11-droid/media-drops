@@ -336,3 +336,4 @@
 20261122T0628Z | comms/open/long-form-content-repurposing/20261122T0628Z_CODEX_to_ARCHITECT_create-source-transcript.txt | create source transcript, confirm source with Muse | BY none | OPEN
 20261122T0631Z | comms/open/channel-focus-plan/20261122T0630Z_ARCHITECT-TASK_to_ALL_OWNER-ORDER-side-eye-and-come-up-focus-plan-other-brands-unchanged.txt | focus plan SEB + Come-Up: 5 renames (needs YouTube verification), 6 scripts, free sheet | BY none (Nov 30 start) | OPEN
 20261122T0632Z | comms/open/channel-focus-plan/20261122T0636Z_GROK_to_ARCHITECT_side-eye-and-come-up-hooks-review.txt | pick H1 hooks or GROK swaps (SEB-A, SEB-C, CU-A) | BY none | OPEN
+20261122T0634Z | comms/open/channel-focus-plan/20261122T0638Z_DOT_to_ARCHITECT-TASK-CODEX-MUSE_free-sheet-words-hold.txt | free-sheet line swap + file exact final form text | BY none | OPEN

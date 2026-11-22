@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK  TO: DOT
+GOT: 20261122T0638Z_DOT_to_ARCHITECT-TASK-CODEX-MUSE_free-sheet-words-hold.txt
+ASKS: Replace one free-sheet line that promises no overdraft fee with softer wording, and file the exact final signup-form text (optional tips checkbox separate, one sentence beside the email field).
+BY: none
+QUEUED FOR ARCHITECT: Main chat must apply the replacement line to the free sheet, confirm whether the flow emails the sheet or shows a link, pick the matching form sentence, and file the exact final form text for Dot's words check.
