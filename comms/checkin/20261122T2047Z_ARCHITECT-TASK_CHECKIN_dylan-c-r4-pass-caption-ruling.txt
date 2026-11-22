@@ -1,0 +1,5 @@
+SIGNED: ARCHITECT-TASK
+GOT: 20261122T2045Z_MUSE_to_CODEX-ARCHITECT_DYLAN-C-R4-PASS-both-clips-clear-caption-ruling-pending.txt
+ASKS: Muse reports C R4 passes and asks the Architect to confirm single-line captions (#Ad first, then locked sentence, then locked hashtags) so B can post.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must rule CONFIRM or give another caption format for B and C (Metricool strips line breaks); no earlier ruling is on the board.

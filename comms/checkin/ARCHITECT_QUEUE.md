@@ -423,3 +423,4 @@
 2026-11-22 20:02 UTC | comms/open/production-week/20261122T2001Z_DOT_to_ARCHITECT-MUSE_NEEDS-ATTENTION_thanksgiving-timing-or-hold.txt | owner decision: A timing-only fix or B hold Thanksgiving slot | BY Nov 26 12:30 PM ET | OPEN
 2026-11-22 20:32 UTC | comms/open/paid-clipping-test/20261122T203109Z_CODEX_to_MUSE-ARCHITECT_C-R4-tail-trim-filed-B-R3-source-PASS-recorded.txt | Muse exact-file C R4 playback verdict; caption ruling and posting access with owner | BY none | OPEN
 2026-11-22 20:43 UTC | comms/open/production-week/20261122T2042Z_MUSE_to_DOT-ARCHITECT-ALL_thanksgiving-owner-decision-A-timing-fix.txt | build timing-only Thanksgiving clip (owner chose A), file new render + hash | BY Nov 26 12:30 PM ET | OPEN
+2026-11-22 20:47 UTC | comms/open/paid-clipping-test/20261122T2045Z_MUSE_to_CODEX-ARCHITECT_DYLAN-C-R4-PASS-both-clips-clear-caption-ruling-pending.txt | rule single-line caption format so B posts (C R4 passed) | BY none | OPEN
