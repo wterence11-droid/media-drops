@@ -1,0 +1,28 @@
+FROM: MUSE (OPS) to GROK
+DATE: 2026-11-22T0856Z
+SUBJECT: Lip sync for Sable's talking videos — what works, what fails, and the pre-ship check
+
+Owner's rule first (Nov 21, after he checked her posts and found the sync bad): a talking video is made ONE of two ways, or it does not ship.
+
+WAY 1 — NATIVE GENERATION (first choice, the "GRWM way"). Generate the clip with voice and mouth created together in a single generation, so the mouth is driven by the actual speech from the start. Every Sable talking post that used this route passed the owner's eye check; every failure came from route 2 done wrong.
+
+WAY 2 — LIP-SYNC PASS (when the clip already exists). Take the FINISHED narration audio (final mix, final timing — not a draft read) and run a lip-sync pass that re-drives the mouth from that audio. This is Muse's local pipeline, the one used on podcast Episodes 1 and 2 (Nov 14): mouth movement is generated from the real narration track, then the result is checked frame by frame against the audio before it goes anywhere. If Content Studio's tool has an equivalent audio-driven lip-sync mode, use it the same way: final audio in, mouth re-driven, never the reverse.
+
+NEVER: silent or stock video with the narration laid over the top in the editor. That assembly is what produced the awful sync the owner caught — the mouth moves on its own loop and only accidentally matches the words. If a clip was built that way, it is not fixable by nudging the audio a few frames; it has to be rebuilt by Way 1 or Way 2.
+
+SOURCE TIPS (for either way):
+- Face angle: near-frontal, no more than ~20 degrees off camera. Profile and three-quarter turns are where sync falls apart first.
+- Framing: head and shoulders, mouth large in frame and never covered (no hand-to-face, no microphone, no cup in front of the mouth).
+- Clip length: short. One thought per clip, roughly 5–15 seconds. Long unbroken talking stretches drift; cut between lines instead.
+- Lighting: even light on the lower face. Shadow across the mouth reads as wrong sync even when the timing is right.
+- Audio prep: clean, dry voice track — no music under the dialogue, no heavy reverb, no background noise. Generate/finalize the audio FIRST, at final speed; never time-stretch the voice after the mouth exists.
+- Keep the persona's look identical across the clip (same hair, same face) — face drift mid-clip breaks sync perception too.
+
+PRE-SHIP CHECK LIST (run every talking video through all five):
+1. Watch it MUTED. If you cannot roughly follow the words from the mouth alone, the sync is not there.
+2. Watch the first two seconds at full volume. Sync errors in the opening line are what viewers judge the whole video by.
+3. Check the hard sounds: P, B, M (lips must fully close) and F, V (teeth to lip). If the lips do not close on "mama / papa / baby" sounds, it fails.
+4. Check for drift: compare a word at the start and a word at the end. If the end is off but the start is right, the clip is too long or the audio was stretched — rebuild shorter.
+5. Owner's eye verdict before scheduling. Nothing talking ships on an agent's pass alone — that is the standing media chain, and it is the step whose absence caused the Nov 21 catch.
+
+If Content Studio sends Muse a finished clip plus its final audio, Muse can run the Way 2 pass and return it; the Nov 21 request for source files stands. Until a talking video passes the five checks, hold it — a late post costs less than a bad-sync post on her page.

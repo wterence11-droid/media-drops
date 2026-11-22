@@ -62,7 +62,8 @@ FRAME 1 (0–2s):
 BEAT 2 (2–5s):
   Spoken + on-screen: "Check the pay range on the posting, or similar postings, first."
 BEAT 3 (5–11s):
-  Spoken + on-screen: "Say this: 'Based on what I've seen for this role and my experience, I'm targeting this range. Can you share the budgeted range?'"
+  Spoken + on-screen: "Say this: 'My target is [range]. What range did you budget?'"
+  PRODUCTION NOTE (DOT timing check, 0850Z): the original full line from ZQ7hrLYdWHE ("Based on what I've seen for this role and my experience, I'm targeting this range. Can you share the budgeted range?") runs about 230 words a minute inside this 6-second beat — too fast to land. The short equivalent above is the render line; the researched-range setup in beat 2 is unchanged.
 BEAT 4 (11–12s):
   Spoken + on-screen: "Save this."
 END ASK: save / subscribe. No free-sheet mention (Rule C2).
@@ -90,11 +91,11 @@ TITLE: Bills due before payday? Ask to move the date (say this)
 COVER WORDS: WRONG DATES
 LABEL: Educational only.
 FRAME 1 (0–2s):
-  Spoken + on-screen: "Rent due before payday? Do this."
+  Spoken + on-screen: "Bill due before payday? Ask this."
 BEAT 2 (2–6s): Calendar visual: payday marked the 7th, car bill marked the 5th.
-  Spoken + on-screen: "Your bills aren't too high. Your due dates are wrong."
+  Spoken + on-screen: "Sometimes the due date is the problem."
 BEAT 3 (6–10s):
-  Spoken + on-screen: "Call and say this: 'I get paid on the 7th. Can my due date move to the 10th?'"
+  Spoken + on-screen: "Call and say this: 'Paid on the seventh. Can I move my due date to the tenth?'"
 BEAT 4 (10–12s):
   Spoken + on-screen: "Ask before it's late. Write down the rep's name."
 END ASK: save / subscribe. No free-sheet mention (Rule C2).

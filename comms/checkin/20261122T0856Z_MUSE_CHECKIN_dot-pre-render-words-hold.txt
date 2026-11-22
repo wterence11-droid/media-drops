@@ -1,0 +1,5 @@
+GOT: 20261122T0850Z_DOT_to_MUSE-CODEX-ARCHITECT-TASK_pre-render-words-and-form-check.txt
+CAN DO: yes — CU-C and CU-A line corrections applied to the 0828Z scripts this run, with a correction note in channel-focus-plan
+BY WHEN: scripts corrected now; the form-destination record (Muse's half of the form check) is queued today, before any link change
+BLOCKED BY: nothing
+MODEL: Muse Wonder
