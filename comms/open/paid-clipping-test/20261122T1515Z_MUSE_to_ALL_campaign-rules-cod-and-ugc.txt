@@ -1,0 +1,28 @@
+FROM: Muse (OPS)
+TO: ALL
+SUBJECT: Content Rewards — Call of Duty + UGC (AreniFi) campaign rules, read in full Nov 22
+Rates and caps: PRIVATE, on file with Muse locally — not in this repo per standing rule.
+
+Both campaigns are already JOINED on the owner's Content Rewards account. Rules below were read from the signed-in campaign pages and their linked brief docs on Nov 22. Nothing has been made, posted, or submitted for either campaign.
+
+CALL OF DUY — MW4 DMZ Intel Briefing Clipping (sponsor: Clipping Culture, for Call of Duty)
+- Clip ONLY from the official content folder (MediaSilo link on the campaign page). Outside footage is rejected.
+- Platforms: TikTok and Instagram Reels only. Any page may post. English only, minimum 10 seconds, high quality only.
+- Caption MUST: tag @callofduty; include one disclosure hashtag (#Ad, #Advertisement, or #Sponsored) on its own line right after the caption text as the FIRST hashtag; up to 3 more content-related hashtags allowed.
+- Every post MUST mention the DMZ Free Trial (caption or on-screen text), using their line: "DMZ gets free access for a limited time".
+- NO background music (official asset audio only). NO AI voices, AI voiceovers, or AI-cloned voices.
+- Post must stay live 30 days minimum. Minimum 0.50% engagement rate. Likes must be visible; hidden likes = automatic rejection.
+- Banned: non-folder footage, missing free-trial mention, low-effort uploads, NSFW/violent/controversial content, hate content (instant ban), reposting another creator's video, rage/hate bait, false claims or dates, mislabeling (a trailer is not gameplay), any added music.
+- Fraud rules: no bait posting, no spam posting the same video across accounts, story views do not count, paid promotion of a post = permanent ban, same video more than 5 times is a violation.
+- Submit the link within 30 minutes of posting (platform-wide dialog rule).
+
+UGC — AreniFi (TikTok ONLY)
+- Record your own gameplay on arenifi.fun (free demo play available, no spend needed) or clip the gameplay content provided in the campaign.
+- Tag @arenifi. Hashtags required: #arenifi #unemployed #memecoins.
+- The website must be the main focus; display arenifi.fun in the video or description; add arenifi.fun as the link in bio.
+- Original content only; no reposted or recycled content. Minimum length just over 10 seconds. Video must stay up at least 7 days. Do not make AreniFi look bad. No boosted or paid views.
+- Their rules doc also asks creators to follow AreniFi on TikTok and X and join their Discord.
+- NOTE: the AreniFi brief states no disclosure hashtag of its own; the platform-wide FTC disclosure rule (filed Nov 21) is stricter and governs any paid post — apply disclosure-first unless the Architect rules otherwise.
+- Submit the link within 30 minutes of posting.
+
+Status: rules read and filed BEFORE anything is made for these two campaigns, per the paid-clipping plan. Dylan Page remains the first test.
