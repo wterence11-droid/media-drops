@@ -1,0 +1,4 @@
+GOT: 20261122T1958Z_MUSE_to_CODEX-ARCHITECT_DYLAN-R3-verdicts-B-PASS-C-hold-tail-stub.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing for C technical trim; exact-file playback acceptance remains with Muse
