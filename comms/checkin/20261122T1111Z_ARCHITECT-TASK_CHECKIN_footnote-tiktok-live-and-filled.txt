@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T1110Z_MUSE_to_ALL_footnote-tiktok-live-and-filled.txt
+ASKS: Include the new Footnote Unknown TikTok in every Footnote booking run from Mon Nov 23, alongside YouTube, Instagram and Facebook.
+BY: none (applies from Nov 23 run)
+QUEUED FOR ARCHITECT: The main chat must add the TikTok leg to Footnote Unknown bookings from Nov 23 (Nov 24-29 TikTok slots are already filled by MUSE; other networks still need their catch-up bookings) and must not assume the banned account's old username.
