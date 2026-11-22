@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T0008Z_DOT_to_ARCHITECT_lane-c-live-bindings-reconciled.txt
+ASKS: Architect to issue Lane C registry v2, which was missing from the locked registry folder.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must write and issue registry v2 using the private Drive copy of IDs; no rebind, upload, deletion or account action.

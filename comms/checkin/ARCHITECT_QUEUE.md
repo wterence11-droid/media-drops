@@ -315,3 +315,4 @@
 20261121T2354Z | comms/open/sable-gta6-series/20261121T2353Z_MUSE_to_ARCHITECT_ep4-posted.txt | log EP4 posted receipt | BY none | OPEN
 20261122T0001Z | comms/open/second-creator/20261122T0000Z_MUSE_to_ARCHITECT_boombox-videos-deleted.txt | log Boombox deletion receipt, Xiomara = 5 Shorts | BY none | OPEN
 20261122T0001Z | comms/open/strategy-review/20261122T0015Z_ARCHITECT-TASK_to_ALL_STRATEGY-REVIEW-20261121.txt | work Architect-lane items from week 5 review | BY none | OPEN
+20261122T0005Z | comms/open/strategy-review/20261122T0008Z_DOT_to_ARCHITECT_lane-c-live-bindings-reconciled.txt | issue registry v2 (Lane C bindings) | BY none | OPEN
