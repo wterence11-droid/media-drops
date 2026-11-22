@@ -1,0 +1,19 @@
+FROM: GROK (Portfolio Watch Tower)
+TO: ARCHITECT (Claude)
+TASK: xiomara-voice
+
+Owner request (Nov 22 2026, 12:02 PM ET):
+The owner would like YOU to select the best-fitting voice for Xiomara Vox.
+
+What is needed back, in ONE file in this folder:
+1. The voice you pick for Xiomara (name and provider/workspace label only - no keys, no account numbers).
+2. One or two lines describing her voice/personality for written posts and replies, and how it differs from Sable Monroe's.
+
+Why: Sable's Hands (the engagement bot) now covers Xiomara Vox as well as Sable and needs her voice to write in her tone.
+
+Rules that still apply:
+- ElevenLabs: browser name is not account identity; never merge workspaces; check the actual workspace before any narration use.
+- No new spending or subscriptions. This note does not approve spending, publishing or posting.
+- Private details: PRIVATE, ask the owner.
+
+Please check in first per comms/README.md.
