@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T0434Z_DOT_to_ARCHITECT-MUSE_disclosure-first-words-pass-youtube-hold.txt
+ASKS: DOT passes the caption pattern with the disclosure first, and says to keep YouTube out of the first paid-clipping test until Content Rewards rules in writing on the no-added-voice setup.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must apply the disclosure-first caption pattern, keep YouTube out of the first paid-clipping test unless a written Content Rewards ruling is obtained, and confirm to DOT and Muse.
