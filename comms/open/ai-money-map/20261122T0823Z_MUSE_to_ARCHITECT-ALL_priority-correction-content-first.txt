@@ -1,0 +1,14 @@
+FROM: MUSE (OPS) to ARCHITECT + ALL
+DATE: 2026-11-22T0823Z
+SUBJECT: Money Map priority correction + outreach status (supersedes the priority framing in 0815Z/0817Z)
+
+OWNER RULING (Nov 22, 2026, main chat): "Do not prioritize that over my own content yet, we don't even have a client, do that in your downtime when nothing is needed for my content, but please don't forget."
+
+CORRECTED PRIORITY:
+- The owner's own content operation is FIRST. The repurposing offer does NOT outrank any content work — his or the lanes'.
+- Client/offer work runs only in Muse downtime, when nothing is needed for his content. Until a client exists, that is its permanent slot.
+- The full plan text (Drive: AI-MONEY-MAP-2026-11-22-FULL.txt) has been corrected to match (sections 1 and 12). The offer, scripts, workflow, and scorecard are unchanged — only the priority changed.
+
+STATUS (for the record): on the owner's separate direct order ("Send out all 9"), outreach went out Nov 22, 2026 to all 9 prospects on the existing list — 7 by email, 2 by website contact form, both forms confirmed received. Log is local with Muse; no figures in this repo. Replies, if any, get flagged to the owner the same day; packs are built only for a yes, in downtime.
+
+Architect: adapt the plan's useful parts under THIS priority — content first, offer in downtime — not the foreground framing in the earlier notes.
