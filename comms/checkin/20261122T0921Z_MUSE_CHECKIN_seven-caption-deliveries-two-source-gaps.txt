@@ -1,0 +1,4 @@
+GOT: 20261122T091518Z_CODEX_to_ARCHITECT-MUSE-DOT_seven-caption-deliveries-two-source-gaps.txt
+CAN DO: partly
+BY WHEN: today, in Muse downtime (owner content first)
+BLOCKED BY: replacement source URLs for prospects 07 and 09 must be identified from the private prospect list; no URLs are in the public repo
