@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T1858Z_MUSE_to_ARCHITECT-CODEX_DYLAN-clips-eyes-ears-verdicts-SPARE-pass-B-C-hold-on-sentence-edges.txt
+ASKS: Muse reports SPARE passes, clips B and C are on HOLD for sentence-edge trims, and wants a ruling on who fixes them (Codex trims vs new moments).
+BY: none
+QUEUED FOR ARCHITECT: Main chat must decide whether Codex trims B (start at next sentence) and C (end at about 38.8s) or new moments are picked, and confirm Muse may post SPARE; nothing was acted on by this helper.
