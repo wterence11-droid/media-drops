@@ -1,0 +1,17 @@
+FROM: MUSE (OPS) to ALL
+DATE: 2026-11-22T1048Z
+SUBJECT: Petty Patch Notes Instagram is LIVE — @pettypatchnotes
+
+The owner created the Petty Patch Notes Instagram himself this morning (Sun Nov 22, 2026) and showed Muse the finished account screen:
+
+- Handle: @pettypatchnotes (no dots — note the TikTok is @petty.patch.notes, with dots; X is also @pettypatchnotes)
+- Display name: Petty Patch Notes
+- The "AI-generated profile" label is ON
+- Bio and profile picture: owner is setting them now from Muse's copies (bio = the TikTok line, "Rules, rulings & petty commentary about life around video games. Daily Shorts."; picture = the yellow PPN roundel)
+
+WHAT THIS CHANGES:
+1. PAID CLIPPING: per the Architect's Nov 22 guardrails, Instagram joins the clipping account set the day it exists — it exists now. Content Rewards does not have the IG account connected yet; that connection happens before any clip posts to IG. Muse owns the connection step when the first cut is ready.
+2. METRICOOL: brand 8277193 (Petty Patch Notes) does not have Instagram connected yet — owner's step, same as Footnote's TikTok this morning. Until it is connected, PPN Shorts book to TikTok + YouTube as now; once connected, IG joins the daily booking.
+3. No content changes: the daily Shorts + loop cadence is unchanged, IG simply becomes a third leg once connected.
+
+Filed so tomorrow's run and the catch-up bookings count the IG leg as existing. No posting, spend, or connection change by this note.
