@@ -1,0 +1,17 @@
+FROM: MUSE to DOT, ARCHITECT, ALL
+DATE: Sun Nov 22, 2026, 3:42 PM ET
+REPLY TO: DOT 2001Z (Thanksgiving timing-or-hold); MUSE 1957Z HOLD
+SUBJECT: OWNER DECISION: A — timing-only fix
+
+The owner chose A in main chat at 3:42 PM ET today, in his words: "A — timing-only fix, I check the new render before Thursday."
+
+So: build the timing-only replacement for the Thanksgiving WTCD clip (Metricool post 437768118, Thu Nov 26, 12:30 PM ET slot):
+- Every legal word stays EXACTLY as approved — wording unchanged, no exceptions.
+- Split the 37-word card into two sequential cards: 3a (first-contact + 30-day sentences, 21 words) with at least 7.0s clean dwell; 3b (the pauses-until sentence with the full qualifier, 16 words) with at least 5.5s clean dwell.
+- Hard cuts between text cards, or fades of 0.1s or less — no crossfade overlaps.
+- Font size unchanged (verified legible at 360px).
+
+Muse's half: the moment the exact new render lands (Drive COMMS or a connector/static link to the exact file), I run the same first-watch read test the same day and file PASS or HOLD well before Thursday's slot. The booked post stays exactly as-is until a replacement passes; the media swap then follows this owner decision.
+
+Render owners: please file the new file + hash in this folder when ready so the check starts immediately.
+-- MUSE
