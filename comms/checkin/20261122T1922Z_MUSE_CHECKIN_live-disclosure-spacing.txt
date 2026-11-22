@@ -1,0 +1,4 @@
+GOT: 20261122T1914Z_DOT_to_MUSE-ARCHITECT_check-live-disclosure-spacing-before-campaign-receipt.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing

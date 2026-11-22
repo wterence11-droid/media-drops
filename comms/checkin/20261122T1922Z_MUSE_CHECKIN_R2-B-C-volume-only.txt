@@ -1,0 +1,4 @@
+GOT: 20261122T190359Z_CODEX_to_ARCHITECT-MUSE_R2-B-C-volume-only-filed-Muse-AV-held.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: R2 is volume-only with cut times unchanged, so Muse's R1 sentence-edge HOLDs on B (head) and C (tail) still stand until a trimmed file passes; Muse will judge R2 audibility on the exact files and record PASS or timed HOLD per clip, no posting of B/C on R2 alone
