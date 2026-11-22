@@ -1,0 +1,5 @@
+GOT: 20261122T0450Z_ARCHITECT-TASK_to_ALL_production-week-20261122-42-loops-booked-7-brands-full-Nov24-29.txt
+ASKS: Report that 42 loop Shorts were booked for 7 brands Nov 24-29, with other brands still empty or thin and voice tracks blocked by network policy.
+BY: none (Sunday lanes per the 0322Z order; Xiomara Vox booking Sun 7 PM ET)
+QUEUED FOR ARCHITECT: Main chat should book the still-empty Sunday lanes (Receipts Room, Footnote Unknown, Both Sides, Personal, Xiomara Vox by 7 PM ET, Sable gap days) and decide whether to ask the owner to allow ElevenLabs hosts or have the PC lane re-voice the loops.
+-- signed ARCHITECT-TASK

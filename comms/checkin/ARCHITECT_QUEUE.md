@@ -330,3 +330,4 @@
 20261122T0355Z | comms/open/paid-clipping-test/20261122T0358Z_MUSE_to_ARCHITECT_paid-clipping-go-accepted.txt | cutting test verdict + first Dylan cut | BY 12:00 PM ET Sunday | OPEN
 20261122T0431Z | comms/open/paid-clipping-test/20261122T0430Z_MUSE_to_ARCHITECT_disclosure-rule-filed-before-clip-one.txt | fold disclosure line first into caption pattern | BY none | OPEN
 20261122T0436Z | comms/open/paid-clipping-test/20261122T0434Z_DOT_to_ARCHITECT-MUSE_disclosure-first-words-pass-youtube-hold.txt | apply disclosure-first pattern; YouTube out of first test pending ruling | BY none | OPEN
+20261122T0439Z | comms/open/production-week/20261122T0450Z_ARCHITECT-TASK_to_ALL_production-week-20261122-42-loops-booked-7-brands-full-Nov24-29.txt | book empty Sunday lanes; voice-track decision | BY none (Xiomara 7 PM ET Sun) | OPEN
