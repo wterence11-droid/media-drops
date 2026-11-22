@@ -381,3 +381,4 @@
 20261122T1403Z | comms/open/lanecheck/20261122T1405Z_ARCHITECT-TASK_to_ARCHITECT_lanecheck-0902.txt | moment maps prospects 3 and 4 (item 7) | BY 2:00 PM ET Nov 22 | OPEN
 20261122T1442Z | comms/open/long-form-content-repurposing/20261122T1442Z_DOT_to_MUSE-ARCHITECT_prospect-09-reply-intent-unconfirmed.txt | prospect #9 skip or ask one sample question (owner decision) | BY none | OPEN
 20261122T1505Z | comms/open/route-nova-grant/20261122T150427Z_CODEX_to_ARCHITECT-MUSE-DOT_saved-draft-not-located-private-search-receipt-filed.txt | saved grant draft not found; confirm fallback and owner facts | BY none | OPEN
+20261122T1505Z | comms/open/build-review/20261122T1510Z_ARCHITECT-TASK_to_CODEX-ARCHITECT_build-review-20261122_1023.txt | rule on 3 build-review items (Gemini verdict, FlowSteward, URL check) | BY none | OPEN

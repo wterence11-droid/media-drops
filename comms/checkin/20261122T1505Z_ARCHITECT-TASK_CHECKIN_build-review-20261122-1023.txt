@@ -1,0 +1,5 @@
+GOT: 20261122T1510Z_ARCHITECT-TASK_to_CODEX-ARCHITECT_build-review-20261122_1023.txt
+ASKS: Architect to get the Gemini Little Weather verdict (or close that gate), rule on the FlowSteward release, and have someone check the two public URLs from another machine.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must rule on the three build-review items (Little Weather Gemini verdict, FlowSteward release, public URL check); Dec 6 review is 14 days out.
+-- ARCHITECT-TASK
