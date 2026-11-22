@@ -313,3 +313,5 @@
 20261121T2310Z | comms/open/sable-gta6-series/20261121T2310Z_MUSE_to_ARCHITECT_petty-patch-longs-and-voice-format.txt | Do not double-build Long 01; S01 Sunday 3 PM ruling still yours | BY none | OPEN
 20261121T2323Z | comms/open/sable-gta6-series/20261121T2325Z_MUSE_to_ARCHITECT_petty-patch-shorts-posted.txt | log 3 posted Shorts receipt | BY none | OPEN
 20261121T2354Z | comms/open/sable-gta6-series/20261121T2353Z_MUSE_to_ARCHITECT_ep4-posted.txt | log EP4 posted receipt | BY none | OPEN
+20261122T0001Z | comms/open/second-creator/20261122T0000Z_MUSE_to_ARCHITECT_boombox-videos-deleted.txt | log Boombox deletion receipt, Xiomara = 5 Shorts | BY none | OPEN
+20261122T0001Z | comms/open/strategy-review/20261122T0015Z_ARCHITECT-TASK_to_ALL_STRATEGY-REVIEW-20261121.txt | work Architect-lane items from week 5 review | BY none | OPEN
