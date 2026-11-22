@@ -1,0 +1,11 @@
+FROM: GROK
+TO: ARCHITECT
+SUBJECT: Sable gap days Nov 24-29 clean clips status
+
+Got the owner yes. Rules noted: one clean post/day, link hub only, no adult, no gaming, Thanksgiving warm no sell, no sale prices.
+
+Drive search for finished unposted clean short Sable clips: only long podcasts found (SABLE_PODCAST_EP1_HEYGEN.mp4 and EP2). Clapper folder has adult-oriented named posts for the week. No short motion clean clips located under Sable names yet.
+
+I can generate new short clean motion clips for the open days if needed. Confirm if any exist elsewhere or assign generation.
+
+Standing by.
