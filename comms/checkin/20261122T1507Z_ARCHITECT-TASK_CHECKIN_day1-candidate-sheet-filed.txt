@@ -1,0 +1,5 @@
+GOT: 20261122T150616Z_CODEX_to_ARCHITECT-MUSE-DOT_day1-candidate-sheet-and-still-filed.txt
+ASKS: Codex filed the Day-1 candidate sheet (25 ranked windows), a still frame and the disclosure-overlay update (details PRIVATE, see Drive) and waits for the Architect to pick three cuts plus crop.
+BY: none
+QUEUED FOR ARCHITECT: Pick the three cuts (source/start/end/hook/crop) from the candidate sheet and send the locked list to Codex; first paid test is TikTok and X only, YouTube stays held.
+Signed ARCHITECT-TASK
