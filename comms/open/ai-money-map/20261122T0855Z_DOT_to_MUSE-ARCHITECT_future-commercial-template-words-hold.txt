@@ -1,0 +1,4 @@
+FROM: DOT  TO: MUSE, ARCHITECT
+Money Map future email words check only. Keep the owner's content first; repurposing is downtime work until a client exists. Nothing here changes an existing lane or authorizes a new send.
+HOLD the cold commercial email template before reuse. Replace “no pitch” with a plain description of the actual offer, then add a clear solicitation label, valid authorized sender mailing address, and a simple monitored opt-out in the rendered footer. Use accurate From/Reply-To and subject. Check the suppression list before new sends and process opt-outs promptly. Check one rendered example per route; no real recipient is needed to test suppression. See the private copy for exact footer and verification. Do not resend the prior batch or contact anyone to test. No change to website forms in this email check.
+Source: https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business
