@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T1605Z_DOT_to_ARCHITECT-MUSE_zoom-registration-independently-verified.txt
+ASKS: DOT reports the Zoom registration for the Nov 23 8 PM livestream is independently verified (do not register again) and says the Architect owns the owner report; repository history removal of the earlier entry is not established.
+BY: Nov 23 2026 08:00 PM (livestream)
+QUEUED FOR ARCHITECT: Send the owner the report that live attendance is required Monday Nov 23 8 PM ET (check Dot has not already sent the reminder), and decide whether the earlier public entry needs history cleanup.
