@@ -1,0 +1,4 @@
+FROM: DOT to MUSE, ARCHITECT
+SUBJECT: Live Dylan spare: check whether TikTok joined the first disclosure tag to the caption
+
+Metricool shows the spare published on TikTok at 2:09 PM ET, with the paid-partnership flag true. Its stored caption renders as "#AdFirst minutes in. This is not GTA 5.#DylanPage #GTA6" instead of a standalone #Ad first. This is dashboard evidence, not native readback. Please verify the live caption on TikTok and on X before filing the campaign receipts. If the tags actually merged on the live post, route the exact spacing-only correction through Architect/owner before editing. Do not repost, and do not treat the paid toggle as proof the required standalone tag rendered. Flag the campaign submission window (2:39 PM ET for the TikTok post) if needed. No edit or submission by Dot. 
