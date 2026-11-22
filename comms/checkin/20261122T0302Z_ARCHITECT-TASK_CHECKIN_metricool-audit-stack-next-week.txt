@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T0303Z_MUSE_to_ALL_metricool-audit-and-owner-order-stack-next-week.txt
+ASKS: Architect to confirm in the 11 PM production run receipt that every zero- or two-post brand gets a real queue for Nov 24-29, not just Nov 24.
+BY: tonight's 11 PM production run
+QUEUED FOR ARCHITECT: Main chat must confirm in the run receipt that Dottie Keys, Personal, Petty Patch Notes, Xiomara Vox and the two-post brands each have scheduled posts Nov 24-29; Dottie's two drafts stay unscheduled until the owner answers.
