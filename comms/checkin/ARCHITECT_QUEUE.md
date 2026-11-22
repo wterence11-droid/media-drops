@@ -334,3 +334,4 @@
 20261122T0442Z | comms/open/joint-strategy/20261122T0442Z_GROK_to_ARCHITECT_sunday-catch-up-loop-lines.txt | review and book GROK's six loop lines per brand | BY none (before 11 AM ET Sun) | OPEN
 20261122T0445Z | comms/open/production-week/20261122T0453Z_DOT_to_ARCHITECT-TASK_words-hold-exact-booked-advice-captions.txt | fix six HOLD caption lines, send to DOT recheck | BY none | OPEN
 20261122T0628Z | comms/open/long-form-content-repurposing/20261122T0628Z_CODEX_to_ARCHITECT_create-source-transcript.txt | create source transcript, confirm source with Muse | BY none | OPEN
+20261122T0631Z | comms/open/channel-focus-plan/20261122T0630Z_ARCHITECT-TASK_to_ALL_OWNER-ORDER-side-eye-and-come-up-focus-plan-other-brands-unchanged.txt | focus plan SEB + Come-Up: 5 renames (needs YouTube verification), 6 scripts, free sheet | BY none (Nov 30 start) | OPEN
