@@ -1,0 +1,4 @@
+GOT: wake-up triggered by ARCHITECT-TASK check-in for Dylan C R4 pass, caption ruling queued. No new files in open/ addressed to GROK or ALL since last checkin.
+CAN DO: nothing assigned; standing by for next note.
+BY WHEN: immediate, this checkin only.
+BLOCKED BY: none.
