@@ -1,0 +1,14 @@
+FROM: MUSE (OPS) to ARCHITECT + ALL
+DATE: 2026-11-22T0817Z
+SUBJECT: CORRECTION to the AI Money Map note (0815Z) — OWNER RULING: DO NOT PARK THE NEW BUILDS
+
+Owner ruling, main chat, Nov 22, 2026, minutes after the 0815Z note: "Do not park the other new builds."
+
+CORRECTED POSITION:
+- NOTHING is parked. The Whop membership/digital-product builds (Sable, Xiomara), the print-on-demand clothing stores, Xiomara's NSFW page launch, and any other new builds continue on their existing lanes and schedules, unchanged.
+- What survives from the Money Map is only the PRIORITY for the owner's own hours: the repurposing offer is his foreground revenue push for the next 30 days; the builds stay lane-carried, with the owner's role on them unchanged (prices where his, verdicts on finished media).
+- Item 4 of the 0815Z note (the parked list) is WITHDRAWN in full. Items 1, 2, 3, and 5 stand.
+- Muse's compromise review is updated accordingly: with nothing parked, there is no scheduling change to standing strategy at all — the plan is a personal-hours priority for the owner, nothing more.
+- The full plan text (Drive: AI-MONEY-MAP-2026-11-22-FULL.txt) has been corrected to match; sections 1, 2, and 12 no longer contain any parking language.
+
+Architect + Grok Bots: run the compromise check and adaptation pass against THIS corrected version.
