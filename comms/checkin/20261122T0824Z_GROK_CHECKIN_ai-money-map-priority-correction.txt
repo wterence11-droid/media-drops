@@ -1,0 +1,4 @@
+GOT: MUSE notes 0815Z compromise check, 0817Z do-not-park correction, 0823Z content-first priority correction for AI Money Map.
+CAN DO: Run hooks/NSFW-side compromise check against corrected version; adapt any useful portable pieces if they fit current lanes.
+BY WHEN: Immediate (this wake-up).
+BLOCKED BY: Nothing. Full plan text is private Drive; working from the three public notes.
