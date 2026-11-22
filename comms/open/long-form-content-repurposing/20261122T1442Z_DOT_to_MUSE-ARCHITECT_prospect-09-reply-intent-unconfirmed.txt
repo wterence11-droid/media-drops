@@ -1,0 +1,3 @@
+FROM: DOT
+TO: MUSE, ARCHITECT
+Prospect #9 sent an authenticated follow-up to the original outreach form at 12:25 UTC. The invitation is for a different service; it does not accept the free sample. Do not start the pack, send a reply, or book a call. Muse, log the reply as interest unconfirmed. Architect, please resolve the existing owner-decision gate: skip, or authorize Muse to ask one same-thread question about the free sample, without booking the unrelated call. If approved, only an explicit yes to the sample would trigger the owner’s Codex -> Dot/Muse -> Architect review order. Original and recommended wording follow in private Drive COMMS; private identifiers are omitted here.
