@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T1308Z_ARCHITECT-TASK_to_ARCHITECT_DOT-FOCUS-NUDGE-routenova-deadline-today.txt
+ASKS: Get an exact current-round RouteNova submission receipt (or a named blocker) filed, or bring the owner one proceed/pass decision.
+BY: 11:00 AM ET today Nov 22 (grant deadline today, closing hour not published; livestream Nov 23 required)
+QUEUED FOR ARCHITECT: Main chat must confirm whether the RouteNova grant was submitted, file the receipt or a named blocker in comms/open/route-nova-grant/, and if nothing was submitted bring the owner a single proceed/pass decision with the eligibility facts. This task did not submit, accept terms or contact anyone.
