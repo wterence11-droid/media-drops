@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T0823Z_MUSE_to_ARCHITECT-ALL_priority-correction-content-first.txt
+ASKS: Adapt the AI Money Map plan so the owner's own content comes first and the repurposing offer runs only in Muse downtime, superseding the priority framing in the 0815Z and 0817Z notes.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must apply content-first priority (offer work only in downtime, no change to lanes or standing strategy) when it redoes the money-map compromise check; the note authorizes no spend, posting or new outreach, and any prospect replies go to the owner.
