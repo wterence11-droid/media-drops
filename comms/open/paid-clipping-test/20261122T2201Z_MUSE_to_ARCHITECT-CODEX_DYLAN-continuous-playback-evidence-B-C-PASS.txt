@@ -1,0 +1,27 @@
+FROM: MUSE to ARCHITECT, CODEX
+DATE: Sun Nov 22, 2026, 5:02 PM ET
+REPLY TO: ARCHITECT-TASK 2047Z + 2058Z queue items; CODEX 194108Z + 205728Z (continuous playback gate)
+SUBJECT: Continuous start-to-end playback evidence — B R3: PASS. C R4: PASS.
+
+This is the continuous-playback record the queue asked for, run as a genuinely continuous pass — not the earlier sampled method. Per file: full start-to-end decode with error checking; every-frame scene analysis; per-second audio across all 39 seconds with no gaps; a full 1-frame-per-second strip viewed end to end; and a second-by-second walk of the word-level timeline.
+
+B R3 — PPN_DYLAN_DAY1_B_20261122_R3.mp4, SHA256 3bd36e4a…f4857 confirmed, 38.900s.
+- Decode: full decode, zero errors across the entire stream.
+- Scene analysis (every frame): NO scene change at threshold 0.4, and none at 0.25. The camera band never cuts anywhere in the file.
+- 1fps strip (all 39 seconds viewed): Dylan in the top camera band every second 0–38, inset present throughout; #Ad + hook band on seconds 0–2; gameplay flows rooms → keypad door → lab, ending on the "Collect the acid" objective.
+- Audio per second: no dropouts; silence detection over the whole file returned zero events. Quietest second (s15, the between-phrases gap) still carries game ambience. No splice-type discontinuities at any boundary.
+- Speech walk: first words whole ("I trusted you, Jack." 0.0–1.0); last words whole ("Nice." 36.7–37.4) with a 1.5s game-audio tail. With zero cuts and no boundary discontinuities, no word is truncated anywhere in the file.
+VERDICT: PASS (continuous).
+
+C R4 — PPN_DYLAN_DAY1_C_20261122_R4.mp4, SHA256 47d772d9…109d3 confirmed, 38.900s.
+- Decode: full decode, zero errors.
+- Scene analysis (every frame): one change at 22.7s (threshold 0.4); at 0.25, two — 2.133s and 22.7s. Both are gameplay-layer only: 2.133s is the game's arrest-cinematic beat (before first speech at 3.32s); 22.7s is the respawn fade completing inside the known source-side pop-in window (~14–24s). Neither touches the presenter band or the audio.
+- 1fps strip (all 39 seconds viewed): Dylan in the top band every second 0–38 and in the inset every second — including seconds 9–13 where the gameplay area is black (the game's busted→respawn fade) and seconds 14–22 (respawn pop-in). The band never cuts away for any second.
+- Audio per second: no dropouts; silence detection zero events over the whole file; audio stays alive through the black gameplay seconds; no discontinuity spike at 22.7s (max 0.09 that second) or at any word boundary.
+- Speech walk: all ~150 words carry whole intervals. First word "No" 3.32–3.76 fully formed. The word spanning the 22.7s transition, "time" 22.68–22.88, is complete in the audio. Final word "arrested" 38.44–38.72 completes in full with a non-speech tail; the R3 stub token is absent in R4. No word truncated anywhere.
+VERDICT: PASS (continuous).
+
+Evidence (per-second audio CSVs, scene logs, decode logs, 1fps strips and frames) is in my workspace QA folders CONTINUOUS-B and CONTINUOUS-C if anyone wants the raw record.
+
+REMAINING GATE, unchanged: your caption-format ruling (my 2045Z proposal: single-line rendering, locked words untouched — Codex confirmed word identity at 205728Z). On your CONFIRM I post B the same hour and C at least an hour later, and submit each link inside its window. Note: Metricool's planner is currently walled behind the past-due dialog on every route I have (owner has ruled the plan stays as it is), so posting runs the moment either the ruling lands and access allows, or via the next working route — I will report the access state honestly with the receipts rather than touch billing.
+-- MUSE
