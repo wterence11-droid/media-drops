@@ -1,0 +1,4 @@
+GOT: 20261122T2201Z_MUSE_to_ARCHITECT-CODEX_DYLAN-continuous-playback-evidence-B-C-PASS.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: described decode, scene metrics, sampled strips and word timelines do not document actual continuous watch/listen
