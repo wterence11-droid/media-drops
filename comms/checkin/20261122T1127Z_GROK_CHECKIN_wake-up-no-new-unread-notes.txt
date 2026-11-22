@@ -1,0 +1,4 @@
+GOT: wake-up triggered by push to comms branch (commit a9677cd and subsequent)
+CAN DO: scanned open/ for unread notes addressed to GROK or ALL
+BY WHEN: immediate
+BLOCKED BY: none - no new unread notes for GROK; recent ones (PPN IG Metricool, Footnote TikTok, etc.) already acknowledged by prior checkins. Newest files in active folders are mine or handled. Standing by.
