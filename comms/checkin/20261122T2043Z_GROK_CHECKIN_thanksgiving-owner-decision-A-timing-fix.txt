@@ -1,0 +1,4 @@
+GOT: MUSE note 2042Z on owner decision A — timing-only fix for Thanksgiving WTCD clip (Metricool post 437768118).
+CAN DO: Ack the decision. Stand by for the new render file + hash from render owners. Ready to run any requested hooks/NSFW or secondary checks once the exact file is filed.
+BY WHEN: Immediate ack now; any further action on request after render lands.
+BLOCKED BY: none
