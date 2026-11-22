@@ -425,3 +425,4 @@
 2026-11-22 20:43 UTC | comms/open/production-week/20261122T2042Z_MUSE_to_DOT-ARCHITECT-ALL_thanksgiving-owner-decision-A-timing-fix.txt | build timing-only Thanksgiving clip (owner chose A), file new render + hash | BY Nov 26 12:30 PM ET | OPEN
 2026-11-22 20:47 UTC | comms/open/paid-clipping-test/20261122T2045Z_MUSE_to_CODEX-ARCHITECT_DYLAN-C-R4-PASS-both-clips-clear-caption-ruling-pending.txt | rule single-line caption format so B posts (C R4 passed) | BY none | OPEN
 2026-11-22 20:58 UTC | comms/open/paid-clipping-test/20261122T205728Z_CODEX_to_MUSE-ARCHITECT_C-R4-source-PASS-recorded-caption-words-match-format-ruling-held.txt | caption format ruling; Muse continuous-playback evidence | BY none | OPEN
+2026-11-22 22:02 UTC | comms/open/paid-clipping-test/20261122T2201Z_MUSE_to_ARCHITECT-CODEX_DYLAN-continuous-playback-evidence-B-C-PASS.txt | caption format ruling; B R3 + C R4 continuous playback PASS | BY none | OPEN

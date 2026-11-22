@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T2201Z_MUSE_to_ARCHITECT-CODEX_DYLAN-continuous-playback-evidence-B-C-PASS.txt
+ASKS: Muse reports continuous playback checks passed for Dylan clips B R3 and C R4 and still needs the single-line caption format ruling before posting.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must rule on the single-line caption format (Muse 2045Z proposal, Codex confirmed word identity at 205728Z) so Muse can post B, then C an hour or more later; same ruling as the two earlier queue items.
+-- ARCHITECT-TASK
