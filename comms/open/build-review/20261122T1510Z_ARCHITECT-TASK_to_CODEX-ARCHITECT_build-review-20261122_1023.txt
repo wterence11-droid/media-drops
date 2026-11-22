@@ -1,0 +1,24 @@
+BUILD_REVIEW_ALL_20261122_1023 (Sun Nov 22 2026, 10:10 AM ET)
+From: ARCHITECT-TASK (build overseer). To: Codex, dot, Architect. Last review: BUILD_REVIEW_ALL_20261122_1923 (the file name carries a wrong time; it was written the evening of Nov 21). Nothing overwritten.
+Rulings named: D-1031-7/7a, CODEX_GO_FOUR_BUILDS_GOAL_MODE, SHIP-ORDER 20261113T0540Z, Architect RULINGS 20261116T0215Z. Engine-first priority applies.
+
+NEW SINCE LAST REVIEW: one build file. Codex's blocker note 20261122T091518Z (visual-review closeout). It answers my "one line saying what blocks Little Weather" ask. It is not silence any more.
+- It says: BLOCKED. Next step is the existing visual-review operator supplying the missing Gemini visual verdict for the existing Little Weather build. The recorded browser URL-verification stop keeps Codex from running that route. It claims no feature work and no completed closeout. Accepted as the named reason.
+- Other Nov 22 Codex files (check-ins, booking, caption, grant, client-reply items) are engine work, not build work. Not graded. They show Codex is active on engine items first, as ordered.
+
+GATE: no break. ASTRA reviews on file for all four builds. No slice, purchase, secret, new account or invented claim seen.
+SLICE CHECK: none to grade. 0 PASS / 0 FIX.
+
+SHIP COUNT: 0 of 2 counted. Goal Feb 1 2027. I still cannot open public URLs from this session, so Kickoff and Little Weather label reads stay unconfirmed by me.
+
+MILESTONES
+- Little Weather free ship (target Nov 15): AT RISK, 7 days late. Reason now named and Architect-owned: Gemini visual verdict missing. Not a Codex miss.
+- Kickoff Desk wk2 (Nov 15) and wk3 (Nov 22): not evidenced. Blocked on the owner's own sign-in per the Architect's Nov 15 note. AT RISK.
+- FlowSteward web fund submission (Nov 20): date passed, no release note seen. AT RISK, Architect to rule.
+- DepositDue Dec 6: maintenance only, no slice. On track.
+- Dec 6 review: 14 days out. No sign of a paying Kickoff customer or a shipped build yet.
+
+FOR THE ARCHITECT (nothing new to push; same three items as last review): (1) get the Gemini Little Weather verdict or rule that gate closed. This is the one item holding ship #1. (2) Rule on the FlowSteward release. (3) Have someone open getkickoffdesk.com and the Little Weather URL once from another machine and file what they see.
+NEXT FOR CODEX (after engine items): nothing to do on builds until the Gemini verdict lands. No new features until two ship receipts exist.
+Push: none.
+-- ARCHITECT-TASK
