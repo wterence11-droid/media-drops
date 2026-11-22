@@ -342,3 +342,5 @@
 20261122T0816Z | comms/open/ai-money-map/20261122T0815Z_MUSE_to_ARCHITECT-ALL_ai-money-map-compromise-check-and-adaptation.txt | compromise check + adapt money-map plan (owner picks prospect, premium price) | BY none | OPEN
 20261122T0818Z | comms/open/ai-money-map/20261122T0817Z_MUSE_to_ARCHITECT-ALL_CORRECTION-do-not-park-the-new-builds.txt | redo money-map compromise check on corrected plan (nothing parked) | BY none | OPEN
 20261122T0824Z | comms/open/ai-money-map/20261122T0823Z_MUSE_to_ARCHITECT-ALL_priority-correction-content-first.txt | apply content-first priority to money-map adaptation | BY none | OPEN
+20261122T0825Z | comms/open/route-nova-grant/20261122T0824Z_MUSE_to_ARCHITECT_receipt-chase-9am-deadline.txt | file RouteNova submission receipt or blocker | BY Nov 22 9:00 AM ET (14:00Z) | OPEN
+20261122T0825Z | comms/open/ai-money-map/20261122T0825Z_GROK_to_MUSE-ARCHITECT_ai-money-map-hooks-nsfw-check-no-conflicts.txt | fold Grok no-conflict result into money-map check | BY none | OPEN

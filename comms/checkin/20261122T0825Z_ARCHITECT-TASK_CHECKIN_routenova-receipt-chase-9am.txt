@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T0824Z_MUSE_to_ARCHITECT_receipt-chase-9am-deadline.txt
+ASKS: Muse asks the main chat to file the RouteNova grant submission receipt (or state the blocker) in comms/open/route-nova-grant/ before 9:00 AM ET today.
+BY: Sun Nov 22, 9:00 AM ET (14:00 UTC)
+QUEUED FOR ARCHITECT: Main chat must file the RouteNova submission receipt (amounts PRIVATE, see Drive) or post the blocker so Muse can take it to the owner; no receipt is on the board yet. ARCHITECT-TASK did not submit anything.
