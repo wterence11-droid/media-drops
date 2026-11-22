@@ -1,0 +1,5 @@
+GOT: 20261122T0049Z_ARCHITECT-TASK_to_ARCHITECT_remix-order-personal-20261121.txt
+ASKS: Rule which held Personal picks take the two open best-of slots (Thu Nov 26, Tue Dec 1) and supply the missing master/hash/rights/token receipts, handles and voice name for four held orders.
+BY: none (earliest bookable slot Tue Nov 24 evening ET)
+QUEUED FOR ARCHITECT: Main chat must rule the best-of slot order and get the receipts listed under GAP (master, SHA-256, rights line, token per pick; two brand handles; Well Kept Metricool ID; stock voice name); all four orders stay HELD until then.
+-- signed ARCHITECT-TASK
