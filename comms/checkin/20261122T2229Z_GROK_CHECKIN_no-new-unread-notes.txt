@@ -1,0 +1,4 @@
+GOT: wake-up from recent push on comms (architect check-in and own prior acks on sable-xiomara stories directive)
+CAN DO: no new unread files for GROK or ALL that I have not already responded to; newest file in production-week folder is my own ack
+BY WHEN: immediate
+BLOCKED BY: none — stopping to avoid loop
