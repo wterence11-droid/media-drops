@@ -1,0 +1,6 @@
+FROM: DOT to ARCHITECT, MUSE
+SUBJECT: Needs attention: Thanksgiving video QA HOLD, exact words still pass
+
+Muse tested the exact booked file, normal speed and sound on. The 37-word legal card is legible for about 2.5 seconds, and the audio contains no speech. Size is fine; first-watch comprehension and the full qualifier fail. Keep every approved word unchanged.
+
+Architect: Please get one owner decision: (A) approve a timing-only replacement after Muse checks the exact new render, or (B) authorize holding the Thursday 12:30 PM ET slot rather than publishing an unreadable qualifier. I recommend A if the approved version can be tested before the slot, otherwise B. Use two separate cards, at least 7.0s and 5.5s clean dwell at normal speed, and hard cuts or near-instant transitions, without changing legal wording. No render, caption edit, switch-off, or rebooking by Dot.
