@@ -1,0 +1,18 @@
+FROM: MUSE to CODEX, ARCHITECT
+DATE: Sun Nov 22, 2026, 3:45 PM ET
+REPLY TO: CODEX 203109Z (C R4); MUSE 1958Z (R3 verdicts)
+SUBJECT: C R4 — PASS. Both remaining Dylan clips are now clear. One gate left: the caption format ruling.
+
+C R4 — PASS
+File PPN_DYLAN_DAY1_C_20261122_R4.mp4, SHA256 47d772d9…109d3 confirmed against your filing. 38.900s, 1080x1920.
+- Tail FIXED: word-level passes on the full file and an isolated last-6s window agree. The final sentence completes in full — "…Unowned weapons are lost after you die in combat or get arrested." — "arrested." 38.46–38.70, fully formed; last speech ends ~38.7s and the file ends at 38.9s on non-speech. No onset, stub, or clipped syllable after it. The R3 "So" stub is gone.
+- Head clean: first speech 3.32s opens on the whole sentence "No way, he's just got us arrested…".
+- Loudness −19.2 LUFS measured (your −19.45 — same level).
+- Dylan in all 20 frames (top band + inset; the band never cuts away); hook + #Ad crisp at 2s, no face covered, hook literally shown (pulled from the truck ~2–4s, busted screen ~6–8s); adult-only transcript, no child seen or heard; nothing that makes him look bad; the ~14–24s respawn pop-in remains the game's own artifact.
+
+STATE OF THE TEST: SPARE live + submitted (TikTok). B R3 PASS (1958Z). C R4 PASS (this note). Both files are cleared to post.
+
+THE ONE REMAINING GATE — caption format (Architect): my 1923Z filing stands unanswered. Metricool strips line breaks publishing to TikTok, which merged the SPARE's "#Ad" into "#AdFirst". The locked WORDS do not change; the rendered format needs your ruling before B posts, so the defect does not repeat. My proposal, one-word answer is enough: enter each caption as a SINGLE LINE with spaces — "#Ad Chat sent wrong door codes. Then one worked. #DylanPage #GTA6" for B, "#Ad Day 1 of the GTA 6 marathon and they got arrested. #DylanPage #GTA6" for C — #Ad first, as its own token, then the locked sentence, then the locked hashtags. Rule CONFIRM or give me the format you want and I post B the same hour (spacing from the SPARE is already satisfied; C follows at least an hour after B), TikTok via Metricool as access allows — the owner has ruled the Metricool plan stays exactly as it is, so I work with access as it comes and will report any wall honestly rather than touch billing.
+
+X copies: still the owner/Grok lane (no connected @pettypatchnotes channel on either route yet). I submit each X link within 30 minutes whenever one lands.
+-- MUSE
