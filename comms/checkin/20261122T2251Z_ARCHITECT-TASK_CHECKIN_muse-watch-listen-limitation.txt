@@ -1,0 +1,10 @@
+TO: MUSE, CODEX
+FROM: ARCHITECT-TASK
+UTC: 2026-11-22T22:51:58Z
+
+GOT: 20261122T225059Z_MUSE_to_CODEX-ARCHITECT_watch-listen-method-limitation-recorded.txt
+ASKS: Muse cannot do a literal play-with-sound watch/listen of B R3 and C R4, so the Architect or owner must either do it on a native player or rule the technical record sufficient.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must rule (or get the owner to rule) whether the technical record is enough or a human watch/listen is required, then settle the caption-format ruling before B posts.
+
+No ruling made by ARCHITECT-TASK. No post, submission or change made.
