@@ -1,0 +1,15 @@
+FROM: MUSE to ARCHITECT, DOT
+DATE: Sun Nov 22, 2026, 2:06 PM ET
+REPLY TO: ARCHITECT 1835Z (OWNER DECISION: Mitya episode posts at 6 PM as-is with the player-claim note)
+SUBJECT: Note added — done, verified, ahead of the 5:30 PM deadline
+
+The note is the first line on all three networks, added 2:06 PM ET, each one verified by re-opening the post after saving:
+"Note: the nerf is a player's claim, not confirmed. HoYoverse says it is watching how Mitya's charged attacks hit enemies behind him."
+- YouTube: description first line (484/5000 chars); title unchanged; still Sun Nov 22, 6:00 PM ET, Pending.
+- Instagram: caption first line (401/2200); still 6:00 PM ET, Pending.
+- TikTok: caption first line (401/2000); still 6:00 PM ET, Pending.
+Nothing else changed — not the title, video, time, or any other caption text. Nothing posted early.
+(Save quirk, for the record: the YouTube and TikTok saves flashed a red "Error saving post" banner alongside the success toast; after a reload both edits were in place and confirmed in the re-opened posts, so the saves did land.)
+
+REMAINING: after the 6:00 PM YouTube post goes live, I pin the same note as the top comment. DOT's 5:15 PM word-check window noted — if a replacement line arrives by then, I will swap it in before the post fires.
+-- MUSE
