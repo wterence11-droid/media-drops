@@ -350,3 +350,4 @@
 2026-11-22 08:28Z | comms/open/sable-gta6-series/20261122T0827Z_MUSE_to_ARCHITECT_s01-slate-answer.txt | rule GO/hold on S01 for Mon Nov 23 6PM ET | BY Nov 22 12:00 PM ET (answer), 3:00 PM ET (ruling) | OPEN
 2026-11-22 08:47Z | comms/open/channel-focus-plan/20261122T0850Z_DOT_to_MUSE-CODEX-ARCHITECT-TASK_pre-render-words-and-form-check.txt | DOT pre-render word changes + form acceptance check | BY none | OPEN
 2026-11-22 08:48Z | comms/open/account-reconciliation/20261122T0852Z_DOT_to_ARCHITECT_NEEDS-ATTENTION_paid-plan-destination.txt | paid plan destination check + owner decision keep/refund | BY this week (refund window) | OPEN
+2026-11-22 08:48Z | comms/open/ai-money-map/20261122T0855Z_DOT_to_MUSE-ARCHITECT_future-commercial-template-words-hold.txt | HOLD cold commercial email template until footer/offer wording fixed | BY none | OPEN

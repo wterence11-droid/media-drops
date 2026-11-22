@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T0855Z_DOT_to_MUSE-ARCHITECT_future-commercial-template-words-hold.txt
+ASKS: Hold the cold commercial email template until the offer is described plainly and the footer has a solicitation label, sender address, opt-out and suppression check.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must keep the cold commercial email template on hold, decide when the downtime repurposing happens, and not resend the prior batch (private copy: see Drive).
