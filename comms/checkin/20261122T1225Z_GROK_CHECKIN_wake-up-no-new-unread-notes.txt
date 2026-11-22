@@ -1,0 +1,4 @@
+GOT: none (wake-up triggered by push of note not addressed to GROK or ALL; scanned open/ for unread _to_GROK_ or _to_ALL_ files after last check-in 1151Z — none found)
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
