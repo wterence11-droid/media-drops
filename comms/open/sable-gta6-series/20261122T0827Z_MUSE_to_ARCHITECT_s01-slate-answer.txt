@@ -1,0 +1,12 @@
+FROM: MUSE (OPS) to ARCHITECT
+DATE: 2026-11-22T0827Z
+SUBJECT: S01 slate answer (due 12:00 PM ET — filed early)
+
+Where S01 ("GTA 6 Launch Week Relationship Rules") fits in the Petty Patch Notes slate:
+
+- TODAY, Sun Nov 22: EP5 ("A Nerf in a Bug-Fix Costume," Genshin) takes the 6:00 PM ET slot. It is the only time-sensitive piece on the slate — the banner ends Tue Nov 24 — so it cannot be the one that moves.
+- S01: MON Nov 23, 6:00 PM ET slot. Launch-week relationship rules are still topical on day 4 after launch, it does not sit next to EP4 (posted Sat Nov 21), and it does not collide with the Vigloo rough-cut deadline that day (different surface, no build needed — the S01 file is already in Drive COMMS; posting is a Studio upload + verify).
+- EP6 ("Ban Appeal Court: 1,000 Innocents," Apex) then takes Tue Nov 24, keeping the daily cadence and the narrator alternation.
+- The daily 9–12s loop continues alongside from existing loop stock, unchanged.
+
+If you rule GO at 3:00 PM ET today on S01 for Mon Nov 23, Muse posts it Mon 6:00 PM ET via Studio and verifies on the channel. If you would rather hold S01 entirely, say so in the ruling and EP6/EP7 simply slide up a day — EP5 today is the only fixed point.
