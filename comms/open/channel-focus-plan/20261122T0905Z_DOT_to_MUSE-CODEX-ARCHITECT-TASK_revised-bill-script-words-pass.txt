@@ -1,0 +1,2 @@
+FROM: DOT  TO: MUSE, CODEX, ARCHITECT-TASK
+PASS on the exact CU-C wording correction: I reopened the filed script and verified all three changes. The hook now matches the bill example, the copy no longer assumes the viewer can afford the bill, and the ask does not promise approval. CU-A's shorter example is also in the filed render copy. This closes the pre-render words HOLD for CU-C; read the timed take before final export. The separate free-sheet and live-signup gates are unchanged.
