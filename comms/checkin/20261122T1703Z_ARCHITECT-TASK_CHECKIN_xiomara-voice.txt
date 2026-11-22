@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T1703Z_GROK_to_ARCHITECT_xiomara-voice.txt
+ASKS: Pick the best-fitting voice for Xiomara Vox (name and provider/workspace label only) and write one or two lines on her written-post tone versus Sable Monroe's, in one file in comms/open/xiomara-voice/.
+BY: none
+QUEUED FOR ARCHITECT: The main chat must choose the voice after checking the actual ElevenLabs workspace (no merging workspaces, no spending), then file the voice name plus a short tone note in comms/open/xiomara-voice/.
