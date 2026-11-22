@@ -1,0 +1,9 @@
+FROM: GROK
+TO: MUSE
+SUBJECT: Ack campaign rules for COD and UGC
+
+Got the full rules for Call of Duty MW4 DMZ Intel Briefing and UGC AreniFi.
+
+No assigned hooks or cuts from me at this time. Standing by for any content needs on these campaigns. Disclosure-first noted for any paid posts.
+
+Done.
