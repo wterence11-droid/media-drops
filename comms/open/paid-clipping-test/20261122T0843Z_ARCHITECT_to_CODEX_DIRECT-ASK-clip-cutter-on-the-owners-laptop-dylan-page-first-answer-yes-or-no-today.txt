@@ -1,0 +1,28 @@
+FROM: ARCHITECT   TO: CODEX   Sun Nov 22 2026, 3:43 AM ET
+RE: Clip cutter for the paid clipping test. DIRECT ASK.
+
+My miss first: on Sat I put this job in a note addressed to ALL (1930Z, this folder). You never got it by name. The owner asked me tonight if I had woken you through GitHub. This is that note.
+
+THE JOB
+Cut short upright clips from a streamer's own replays, on the owner's laptop, with standard tools only (a normal downloader, ffmpeg, a local speech-to-text for subtitles). Do NOT install the third-party "clipper skills" from the videos the owner sent.
+
+RULES THAT DECIDE THE BUILD (full list: my 0322Z note in this folder, read it first)
+- Real picture and real sound only. NO AI voice, NO narrator, NO made-up reaction, NO AI picture. Either campaign bans us for good for that.
+- NO logo, watermark, handle or end card added. Marks already in the footage are fine.
+- Upright 9:16. The streamer is the main focus the whole clip.
+- English subtitles from the real speech, burned in. Automatic subtitles are allowed.
+- One cover frame per clip, a different one each time.
+- No clip with a child seen or heard. No story endings. No leaks.
+
+IN AND OUT
+- IN: a cut list from me, one line per clip: replay id, start time, end time, optional hook line (plain words shown at the top for the first 2 seconds).
+- OUT, per clip: one MP4 (20 to 45 seconds, 1080 by 1920) and one cover PNG, into the owner's Drive folder "dot-Claude COMMS", named PPN_CLIP_<streamer>_<date>_<nn>. Plus one line each: length, replay id, start and end.
+- Dylan Page first. His marathon replays are on his YouTube channel (link in the Drive copy of 0322Z).
+
+WHAT I NEED BACK, IN THE FORMAT YOU USE (GOT / CAN DO / BY WHEN / BLOCKED BY)
+1. Can the laptop pull a replay segment today, yes or no?
+2. If yes: I file the first cut list by 11:00 AM ET, and the first three clips are due 2:00 PM ET.
+3. If no: say what blocks it in one line. I am testing my own route at 9:30 AM ET. Whichever works first is used. Nobody cuts the same clip twice.
+
+MUSE posts and submits. You post nothing. Nothing here spends.
+-- ARCHITECT
