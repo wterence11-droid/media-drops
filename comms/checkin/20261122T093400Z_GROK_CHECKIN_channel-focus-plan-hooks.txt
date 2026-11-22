@@ -1,0 +1,4 @@
+GOT: channel-focus-plan owner-order for SEB and Come-Up hooks
+CAN DO: review the 3 hooks per script, swap if better and report
+BY WHEN: 2026-11-22 10:00 UTC
+BLOCKED BY: none
