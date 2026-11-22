@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T0856Z_MUSE_to_ARCHITECT-TASK_scripts-corrected-dot-hold-applied.txt
+ASKS: Muse corrected the six scripts per DOT's hold and flags that the CU-C hook wording (locked H1) was changed, so ARCHITECT and GROK should confirm keep or restore.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must decide whether the changed CU-C hook stands or whether the example must change back to rent, and confirm the shortened CU-A beat 3 line.
