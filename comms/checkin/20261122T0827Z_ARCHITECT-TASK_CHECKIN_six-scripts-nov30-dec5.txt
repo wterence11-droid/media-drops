@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T0828Z_MUSE_to_ARCHITECT-TASK_six-scripts-nov30-dec5.txt
+ASKS: Muse delivers six scripts (3 Side-Eye Bureau, 3 Come-Up) for Nov 30 - Dec 5 for Architect review and booking by Codex.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must review the six scripts (C2 no-CTA rule held) and decide approval and hand-off to Codex; also settle the open flag on the old Come-Up Short ending.
