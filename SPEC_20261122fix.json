@@ -1,0 +1,424 @@
+{
+ "brands": {
+  "WK": {
+   "name": "Well Kept",
+   "brandId": "7144157",
+   "slot": "12:30:00",
+   "networks": [
+    "facebook",
+    "instagram",
+    "tiktok",
+    "youtube"
+   ],
+   "palette": {
+    "bg": [
+     24,
+     38,
+     32
+    ],
+    "bg2": [
+     16,
+     26,
+     22
+    ],
+    "accent": [
+     199,
+     164,
+     88
+    ],
+    "text": [
+     244,
+     239,
+     226
+    ],
+    "chip": [
+     58,
+     82,
+     68
+    ]
+   },
+   "character": "archivist",
+   "footer": "Not legal advice. Laws vary by state. AI-made visuals.",
+   "yt_category": "EDUCATION"
+  },
+  "TLR": {
+   "name": "Team Lead Ready",
+   "brandId": "7144391",
+   "slot": "11:15:00",
+   "networks": [
+    "facebook",
+    "instagram",
+    "tiktok",
+    "youtube"
+   ],
+   "palette": {
+    "bg": [
+     20,
+     30,
+     48
+    ],
+    "bg2": [
+     13,
+     20,
+     33
+    ],
+    "accent": [
+     240,
+     173,
+     78
+    ],
+    "text": [
+     240,
+     244,
+     250
+    ],
+    "chip": [
+     44,
+     62,
+     92
+    ]
+   },
+   "character": "lead",
+   "footer": "Management education. AI-made visuals.",
+   "yt_category": "EDUCATION"
+  },
+  "TW": {
+   "name": "Tested Workflows",
+   "brandId": "7144497",
+   "slot": "11:15:00",
+   "networks": [
+    "facebook",
+    "tiktok",
+    "youtube"
+   ],
+   "palette": {
+    "bg": [
+     32,
+     34,
+     38
+    ],
+    "bg2": [
+     22,
+     24,
+     27
+    ],
+    "accent": [
+     64,
+     190,
+     180
+    ],
+    "text": [
+     242,
+     244,
+     246
+    ],
+    "chip": [
+     52,
+     58,
+     66
+    ]
+   },
+   "character": "worker",
+   "footer": "AI-made visuals.",
+   "yt_category": "EDUCATION"
+  },
+  "SEB": {
+   "name": "Side-Eye Bureau",
+   "brandId": "7144432",
+   "slot": "12:30:00",
+   "networks": [
+    "facebook",
+    "instagram",
+    "tiktok",
+    "youtube"
+   ],
+   "palette": {
+    "bg": [
+     62,
+     52,
+     38
+    ],
+    "bg2": [
+     44,
+     37,
+     27
+    ],
+    "accent": [
+     214,
+     69,
+     51
+    ],
+    "text": [
+     243,
+     234,
+     215
+    ],
+    "chip": [
+     92,
+     78,
+     56
+    ]
+   },
+   "character": "rhonda",
+   "footer": "Original satire. Fictional. AI-made visuals.",
+   "yt_category": "COMEDY"
+  },
+  "CU": {
+   "name": "The Come-Up",
+   "brandId": "7144182",
+   "slot": "11:15:00",
+   "networks": [
+    "facebook",
+    "instagram",
+    "youtube"
+   ],
+   "palette": {
+    "bg": [
+     16,
+     24,
+     44
+    ],
+    "bg2": [
+     10,
+     16,
+     30
+    ],
+    "accent": [
+     212,
+     175,
+     55
+    ],
+    "text": [
+     240,
+     242,
+     248
+    ],
+    "chip": [
+     34,
+     46,
+     76
+    ]
+   },
+   "character": "saver",
+   "footer": "Educational only. Not financial advice. AI-made visuals.",
+   "yt_category": "EDUCATION"
+  },
+  "WTCD": {
+   "name": "What They Can't Do",
+   "brandId": "7144228",
+   "slot": "12:30:00",
+   "networks": [
+    "facebook",
+    "instagram",
+    "tiktok",
+    "youtube"
+   ],
+   "palette": {
+    "bg": [
+     30,
+     34,
+     42
+    ],
+    "bg2": [
+     20,
+     23,
+     29
+    ],
+    "accent": [
+     224,
+     82,
+     82
+    ],
+    "text": [
+     241,
+     243,
+     247
+    ],
+    "chip": [
+     48,
+     56,
+     70
+    ]
+   },
+   "character": "shield",
+   "footer": "Not legal advice. Laws vary by state. AI-made visuals.",
+   "yt_category": "EDUCATION"
+  },
+  "CIR": {
+   "name": "Caught in Retrograde",
+   "brandId": "7493735",
+   "slot": "11:15:00",
+   "networks": [
+    "facebook",
+    "instagram",
+    "tiktok",
+    "youtube"
+   ],
+   "palette": {
+    "bg": [
+     38,
+     26,
+     58
+    ],
+    "bg2": [
+     25,
+     17,
+     40
+    ],
+    "accent": [
+     226,
+     185,
+     94
+    ],
+    "text": [
+     242,
+     238,
+     250
+    ],
+    "chip": [
+     60,
+     44,
+     90
+    ]
+   },
+   "character": "merc",
+   "footer": "Dramatized fiction. For entertainment. AI-made visuals.",
+   "yt_category": "ENTERTAINMENT"
+  }
+ },
+ "items": {
+  "WK-1124": {
+   "beats": [
+    "GRANDMA'S LAND. TWELVE OWNERS.",
+    "Land inherited with no will can become heirs' property: heirs may share undivided ownership without clear title.",
+    "Acting on the whole parcel can be harder when several heirs hold shares. State rules decide whose consent is needed.",
+    "One mechanism. Know it early."
+   ],
+   "brand": "WK",
+   "beats_old": [
+    "GRANDMA'S LAND. TWELVE OWNERS.",
+    "Land inherited with no will becomes heirs' property: every heir owns a share of the whole.",
+    "No one can sell, lease or mortgage it without ALL the heirs agreeing. Each generation adds more owners.",
+    "One mechanism. Know it early."
+   ],
+   "date": "2026-11-24",
+   "post_id": "437261838",
+   "brandId": "7144157",
+   "caption": "Land passed down without a will can become heirs' property. Heirs may share undivided ownership without clear title: USDA notes they can use the land but hold no clear, marketable title. Acting on the entire parcel can be harder when several heirs hold shares. State rules, and what you want to do with the land, determine whose consent is needed. Each generation can add more owners. If your family holds land this way, name it early and get help clearing title.\n\nGeneral info, not legal advice. Laws vary by state. Source: USDA, farmers.gov. AI-made visuals.\n#wellkept #heirsproperty #familyland #generationalwealth",
+   "yt_title": "What Is Heirs Property? Why Family Land Gets Stuck",
+   "tt_title": "Why family land gets stuck with no will. Not legal advice.",
+   "dot": "PASS 1616Z"
+  },
+  "WK-1128": {
+   "beats": [
+    "FLORIDA HOMESTEAD: THE RULES ARE CHANGING.",
+    "For the 2026 tax roll, the additional non-school exemption was up to $26,411 on assessed value above $50,000.",
+    "A voter-approved amendment changes non-school exemptions starting with the 2027 tax roll.",
+    "Check with your county property appraiser."
+   ],
+   "source_chip_new": "Source: Florida Dept. of Revenue",
+   "brand": "WK",
+   "beats_old": [
+    "TWO BREAKS. ONE FORM. ONE DEADLINE.",
+    "Florida homesteads get a $25,000 exemption on all property taxes, plus up to about $25,000 more above $50,000 of value (non-school taxes).",
+    "You must be the permanent resident on January 1 and file with the property appraiser by March 1.",
+    "Mark the date."
+   ],
+   "date": "2026-11-28",
+   "post_id": "437262000",
+   "brandId": "7144157",
+   "caption": "Florida's homestead exemption comes in two parts: the first $25,000 applies to all property taxes, and an additional exemption applies only to non-school taxes. For the 2026 tax roll, the additional non-school exemption was up to $26,411 on assessed value above $50,000. A voter-approved amendment changes non-school exemptions starting with the 2027 tax roll; check the county property appraiser for your eligibility and filing deadline.\n\nGeneral info, not legal advice. Laws vary by state. Source: Florida Department of Revenue. AI-made visuals.\n#wellkept #homestead #florida #propertytax",
+   "yt_title": "Florida Homestead Exemption: What Changes in 2027",
+   "tt_title": "Florida's homestead breaks change in 2027. Not legal advice.",
+   "dot": "PASS 1616Z"
+  },
+  "WK-1129": {
+   "beats": [
+    "THE BILL THAT ARRIVES AFTER A FUNERAL.",
+    "States generally must seek estate recovery for certain Medicaid-covered services received at age 55 or older.",
+    "Protections apply if a spouse, a child under 21, or a blind or disabled child survives. Rules vary by state.",
+    "Ask about it BEFORE care starts."
+   ],
+   "brand": "WK",
+   "beats_old": [
+    "THE BILL THAT ARRIVES AFTER A FUNERAL.",
+    "Federal law makes states recover long-term-care Medicaid costs, for enrollees 55 and older, from the estate after death.",
+    "States must waive recovery that would cause hardship; rules and reach vary by state.",
+    "Ask about it BEFORE care starts."
+   ],
+   "date": "2026-11-29",
+   "post_id": "437262036",
+   "brandId": "7144157",
+   "caption": "Medicaid estate recovery is federal law. Federal law generally requires states to seek recovery from the estate for certain Medicaid-covered services received at age 55 or older, including nursing-facility and home- and community-based services. Federal protections apply if a spouse, child under 21, or blind or disabled child survives. States must also have a way to waive recovery that would cause an undue hardship, and how far recovery reaches varies by state. Families who plan for care should ask about this rule before care starts, not after.\n\nGeneral info, not legal advice. Laws vary by state. Source: Medicaid.gov. AI-made visuals.\n#wellkept #medicaid #estaterecovery #eldercare",
+   "yt_title": "Medicaid Estate Recovery: What Families Learn Too Late",
+   "tt_title": "The after-death Medicaid bill, explained. Not legal advice.",
+   "dot": "PASS on DOT's exact substitution 1616Z (caption sentence 2, screen beat 2)"
+  },
+  "WTCD-1126": {
+   "beats": [
+    "BEFORE YOU PAY: KNOW WHAT THEY MUST TELL YOU.",
+    "A debt collector generally must give you validation information: who they are, which creditor, the amount, and how to dispute.",
+    "It comes during the first contact or is sent within five days. Dispute in writing within 30 days of receiving it. Collection of that amount generally pauses until they send verification or a copy of a judgment.",
+    "Quiet holiday. Know your rights."
+   ],
+   "brand": "WTCD",
+   "beats_old": [
+    "BEFORE YOU PAY A DIME: PAPER.",
+    "A collector must send a validation notice: who they are, which creditor, the amount, and how to dispute.",
+    "It comes with the first contact or within five days after. Disputing in writing within 30 days pauses collection of the disputed amount until they verify.",
+    "Quiet holiday. Know your rights."
+   ],
+   "date": "2026-11-26",
+   "post_id": "437263174",
+   "brandId": "7144228",
+   "caption": "Before you pay anything, know this. A debt collector generally must give you validation information during the first contact or send it within five days. It names the collector, the creditor, the current amount, and your dispute rights. The dispute window is generally 30 days after you receive the validation information. A timely written dispute generally pauses collection of the disputed amount until the collector sends verification or a copy of a judgment. A calm right to know, for a calm holiday.\n\nSource: CFPB. Not legal advice. Laws vary by state. AI-made visuals.\n#whattheycantdo #validationnotice #debtcollector #consumerrights",
+   "yt_title": "What Must a Debt Collector Tell You First?",
+   "tt_title": "The validation notice, explained. Not legal advice.",
+   "dot": "PASS on DOT's exact substitution 1616Z (caption dispute sentences, screen beat 3)"
+  },
+  "WTCD-1128": {
+   "beats": [
+    "A WRITTEN REQUEST CAN STOP THE CALLS.",
+    "Once a debt collector receives your written stop-contact request, it generally must stop contacting you about that debt.",
+    "Narrow exceptions apply, like a notice about a specific remedy. The debt itself remains.",
+    "Send it certified. Keep a copy."
+   ],
+   "brand": "WTCD",
+   "beats_old": [
+    "ONE LETTER. THE CALLS STOP.",
+    "Tell a collector in writing to stop contacting you, and they must stop \u2014 on every channel.",
+    "After that they may only confirm they're stopping or tell you about a specific step, like a lawsuit. The debt itself remains.",
+    "Send it certified. Keep a copy."
+   ],
+   "date": "2026-11-28",
+   "post_id": "437263233",
+   "brandId": "7144228",
+   "caption": "You can tell a debt collector in writing to stop contacting you. Once a debt collector receives your written stop-contact request, it generally must stop contacting you about that debt. Narrow exceptions apply: it may tell you its efforts are ending, or notify you about a specific remedy it or the creditor may use. The debt itself doesn't vanish, so weigh it first. The CFPB suggests certified mail and keeping a copy.\n\nSource: CFPB. Not legal advice. Laws vary by state. AI-made visuals.\n#whattheycantdo #stopcontact #debtcollector #consumerrights",
+   "yt_title": "When a Letter Can Stop Debt Collection Calls",
+   "tt_title": "The written stop-contact request. Not legal advice.",
+   "dot": "PASS on DOT's exact substitution 1616Z (YouTube title); caption Option A"
+  },
+  "TW-1126": {
+   "beats": [
+    "A CHECKLIST IN THE OPERATING ROOM.",
+    "In an 8-hospital before-and-after study, inpatient complications fell from 11% to 7% after a surgical checklist was introduced.",
+    "An association, not proof of cause. Our suggestion: try one checklist for the job you do most.",
+    "Checklists are memory you don't have to carry."
+   ],
+   "brand": "TW",
+   "beats_old": [
+    "A PAPER LIST BEAT SURGEONS' MEMORY.",
+    "In the WHO's 8-hospital study, a simple surgical checklist cut major complications from 11% to 7% of patients.",
+    "If a checklist helps in an operating room, your truck can use one too.",
+    "Checklists are memory you don't have to carry."
+   ],
+   "date": "2026-11-26",
+   "post_id": "437262417",
+   "brandId": "7144497",
+   "caption": "In the WHO Safe Surgery study published in the New England Journal of Medicine (2009, 8 hospitals, 7,688 patients), inpatient complications fell from 11% to 7% after the surgical checklist was introduced. It was a before-and-after study, so it shows an association, not proof of cause. A suggestion for any service business, not a measured result: try one written checklist for the job you do most. Warm Thanksgiving from Tested Workflows.\n\nSource: WHO / NEJM 2009. AI-made visuals.\n#TestedWorkflows #checklists #smallbusiness #quality",
+   "yt_title": "What an Operating Room Can Teach a Service Truck",
+   "tt_title": "What a surgical checklist study found. Sourced.",
+   "dot": "PASS 1616Z"
+  }
+ }
+}
