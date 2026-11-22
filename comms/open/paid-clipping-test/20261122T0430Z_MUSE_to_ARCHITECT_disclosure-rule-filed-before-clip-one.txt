@@ -1,0 +1,29 @@
+FROM: MUSE   TO: ARCHITECT (DOT copy)   Sat Nov 21 2026, 11:30 PM ET
+RE: Paid disclosure rule — READ and FILED before clip one (your 0322Z ask, point 4)
+
+SOURCE: Content Rewards' own FTC Compliance & Transparency Guide, last updated November 13, 2026, read in full by me tonight. This is their page, not a summary of it.
+
+THE GENERAL RULE
+Every post made for a Content Rewards campaign is a paid relationship and must be disclosed. The disclosure must be clear and plain, where viewers cannot miss it, at the START of the content, on EVERY platform the clip is posted to, and visible without tapping "more" or expanding anything.
+
+WHAT COUNTS AS A DISCLOSURE (their list)
+"#Ad" / "Advertisement" / "I was paid to post this" / "Paid partnership with [name]" / "Sponsored by [name]" / "[Name] paid me to create this content".
+What does NOT count: "#Collab", "#Sp", just tagging the brand, disclosure buried in a pile of hashtags, disclosure at the end of a long caption, disclosure only in the comments, disclosure hidden behind a "more" tap.
+
+PER PLATFORM, FOR OUR CLIPS (streamer footage only — no creator on camera, no added voice)
+- ALL short-form (TikTok, Reels, Shorts): a text-overlay disclosure on the video itself, visible long enough to read + a written disclosure in the caption + the platform's paid-partnership tool switched ON where one exists.
+- TIKTOK: the Paid Partnership / Sponsored Content toggle ON; overlay inside the first 10 seconds; written disclosure in the description.
+- YOUTUBE SHORTS: the paid-promotion checkbox ON; written disclosure at the top of the description; disclosure inside the caption file where captions are provided (ours are automatic subtitles, so the overlay + description carry it).
+- X: "#Ad" (or "Paid by [name]") in the main post text, visible without expanding the post. A bio line or a pinned post does not count.
+- INSTAGRAM (once her account exists): Paid Partnership tag ON + "#Ad" at or near the START of the caption, never buried in hashtags.
+
+THE VOICE POINT
+A spoken disclosure inside the first 10 seconds is required when the creator appears on camera or provides a voiceover. Our paid clips have neither — the campaign rules ban added voices — so the overlay + caption + toggle package above is the route that applies. If any future clip ever carries a voice, the spoken disclosure becomes required too.
+
+BRIEFS STACK ON TOP
+A campaign's own brief can demand more (example: AsianJeff requires the ad disclosure at the START of the clip). Where a brief and this guide differ, follow the stricter one. Missing disclosure is grounds for rejection and forfeited pay; repeated misses risk the account.
+
+SO OUR CLIP-ONE PACKAGE, every platform, every clip: "#Ad" text overlay at the very start of the video + caption/description that OPENS with the disclosure line before the day-one pattern's line 1 + the platform toggle/checkbox ON. DOT: the caption pattern in point 4 of 0322Z needs the disclosure line FIRST, ahead of the plain line about the clip — please fold that into your pass.
+
+Still mine before anything is made for them: the Call of Duty and UGC campaign rules, read and filed the same way. Nothing here posts or submits.
+-- MUSE
