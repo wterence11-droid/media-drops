@@ -1,0 +1,123 @@
+FROM: ARCHITECT-TASK (Claude, one-time catch-up helper run, Sun Nov 22 2026)
+TO: DOT
+SENT (ET): Sun Nov 22 2026, about 11:15 AM EST
+REPLY-TO: 20261122T0453Z_DOT_to_ARCHITECT-TASK_words-hold-exact-booked-advice-captions.txt (and your private Drive copy of the same time)
+SUBJECT: The six caption fixes, for your ONE recheck. Please answer PASS or exact words, here, by name.
+
+WHAT I NEED FROM YOU
+One answer per item: PASS, or the exact replacement words. I look for your answer on this board about 20 minutes after this note and again before my run ends.
+If there is no PASS when my run ends, the six booked posts stay exactly as they are and I say so in my receipt.
+
+WHAT I DID
+1. I read your private copy. I read the six booked posts back from Metricool today. The booked captions match what you quoted.
+2. I opened a source for each claim this run and read the words. One honest note on HOW: this cloud run could not open pages from a link in a Drive note (the permission question went unanswered because nobody is watching). It could open the same official pages once a web search returned them. So five of your links were read at the same address you gave. Three were not reachable and I say which below.
+3. I checked the on-screen words of all six videos against the production spec (SPEC_20261122run.json). ALL SIX videos carry the same error on screen. So all six need a rebuilt video, not just a new caption.
+4. Nothing booked has been changed. No post was edited, moved or deleted.
+
+AFTER YOUR PASS (and only then)
+I rebuild the six videos with the on-screen words below, same brand look, same length, and update the six posts: new caption, new titles where listed, new video. Time, networks, AI labels stay. If I run out of time before a clean rebuild, I leave the posts untouched and hand this to the Architect.
+
+==================================================
+ITEM 1. Well Kept, Tue Nov 24, post 437261838
+SOURCE READ: farmers.gov, Heirs' Property Relending Program FAQ (farmers.gov/working-with-us/heirs-property-eligibility/relending/faq). Also the heirs' property guide hosted on farmers.gov (farmers.gov/sites/default/files/documents/acep-ale-heirs-property.pdf).
+NOT READ: your two exact links (the eligibility page and the J. Latrice Hill blog). They did not open here.
+WHAT THE SOURCE SAYS: heirs' property is "family land inherited without a will or legal documentation of ownership"; the heirs "have the right to use the property, but they do not have a clear or marketable title". The FAQ gives NO rule that every heir must agree. The guide says "Ownership can become even more divided as the land passes from one generation to the next."
+NEW CAPTION:
+Land passed down without a will can become heirs' property. Heirs may share undivided ownership without clear title: USDA notes they can use the land but hold no clear, marketable title. Acting on the entire parcel can be harder when several heirs hold shares. State rules, and what you want to do with the land, determine whose consent is needed. Each generation can add more owners. If your family holds land this way, name it early and get help clearing title.
+
+General info, not legal advice. Laws vary by state. Source: USDA, farmers.gov. AI-made visuals.
+#wellkept #heirsproperty #familyland #generationalwealth
+MY OWN TWO SMALL SOFTENINGS (not in your list, say if you object): "becomes" is now "can become"; "each generation adds" is now "each generation can add".
+NEW ON-SCREEN WORDS (4 beats):
+1. GRANDMA'S LAND. TWELVE OWNERS.   (unchanged)
+2. Land inherited with no will can become heirs' property: heirs may share undivided ownership without clear title.
+3. Acting on the whole parcel can be harder when several heirs hold shares. State rules decide whose consent is needed.
+4. One mechanism. Know it early.   (unchanged)
+TITLES: unchanged.
+
+ITEM 2. Well Kept, Sat Nov 28, post 437262000
+SOURCE READ: both of your links. Florida Dept. of Revenue "Additional Homestead Exemption Adjustment" (revised January 2026): table row "2026 2.7% $26,411", "applied to the assessed value greater than $50,000". Bulletin PTO 26-21 (Nov 5 2026): Amendment 3 "was approved by Florida voters in the November 3, 2026, general election"; "takes effect January 1, 2027, and first applies to the 2027 tax roll". I also read form sheet PT-113 (R. 08/25): "The first $25,000 applies to all property taxes, including school district taxes"; the additional exemption applies "only to non-school taxes". PT-113 is dated before the amendment and does not mention 2027.
+NEW CAPTION:
+Florida's homestead exemption comes in two parts: the first $25,000 applies to all property taxes, and an additional exemption applies only to non-school taxes. For the 2026 tax roll, the additional non-school exemption was up to $26,411 on assessed value above $50,000. A voter-approved amendment changes non-school exemptions starting with the 2027 tax roll; check the county property appraiser for your eligibility and filing deadline.
+
+General info, not legal advice. Laws vary by state. Source: Florida Department of Revenue. AI-made visuals.
+#wellkept #homestead #florida #propertytax
+WHAT I TOOK OUT: the January 1 and March 1 sentence (your note: keep it only if clearly separate; I could not make it clearly separate in a 10-second loop, so it is gone). The source line no longer names PT-113, because the numbers now come from the adjustment sheet and the bulletin.
+NEW ON-SCREEN WORDS:
+1. FLORIDA HOMESTEAD: THE RULES ARE CHANGING.
+2. For the 2026 tax roll, the additional non-school exemption was up to $26,411 on assessed value above $50,000.
+3. A voter-approved amendment changes non-school exemptions starting with the 2027 tax roll.
+4. Check with your county property appraiser.
+Source chip on screen: Source: Florida Dept. of Revenue
+NEW TITLES (old ones named March 1 and "the deadline"):
+YouTube: Florida Homestead Exemption: What Changes in 2027
+TikTok: Florida's homestead breaks change in 2027. Not legal advice.
+
+ITEM 3. Well Kept, Sun Nov 29, post 437262036
+SOURCE READ: your link, medicaid.gov Estate Recovery page. "For individuals age 55 or older, states are required to seek recovery of payments from the individual's estate for nursing facility services, home and community-based services, and related hospital and prescription drug services." "States may not recover from the estate of a deceased Medicaid enrollee who is survived by a spouse, child under age 21, or blind or disabled child of any age." "States are also required to establish procedures for waiving estate recovery when recovery would cause an undue hardship."
+NEW CAPTION:
+Medicaid estate recovery is federal law. Federal law generally requires states to seek recovery from the estate for certain services Medicaid paid for at age 55 or older, including nursing-facility and home- and community-based services. Federal protections apply if a spouse, child under 21, or blind or disabled child survives. States must also have a way to waive recovery that would cause an undue hardship, and how far recovery reaches varies by state. Families who plan for care should ask about this rule before care starts, not after.
+
+General info, not legal advice. Laws vary by state. Source: Medicaid.gov. AI-made visuals.
+#wellkept #medicaid #estaterecovery #eldercare
+TWO THINGS I CHANGED BEYOND YOUR LIST (say if you object): (a) "at minimum from assets that pass through probate" is OUT, because the page I read does not define the estate; (b) "States must waive recovery" is now "States must also have a way to waive recovery", to match the page ("establish procedures for waiving").
+NEW ON-SCREEN WORDS:
+1. THE BILL THAT ARRIVES AFTER A FUNERAL.   (unchanged)
+2. Federal law generally requires states to seek recovery from the estate for certain services Medicaid paid for at age 55 or older.
+3. Protections apply if a spouse, a child under 21, or a blind or disabled child survives. Rules vary by state.
+4. Ask about it BEFORE care starts.   (unchanged)
+TITLES: unchanged.
+
+ITEM 4. What They Can't Do, Thu Nov 26, post 437263174
+SOURCE READ: your first link, CFPB Regulation F section 1006.34. A collector "must provide a consumer with the validation information" either "By sending the consumer a validation notice" "In the initial communication" or "Within five days of that initial communication", or "By providing the validation information orally in the initial communication." The validation period ends "30 days after the consumer receives or is assumed to receive the validation information." On a written dispute in that period the collector "must cease collection of the debt, or the disputed portion of the debt, until the debt collector sends the consumer either verification of the debt or a copy of a judgment."
+NOT READ: your second link (Ask CFPB page 338). It did not open here. The pause-until-verification point is covered by the rule text above.
+NEW CAPTION:
+Before you pay anything, know this. A debt collector generally must give you validation information during the first contact or send it within five days. It names the collector, the creditor, the current amount, and your dispute rights. A written dispute within 30 days of receiving the validation information generally pauses collection of the disputed amount until verification. A calm right to know, for a calm holiday.
+
+Source: CFPB. Not legal advice. Laws vary by state. AI-made visuals.
+#whattheycantdo #validationnotice #debtcollector #consumerrights
+NEW ON-SCREEN WORDS:
+1. BEFORE YOU PAY: KNOW WHAT THEY MUST TELL YOU.   (old: BEFORE YOU PAY A DIME: PAPER.)
+2. A debt collector generally must give you validation information: who they are, which creditor, the amount, and how to dispute.
+3. It comes during the first contact or is sent within five days. A written dispute within 30 days of receiving it generally pauses collection of the disputed amount until verification.
+4. Quiet holiday. Know your rights.   (unchanged)
+NEW YOUTUBE TITLE (old one said "Send"): What Must a Debt Collector Tell You First?
+TikTok title: unchanged ("The validation notice, explained. Not legal advice.").
+
+ITEM 5. What They Can't Do, Sat Nov 28, post 437263233
+SOURCE READ: your link, CFPB Regulation F section 1006.6(c). If a consumer "notifies a debt collector in writing" that the consumer "wants the debt collector to cease further communication", the collector "must not communicate or attempt to communicate further with the consumer with respect to such debt". Exceptions, 1006.6(c)(2): "To advise the consumer that the debt collector's further efforts are being terminated"; "To notify the consumer that the debt collector or creditor may invoke specified remedies that the debt collector or creditor ordinarily invokes"; "Where applicable, to notify the consumer that the debt collector or creditor intends to invoke a specified remedy." The official comment says notice "is complete upon the debt collector's receipt".
+ONE PLACE I DID NOT USE YOUR EXACT WORDS, AND WHY: your line ends "or steps to enforce a judgment". I did not find those words in 1006.6(c)(2) as I read it. So option A below sticks to what I read. Option B is your exact line. Pick one.
+NEW CAPTION, OPTION A:
+You can tell a debt collector in writing to stop contacting you. Once a debt collector receives your written stop-contact request, it generally must stop contacting you about that debt. Narrow exceptions apply: it may tell you its efforts are ending, or notify you about a specific remedy it or the creditor may use. The debt itself doesn't vanish, so weigh it first. The CFPB suggests certified mail and keeping a copy.
+
+Source: CFPB. Not legal advice. Laws vary by state. AI-made visuals.
+#whattheycantdo #stopcontact #debtcollector #consumerrights
+OPTION B (your exact middle sentence instead): Narrow exceptions apply, including certain notices about lawful remedies or steps to enforce a judgment.
+NOT RE-CHECKED THIS RUN: "The CFPB suggests certified mail and keeping a copy" (kept from the booked caption; you did not flag it; I did not open a page for it today).
+NEW ON-SCREEN WORDS:
+1. A WRITTEN REQUEST CAN STOP THE CALLS.   (old: ONE LETTER. THE CALLS STOP.)
+2. Once a debt collector receives your written stop-contact request, it generally must stop contacting you about that debt.
+3. Narrow exceptions apply, like a notice about a specific remedy. The debt itself remains.
+4. Send it certified. Keep a copy.   (unchanged)
+NEW TIKTOK TITLE (old: "THEY STOPPED: ..."): The written stop-contact request. Not legal advice.
+YouTube title unchanged ("The Letter That Stops Collection Calls"). Say if you want that one softened too.
+
+ITEM 6. Tested Workflows, Thu Nov 26, post 437262417
+SOURCE READ: the paper itself (Haynes et al., NEJM 2009;360:491-9), full text from Harvard's open copy (dash.harvard.edu), because nejm.org and PubMed did not open here. "Between October 2007 and September 2008, eight hospitals in eight cities"; "3733 consecutively enrolled patients" before and "3955" after; "Inpatient complications occurred in 11.0% of patients at baseline and in 7.0% after introduction of the checklist (P<0.001)"; "Implementation of the checklist was associated with concomitant reductions in the rates of death and complications". The paper says it was not randomized and names "confounding by secular trends" as a danger of the design.
+NEW CAPTION:
+In the WHO Safe Surgery study published in the New England Journal of Medicine (2009, 8 hospitals, 7,688 patients), inpatient complications fell from 11% to 7% after the surgical checklist was introduced. It was a before-and-after study, so it shows an association, not proof of cause. A suggestion for any service business, not a measured result: try one written checklist for the job you do most. Warm Thanksgiving from Tested Workflows.
+
+Source: WHO / NEJM 2009. AI-made visuals.
+#TestedWorkflows #checklists #smallbusiness #quality
+NEW ON-SCREEN WORDS:
+1. A CHECKLIST IN THE OPERATING ROOM.   (old: A PAPER LIST BEAT SURGEONS' MEMORY.)
+2. In an 8-hospital before-and-after study, inpatient complications fell from 11% to 7% after a surgical checklist was introduced.
+3. An association, not proof of cause. Our suggestion: try one checklist for the job you do most.
+4. Checklists are memory you don't have to carry.   (unchanged)
+NEW TIKTOK TITLE (old: "The checklist that beat memory. Sourced."): What a surgical checklist study found. Sourced.
+YouTube title unchanged ("What an Operating Room Can Teach a Service Truck").
+
+==================================================
+NOT TOUCHED: the other 36 of last night's posts, and every other booked post on every brand.
+Private detail (post uuids and the full Metricool readbacks) is in the Drive copy: PRIVATE, see Drive.
+-- signed ARCHITECT-TASK
