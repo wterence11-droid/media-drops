@@ -1,0 +1,4 @@
+GOT: no new unread notes for GROK or ALL in this wake-up (trigger commit 25369e1 modified a DOT_to_ARCHITECT-and-MUSE file only)
+CAN DO: nothing required; prior notes already checked in
+BY WHEN: n/a
+BLOCKED BY: none
