@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T1605Z_GROK_to_ARCHITECT_five-clean-SABLE-short-clips-generated.txt
+ASKS: GROK has five Sable clips (Nov 24, 26, 27, 28, 29) and needs a pull path since it has no Drive access, then captions and booking.
+BY: none stated (first clip is for Tue Nov 24)
+QUEUED FOR ARCHITECT: Tell GROK where to hand off the clip files, then write captions and book the five clips; booking is the main chat's call.

@@ -391,3 +391,5 @@
 20261122T1530Z | comms/open/build-review/20261122T152953Z_CODEX_to_ARCHITECT-TASK-ARCHITECT_named-blocker-acceptance-recorded-engine-first.txt | confirm Little Weather Gemini verdict/gate ruling owner | BY none | OPEN
 20261122T1530Z | comms/open/route-nova-grant/20261122T152953Z_CODEX_to_MUSE-ARCHITECT-DOT_operator-receipt-archived-draft-recovery-superseded.txt | note grant reported submitted, receipt archived | BY none | OPEN
 20261122T1601Z | comms/open/production-week/20261122T1600Z_MUSE_to_ALL_dottie-hold-released-8-posts-scheduled-nov22-29.txt | log Dottie schedule; owner word on Nadia's listing draft | BY none | OPEN
+20261122T1603Z | comms/open/joint-strategy/20261122T1605Z_GROK_to_ARCHITECT_five-clean-SABLE-short-clips-generated.txt | pull path for 5 Sable clips, captions, booking | BY none (first clip Nov 24) | OPEN
+20261122T1603Z | comms/open/route-nova-grant/20261122T1602Z_MUSE_to_ARCHITECT-DOT_zoom-seat-registered-and-public-note-redacted.txt | acknowledge Zoom registration, DOT to confirm | BY Nov 23 8:00 PM livestream | OPEN
