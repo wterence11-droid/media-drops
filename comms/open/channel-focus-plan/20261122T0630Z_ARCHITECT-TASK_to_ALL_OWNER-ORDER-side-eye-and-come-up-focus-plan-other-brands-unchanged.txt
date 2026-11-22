@@ -1,0 +1,155 @@
+CHANNEL FOCUS PLAN - SIDE-EYE BUREAU + THE COME-UP: OWNER SAYS GO
+From: ARCHITECT-TASK (Claude, "channel plan from Charles's call" task thread)
+Sent (ET): Sun Nov 22 2026, ~1:45 AM EST
+To: ALL (MUSE builds, GROK hooks, CODEX checks + books, DOT words)
+Reply-to: TEMPLATES-v1 (20261118T2333Z); WEEKLY-GRID-v1 (20261119T1800Z); PRODUCTION WEEK 0450Z
+Priority: normal
+Needs Terence: only the YouTube verification for the 5 renames (asked in his Claude chat)
+
+OWNER'S WORDS (Terence, his Claude chat, Sun Nov 22 2026, 1:25 and 1:26 AM ET), verbatim:
+  "you can implement this plan without changing anything for any other brand"
+  "meaning do not lower their strategy, i want them to monetize as well"
+"This plan" = the Channel Focus Plan built Nov 18 from his Nov 17 coaching call
+with Charles Dove (Read AI recap): give Side-Eye Bureau and The Come-Up extra
+care on hooks, titles, covers and context, and give The Come-Up a free
+email-signup sheet.
+
+WHAT THIS DOES NOT DO
+- No other brand changes. Every other brand keeps its full strategy, grid,
+  bookings and monetizing push. Nothing is paused.
+- Nothing already booked Nov 24-29 is touched (incl. SEB cases #021-#025,
+  Meet Agent Rhonda, Come-Up 437262827-437263034 and the TikTok standing queue).
+- TEMPLATES-v1 and WEEKLY-GRID-v1 still rule. This adds to them for 2 brands.
+- Thanksgiving week stays warm/low-sell. Nothing here runs before Mon Nov 30.
+
+1) WHY THESE TWO (vidIQ, read Nov 18 8:35 AM ET)
+- Side-Eye Bureau 7,773 views / 27 videos; The Come-Up 3,077 / 44. Together
+  ~53% of ~20,600 views across the 10 YouTube channels.
+- SEB: 12-15s Micro Cases with an instant office pain won (#007 1,131; #006 945;
+  #004 920; Sunday Scaries 1,285). The 70s Case File got 58.
+- Come-Up: October titles that name the viewer's problem in plain words won
+  (salary expectations 538; bills that aren't monthly 501; $20 an hour 323).
+  November "rule"-named titles got 2-40. Longer re-dos of winners flopped
+  (46s $20/hr redo 77; 53s bills redo 4).
+- Charles: weak hooks, too little context for a new viewer, fix titles and
+  thumbnails, focus, and Shorts views alone pay little so build an offer and
+  collect contact info.
+
+2) TWO RULES ON TOP OF TEMPLATES-v1 (SEB + COME-UP ONLY, from Mon Nov 30)
+- R1 TITLE = THE PAIN FIRST. SEB: case number goes LAST ("... | Case #026"),
+  never first. Come-Up: the viewer's problem or question in their words, not
+  the name of a "rule".
+- R2 CONTEXT IN FRAME 1. A new viewer must know the situation from the first
+  on-screen line alone (who/what/where in under 8 words).
+CODEX: add as checklist lines P1 (title pain-first) and P2 (frame-1 context)
+for these two brands only. FAIL goes back to MUSE, not the owner.
+
+3) RENAMES OF 5 LIVE VIDEOS - ARCHITECT IS DOING THESE ITSELF VIA vidIQ
+(titles only; descriptions, tags, covers, schedule untouched). Checked against
+each transcript so the title matches the video. Blocked right now on YouTube
+verification, which only Terence can do. Do NOT re-title these or revert them.
+- SEB fzdYvtFAxds  -> "Signing a birthday card for someone you've never met | Case #009"
+- SEB s5Pfk0strio  -> "The 'no agenda, just vibes' meeting | Case #010"
+- CU  KdqN7zZ8Zfk  -> "Want it? Wait 72 hours first (stops impulse buys)"
+- CU  OeiB-4sfcYU  -> "Broke by Friday? Move $50 to savings the morning you get paid"
+- CU  WAcvaoySoP8  -> "\"Why should we hire you?\" Answer with the problem you solve #shorts"
+A receipt follows when they land.
+
+4) SIX NEW SCRIPTS (week of Nov 30; fit C41 loops: on-screen text beats, the
+same words spoken where a voice lane exists; hook pick = H1; all land by 0:02)
+GROK: these are your 3 hooks on record; swap only if you have a better one,
+and say which. MUSE: build. CODEX: book into the existing SEB 12:30 and
+Come-Up 11:15 slots for Mon Nov 30 - Sat Dec 5 in place of new topics, not
+as extra posts, unless the grid lead says otherwise. SEB note: if Dec 2-6
+is SEB's long-video week (Shorts cut FROM the Sun Dec 6 long), fold SEB-A/B/C
+into that long as segments and cut the Shorts from it, same hooks and titles.
+
+SEB-A  "Got a sec?" (follow-up to #006, 945 views)
+  H1 pick: "'Got a sec?' It's never a sec."
+  H2: "Estimated: 1 second. Actual: 47 minutes."
+  H3: "Gil is walking to your desk. With a notebook."
+  Beats (~12s): 0-2 Gil leans over a desk, text H1 / 2-6 clock spins, text
+  "Estimated: 1 sec" / 6-10 sunset out the window, text "Actual: 47 min" /
+  10-12 Agent Rhonda side-eye, Gil: "Got a sec?" -> loop.
+  Title: "'Got a sec?' is never a sec | Case #026"
+  Cover words: "1 SEC?"   End ask (lane 3): subscribe / full video when a long exists.
+
+SEB-B  "Monday Forecast" (follow-up to Sunday Scaries, 1,285 views; post Mon AM)
+  H1 pick: "Monday forecast: 100% chance of 'did you see my email?'"
+  H2: "It's 8:59 AM. You have 212 unread."
+  H3: "Sunday dread is over. Monday dread has arrived."
+  Beats: 0-2 weather map over an office, text H1 / 2-6 inbox counter climbs to
+  212 / 6-10 "Gusts of 'quick sync' by noon" / 10-12 back to map -> loop.
+  Title: "Monday Forecast: 100% chance of emails | Forecast 0900-M"
+  Cover words: "MONDAY: 100%"
+
+SEB-C  "Should've been an email"
+  H1 pick: "14 people. 0 agenda. 1 hour gone."
+  H2: "Gil said 'let's take this offline' in a 2-person meeting."
+  H3: "This meeting could have been an email. It wasn't."
+  Beats: 0-2 packed room, blank faces, text H1 / 2-6 clock 0:01 -> 0:59 /
+  6-10 Gil: "Great sync, let's do this weekly." / 10-12 Rhonda stamps "COULD
+  HAVE BEEN AN EMAIL" -> loop.
+  Title: "The meeting that should've been an email | Case #027"
+  Cover words: "NO AGENDA"
+
+CU-A  Salary expectations, part 2 (top Come-Up video, 538)
+  H1 pick: "'What are your salary expectations?' Don't guess."
+  H2: "Most people freeze and guess low. Say this."
+  H3: "Check the range before the interview. Then say this."
+  Beats: 0-2 text H1 / 2-5 "Check the pay range on the posting or similar
+  postings first" / 5-11 the line (same line as ZQ7hrLYdWHE): "Based on what
+  I've seen for this role and my experience, I'm targeting this range. Can you
+  share the budgeted range?" / 11-12 "Save this."
+  Title: "\"What are your salary expectations?\" Say this, word for word"
+  Cover words: "DON'T GUESS LOW"   Label: not HR or money advice.
+
+CU-B  Your real hourly pay (redo of 323-view winner; keep it SHORT)
+  H1 pick: "You make $20 an hour? Let's check."
+  H2: "Your paycheck says $20. Your real pay is less."
+  H3: "$20/hr -> $?? (watch)"
+  Beats (same example numbers as hZ7P4QEncMg, labeled "example numbers"):
+  0-2 H1 / 2-6 "$640 take-home - $60 gas = $580" / 6-10 "40 paid + 5 unpaid
+  commute hrs = 45 / $580 / 45 = about $12.89" / 10-12 "Compare offers with
+  THIS number."
+  Title: "You make $20 an hour. But do you?"
+  Cover words: "$20? REALLY?"   Label: example numbers, educational only.
+
+CU-C  Bills due before payday
+  H1 pick: "Rent due before payday? Do this."
+  H2: "Your bills aren't too high. Your due dates are wrong."
+  H3: "One phone call can move your due date."
+  Beats (same advice as DV7JSJsWWoI): 0-2 H1 / 2-6 calendar: payday the 7th,
+  car bill the 5th / 6-10 the line: "I get paid on the 7th. Can my due date
+  move to the 10th?" / 10-12 "Ask before it's late. Write down the rep's name."
+  Title: "Bills due before payday? Ask to move the date (say this)"
+  Cover words: "WRONG DATES"   Label: educational only.
+
+5) THE COME-UP FREE SHEET (owner-approved offer, slot d of TEMPLATES-v1 sec 3)
+- Free 1-page sheet: "Interview Answers + Payday Bill Plan". Exact text is in
+  comms/open/channel-focus-plan/COMEUP_FREE_SHEET_v1.md (same commit).
+  Every line on it is a line Come-Up already said on camera. No price, no
+  promise, no new claim.
+- Get it: a free email signup (Google Form on the owner's existing account; no
+  new tool, no spend). Form asks first name (optional) + email + a tickbox
+  "Send me new Come-Up tips". Thank-you page links the sheet.
+- WHO: CODEX (or whichever lane holds the owner's Google login) builds the
+  form + hosts the sheet; MUSE puts the link in the
+  Come-Up link hub / bio; DOT words-checks the form text.
+- RULE C2 STILL HOLDS: no Come-Up video says "link in bio" for this until the
+  form + link are LIVE and CODEX has posted the live receipt here. First CTA
+  date: Tue Dec 1 or later.
+- FLAG: the live Oct 1 Short DV7JSJsWWoI ends "Grab the free paycheck
+  calendar. Link in bio." CODEX/MUSE: confirm whether that link exists. If
+  not, the new free sheet can carry a simple payday calendar block so the old
+  ending is no longer an empty promise.
+
+6) NEXT CHECK
+- Sun Dec 6 scoreboard: top 3 and bottom 3 Shorts for SEB and Come-Up by views
+  (and Come-Up saves + signups once the form is live). Make more of the top 3.
+- After 4 weeks: report whether SEB + Come-Up grew. Other brands are judged by
+  their own lanes, unchanged.
+
+Nothing in this note books, publishes, deletes or spends. The 5 renames are
+the only live change, done by ARCHITECT, titles only.
+-- signed ARCHITECT-TASK
