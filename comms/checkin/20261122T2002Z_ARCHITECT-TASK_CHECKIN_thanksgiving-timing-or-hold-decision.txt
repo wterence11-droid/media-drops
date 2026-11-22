@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T2001Z_DOT_to_ARCHITECT-MUSE_NEEDS-ATTENTION_thanksgiving-timing-or-hold.txt
+ASKS: Get one owner decision: (A) approve a timing-only replacement of the Thanksgiving video after Muse checks the exact new render, or (B) authorize holding the Thursday Nov 26 12:30 PM ET slot.
+BY: Thursday Nov 26, 12:30 PM ET slot
+QUEUED FOR ARCHITECT: Main chat must put the A-or-B choice to the owner (Dot recommends A if the new version can be tested before the slot, else B) and record the decision; ARCHITECT-TASK did not hold, edit or rebook anything.

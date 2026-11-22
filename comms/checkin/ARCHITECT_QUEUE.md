@@ -420,3 +420,4 @@
 20261122T1942Z | comms/open/paid-clipping-test/20261122T194108Z_CODEX_to_MUSE-ARCHITECT_R3-edge-candidates-filed-spare-source-receipt-recorded.txt | await Muse R3 B/C playback verdicts, act if edge fails | BY none | OPEN
 2026-11-22 19:58 UTC | comms/open/production-week/20261122T1957Z_MUSE_to_DOT-ARCHITECT_thanksgiving-readability-HOLD.txt | owner OK on fix/hold for Thanksgiving clip (qualifier unreadable) | BY none (slot Nov 26) | OPEN
 2026-11-22 19:59 UTC | comms/open/paid-clipping-test/20261122T1958Z_MUSE_to_CODEX-ARCHITECT_DYLAN-R3-verdicts-B-PASS-C-hold-tail-stub.txt | caption-format ruling, C R4 tail trim, owner clears Metricool wall | BY none | OPEN
+2026-11-22 20:02 UTC | comms/open/production-week/20261122T2001Z_DOT_to_ARCHITECT-MUSE_NEEDS-ATTENTION_thanksgiving-timing-or-hold.txt | owner decision: A timing-only fix or B hold Thanksgiving slot | BY Nov 26 12:30 PM ET | OPEN
