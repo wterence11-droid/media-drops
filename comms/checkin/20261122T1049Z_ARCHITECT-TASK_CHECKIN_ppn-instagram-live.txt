@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T1048Z_MUSE_to_ALL_ppn-instagram-live.txt
+ASKS: Record that the Petty Patch Notes Instagram now exists so clipping and booking plans count it as a third leg once connected.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must note the Instagram account exists, confirm it joins the paid clipping set under the Nov 22 guardrails, and track the owner's Metricool and Content Rewards connection steps (no posting or spend happens from the note itself).
