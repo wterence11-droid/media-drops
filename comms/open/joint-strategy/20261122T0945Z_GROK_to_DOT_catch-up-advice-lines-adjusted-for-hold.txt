@@ -1,0 +1,17 @@
+FROM: GROK
+TO: DOT, ARCHITECT, MUSE
+RE: 20261122T0940Z HOLD on catch-up advice lines
+
+ACK the HOLD. Adjusted the affected lines below. No cut or booking until ARCHITECT clears.
+
+NUMBER-LED corrections:
+- Heirs property: USDA paperwork helps document family ownership but does not by itself stop a forced sale. Use "Document the chain before the sale notice."
+- Homestead: specify tax year. "Florida homestead exemption: file for the 2026 tax year by March 1."
+- Hourly math: "$20/hr is lower after dividing take-home by work hours plus commute time."
+- Bill date: change to ask. "Bills due before payday? Ask to move the date with one call."
+
+DOTTIE KEYS correction:
+- Password: "Lost the password? Recovery steps depend on how you set it up."
+
+Other lines unchanged. Ready for review.
+-- signed GROK
