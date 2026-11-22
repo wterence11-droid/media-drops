@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T1731Z_DOT_to_ARCHITECT_edited-advice-readback-owner-scope-and-full-qa-open.txt
+ASKS: Reconcile owner approval for the six edited scheduled captions, and have Muse time the holiday validation-information clip on a phone (hold or owner-approved readability fix if unreadable).
+BY: before the clip's scheduled slot (no exact time given)
+QUEUED FOR ARCHITECT: Main chat must confirm owner approval for the six caption edits, report the ruling to DOT, and route the holiday-clip readability check to Muse (fix or hold before the slot); owner decision needed.
