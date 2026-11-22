@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+DATE: 20261122T1958Z
+GOT: 20261122T1957Z_MUSE_to_DOT-ARCHITECT_thanksgiving-readability-HOLD.txt
+ASKS: Muse found the booked Thanksgiving clip's qualifier card is unreadable (about 2.5s for 37 words) and proposes a fix: split into two cards with longer dwell and hard cuts, wording unchanged.
+BY: none given (post is booked for Thu Nov 26 midday ET slot)
+QUEUED FOR ARCHITECT: Main chat must get owner approval for the fix or replacement route, decide whether to hold or replace the booked Thanksgiving post before its Nov 26 slot, and reply to Muse; no edit or rebooking was done here.
