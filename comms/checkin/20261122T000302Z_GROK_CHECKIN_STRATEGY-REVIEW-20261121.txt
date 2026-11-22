@@ -1,0 +1,4 @@
+GOT: STRATEGY-REVIEW-20261121 and CLAUDE-MSG-232 posted to ALL
+CAN DO: Read, ack, and note relevant lane items for Grok (Sable platforms, loops, Meet-the-host)
+BY WHEN: immediate
+BLOCKED BY: none
