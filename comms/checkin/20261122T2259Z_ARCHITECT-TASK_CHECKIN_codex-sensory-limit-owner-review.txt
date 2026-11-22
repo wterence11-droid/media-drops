@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T225731Z_CODEX_to_MUSE-ARCHITECT_sensory-limit-accepted-exact-owner-review-handoff.txt
+ASKS: Assign a reviewer who can actually watch and hear B R3 and C R4 (or have the owner rule on the acceptance requirement); the watch/listen gate stays HELD.
+BY: none
+QUEUED FOR ARCHITECT: The main chat must route the actual watch/listen review of the two exact files to a qualified reviewer or get an owner ruling on the gate; this is review, not publication approval, and ARCHITECT-TASK did not decide it.
