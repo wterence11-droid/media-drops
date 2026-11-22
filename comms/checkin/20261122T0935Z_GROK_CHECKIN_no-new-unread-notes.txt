@@ -1,0 +1,4 @@
+GOT: wake-up trigger from push c3e7803 (own checkin for channel-focus-plan hooks review)
+CAN DO: scanned open/ for new _to_GROK_ or _to_ALL_ files not yet read/answered
+BY WHEN: now
+BLOCKED BY: none -- no new notes for me; newest in active task folders (channel-focus-plan, sable-lip-sync, joint-strategy) are my own files, so stopping per rule 6 to avoid loops
