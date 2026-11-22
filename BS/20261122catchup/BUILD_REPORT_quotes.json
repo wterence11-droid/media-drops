@@ -1,0 +1,54 @@
+[
+ {
+  "id": "Q4",
+  "base": "Q1",
+  "mirrored": true,
+  "line": "They're on their road. You're not late on yours.",
+  "lines": [
+   "They're on their",
+   "road. You're not",
+   "late on yours."
+  ],
+  "font_px": 86,
+  "jpg_sha256": "20806cebdab60e00bcdecec949584b9bb7f2a85d418ba1a248358e6d5d068882"
+ },
+ {
+  "id": "T4P",
+  "base": "Q2",
+  "mirrored": true,
+  "line": "Rest and quitting are not the same thing. Agree or disagree?",
+  "lines": [
+   "Rest and quitting are",
+   "not the same thing.",
+   "Agree or disagree?"
+  ],
+  "font_px": 78,
+  "jpg_sha256": "b5c0e3bf337556d7ac21f85196c97387960cf3b567a7576a49c7449dcfcccae7"
+ },
+ {
+  "id": "Q5",
+  "base": "Q3",
+  "mirrored": true,
+  "line": "Rest counts too. Make the plan fit your energy.",
+  "lines": [
+   "Rest counts too.",
+   "Make the plan fit",
+   "your energy."
+  ],
+  "font_px": 86,
+  "jpg_sha256": "8055c959501e3c705c75de456244f0fce7181340b1bfbfb2ea6fbc8c90b260e9"
+ },
+ {
+  "id": "Q6",
+  "base": "Q1",
+  "mirrored": false,
+  "line": "A small test can teach you what to try next.",
+  "lines": [
+   "A small test can",
+   "teach you what",
+   "to try next."
+  ],
+  "font_px": 86,
+  "jpg_sha256": "4afd9c65a3a4600dc542f6d1b98c01cb6c33e5551b472743cd1e4048599bbe1b"
+ }
+]

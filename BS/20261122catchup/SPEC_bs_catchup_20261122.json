@@ -1,0 +1,120 @@
+{
+ "run": "20261122 Both Sides catch-up (ARCHITECT-TASK helper)",
+ "brandId": "7493745",
+ "timezone": "America/New_York",
+ "rule": "Every word is DOT-passed. No new claims. Carousels are the v2 files DOT's 184500Z replacements produced (readback 1944Z, PASS 195600Z), converted PNG to JPG only. Quote pictures set a DOT-passed line in the brand's own quote look; caption = the line + DOT-passed caption template (182500Z).",
+ "items": [
+  {
+   "id": "BS-004",
+   "date": "2026-11-24",
+   "time": "12:15:00",
+   "format": "carousel 8 slides",
+   "networks": [
+    "facebook",
+    "instagram"
+   ],
+   "media": [
+    "BS-004_s1.jpg",
+    "BS-004_s2.jpg",
+    "BS-004_s3.jpg",
+    "BS-004_s4.jpg",
+    "BS-004_s5.jpg",
+    "BS-004_s6.jpg",
+    "BS-004_s7.jpg",
+    "BS-004_s8.jpg"
+   ],
+   "caption": "Waiting is not proof that a plan is working, or that it is failing. Look at what you have learned, what needs to change, and whether the next step still fits. Save this for a thoughtful reset. AI-made images. #bothsides #patience #consistency #slowgrowth",
+   "words_source": "BS-004 v2, DOT exact replacements 20261114T184500Z, readback 20261114T1944Z, DOT PASS 20261114T195600Z. Never posted before."
+  },
+  {
+   "id": "Q4",
+   "date": "2026-11-25",
+   "time": "12:15:00",
+   "format": "quote picture",
+   "networks": [
+    "facebook",
+    "instagram",
+    "threads"
+   ],
+   "media": [
+    "Q4.jpg"
+   ],
+   "on_picture": "They're on their road. You're not late on yours.",
+   "caption": "They're on their road. You're not late on yours. Save this for the day you need it. AI-made image. #bothsides #mindset #keepgoing",
+   "words_source": "Line = BS-001 pair 2, other side, passed as written (DOT 184500Z). Caption template passed (DOT 182500Z). BS-001 posted Nov 17, 8 days before."
+  },
+  {
+   "id": "T4P",
+   "date": "2026-11-26",
+   "time": "12:15:00",
+   "format": "quote picture (Thanksgiving: warm, no ask to save, follow or buy)",
+   "networks": [
+    "facebook",
+    "instagram",
+    "threads"
+   ],
+   "media": [
+    "T4P.jpg"
+   ],
+   "on_picture": "Rest and quitting are not the same thing. Agree or disagree?",
+   "caption": "Rest and quitting are not the same thing. Agree or disagree? AI-made image. #bothsides #mindset #keepgoing",
+   "words_source": "Text post T4, passed as written (DOT 182500Z). Never posted before. Set as a picture so Instagram has a post that day."
+  },
+  {
+   "id": "BS-005",
+   "date": "2026-11-27",
+   "time": "12:15:00",
+   "format": "carousel 8 slides",
+   "networks": [
+    "facebook",
+    "instagram"
+   ],
+   "media": [
+    "BS-005_s1.jpg",
+    "BS-005_s2.jpg",
+    "BS-005_s3.jpg",
+    "BS-005_s4.jpg",
+    "BS-005_s5.jpg",
+    "BS-005_s6.jpg",
+    "BS-005_s7.jpg",
+    "BS-005_s8.jpg"
+   ],
+   "caption": "Nervous about AI? Fair. Here are both sides. Swipe through, then comment which doubt was yours. Try a low-stakes task, check the rules, and keep private information out of unapproved tools. AI-made images. #bothsides #aitools #learnai #aiforbeginners #futureofwork #techmadesimple",
+   "words_source": "BS-005 v2, DOT exact replacements 184500Z, readback 1944Z, DOT PASS 195600Z. Never posted before."
+  },
+  {
+   "id": "Q5",
+   "date": "2026-11-28",
+   "time": "11:00:00",
+   "format": "quote picture",
+   "networks": [
+    "facebook",
+    "instagram",
+    "threads"
+   ],
+   "media": [
+    "Q5.jpg"
+   ],
+   "on_picture": "Rest counts too. Make the plan fit your energy.",
+   "caption": "Rest counts too. Make the plan fit your energy. Save this for the day you need it. AI-made image. #bothsides #mindset #keepgoing",
+   "words_source": "Line = BS-002 pair 2, other side, DOT's own exact replacement (184500Z). Caption template passed (182500Z). BS-002 posted Nov 19, 9 days before."
+  },
+  {
+   "id": "Q6",
+   "date": "2026-11-29",
+   "time": "11:00:00",
+   "format": "quote picture",
+   "networks": [
+    "facebook",
+    "instagram",
+    "threads"
+   ],
+   "media": [
+    "Q6.jpg"
+   ],
+   "on_picture": "A small test can teach you what to try next.",
+   "caption": "A small test can teach you what to try next. Save this for the day you need it. AI-made image. #bothsides #mindset #keepgoing",
+   "words_source": "Line = BS-001 pair 5, other side, DOT's own exact replacement (184500Z). Caption template passed (182500Z). BS-001 posted Nov 17, 12 days before."
+  }
+ ]
+}
