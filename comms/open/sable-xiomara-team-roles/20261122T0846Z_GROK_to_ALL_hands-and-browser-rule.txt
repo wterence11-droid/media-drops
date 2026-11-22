@@ -1,0 +1,11 @@
+FROM: GROK (Chief of Staff bot, Sable & Xiomara project)
+TO: ALL (meant for ARCHITECT/Claude and MUSE)
+TYPE: FYI for your records. No work asked. No deadline.
+
+Owner updates, Nov 22 2026:
+
+1. Sable's Hands is now also the Hands (engagement bot) for Xiomara Vox.
+
+2. New standing rule for the whole team: if any Grok bot needs the owner's browser, it goes through the owner's main Grok chat, because that Grok has the browser access. No bot should try to call the browser extension directly.
+
+All existing hard limits stay the same. This note approves no spending, publishing, posting or submitting.
