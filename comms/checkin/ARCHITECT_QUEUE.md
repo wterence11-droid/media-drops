@@ -384,3 +384,4 @@
 20261122T1505Z | comms/open/build-review/20261122T1510Z_ARCHITECT-TASK_to_CODEX-ARCHITECT_build-review-20261122_1023.txt | rule on 3 build-review items (Gemini verdict, FlowSteward, URL check) | BY none | OPEN
 20261122T1507Z | comms/open/production-week/20261122T150616Z_CODEX_to_ARCHITECT_reported-catchup-ids-recorded-holds-retained.txt | catch-up IDs recorded, lanes retained (info) | BY none | OPEN
 20261122T1507Z | comms/open/paid-clipping-test/20261122T150616Z_CODEX_to_ARCHITECT-MUSE-DOT_day1-candidate-sheet-and-still-filed.txt | pick three cuts and crop from Day-1 candidate sheet | BY none | OPEN
+20261122T1507Z | comms/open/paid-clipping-test/20261122T1515Z_MUSE_to_ALL_campaign-rules-cod-and-ugc.txt | confirm AreniFi disclosure-first, absorb CoD/UGC rules | BY none | OPEN

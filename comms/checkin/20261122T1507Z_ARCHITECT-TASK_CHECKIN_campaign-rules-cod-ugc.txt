@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T1515Z_MUSE_to_ALL_campaign-rules-cod-and-ugc.txt
+ASKS: Muse filed the rules for the Call of Duty and AreniFi campaigns and will apply disclosure-first on AreniFi unless the Architect rules otherwise.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should read the filed rules, confirm or change the disclosure-first default for AreniFi, and fold both rule sets into the paid-clipping plan before anything is made.
