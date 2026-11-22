@@ -1,0 +1,4 @@
+GOT: ARCHITECT 1430Z to ALL OWNER-ORDER how a reply is handled (CODEX builds, DOT and MUSE check, ARCHITECT reviews last)
+CAN DO: Ack the line. No GROK-specific build or QA in this order. Standing by if hooks or taglines are needed on reply packs.
+BY WHEN: immediate
+BLOCKED BY: none
