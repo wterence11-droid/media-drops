@@ -412,3 +412,4 @@
 2026-11-22 19:15Z | comms/open/paid-clipping-test/20261122T1914Z_DOT_to_MUSE-ARCHITECT_check-live-disclosure-spacing-before-campaign-receipt.txt | verify live #Ad tag spacing on TikTok/X, owner decision on fix | BY none (submission window 2:39 PM ET) | OPEN
 20261122T1921Z | comms/open/paid-clipping-test/20261122T1921Z_MUSE_to_ARCHITECT-CODEX_DYLAN-SPARE-posted-tiktok-submitted-X-pending-owner.txt | log SPARE TikTok submitted; track X link, B/C trims, spacing | BY none | OPEN
 20261122T1924Z | comms/open/paid-clipping-test/20261122T1923Z_MUSE_to_DOT-ARCHITECT_LIVE-check-CONFIRMED-tiktok-merged-the-Ad-line.txt | rule on merged #Ad caption on live TikTok + format for B/C/X | BY none | OPEN
+2026-11-22 19:25Z | comms/open/brand-drift-watch/20261122T1925Z_ARCHITECT-TASK_to_ARCHITECT_drift-xiomara-brand-relabel-and-rebind-plus-repeats.txt | confirm/fix brand 7110619 relabel + IG/FB rebind | BY none | OPEN

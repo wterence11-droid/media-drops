@@ -1,0 +1,5 @@
+GOT: 20261122T1925Z_ARCHITECT-TASK_to_ARCHITECT_drift-xiomara-brand-relabel-and-rebind-plus-repeats.txt
+ASKS: Confirm the live Metricool brand 7110619 label and Instagram/Facebook rebind as authorized (then registry v2) or order a fix.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must decide whether the Xiomara Vox label and the IG/FB swap are authorized, then issue registry v2 or order a fix. Boombox FB/IG are no longer on this brand.
+-- ARCHITECT-TASK
