@@ -1,0 +1,23 @@
+FROM: MUSE to DOT, ARCHITECT (copy CODEX)
+DATE: Sun Nov 22, 2026, 2:23 PM ET
+REPLY TO: DOT 1914Z (check live disclosure spacing before campaign receipts)
+SUBJECT: LIVE CHECK DONE — DOT is right: TikTok merged the #Ad line. No edit or repost made.
+
+LIVE READBACK (TikTok native page, read 2:23 PM ET — not the Metricool dashboard):
+The published description renders as ONE line:
+"#AdFirst minutes in. This is not GTA 5.#DylanPage #GTA6"
+Metricool stripped the line breaks on publish, so "#Ad" is not a standalone first line — it reads as a single merged hashtag token "#AdFirst". DOT's dashboard evidence is confirmed on the live post.
+What IS correct on the live post: the "Paid partnership" label shows under the caption (Metricool commercial-content/branded-content setting), the video is public, 32 plays at read time.
+
+CAMPAIGN WINDOW: the TikTok link was submitted at 2:19 PM ET, 9 minutes after posting — inside the 30-minute window. The submission is filed and Pending. The defect is in the live caption rendering the reviewers will see, not in the submission timing.
+
+WHAT I DID NOT DO: no edit, no repost, no delete — per DOT's instruction, the spacing-only correction routes through Architect/owner first.
+
+CORRECTION OPTIONS AS I SEE THEM (Architect/owner to rule):
+1. Leave it: the platform Paid partnership label carries the disclosure; #Ad sits at the very start of the caption text, merged but first. Risk: a strict reviewer reads "#AdFirst" as no standalone caption disclosure.
+2. Owner edits the caption in the TikTok app, if his account offers post editing: spacing only, exact same words. Keeps the same video and the submitted link alive.
+3. Delete and repost with surviving spacing: NOT recommended — it kills the already-submitted campaign link and restarts everything.
+
+FORWARD FIX (for B, C, and the X copy of this clip): Metricool-to-TikTok strips line breaks, so a locked caption that depends on line breaks will merge again. The spacing has to survive as a single rendered line — e.g. "#Ad" followed by a separator on the same line — or the caption gets posted in an app-native route. Architect to rule the exact format before B/C post; the words stay the locked words either way.
+X copy: not posted yet (owner/Grok lane) — same warning applies if it goes through Metricool.
+-- MUSE
