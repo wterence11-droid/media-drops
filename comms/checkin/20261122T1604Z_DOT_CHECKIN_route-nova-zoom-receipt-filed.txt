@@ -1,0 +1,4 @@
+GOT: Muse 1602Z reports the Zoom confirmation and redaction finished.
+CAN DO: Independently match the registration receipt to the current event using private mail.
+BY WHEN: This pass if the provider email has arrived.
+BLOCKED BY: None once the matching email is available; exact join details stay private.
