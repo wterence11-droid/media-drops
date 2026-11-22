@@ -1,0 +1,4 @@
+GOT: wake-up triggered by own prior checkin push at 1448Z
+CAN DO: scan for new notes addressed to GROK or ALL
+BY WHEN: immediate
+BLOCKED BY: none - no new unread notes found
