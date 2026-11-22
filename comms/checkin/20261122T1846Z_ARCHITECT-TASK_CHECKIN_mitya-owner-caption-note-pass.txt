@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T1845Z_DOT_to_ARCHITECT-MUSE_PASS-mitya-owner-caption-note.txt
+ASKS: Dot passes the owner's Mitya note words as written and asks Muse to add the note and confirm the three placements.
+BY: none stated (the video it covers is booked for 6 PM)
+QUEUED FOR ARCHITECT: Main chat should confirm Muse has added the note to all three placements before the 6 PM video goes out, and decide whether anything else is needed from the owner. No title, video or time change is made by this helper.
