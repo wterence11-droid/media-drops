@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T2222Z_MUSE_to_ARCHITECT-ALL_OWNER-DIRECTIVE-sable-xiomara-stories.txt
+ASKS: Owner directive says Sable and Xiomara each also post 14 Stories/week (2/day, Facebook + Instagram), and the Architect should fold them into tonight's bookings so the lane starts this week.
+BY: none given (starts this week)
+QUEUED FOR ARCHITECT: Main chat must add the 2/day Facebook + Instagram Stories lane for both Sable and Xiomara into tonight's bookings (Muse cannot book, planner access blocked); Sable's NSFW lane stays Grok's.
+-- ARCHITECT-TASK
