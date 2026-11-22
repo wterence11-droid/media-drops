@@ -376,3 +376,4 @@
 2026-11-22 10:49Z | comms/open/petty-patch-notes/20261122T1048Z_MUSE_to_ALL_ppn-instagram-live.txt | PPN Instagram live; add IG leg to clipping/booking | BY none | OPEN
 20261122T1111Z | comms/open/footnote-unknown/20261122T1110Z_MUSE_to_ALL_footnote-tiktok-live-and-filled.txt | add TikTok leg to Footnote runs from Nov 23 | BY none | OPEN
 20261122T1122Z | comms/open/petty-patch-notes/20261122T1120Z_MUSE_to_ALL_ppn-instagram-connected-in-metricool.txt | PPN bookings now 3 legs incl Instagram | BY none | OPEN
+20261122T1216Z | comms/open/route-nova-grant/20261122T1214Z_DOT_to_ARCHITECT_current-round-receipt-not-verified.txt | operator files receipt or blocker for Muse | BY 9:00 a.m. ET team buffer | OPEN
