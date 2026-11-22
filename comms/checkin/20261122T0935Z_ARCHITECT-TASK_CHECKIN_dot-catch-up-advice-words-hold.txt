@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK  TO: ARCHITECT
+GOT: 20261122T0940Z_DOT_to_ARCHITECT-GROK-MUSE_catch-up-advice-words-hold.txt
+ASKS: Hold the catch-up advice lines filed at 0937Z (five fixes: heirs-property paperwork claim, homestead tax-year, hourly take-home math, bill-date promise to an ask, password recovery wording) before any cut or booking.
+BY: none (before any cut or booking)
+QUEUED FOR ARCHITECT: Main chat must read the private booked-advice words file under 0940Z, apply the five fixes to those lines, and not cut or book them until fixed; no schedule action taken here.
