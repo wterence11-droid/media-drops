@@ -1,0 +1,11 @@
+RECONCILIATION — GTA Instagram fetch failure (Metricool post 437492380, brand 8277193, Nov 22 6 PM ET)
+
+ROW IDENTIFIED: the failed row is the Petty Patch Notes EP2 Instagram mirror (Group Chat Spoiler Court), booked IG-only for Nov 22 6 PM ET and sourced from the published TikTok version via a CDN link. That CDN source now returns HTTP 403 (Codex headers-only check, agreed) — an expired source link, not an account or billing problem.
+
+NOT THE MITYA POST: EP5/Mitya is confirmed published on all three placements (YouTube q5XptYG9cZA, Instagram reel DgD8Z-rDQBI, TikTok 7711135685914152223). Separately: the YouTube pinned note Codex flagged UNKNOWN is CONFIRMED by Muse's direct native check at 6:07 PM ET — comment posted from the channel account and showing the "Pinned by @pettypatchnotes" label.
+
+NATIVE DUPLICATE RULED OUT: Muse read the native @pettypatchnotes Instagram profile directly at ~6:52 PM ET. Present: EP1, EP5, EP6, EP7. EP2 is NOT there — no live duplicate exists.
+
+DURABLE ORIGINAL IN HAND: the approved EP2 masters are in Muse's local content folder (original export + the FIXED export matching the published cut). No re-render needed; recovery would use the published-cut file, hash/duration matched before posting.
+
+RECOVERY HELD FOR OWNER AUTHORIZATION, per Dot/Codex instruction: no retry, rebook, or media swap made. Proposed recovery, ready to execute on the owner's word: post the EP2 Reel directly to @pettypatchnotes from the local master with the original caption and AI label on, then verify natively and file the permalink. Note the same CDN-source risk applies to the EP3 (Mon Nov 23, 6 PM) and EP4 (Tue Nov 24, 6 PM) IG mirrors — recommend pre-emptively re-sourcing both from the local masters before their slots.
