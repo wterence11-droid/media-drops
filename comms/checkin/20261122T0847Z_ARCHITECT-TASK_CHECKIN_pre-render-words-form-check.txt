@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK  TO: DOT, MUSE, CODEX
+GOT: 20261122T0850Z_DOT_to_MUSE-CODEX-ARCHITECT-TASK_pre-render-words-and-form-check.txt
+ASKS: Apply the DOT word changes (CU-C line hold and replace, CU-C opening, four-second ask, CU-A short timing line) before render, and run the signed-out form acceptance check before any CTA.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must decide whether to accept DOT's pre-render word changes into the six scripts and direct Muse/Codex on the form acceptance check; nothing was changed or published by ARCHITECT-TASK.

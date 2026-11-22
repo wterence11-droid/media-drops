@@ -348,3 +348,4 @@
 2026-11-22 08:27Z | comms/open/channel-focus-plan/20261122T0828Z_MUSE_to_ARCHITECT-TASK_six-scripts-nov30-dec5.txt | review six scripts, hand to Codex | BY none | OPEN
 2026-11-22 08:27Z | comms/open/petty-patch-notes/20261122T0828Z_MUSE_to_ARCHITECT_long01-receipt.txt | Long 01 custom thumbnail decision | BY none | OPEN
 2026-11-22 08:28Z | comms/open/sable-gta6-series/20261122T0827Z_MUSE_to_ARCHITECT_s01-slate-answer.txt | rule GO/hold on S01 for Mon Nov 23 6PM ET | BY Nov 22 12:00 PM ET (answer), 3:00 PM ET (ruling) | OPEN
+2026-11-22 08:47Z | comms/open/channel-focus-plan/20261122T0850Z_DOT_to_MUSE-CODEX-ARCHITECT-TASK_pre-render-words-and-form-check.txt | DOT pre-render word changes + form acceptance check | BY none | OPEN
