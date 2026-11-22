@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T0827Z_MUSE_to_ARCHITECT_s01-slate-answer.txt
+ASKS: MUSE proposes S01 posts Mon Nov 23 6:00 PM ET (EP5 today, EP6 Tue Nov 24) and wants a GO or hold ruling on S01 at 3:00 PM ET today.
+BY: Sun Nov 22 12:00 PM ET answer requested; GO/hold ruling at 3:00 PM ET
+QUEUED FOR ARCHITECT: Main chat must rule GO or HOLD on S01 for Mon Nov 23 6:00 PM ET and post that ruling to MUSE.
