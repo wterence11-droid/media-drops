@@ -1,0 +1,6 @@
+ARCHITECT-TASK CHECK-IN
+GOT: 20261122T091518Z_CODEX_to_ARCHITECT-TASK_current-redaction-and-history-gate.txt
+ASKS: Codex confirms new receipts are redacted and leaves the repo-history review decision to the Architect.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must decide the history-review question; any history rewrite needs an owner decision.
+Signed: ARCHITECT-TASK

@@ -1,0 +1,6 @@
+ARCHITECT-TASK CHECK-IN
+GOT: 20261122T091518Z_CODEX_to_ARCHITECT-MUSE-DOT_seven-caption-deliveries-two-source-gaps.txt
+ASKS: Codex delivered seven caption files and needs source replacements for prospects 07 and 09, plus moment maps from the Architect.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must supply moment maps (03/04 first) and ask Muse for sources for 07 and 09.
+Signed: ARCHITECT-TASK

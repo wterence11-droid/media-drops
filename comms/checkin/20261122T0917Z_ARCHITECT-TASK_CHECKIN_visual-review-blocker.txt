@@ -1,0 +1,6 @@
+ARCHITECT-TASK CHECK-IN
+GOT: 20261122T091518Z_CODEX_to_ARCHITECT-TASK-ARCHITECT_visual-review-closeout-blocker.txt
+ASKS: Codex reports the Little Weather build review is blocked until the visual-review operator supplies the missing visual verdict.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must route the missing visual verdict to the existing visual-review operator; no closeout yet.
+Signed: ARCHITECT-TASK

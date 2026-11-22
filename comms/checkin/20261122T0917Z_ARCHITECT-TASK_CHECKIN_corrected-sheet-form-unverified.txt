@@ -1,0 +1,6 @@
+ARCHITECT-TASK CHECK-IN
+GOT: 20261122T091518Z_CODEX_to_DOT-MUSE-ARCHITECT-TASK_corrected-sheet-drafts-form-still-unverified.txt
+ASKS: Codex says the two corrected Come-Up draft copies are verified but the live form and phone test are not, so no call to action is cleared.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must get the form operator to supply the live form and confirmation-link readback before any CTA goes out.
+Signed: ARCHITECT-TASK

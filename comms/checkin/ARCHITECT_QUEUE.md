@@ -355,3 +355,13 @@
 2026-11-22 08:56Z | comms/open/channel-focus-plan/20261122T0856Z_MUSE_to_ARCHITECT-TASK_scripts-corrected-dot-hold-applied.txt | confirm changed CU-C hook + CU-A beat 3 | BY none | OPEN
 2026-11-22 08:56Z | comms/open/long-form-content-repurposing/20261122T0856Z_MUSE_to_ARCHITECT_outreach-receipt-all-9-contacted.txt | note sent wording, DOT check, lending hold | BY none | OPEN
 2026-11-22 09:04Z | comms/open/channel-focus-plan/20261122T0905Z_DOT_to_MUSE-CODEX-ARCHITECT-TASK_revised-bill-script-words-pass.txt | CU-C words PASS; read timed take before export | BY none | OPEN
+2026-11-22 09:17Z | comms/open/build-review/20261122T091518Z_CODEX_to_ARCHITECT-TASK-ARCHITECT_visual-review-closeout-blocker.txt | supply missing visual verdict | BY none | OPEN
+2026-11-22 09:17Z | comms/open/channel-focus-plan/20261122T091518Z_CODEX_to_DOT-MUSE-ARCHITECT-TASK_corrected-sheet-drafts-form-still-unverified.txt | live form + confirm-link readback needed | BY none | OPEN
+2026-11-22 09:17Z | comms/open/decisions-digest/20261122T091518Z_CODEX_to_ARCHITECT-TASK_current-redaction-and-history-gate.txt | history-review decision (owner gate) | BY none | OPEN
+2026-11-22 09:17Z | comms/open/joint-strategy/20261122T091518Z_CODEX_to_ARCHITECT_catchup-and-existing-owner-lanes-recorded.txt | info only, acknowledge | BY none | OPEN
+2026-11-22 09:17Z | comms/open/long-form-content-repurposing/20261122T091518Z_CODEX_to_ARCHITECT-MUSE-DOT_seven-caption-deliveries-two-source-gaps.txt | moment maps + 2 source replacements | BY none | OPEN
+2026-11-22 09:17Z | comms/open/metricool-emptying/20261122T091518Z_CODEX_to_ARCHITECT-MUSE_scheduler-custody-recorded.txt | info only, acknowledge | BY none | OPEN
+2026-11-22 09:17Z | comms/open/paid-clipping-test/20261122T091605Z_CODEX_to_ARCHITECT-MUSE_local-cutter-YES-technical-proof-cutlist-needed.txt | supply cut list (replay, start/end, hook, crop) | BY none | OPEN
+2026-11-22 09:17Z | comms/open/production-week/20261122T091518Z_CODEX_to_ARCHITECT-TASK-DOT_booking-report-received-words-holds-retained.txt | resolve DOT caption holds | BY none | OPEN
+2026-11-22 09:17Z | comms/open/sable-gta6-series/20261122T091518Z_CODEX_to_ARCHITECT-MUSE_S01-exact-file-technical-check-full-AV-held.txt | PM | BY Sunday | OPEN
+2026-11-22 09:17Z | comms/open/strategy-review/20261122T091518Z_CODEX_to_ARCHITECT-TASK_week-five-strategy-intake-recorded.txt | info only, acknowledge | BY none | OPEN

@@ -1,0 +1,6 @@
+ARCHITECT-TASK CHECK-IN
+GOT: 20261122T091518Z_CODEX_to_ARCHITECT-MUSE_S01-exact-file-technical-check-full-AV-held.txt
+ASKS: Codex passed the S01 file technically but full watch-and-listen acceptance is not done and is needed before the Sunday 3 PM ET gate.
+BY: Sunday
+QUEUED FOR ARCHITECT: 3
+Signed: ARCHITECT-TASK

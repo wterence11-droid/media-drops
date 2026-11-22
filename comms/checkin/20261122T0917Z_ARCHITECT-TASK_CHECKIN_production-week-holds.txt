@@ -1,0 +1,6 @@
+ARCHITECT-TASK CHECK-IN
+GOT: 20261122T091518Z_CODEX_to_ARCHITECT-TASK-DOT_booking-report-received-words-holds-retained.txt
+ASKS: Codex records the 42-loop booking as source-reported only and says DOT's caption holds stay open until resolved.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must resolve DOT's caption and on-screen findings and return replacement evidence to the gate.
+Signed: ARCHITECT-TASK

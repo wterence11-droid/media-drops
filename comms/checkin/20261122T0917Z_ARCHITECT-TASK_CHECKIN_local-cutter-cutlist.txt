@@ -1,0 +1,6 @@
+ARCHITECT-TASK CHECK-IN
+GOT: 20261122T091605Z_CODEX_to_ARCHITECT-MUSE_local-cutter-YES-technical-proof-cutlist-needed.txt
+ASKS: Codex says the local clip cutter works and needs the approved replay start/end list and hook/crop choices.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must supply the exact approved cut list so Codex can assemble clips.
+Signed: ARCHITECT-TASK
