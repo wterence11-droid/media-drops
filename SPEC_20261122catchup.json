@@ -1,0 +1,36 @@
+{
+  "run": "20261122catchup",
+  "week": "Tue Nov 24 - Sun Nov 29, 2026",
+  "note": "Hook lines are GROK's catch-up loop lines (board note joint-strategy/20261122T0330Z), five per brand. The Thursday line for each brand is the Architect's own warm Thanksgiving line. No factual claims in any item, so no source chip.",
+  "brands": {
+    "RR": {"name": "The Receipts Room", "brandId": "7144215", "slot": "11:15:00", "footer": "AI-made visuals.", "yt_category": "ENTERTAINMENT"},
+    "FNU": {"name": "Footnote Unknown", "brandId": "7493746", "slot": "12:30:00", "footer": "AI-made visuals.", "yt_category": "ENTERTAINMENT"}
+  },
+  "items": [
+    {"id": "RR-1124", "brand": "RR", "date": "2026-11-24", "stamp_date": "11/24", "no": "0041", "hook": "The receipt is still in the group chat.", "beat": "Scroll up. It is all there.", "stamp": "KEPT",
+     "yt_title": "The Receipt Is Still in the Group Chat", "caption": "The receipt is still in the group chat. Scroll up. It is all there. Follow The Receipts Room for the next one. AI-made visuals.\n\n#TheReceiptsRoom #receipts #groupchat #storytime"},
+    {"id": "RR-1125", "brand": "RR", "date": "2026-11-25", "stamp_date": "11/25", "no": "0042", "hook": "Screenshot. Timestamp. Done.", "beat": "That is the whole argument.", "stamp": "PROOF",
+     "yt_title": "Screenshot. Timestamp. Done.", "caption": "Screenshot. Timestamp. Done. That is the whole argument. Follow The Receipts Room for the next one. AI-made visuals.\n\n#TheReceiptsRoom #receipts #screenshot #storytime"},
+    {"id": "RR-1126", "brand": "RR", "date": "2026-11-26", "stamp_date": "11/26", "no": "0043", "hook": "Today's receipt: who showed up.", "beat": "Keep that one forever. Happy Thanksgiving.", "stamp": "THANK YOU",
+     "yt_title": "Today's Receipt: Who Showed Up", "caption": "Today's receipt: who showed up. Keep that one forever. Happy Thanksgiving from The Receipts Room. AI-made visuals.\n\n#TheReceiptsRoom #Thanksgiving #grateful"},
+    {"id": "RR-1127", "brand": "RR", "date": "2026-11-27", "stamp_date": "11/27", "no": "0044", "hook": "They said it. The thread says otherwise.", "beat": "Believe the thread.", "stamp": "ON FILE",
+     "yt_title": "They Said It. The Thread Says Otherwise.", "caption": "They said it. The thread says otherwise. Believe the thread. Follow The Receipts Room for the next one. AI-made visuals.\n\n#TheReceiptsRoom #receipts #thethread #storytime"},
+    {"id": "RR-1128", "brand": "RR", "date": "2026-11-28", "stamp_date": "11/28", "no": "0045", "hook": "Pull the receipts. The story changes.", "beat": "Every single time.", "stamp": "PULLED",
+     "yt_title": "Pull the Receipts. The Story Changes.", "caption": "Pull the receipts. The story changes. Every single time. Follow The Receipts Room for the next one. AI-made visuals.\n\n#TheReceiptsRoom #receipts #storytime"},
+    {"id": "RR-1129", "brand": "RR", "date": "2026-11-29", "stamp_date": "11/29", "no": "0046", "hook": "No memory. Just the message.", "beat": "Read it back, word for word.", "stamp": "RECEIPT",
+     "yt_title": "No Memory. Just the Message.", "caption": "No memory. Just the message. Read it back, word for word. Follow The Receipts Room for the next one. AI-made visuals.\n\n#TheReceiptsRoom #receipts #storytime"},
+
+    {"id": "FNU-1124", "brand": "FNU", "date": "2026-11-24", "hook": "The footnote was longer than the claim.", "beat": "That is where the story is.",
+     "yt_title": "The Footnote Was Longer Than the Claim", "caption": "The footnote was longer than the claim. That is where the story is. Follow Footnote Unknown. AI-made visuals.\n\n#FootnoteUnknown #footnotes #readthefineprint"},
+    {"id": "FNU-1125", "brand": "FNU", "date": "2026-11-25", "hook": "They put it at the bottom on purpose.", "beat": "So that is where we start.",
+     "yt_title": "They Put It at the Bottom on Purpose", "caption": "They put it at the bottom on purpose. So that is where we start. Follow Footnote Unknown. AI-made visuals.\n\n#FootnoteUnknown #footnotes #readthefineprint"},
+    {"id": "FNU-1126", "brand": "FNU", "date": "2026-11-26", "hook": "Footnote for today: someone saved you a seat.", "beat": "Say thank you. Happy Thanksgiving.",
+     "yt_title": "Footnote for Today: Someone Saved You a Seat", "caption": "Footnote for today: someone saved you a seat. Say thank you. Happy Thanksgiving from Footnote Unknown. AI-made visuals.\n\n#FootnoteUnknown #Thanksgiving #grateful"},
+    {"id": "FNU-1127", "brand": "FNU", "date": "2026-11-27", "hook": "Page 47, note 12: the part they hoped you'd skip.", "beat": "We do not skip.",
+     "yt_title": "Page 47, Note 12: The Part They Hoped You'd Skip", "caption": "Page 47, note 12: the part they hoped you'd skip. We do not skip. Follow Footnote Unknown. AI-made visuals.\n\n#FootnoteUnknown #footnotes #readthefineprint"},
+    {"id": "FNU-1128", "brand": "FNU", "date": "2026-11-28", "hook": "Asterisk. Then the real story.", "beat": "Always read the asterisk.",
+     "yt_title": "Asterisk. Then the Real Story.", "caption": "Asterisk. Then the real story. Always read the asterisk. Follow Footnote Unknown. AI-made visuals.\n\n#FootnoteUnknown #footnotes #asterisk"},
+    {"id": "FNU-1129", "brand": "FNU", "date": "2026-11-29", "hook": "The source is listed. You still didn't read it.", "beat": "We did. Follow for the footnotes.",
+     "yt_title": "The Source Is Listed. You Still Didn't Read It.", "caption": "The source is listed. You still didn't read it. We did. Follow Footnote Unknown for the footnotes. AI-made visuals.\n\n#FootnoteUnknown #footnotes #sources"}
+  ]
+}
