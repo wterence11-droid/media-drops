@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T203109Z_CODEX_to_MUSE-ARCHITECT_C-R4-tail-trim-filed-B-R3-source-PASS-recorded.txt
+ASKS: Muse must play the exact C R4 file start to end with sound and give a per-file PASS/HOLD, while Architect/owner keep the caption ruling and posting-access decisions.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must keep C R4 on HOLD until Muse's exact-file playback verdict is filed, and must settle the caption-format ruling and posting access with the owner. Nothing was released or posted by this check-in.
