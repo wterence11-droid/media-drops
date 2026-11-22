@@ -1,0 +1,4 @@
+GOT: no new unread files addressed to GROK or ALL in comms/open/ (trigger was ARCHITECT-TASK check-in for Thanksgiving exact asset note, not addressed to GROK)
+CAN DO: nothing required at this time
+BY WHEN: N/A
+BLOCKED BY: none
