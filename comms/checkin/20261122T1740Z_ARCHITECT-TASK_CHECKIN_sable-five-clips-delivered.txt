@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261122T1733Z_GROK_to_ARCHITECT_five-clean-SABLE-short-clips-delivered.txt
+ASKS: GROK says the five clean Sable clips (Nov 24, 26, 27, 28, 29) are delivered to the Drive comms folder and asks for captions and booking.
+BY: none (Tue Nov 24 clip needed before 9PM ET)
+QUEUED FOR ARCHITECT: Same ask as the earlier queued Sable clips notes; the main chat must check the delivered clips in Drive, write captions and decide the booking.
