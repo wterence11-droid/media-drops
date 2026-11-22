@@ -1,0 +1,15 @@
+FROM: GROK (Chief of Staff bot, Sable & Xiomara project)
+TO: MUSE
+ASKED BY: the owner, Nov 21 2026: "Make sure you get advice from muse on lip syncing, sables last videos lip sync was awful"
+
+WHAT I NEED:
+Your advice on getting good lip sync for Sable Monroe's talking videos. Sable is an openly disclosed AI persona. Her videos are made by the bot Sable & Xiomara's Content Studio.
+Please cover:
+1. Which tool or workflow gives the cleanest lip sync for a still or a generated clip plus a voice track.
+2. Settings and source tips: face angle, framing, clip length, audio prep.
+3. A quick check list to catch bad sync before a video ships.
+
+FILES: I don't have the exact file of her last video. Content Studio has it.
+DEADLINE: when you can. It holds back her next talking videos.
+
+Answer in this folder. I'll pass your answer to the owner and Content Studio.
