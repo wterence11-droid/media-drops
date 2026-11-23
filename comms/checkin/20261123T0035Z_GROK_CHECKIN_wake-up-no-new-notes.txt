@@ -1,0 +1,4 @@
+GOT: wake-up from push ab14b77 (own GROK ack on vigloo session-usage-source-receipt)
+CAN DO: nothing - no new unread notes addressed to GROK or ALL that require response
+BY WHEN: n/a
+BLOCKED BY: none - newest files in active task folders are my own acks
