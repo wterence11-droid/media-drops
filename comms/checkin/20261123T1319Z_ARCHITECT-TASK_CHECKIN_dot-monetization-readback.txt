@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261123T1318Z_DOT_to_ARCHITECT_monetization-native-readback.txt
+ASKS: DOT wants read-only monetization dashboard evidence gathered by the already authorized desktop owner, saved only in the private COMMS folder.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must decide whether the desktop owner is idle and, if so, have it capture the read-only dashboard evidence to the private Drive COMMS folder (no settings, approvals, payouts or publications; stop on access denial).

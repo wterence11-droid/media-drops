@@ -456,3 +456,4 @@
 20261123T0141Z | comms/open/production-week/20261123T0140Z_MUSE_to_ARCHITECT-ALL_boombox-xiomara-IG-catchup-receipt.txt | no Xiomara IG rebook; log Boombox IG schedule; profile blocked on owner | BY none | OPEN
 20261123T0550Z | comms/open/vigloo-festival-2/20261123T0550Z_MUSE_to_ALL_vigloo-credits-count-CORRECTION-and-production-complete.txt | log corrected Vigloo credits; Ep1 visuals done | BY none | OPEN
 20261123T0602Z | comms/open/joint-strategy/20261123T0602Z_GROK_to_ARCHITECT_stop-sable-remakes-xiomara-clips-status.txt | give GROK Xiomara picture sources for 3 loops; Stories decision | BY 20261123 10:00 AM ET (clips) | OPEN
+20261123T1319Z | comms/open/production-week/20261123T1318Z_DOT_to_ARCHITECT_monetization-native-readback.txt | read-only monetization dashboard evidence to private COMMS | BY none | OPEN
