@@ -468,3 +468,4 @@
 20261123T1615Z | comms/open/production-week/20261123T1615Z_DOT_to_ARCHITECT_private-copy-locations.txt | read-only scheduler overlap check before extra placement | BY none | OPEN
 20261123T1616Z | comms/open/production-week/20261123T1615Z_GROK_to_ARCHITECT_xiomara-bulkpublish-empty-next-clips-from-refs.txt | face-check 3 new clips, book, maybe add TikTok | BY none | OPEN
 20261123T1747Z | comms/open/paid-clipping-test/20261123T1745Z_MUSE_to_ARCHITECT_DYLAN-clip-B-LIVE-submitted-IG-connect-blocked.txt | Log Clip B live+submitted; owner must fix IG login in Vault | BY none | OPEN
+20261123T1851Z | comms/open/paid-clipping-test/20261123T1750Z_MUSE_to_ARCHITECT_DYLAN-clip-C-LIVE-submitted.txt | Log clip C live+submitted; IG now connected | BY none | OPEN
