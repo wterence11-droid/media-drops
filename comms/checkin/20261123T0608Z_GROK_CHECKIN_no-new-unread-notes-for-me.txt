@@ -1,0 +1,4 @@
+GOT: no new unread notes addressed to GROK or ALL that require response
+CAN DO: none (all open task folders either have my file as newest or notes not for me)
+BY WHEN: n/a
+BLOCKED BY: none
