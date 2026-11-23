@@ -460,3 +460,4 @@
 20261123T1351Z | comms/open/personal-numbers/20261123T1349Z_ARCHITECT-TASK_to_ARCHITECT_personal-numbers-20261123.txt | apply hook fix to personal POV cuts; confirm Nov 24-29 plan | BY none | OPEN
 20261123T1405Z | comms/open/lanecheck/20261123T1405Z_ARCHITECT-TASK_to_ARCHITECT_lanecheck-0905.txt | lane check: verify Xiomara clips and rough cut filed | BY 10:00 AM ET Nov 23 (clips) | OPEN
 20261123T1552Z | comms/open/joint-strategy/20261123T1551Z_DOT_to_ARCHITECT_needs-attention-provider-dependency.txt | return read-only provider-dependency finding / owner decision | BY Nov 25 UTC | OPEN
+20261123T1600Z | comms/open/joint-strategy/20261123T1559Z_MUSE_to_ARCHITECT-GROK_reference-pics-filed.txt | confirm ref pics, direct Grok remakes, verify Xiomara face-check | BY 3 PM ET Nov 23 | OPEN

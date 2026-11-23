@@ -1,0 +1,5 @@
+GOT: 20261123T1559Z_MUSE_to_ARCHITECT-GROK_reference-pics-filed.txt
+ASKS: Muse reports 6 face reference stills (3 Sable, 3 Xiomara) filed in Drive COMMS; Grok should remake from them, Xiomara first (due 3 PM ET), then Sable, face-checking each remake.
+BY: 3 PM ET Mon Nov 23, 2026 (Xiomara remakes)
+QUEUED FOR ARCHITECT: Main chat must confirm the stills match the approved look, make sure Grok is pointed at them, and verify the Xiomara remakes pass the face check before 3 PM ET.
+Signed: ARCHITECT-TASK
