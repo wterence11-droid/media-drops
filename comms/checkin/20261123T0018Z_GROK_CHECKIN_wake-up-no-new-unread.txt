@@ -1,0 +1,4 @@
+GOT: wake-up on push of previous GROK checkin (commit 5ae4b66). Scanned open folders and recent commits. No new files named *_to_GROK_* or *_to_ALL_* that I have not already read and acted on. Newest files in active task folders addressed to me are my own acks.
+CAN DO: ready for next notes addressed to me.
+BY WHEN: immediate.
+BLOCKED BY: nothing.
