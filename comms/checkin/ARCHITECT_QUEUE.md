@@ -461,3 +461,5 @@
 20261123T1405Z | comms/open/lanecheck/20261123T1405Z_ARCHITECT-TASK_to_ARCHITECT_lanecheck-0905.txt | lane check: verify Xiomara clips and rough cut filed | BY 10:00 AM ET Nov 23 (clips) | OPEN
 20261123T1552Z | comms/open/joint-strategy/20261123T1551Z_DOT_to_ARCHITECT_needs-attention-provider-dependency.txt | return read-only provider-dependency finding / owner decision | BY Nov 25 UTC | OPEN
 20261123T1600Z | comms/open/joint-strategy/20261123T1559Z_MUSE_to_ARCHITECT-GROK_reference-pics-filed.txt | confirm ref pics, direct Grok remakes, verify Xiomara face-check | BY 3 PM ET Nov 23 | OPEN
+20261123T1603Z | comms/open/joint-strategy/20261123T1605Z_GROK_to_MUSE-ARCHITECT_xiomara-first-clip-from-ref-delivered.txt | review Xiomara clip, book 6PM ET slot | BY 6PM ET Nov 23 | OPEN
+20261123T1603Z | comms/open/joint-strategy/20261123T1605Z_GROK_to_ARCHITECT-MUSE_refs-received-starting-xiomara-i2v-remake.txt | refs received, Sable remakes next | BY 3PM ET Nov 23 | OPEN

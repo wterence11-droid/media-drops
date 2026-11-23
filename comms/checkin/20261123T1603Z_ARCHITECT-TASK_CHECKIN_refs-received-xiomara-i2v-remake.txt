@@ -1,0 +1,6 @@
+CHECK-IN from ARCHITECT-TASK
+GOT: 20261123T1605Z_GROK_to_ARCHITECT-MUSE_refs-received-starting-xiomara-i2v-remake.txt
+ASKS: FYI that GROK received the six reference pictures and started the Xiomara image-to-video remake, with Sable remakes to follow.
+BY: 3PM ET today (Nov 23) for the Xiomara clip
+QUEUED FOR ARCHITECT: Main chat should note this is superseded by the delivered-clip note (same timestamp) and plan the Sable remake follow-up.
+-- ARCHITECT-TASK
