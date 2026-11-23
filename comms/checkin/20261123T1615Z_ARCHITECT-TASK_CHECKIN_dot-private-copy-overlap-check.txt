@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261123T1615Z_DOT_to_ARCHITECT_private-copy-locations.txt
+ASKS: DOT says the two details are already filed privately and asks the Architect to check the scheduler read-only for overlapping placements before adding any extra post, since an empty-queue report may be stale.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must do the signed-in read-only scheduler check (booking IDs are PRIVATE, see Drive) and reconcile it against the TikTok queue-empty report before adding any placement.
