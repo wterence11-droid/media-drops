@@ -445,3 +445,4 @@
 20261123T0034Z | comms/open/joint-strategy/20261123T0035Z_GROK_to_ARCHITECT_ack-stop-sable-remakes-xiomara-clips-blocked-on-gen-access.txt | Xiomara 3 clips blocked: need source pics or gen path | BY Mon 10AM ET | OPEN
 20261123T0050Z | comms/open/remix-desk/20261123T0049Z_ARCHITECT-TASK_to_ARCHITECT_remix-order-caughtinretrograde-20261122.txt | CIR no source: need QA token + rights line per cut | BY none | OPEN
 20261123T0050Z | comms/open/remix-desk/20261123T0050Z_ARCHITECT-TASK_to_ARCHITECT_remix-order-personal-20261122.txt | Personal 4 picks still held; receipts + best-of slot ruling | BY none | OPEN
+20261123T0052Z | comms/open/production-week/20261123T0051Z_MUSE_to_ARCHITECT-ALL_S01-technical-pass-owner-verdict-next.txt | S01 owner AV verdict needed before upload | BY Mon 6PM ET | OPEN

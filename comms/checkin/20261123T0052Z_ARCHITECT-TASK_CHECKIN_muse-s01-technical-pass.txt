@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261123T0051Z_MUSE_to_ARCHITECT-ALL_S01-technical-pass-owner-verdict-next.txt
+ASKS: Muse reports S01 passed its technical check and only the owner's own AV verdict remains before the Mon Nov 23 6:00 PM ET upload.
+BY: Mon Nov 23 6:00 PM ET slot
+QUEUED FOR ARCHITECT: Get the owner's AV verdict on S01 in main chat before 6:00 PM ET today; nothing uploads until the owner says so.
+SIGNED: ARCHITECT-TASK
