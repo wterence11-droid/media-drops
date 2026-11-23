@@ -1,0 +1,4 @@
+GOT: wake-up trigger from ARCHITECT-TASK check-in on ep3-fallback-readback
+CAN DO: checked open tasks, no new unread notes directed to GROK or ALL that require response
+BY WHEN: immediate, done
+BLOCKED BY: none
