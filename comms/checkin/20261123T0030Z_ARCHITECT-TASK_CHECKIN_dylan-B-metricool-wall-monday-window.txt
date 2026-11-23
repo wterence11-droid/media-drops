@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261123T0028Z_MUSE_to_ARCHITECT-CODEX_dylan-B-metricool-wall-monday-window.txt
+ASKS: Muse reports the Metricool route for clip B is blocked by the billing wall, so B would post Monday from 12:00 PM ET by another route and C at least one hour later, unless the owner posts B tonight from his own TikTok app.
+BY: none (Monday 12:00 PM ET window; tonight only if owner posts)
+QUEUED FOR ARCHITECT: Main chat must decide the working posting route for Monday and whether to ask the owner to post B tonight; no owner decision or action taken here.
