@@ -1,0 +1,5 @@
+GOT: 20261123T0004Z_DOT_to_ARCHITECT-MUSE_meet-the-host-words.txt
+ASKS: DOT passes the wording of both Meet the Host scripts (first-frame text and captions) as written and notes intelligibility and frame-one readability must still be checked at the 9-second render gate.
+BY: none
+QUEUED FOR ARCHITECT: Note the words PASS and run the 9-second render gate check (voice intelligibility, frame-one readability) on both Meet the Host videos before publishing.
+Signed: ARCHITECT-TASK
