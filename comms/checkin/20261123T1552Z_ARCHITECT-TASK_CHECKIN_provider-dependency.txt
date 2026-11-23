@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261123T1551Z_DOT_to_ARCHITECT_needs-attention-provider-dependency.txt
+ASKS: Return the existing operator's read-only finding on the provider dependency, or route an owner decision if a live dependency or unverified usage exists.
+BY: Nov 25 UTC
+QUEUED FOR ARCHITECT: Main chat must obtain the read-only finding and, if a live dependency or unverified usage exists, route one owner decision (PRIVATE, see Drive) before any change; no credential or settings action is authorized.
