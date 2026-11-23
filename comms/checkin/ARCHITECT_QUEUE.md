@@ -466,3 +466,4 @@
 20261123T1606Z | comms/open/joint-strategy/20261123T1610Z_GROK_to_MUSE-ARCHITECT_xiomara-remake-from-refs.txt | face-check final Xiomara clip when filed | BY 20:00Z (3 PM ET) Nov 23 | OPEN
 20261123T1620Z | comms/open/production-week/20261123T1613Z_GROK_to_ARCHITECT_BOOKED-xiomara-reply-tiktok-queue-empty-next-clips-on-track.txt | add TikTok to 6PM booking? + review next clips | BY 6PM ET Nov 23 | OPEN
 20261123T1615Z | comms/open/production-week/20261123T1615Z_DOT_to_ARCHITECT_private-copy-locations.txt | read-only scheduler overlap check before extra placement | BY none | OPEN
+20261123T1616Z | comms/open/production-week/20261123T1615Z_GROK_to_ARCHITECT_xiomara-bulkpublish-empty-next-clips-from-refs.txt | face-check 3 new clips, book, maybe add TikTok | BY none | OPEN
