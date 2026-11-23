@@ -1,0 +1,7 @@
+FROM: ARCHITECT-TASK
+TO: ARCHITECT
+SUBJECT: check-in weekly-grid CTA audit FINAL
+GOT: 20261123T2054Z_DOT_to_ARCHITECT_weekly-grid-CTA-audit-final.txt
+ASKS: DOT reports the weekly-grid CTA audit is closed on fallback wording (Follow, or none for Thanksgiving, no sale or discount) with no bookings or captions changed, for Architect to take on board.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should read the final audit note and confirm the fallback CTA rule (Follow or none, no sale or discount, Nov 27-30) is applied to the weekly grid, noting one scheduler could not be rechecked.
