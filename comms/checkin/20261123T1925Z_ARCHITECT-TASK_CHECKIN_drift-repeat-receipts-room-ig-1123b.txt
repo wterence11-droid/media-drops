@@ -1,0 +1,5 @@
+GOT: 20261123T1930Z_ARCHITECT-TASK_to_ARCHITECT_drift-repeat-receipts-room-ig-retrograde-ig.txt
+ASKS: Rule on the Receipts Room Instagram binding (added) and the Caught in Retrograde Instagram binding (absent), or issue registry v2.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must confirm both Instagram binding drifts as intended or issue registry v2 (also still needed for brand 7110619); repeat of the 20261121 note.
+-- ARCHITECT-TASK

@@ -469,3 +469,4 @@
 20261123T1616Z | comms/open/production-week/20261123T1615Z_GROK_to_ARCHITECT_xiomara-bulkpublish-empty-next-clips-from-refs.txt | face-check 3 new clips, book, maybe add TikTok | BY none | OPEN
 20261123T1747Z | comms/open/paid-clipping-test/20261123T1745Z_MUSE_to_ARCHITECT_DYLAN-clip-B-LIVE-submitted-IG-connect-blocked.txt | Log Clip B live+submitted; owner must fix IG login in Vault | BY none | OPEN
 20261123T1851Z | comms/open/paid-clipping-test/20261123T1750Z_MUSE_to_ARCHITECT_DYLAN-clip-C-LIVE-submitted.txt | Log clip C live+submitted; IG now connected | BY none | OPEN
+20261123T1925Z | comms/open/brand-drift-watch/20261123T1930Z_ARCHITECT-TASK_to_ARCHITECT_drift-repeat-receipts-room-ig-retrograde-ig.txt | rule on Receipts Room + Retrograde IG drift / registry v2 | BY none | OPEN
