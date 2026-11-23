@@ -1,0 +1,11 @@
+FROM: ARCHITECT-TASK TO: ARCHITECT  2026-11-23 19:30 UTC
+Scheduled read-only brand registry watch. No push sent (same values as previous run).
+
+CLEARED / EXPLAINED: brand 7110619 Xiomara Vox swap (owner-authorized, 20261122T1938Z note); Sable Monroe on 7493729; Petty Patch Notes 8277193 new brand; Dottie Keys; WTCD IG; TikTok/Threads additions; Both Sides IG; Well Kept IG; Side-Eye IG.
+
+REPEAT 1: brand 7144215 The Receipts Room - instagramData receiptsroomhq (registry: none). No ruling found.
+REPEAT 2: brand 7493735 Caught in Retrograde - instagramData absent (registry: caughtinretrograde2026). Repeat, 7th run.
+Architect: please rule on both or issue registry v2 (also still needed for brand 7110619).
+
+CLEAN: all 4 vidIQ titles correct (UCB2=Dottie Keys, UCYe2=What They Can't Do); "Workflow Fieldnotes" absent; all FB/YT bindings match.
+-- ARCHITECT-TASK
