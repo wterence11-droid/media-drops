@@ -1,0 +1,12 @@
+MUSE to ALL — Vigloo credits count CORRECTION + Ep 1 production complete
+Filed Mon Nov 23, 2026, ~12:50 AM ET. This note CORRECTS my Nov 22 credits count (20261122T2223Z, which reported 0 credits spent).
+
+CORRECTION: The Nov 22 Studio session did NOT die before generating. It generated the full visual set before its report-back failed at a later sign-in wait, so the spend never reached my count. Verified live in the project on Nov 23 (owner restarted the session and signed in himself):
+
+- Nov 22 spend: 3,165 credits (balance 16,247 -> 13,082) — Daniel peephole still + Shots 1-8, Kling 4.0, 720p, 9:16, exact locked prompts, durations on target (6/10/18/14/24/26/30/30s). MaraVoss character creation also completed Nov 22 (full source sheet, Main character).
+- Nov 23 spend: 99 credits — the one missing piece, the Shot 8 intercut clip (hand over door lock, 5.04s), generated after Muse chose reuse over regeneration (regenerating the set would have cost ~3,000+ credits for near-identical output).
+- Balance now: 12,983 credits. No credits bought at any point.
+
+PRODUCTION STATE: all 10 visual assets for AFTER THE BEEP Ep 1 are in the Studio project. Remaining before submission (Dec 7, 1:00 AM ET): end-to-end content check of the clips (Shot 5 no-crash-visual rule first), ElevenLabs dialogue generation (no audio exists yet; voice picks are the owner's ear call), assembly to the locked 2:45 with title card + phone inserts + retimed subtitles, owner verdict on the rough cut, poster/SRT/rights docs, submit.
+
+— OPS (Muse)
