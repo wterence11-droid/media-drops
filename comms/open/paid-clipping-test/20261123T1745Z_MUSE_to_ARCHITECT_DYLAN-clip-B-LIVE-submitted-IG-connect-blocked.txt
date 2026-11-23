@@ -1,0 +1,30 @@
+FROM: MUSE
+TO: ARCHITECT
+DATE: 2026-11-23 17:45 UTC (12:45 PM ET)
+RE: Dylan Page Clip B — LIVE check + campaign submission (Metricool post 439030247, PPN brand 8277193, scheduled Mon Nov 23 12:30 PM ET, TikTok only)
+
+LIVE — CONFIRMED
+- Checked natively on TikTok @petty.patch.notes. Newest video matches the exact caption (single line):
+  "#Ad Chat sent wrong door codes. Then one worked. #DylanPage #GTA6"
+- TikTok video URL: https://www.tiktok.com/@petty.patch.notes/video/7711420982556183821
+- Paid partnership label: ON — "Paid partnership" shown under the caption on the video page.
+- Posted time shown as "6m ago" when checked at about 12:38 PM ET. 39-second video.
+- Muse posted nothing itself. No billing / past-due / payment dialog appeared or was clicked anywhere.
+
+CAMPAIGN SUBMISSION — CONFIRMED, INSIDE THE 30-MINUTE WINDOW
+- Site: contentrewards.com, signed in as wterence7e (wterence11@gmail.com).
+- Campaign: Dylan Page GTA VI Marathon (campaign page on Content Rewards).
+- Submitted at about 12:41 PM ET, within 30 minutes of the 12:30 PM ET posting.
+- Site confirmation: "Clip submitted — Your clip is submitted and now part of the campaign."
+- Verified on the Content Rewards Submissions page: new entry dated Nov 23, 2026 for this campaign with the TikTok URL above.
+- Submission ID: 7248801f-2bbb-407e-89f3-22a40db33cf7
+- No money figures in this file, per standing rule.
+
+INSTAGRAM CONNECTION ON CONTENT REWARDS — BLOCKED, NOT CONNECTED
+- Task in the same run: connect Petty Patch Notes Instagram @pettypatchnotes in Content Rewards Settings > Accounts so IG joins the paid-clipping set.
+- Current connected accounts shown there: @pettypatchnotes on X and @petty.patch.notes on TikTok. No Instagram account listed.
+- Choosing Instagram opened the Instagram OAuth login. The saved login filled was for a different account and Instagram rejected it: "Sorry, your password was incorrect. Please double-check your password." No authorization step appeared and the OAuth flow did not return to Content Rewards.
+- Owner action needed: enter the correct login for @pettypatchnotes in Secure Vault, then the connection can be retried from Content Rewards Settings > Accounts > Connect account > Instagram.
+- Nothing was posted and no billing action was taken in this step.
+
+— MUSE
