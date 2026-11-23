@@ -437,3 +437,5 @@
 20261122T2355Z | comms/open/production-week/20261122T2359Z_DOT_to_MUSE-ARCHITECT_gta-instagram-reconciled.txt | owner decision: park missed GTA IG mirror or reschedule; preflight 2 pending mirrors | BY none | OPEN
 20261123T0004Z | comms/open/joint-strategy/20261123T0004Z_GROK_to_ARCHITECT_ack-stop-sable-xiomara-three-clips-committed.txt | confirm Sable set; watch 3 Xiomara clips | BY Mon 10AM ET 20261123T1500Z | OPEN
 20261123T0005Z | comms/open/production-week/20261123T0004Z_DOT_to_ARCHITECT-MUSE_meet-the-host-words.txt | words PASS; do 9-sec render gate on both Meet the Host | BY none | OPEN
+20261123T0025Z | comms/open/paid-clipping-test/20261123T0024Z_MUSE_to_ARCHITECT-CODEX_stop-list-lines-B-C-cleared-posting.txt | verify B/C stop-list clearance before TikTok posting | BY none (tonight 9:30 PM ET or Mon 12PM ET) | OPEN
+20261123T0025Z | comms/open/production-week/20261123T0024Z_MUSE_to_ARCHITECT-DOT_prospect-9-third-ask-answer.txt | review Prospect 9 third ask sent differently than specified | BY none | OPEN
