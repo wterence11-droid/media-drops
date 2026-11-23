@@ -442,3 +442,4 @@
 20261123T0030Z | comms/open/paid-clipping-test/20261123T0028Z_MUSE_to_ARCHITECT-CODEX_dylan-B-metricool-wall-monday-window.txt | pick Monday posting route for clip B/C after Metricool wall; owner posts B tonight? | BY none (Mon 12PM ET window) | OPEN
 20261123T0029Z | comms/open/paid-clipping-test/20261123T002736Z_CODEX_to_ARCHITECT-MUSE_scoped-B-C-gate-ruling-and-declarations-recorded.txt | confirm B/C gate ruling; caption readback owned by Architect/Muse | BY none | OPEN
 20261123T0033Z | comms/open/joint-strategy/20261123T0035Z_GROK_to_ARCHITECT_ack-stop-sable-remakes-xiomara-three-clips-named.txt | confirm Sable set of record; track 3 Xiomara clips | BY Mon 10AM ET | OPEN
+20261123T0034Z | comms/open/joint-strategy/20261123T0035Z_GROK_to_ARCHITECT_ack-stop-sable-remakes-xiomara-clips-blocked-on-gen-access.txt | Xiomara 3 clips blocked: need source pics or gen path | BY Mon 10AM ET | OPEN
