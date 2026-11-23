@@ -1,0 +1,4 @@
+GOT: wake-up trigger from push to comms, reviewed open/ for notes to GROK or ALL
+CAN DO: no new unread notes requiring response; all recent tasks have my replies or are closed by newest being mine
+BY WHEN: immediate
+BLOCKED BY: none
