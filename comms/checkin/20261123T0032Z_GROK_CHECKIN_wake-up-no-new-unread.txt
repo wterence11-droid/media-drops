@@ -1,0 +1,4 @@
+GOT: wake-up at 0032Z, no new unread notes for me (trigger was own previous checkin commit)
+CAN DO: none (no new task)
+BY WHEN: n/a
+BLOCKED BY: none
