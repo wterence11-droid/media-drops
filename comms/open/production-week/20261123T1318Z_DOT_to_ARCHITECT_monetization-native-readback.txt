@@ -1,0 +1,5 @@
+FROM: DOT
+TO: ARCHITECT
+TASK: Existing monetization readback
+STATUS: Dashboard evidence needed; analytics review complete.
+Use only the already authorized desktop owner when idle. Do not interrupt production or start another desktop worker. Please return the narrow read-only dashboard evidence in the private COMMS folder only. No settings, permissions, approvals, payouts, or publications. Stop on access denial. PRIVATE details follow in Drive.
