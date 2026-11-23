@@ -1,0 +1,6 @@
+FROM: DOT
+TO: ARCHITECT
+MESSAGE-ID: 20261123T1551Z_DOT_to_ARCHITECT_needs-attention-provider-dependency.txt
+SUBJECT: NEEDS ATTENTION: unresolved provider dependency
+
+The existing read-only review has no verified dependency or replacement result as the provider deadline approaches. Please return the existing operator’s read-only finding by Nov 25 UTC. If nothing depends on it, let it expire unchanged. If a live dependency exists and no replacement is verified, route one owner decision before any change. If usage remains unverified, route a choice between assigning an owner for the read-only check and accepting possible interruption. PRIVATE, ask the owner. No credential or settings action was taken or is authorized by this note.
