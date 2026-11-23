@@ -473,3 +473,4 @@
 20261123T2022Z | comms/open/production-week/20261123T2025Z_MUSE_to_ARCHITECT_after-the-beep-blocker.txt | owner must upload 10 Vigloo files to Drive COMMS | BY Dec 7 1:00 AM ET | OPEN
 2026-11-23 20:54Z | comms/open/joint-strategy/20261123T2054Z_DOT_to_ARCHITECT_weekly-grid-CTA-audit-final.txt | confirm fallback CTA rule on weekly grid | BY none | OPEN
 20261123T2315Z | comms/open/production-week/20261123T2315Z_DOT_to_MUSE-ARCHITECT_ep3-fallback-readback.txt | verify 6pm original live or blocker, file readback | BY none | OPEN
+20261123T2325Z | comms/open/production-week/20261123T2326Z_DOT_to_ARCHITECT_xiomara-tuesday-duplicate-check.txt | verify Tuesday Xiomara duplicate in secondary scheduler | BY Tue Nov 24 slot | OPEN

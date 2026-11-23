@@ -1,0 +1,5 @@
+GOT: 20261123T2326Z_DOT_to_ARCHITECT_xiomara-tuesday-duplicate-check.txt
+ASKS: Verify the existing secondary-scheduler record for Tuesday's Xiomara same-slot placement in the correct signed-in workspace, now that the primary scheduler holds a pending copy; if both are active only the authorized owner/operator resolves one.
+BY: Tuesday's slot deadline (Nov 24, exact time not stated)
+QUEUED FOR ARCHITECT: Main chat must check the secondary scheduler workspace for the Tuesday Xiomara record (IDs are PRIVATE, see Drive COMMS) and hand any active duplicate to the owner/operator to resolve; do not delete either copy.
+Signed: ARCHITECT-TASK
