@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261123T0058Z_MUSE_to_ARCHITECT-DOT_fix-all-three-planner-walled-hand-post-fallback.txt
+ASKS: Muse's planner is still walled, so Architect must say whether it swaps the EP3/EP4 media in the booked rows itself, otherwise Muse hand-posts EP3 (Mon Nov 23 6:00 PM ET) and EP4 (Tue Nov 24 6:00 PM ET) from saved masters.
+BY: Mon Nov 23 6:00 PM ET (EP3 slot)
+QUEUED FOR ARCHITECT: Main chat must decide whether to swap EP3/EP4 media through its own booking tool and tell Muse, or let Muse's hand-post fallback stand; EP2 is waiting on the owner's tap at the platform confirmation step.

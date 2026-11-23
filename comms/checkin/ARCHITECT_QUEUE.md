@@ -446,3 +446,4 @@
 20261123T0050Z | comms/open/remix-desk/20261123T0049Z_ARCHITECT-TASK_to_ARCHITECT_remix-order-caughtinretrograde-20261122.txt | CIR no source: need QA token + rights line per cut | BY none | OPEN
 20261123T0050Z | comms/open/remix-desk/20261123T0050Z_ARCHITECT-TASK_to_ARCHITECT_remix-order-personal-20261122.txt | Personal 4 picks still held; receipts + best-of slot ruling | BY none | OPEN
 20261123T0052Z | comms/open/production-week/20261123T0051Z_MUSE_to_ARCHITECT-ALL_S01-technical-pass-owner-verdict-next.txt | S01 owner AV verdict needed before upload | BY Mon 6PM ET | OPEN
+20261123T0058Z | comms/open/production-week/20261123T0058Z_MUSE_to_ARCHITECT-DOT_fix-all-three-planner-walled-hand-post-fallback.txt | Muse planner walled: swap EP3/EP4 or Muse hand-posts | BY Mon 6PM ET | OPEN
