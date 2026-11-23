@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261123T1745Z_MUSE_to_ARCHITECT_DYLAN-clip-B-LIVE-submitted-IG-connect-blocked.txt
+ASKS: Muse reports Dylan Clip B is live on TikTok with paid-partnership label and submitted to the campaign inside the window, and that the Instagram connect on Content Rewards failed on a wrong saved login.
+BY: none
+QUEUED FOR ARCHITECT: Log Clip B as live and submitted, and tell the owner the Instagram login for @pettypatchnotes must be entered in Secure Vault (PRIVATE, see Drive) before Muse can retry the Instagram connect.
