@@ -1,0 +1,53 @@
+PERSONAL NUMBERS - week Mon 2026-11-16 00:00 to Sun 2026-11-22 23:59 America/New_York
+Filed: Mon Nov 23 2026, 8:49 AM EST (2026-11-23T1349Z) by the Monday personal-numbers routine (read-only, cloud). Signed ARCHITECT-TASK.
+Drive copy: PERSONAL_NUMBERS_20261123.txt in dot-Claude COMMS.
+Rulings read: CLAUDE-RULING-20261101T0250Z-CHAIN-OF-COMMAND-ALL-SESSIONS (no newer chain-of-command ruling found); CLAUDE-PLAN-20261031T2310Z-MONETIZATION-SCHEDULE-TO-FEB1 (Personal lane = daily 60-90 s cut to personal TikTok + IG); OWNER-DECISIONS Nov 15 (joint plan four answers) and Nov 17 (boombox off Xiomara / post on best judgment / OpenClaw) - nothing personal-lane in either; last week's file 20261116T1350Z.
+Source: Metricool brand "Personal" (7156824) only - getAnalyticsDataByMetrics + getScheduledPosts. Gaps = unknown. Nothing posted, scheduled or changed. No other brand touched.
+Per-post numbers are lifetime totals at pull time (Mon 8:45 AM ET). Times ET (Metricool rows are UTC; converted).
+
+=== TIKTOK @terencew1 ===
+Account: followers 3,505 (Nov 15) -> 3,508 (Nov 22) = +3. Daily new-follower rows sum +2 (Nov 16 blank). Profile views, account reach, acquired/lost: blank or 0 -> unknown.
+Videos published in the week: 5 (prior week 9). Durations 22-26 s. None reach the 60-90 s plan length.
+
+Per post (ET | dur s | views | likes | comments | shares):
+1. 11/16 19:03 POV: boss asks you to take on more | 22 | 10 | 0 | 0 | 0
+2. 11/17 19:04 POV: "that's our best offer" | 24 | 171 | 4 | 0 | 0
+3. 11/18 19:04 POV: everyone gets three percent | 24 | 255 | 0 | 0 | 0
+4. 11/19 19:02 POV: once-a-year bill | 26 | 12 | 0 | 0 | 0
+5. 11/20 23:30 "Ayo Rick! hood up, cup up." (not AI-labelled, not a POV scene) | 24 | 60 | 2 | 0 | 0
+Week totals: 508 views (prior week 2,188) | 6 likes | 0 comments | 0 shares.
+Late number for last week: 11/15 19:03 POV "why you're leaving" now 51 views, 0 likes.
+Reach, full-watch %, avg watch time, For You / Follow / Search / Profile: Metricool null on every post, 6th week -> unknown.
+E5 readback: all 5 planner TikTok items for Nov 16-20 show PUBLISHED with a TikTok id. No E5 failure. Nov 21 and Nov 22: nothing booked, nothing in analytics.
+
+Funnel read: the FIRST step broke this week. Views fell 77% (2,188 -> 508). Two of five POV scenes got 10 and 12 views - TikTok barely showed them. Middle (watch) unknown. Shares 0, comments 0, +3 follows.
+ONE FIX - TikTok: put a big on-screen question in the first second of every POV scene (the line the viewer would type into search, e.g. "What do you say when they say that's our best offer?") and say it out loud before the scene starts. Same series, no lane switch. Content note for the production run.
+PIN (TikTok): none. Nothing this week beats "Two homes" (931, Nov 12); last week's optional pin still stands, no new action.
+
+=== INSTAGRAM (personal) ===
+Account: followers 1,962 (Nov 15) -> 1,966 (Nov 22) = +4 (gained 7, lost 3 per daily rows).
+Account views week: 1,101 (prior 1,075). Daily reach sum: 864 (may double count). Accounts engaged (daily sum): 16. Reels: 5. Feed posts / stories: blank -> unknown.
+
+Per reel (ET | dur s | reach | views | avg watch s | retention % | view rate % | skip rate % | likes | comments | saves | shares):
+1. 11/16 19:06 POV: boss asks you to take on more | 23 | 182 | 212 | 6.16 | 26.8 | 44.9 | 55.1 | 2 | 0 | 0 | 0
+2. 11/17 19:05 POV: "that's our best offer" | 24 | 153 | 185 | 6.70 | 27.9 | 41.3 | 58.7 | 1 | 0 | 0 | 0
+3. 11/18 19:04 POV: everyone gets three percent | 24 | 164 | 189 | 7.64 | 31.8 | 55.1 | 44.9 | 1 | 0 | 0 | 0
+4. 11/19 19:03 POV: once-a-year bill | 27 | 183 | 219 | 6.28 | 23.3 | 42.6 | 57.4 | 1 | 0 | 0 | 0
+5. 11/20 23:32 Ayo Rick! hood up, cup up. | 25 | 107 | 167 | 9.27 | 37.1 | 43.2 | 56.8 | 5 | 6 | 2 | 0
+Week totals: reach 789 | views 972 | likes 10 | comments 6 | saves 2 | shares 0.
+Late number for last week: 11/15 POV "why you're leaving" reach 118, views 154, retention 23.7%, skip 73.6%, 3 likes, 2 saves.
+
+Funnel read: reach is steady (107-183 per reel). The weak step is still the first 3 seconds: more than half of viewers swipe away (skip 45-59%) and people watch 6-9 s of 23-27 s (23-37%). Only the 3% raise reel kept more than half. Last week's "answer in the first 2 seconds" fix is not showing in the numbers yet. The one non-POV clip (Ayo Rick) got the best hold (37%) and all 6 comments.
+ONE FIX - Instagram: same fix, apply it for real this week - every POV reel opens on the answer line (no interviewer setup before it); target skip rate under 45%. IG items belong to Muse via the Architect.
+PIN (IG): none needed.
+
+=== BUYER QUESTIONS (verbatim from comments) ===
+TikTok: 0 comments. IG: 6 comments on "Ayo Rick"; Metricool does not return comment text -> unknown. No buyer question can be confirmed.
+
+=== NOTES FOR ARCHITECT ===
+- Planner Nov 21-22: empty. Daily-cut plan 5 of 7 this week.
+- Planner Nov 24-29 (booked Nov 22): 6 items, all TikTok ONLY, 11:15 AM ET, Come-Up captions (#thecomeup) - budgeting / negotiation / savings carousel / 72-hour rule / recruiter question / 3-account setup. No Instagram copy booked for any of them, and none of them are 60-90 s POV personal cuts. Please confirm this is intended for the personal brand; if not, it is a scheduling question for the production run. Not changed here.
+- Every personal cut still under 60 s (plan says 60-90 s). Flag for production, not changed here.
+- TikTok reach/watch/traffic still unreadable through Metricool (6 weeks).
+- No new owner asks. Nothing repeated from open items. Nothing needs the owner.
+END
