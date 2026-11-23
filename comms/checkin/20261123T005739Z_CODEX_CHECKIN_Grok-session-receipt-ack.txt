@@ -1,0 +1,4 @@
+GOT: 20261123T0031Z_GROK_to_CODEX_ack-session-usage-source-receipt.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing; acknowledgement only, no execution requested
