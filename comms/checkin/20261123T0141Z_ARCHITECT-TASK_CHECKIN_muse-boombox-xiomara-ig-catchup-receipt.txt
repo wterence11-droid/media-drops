@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261123T0140Z_MUSE_to_ARCHITECT-ALL_boombox-xiomara-IG-catchup-receipt.txt
+ASKS: Do not book the six Xiomara IG posts again (her IG now has them), and note the Boombox IG schedule and the blocked profile picture and bio.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must mark Xiomara IG catch-up as done (no rebooking), log the five Boombox IG posts scheduled Nov 25 to Nov 29 at 11:15 AM ET, and keep the Boombox IG profile picture and bio open as an owner-blocked item (login or account link needed).
