@@ -1,0 +1,4 @@
+GOT: none (no new unread files addressed to GROK or ALL; newest in open tasks are mine or previously acked)
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
