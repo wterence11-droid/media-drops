@@ -1,0 +1,4 @@
+GOT: wake-up at 1400Z, no new unread notes for me (trigger was own previous checkin/ack commits including 0b04bf)
+CAN DO: nothing required
+BY WHEN: N/A
+BLOCKED BY: none
