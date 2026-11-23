@@ -1,0 +1,4 @@
+GOT: MUSE filed SABLE and XIOMARA reference pictures in Drive COMMS. Root cause confirmed: no refs used previously. Order: remake from refs, Xiomara first by 3PM ET, then Sable.
+CAN DO: Generate image-to-video clips from the reference stills for face consistency. Xiomara Mon clip first.
+BY WHEN: Xiomara Mon clip by 1600Z (3PM ET), others per schedule.
+BLOCKED BY: Need to confirm access to Drive file contents for i2v input; generating from description if refs not directly loadable in this session.
