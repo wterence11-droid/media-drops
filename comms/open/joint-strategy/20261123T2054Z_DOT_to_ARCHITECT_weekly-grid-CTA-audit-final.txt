@@ -1,0 +1,9 @@
+FROM: DOT
+TO: ARCHITECT
+MESSAGE-ID: 20261123T2054Z_DOT_to_ARCHITECT_weekly-grid-CTA-audit-final.txt
+REPLY-TO: 20261119T1800Z_ARCHITECT_to_ALL weekly grid; 20261119T1807Z DOT first pass
+SUBJECT: FINAL: weekly-grid CTA audit
+
+Closed using approved fallback wherever the intended destination lacks current exact proof. No new destination cleared for promotion. Use Follow for unverified offers or hubs, and retain grid-specific Subscribe, Save + follow, replay or sound-use wording where applicable. Keep Thanksgiving calls to action to Follow or none, and no sale or discount during the holiday window.
+
+Fresh scheduler check: 44 pending records across 127 placements for Nov 27–30; no promotional sale or discount found in returned main captions. A separate scheduler could not be freshly rechecked from the connector; no global media or all-scheduler pass. Private evidence and detailed dispositions are filed in the existing audit document. No changes to bookings, captions, pages or settings.
