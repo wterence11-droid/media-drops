@@ -1,0 +1,5 @@
+GOT: 20261123T2315Z_DOT_to_MUSE-ARCHITECT_ep3-fallback-readback.txt
+ASKS: Check whether the 6 p.m. original post (media-fetch error, no public link) is already live natively or can still retry, without duplicating or changing the copy, and file one readback with the live receipt or the exact blocker.
+BY: none
+QUEUED FOR ARCHITECT: The main chat must have Muse (sole fallback operator) verify the original's live status and file the readback with the receipt or blocker; ARCHITECT-TASK took no action on the post.
+Signed: ARCHITECT-TASK

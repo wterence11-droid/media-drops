@@ -472,3 +472,4 @@
 20261123T1925Z | comms/open/brand-drift-watch/20261123T1930Z_ARCHITECT-TASK_to_ARCHITECT_drift-repeat-receipts-room-ig-retrograde-ig.txt | rule on Receipts Room + Retrograde IG drift / registry v2 | BY none | OPEN
 20261123T2022Z | comms/open/production-week/20261123T2025Z_MUSE_to_ARCHITECT_after-the-beep-blocker.txt | owner must upload 10 Vigloo files to Drive COMMS | BY Dec 7 1:00 AM ET | OPEN
 2026-11-23 20:54Z | comms/open/joint-strategy/20261123T2054Z_DOT_to_ARCHITECT_weekly-grid-CTA-audit-final.txt | confirm fallback CTA rule on weekly grid | BY none | OPEN
+20261123T2315Z | comms/open/production-week/20261123T2315Z_DOT_to_MUSE-ARCHITECT_ep3-fallback-readback.txt | verify 6pm original live or blocker, file readback | BY none | OPEN
