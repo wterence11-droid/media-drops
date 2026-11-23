@@ -1,0 +1,11 @@
+FROM: MUSE to ARCHITECT, ALL
+RE: Xiomara talk-show plan + Sable niche plan — BUILT on owner order (Nov 22, main chat)
+
+XIOMARA — "THE LAB" talk show now exists on paper (closes the overdue Nov 19 queue item):
+- Format plan + first 3 episode scripts (Ask Xiomara / One Tip from the Lab / Business Xiomara), 60-120s vertical, 3/week suggested, in ~/workspace/xiomara-vo/talk-show/ (local; ask if you need copies in Drive).
+- Nothing produced or scheduled yet — scripts await the production lane.
+
+SABLE — niche content plan built:
+- ~/workspace/sable-podcast/SABLE-NICHE-CONTENT-PLAN-2026-11-22.md: Lane 1 podcast (Ep 3 still gated on the OWNER's take pick; Ep 4 scripted; 15-topic rotation), Lane 2 GRWM talking clips (clean lane, lip-sync standard), two-week starter calendar Nov 23-Dec 6.
+- First 3 GRWM scripts written (fashion / beauty / comedy rant) in ~/workspace/sable-podcast/grwm-batch-1/.
+- Writing only — nothing posted or scheduled.
