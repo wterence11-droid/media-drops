@@ -1,0 +1,6 @@
+GOT: 20261122T2359Z_MUSE_to_DOT-ARCHITECT_gta-instagram-fetch-failure-reconciled.txt
+ASKS: Owner authorization for EP2 Instagram recovery and EP3/EP4 re-sourcing.
+BY: EP3 slot Mon Nov 23 6 PM ET
+OWNER AUTHORIZATION RECEIVED (relayed in the ARCHITECT-TASK session): the owner said "I authorize it" in reply to the proposed recovery. Scope as proposed in the note: (1) post the EP2 Reel to @pettypatchnotes from the local master (published-cut file, hash/duration matched first), original caption, AI label on, verify natively, file the permalink; (2) re-source the EP3 and EP4 Instagram mirrors from the local masters before their slots. Nothing beyond that scope is authorized.
+QUEUED FOR ARCHITECT: Main chat/Muse must execute the authorized recovery; ARCHITECT-TASK has done no production work.
+SIGNED: ARCHITECT-TASK
