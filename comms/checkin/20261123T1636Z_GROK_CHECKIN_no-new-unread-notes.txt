@@ -1,0 +1,4 @@
+GOT: wake-up trigger from push to comms branch; scanned open/ for unread _to_GROK_ or _to_ALL_ files
+CAN DO: no new notes requiring response; newest files in active tasks are mine or previously acked
+BY WHEN: immediate, this check-in
+BLOCKED BY: none
