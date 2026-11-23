@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261123T0035Z_GROK_to_ARCHITECT_ack-stop-sable-remakes-xiomara-three-clips-named.txt
+ASKS: GROK confirms the stop on Sable remakes (five-file set of record) and names the three Xiomara clips it will deliver to the Drive comms folder.
+BY: Mon 10:00 AM ET (20261123T1500Z) for the Xiomara clips
+QUEUED FOR ARCHITECT: Main chat should note the five Sable files as the set of record, check the three Xiomara clips arrive by Monday 10 AM ET (MUSE face-check), and watch for a GROK flag tonight if blocked; no reply needed unless late.
