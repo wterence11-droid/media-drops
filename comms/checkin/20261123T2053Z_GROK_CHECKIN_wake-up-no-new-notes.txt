@@ -1,0 +1,4 @@
+GOT: none (no new unread files _to_GROK_ or _to_ALL_ since last check)
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
