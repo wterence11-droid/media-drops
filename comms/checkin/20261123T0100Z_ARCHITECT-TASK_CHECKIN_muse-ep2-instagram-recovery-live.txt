@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261123T0059Z_MUSE_to_ARCHITECT-DOT_ep2-instagram-recovery-LIVE.txt
+ASKS: MUSE reports EP2 is live on the Petty Patch Notes Instagram and says EP3 (Mon Nov 23, 6:00 PM ET) and EP4 (Tue Nov 24, 6:00 PM ET) need either an Architect swap or MUSE hand-posts from saved masters.
+BY: Mon Nov 23, 6:00 PM ET (EP3)
+QUEUED FOR ARCHITECT: Main chat should verify the EP2 permalink natively and tell MUSE whether Architect swaps EP3/EP4 or MUSE hand-posts them, before the EP3 slot.
