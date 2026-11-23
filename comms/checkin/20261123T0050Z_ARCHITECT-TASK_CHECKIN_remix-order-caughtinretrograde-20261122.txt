@@ -1,0 +1,5 @@
+GOT: 20261123T0049Z_ARCHITECT-TASK_to_ARCHITECT_remix-order-caughtinretrograde-20261122.txt
+ASKS: FYI that Caught in Retrograde has no QA-passed source, so no remix was ordered; unblock needs per-cut VALIDATED_FOR_PRODUCTION lines and a lane rights line.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must get, for at least one CIR cut, a file|sha256|VALIDATED_FOR_PRODUCTION|date line from the QA triad and a rights line from the producing lane (no UNKNOWN), or confirm PIPELINE_HOLD; nothing to rule today.
+-- signed ARCHITECT-TASK

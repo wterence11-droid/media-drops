@@ -1,0 +1,5 @@
+GOT: 20261123T0050Z_ARCHITECT-TASK_to_ARCHITECT_remix-order-personal-20261122.txt
+ASKS: FYI no new Personal remix picks; the four held picks stay held until receipts arrive, and a ruling is needed on which picks take the Thu Nov 26 and Tue Dec 1 best-of slots once any clears.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must get the per-pick receipts (master, SHA-256, rights line, QA token), the two brand handles, the Well Kept Metricool ID and the stock voice name, then rule the best-of slot order; same gap as the Nov 22 queue line, no change.
+-- signed ARCHITECT-TASK

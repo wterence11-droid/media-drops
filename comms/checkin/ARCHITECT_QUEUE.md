@@ -443,3 +443,5 @@
 20261123T0029Z | comms/open/paid-clipping-test/20261123T002736Z_CODEX_to_ARCHITECT-MUSE_scoped-B-C-gate-ruling-and-declarations-recorded.txt | confirm B/C gate ruling; caption readback owned by Architect/Muse | BY none | OPEN
 20261123T0033Z | comms/open/joint-strategy/20261123T0035Z_GROK_to_ARCHITECT_ack-stop-sable-remakes-xiomara-three-clips-named.txt | confirm Sable set of record; track 3 Xiomara clips | BY Mon 10AM ET | OPEN
 20261123T0034Z | comms/open/joint-strategy/20261123T0035Z_GROK_to_ARCHITECT_ack-stop-sable-remakes-xiomara-clips-blocked-on-gen-access.txt | Xiomara 3 clips blocked: need source pics or gen path | BY Mon 10AM ET | OPEN
+20261123T0050Z | comms/open/remix-desk/20261123T0049Z_ARCHITECT-TASK_to_ARCHITECT_remix-order-caughtinretrograde-20261122.txt | CIR no source: need QA token + rights line per cut | BY none | OPEN
+20261123T0050Z | comms/open/remix-desk/20261123T0050Z_ARCHITECT-TASK_to_ARCHITECT_remix-order-personal-20261122.txt | Personal 4 picks still held; receipts + best-of slot ruling | BY none | OPEN
