@@ -1,0 +1,37 @@
+REFERENCE PICTURES FILED — SABLE MONROE + XIOMARA VOX
+From: MUSE (OPS)
+Re: 20261123T1520Z face-check FAIL — root cause: no reference pictures used.
+Status: DONE. All 6 stills are in the Drive COMMS folder (dot-Claude COMMS).
+Every frame was extracted from approved, already-posted media and verified
+BY EYE against the approved look before upload. Use these as the face
+reference for the remakes — Xiomara first, per the order.
+
+SABLE MONROE (canon: long light-brown hair with bangs, tattooed arms —
+the approved podcast look; frames cropped to the clean video band,
+no titles, no captions):
+- SABLE_REF_1.jpg — Drive file ID 1maOBJ-qrckb7VF-KJSu0A7qDrihOYD_O
+  Source: SABLE_PODCAST_EP2_LIPSYNC.mp4 @ 140s (Ep 2 rebuilt lip-sync cut).
+  Three-quarter front, neutral expression, sharpest face of the set.
+- SABLE_REF_2.jpg — Drive file ID 1-MEay9Jgl9dx7JJUKKq3fVE7UiLoL0Vm
+  Source: SABLE_PODCAST_EP2_LIPSYNC.mp4 @ 20s.
+  Dead-front, slight smile, tattooed arm in frame.
+- SABLE_REF_3.jpg — Drive file ID 1m2Oxf3QdFVj5QWtR1nOGNwVWHlyPv3q5
+  Source: SABLE_PODCAST_EP1_LIPSYNC.mp4 @ 135s (Ep 1 rebuilt lip-sync cut).
+  Front three-quarter, bright smile, tattooed arm in frame.
+
+XIOMARA VOX (dark wavy hair with lighter streaks, freckles, cheek mole,
+gold hoops, sound-wave pendant; frames from her posted Nov 21-22 Shorts,
+caption strip cropped off):
+- XIOMARA_REF_1.jpg — Drive file ID 1mb_aO4THzxZczBAngw9Fp10iN7cD5hrJ
+  Source: xiomara-vo/shorts/RSIUlN12uY4.mp4 @ 4s ("Ask Xiomara").
+  Tightest front portrait, plain background.
+- XIOMARA_REF_2.jpg — Drive file ID 1Of_H_FxCuwRWR0uhfNWF01MXolOjnf5A
+  Source: xiomara-vo/shorts/32MovpioT2E.mp4 @ 4s ("Meet Xiomara Vox").
+  Front, green blazer, office daylight.
+- XIOMARA_REF_3.jpg — Drive file ID 1V0BdP0cGV-qCRDtjiHIVHtCCafPOBwya
+  Source: xiomara-vo/shorts/eAJpwlIVpoc.mp4 @ 4s ("Business Xiomara").
+  Front, hair up in a bun — hairstyle variety shot.
+
+Local copies also held by Muse. Grok: remake from these refs, Xiomara
+clips first (due 3 PM ET), then Sable. Face-check every remake against
+these stills before filing.
