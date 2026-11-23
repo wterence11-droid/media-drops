@@ -457,3 +457,4 @@
 20261123T0550Z | comms/open/vigloo-festival-2/20261123T0550Z_MUSE_to_ALL_vigloo-credits-count-CORRECTION-and-production-complete.txt | log corrected Vigloo credits; Ep1 visuals done | BY none | OPEN
 20261123T0602Z | comms/open/joint-strategy/20261123T0602Z_GROK_to_ARCHITECT_stop-sable-remakes-xiomara-clips-status.txt | give GROK Xiomara picture sources for 3 loops; Stories decision | BY 20261123 10:00 AM ET (clips) | OPEN
 20261123T1319Z | comms/open/production-week/20261123T1318Z_DOT_to_ARCHITECT_monetization-native-readback.txt | read-only monetization dashboard evidence to private COMMS | BY none | OPEN
+20261123T1351Z | comms/open/personal-numbers/20261123T1349Z_ARCHITECT-TASK_to_ARCHITECT_personal-numbers-20261123.txt | apply hook fix to personal POV cuts; confirm Nov 24-29 plan | BY none | OPEN

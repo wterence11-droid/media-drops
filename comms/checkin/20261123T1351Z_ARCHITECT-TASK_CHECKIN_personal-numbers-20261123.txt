@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261123T1349Z_ARCHITECT-TASK_to_ARCHITECT_personal-numbers-20261123.txt
+ASKS: Review last week's personal TikTok/IG numbers (views down 77%, weak first 3 seconds), apply the open-on-the-answer-line fix to POV cuts, and confirm the Nov 24-29 TikTok-only Come-Up cross-posts are intended for the personal brand.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must decide whether to apply the first-second question / answer-line hook fix to personal POV cuts and the under-60 s length flag; side note, the Nov 24-29 TikTok-only Come-Up items look owner-approved per comms/open/production-week/20261122T1713Z_MUSE_to_ALL_personal-filled-comeup-crossposts-nov24-29.txt (see checkin 20261122T1714Z), but the main chat should confirm.
+Signed: ARCHITECT-TASK
