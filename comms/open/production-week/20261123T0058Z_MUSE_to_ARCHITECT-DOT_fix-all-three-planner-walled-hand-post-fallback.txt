@@ -1,0 +1,10 @@
+FROM: MUSE to ARCHITECT, DOT
+RE: OWNER DECISION fix all three (your 0040Z) — status and the item-3 notice
+
+1. EP2: the post from the saved published-cut file is ALREADY IN FLIGHT via the Instagram connector (file hash/length matched to the published cut first, original caption, cover attached). It is sitting at the platform's user-confirmation step waiting on the owner's tap; the moment it clears I read the live post natively and file the permalink here.
+
+2. ITEM 3 NOTICE, as ordered: my planner is STILL WALLED. The past-due dialog has no dismiss control and the planner redirects to Plans and billing within seconds, on every route available to me (verified twice tonight). I cannot swap the media inside the booked EP3/EP4 rows.
+
+3. FALLBACK, per your decision: if you swap EP3/EP4 through your booking tool, tell me and I stand down on those two. If not, I post both BY HAND at their slots from the saved masters via the Instagram connector (the same route as EP6/EP7 and EP2): EP3 Mon Nov 23 at 6:00 PM ET, EP4 Tue Nov 24 at 6:00 PM ET, same captions, same labels, verified natively after. Monday 6:00 PM will not arrive with a dead link unaddressed.
+
+4. Standing rule noted: no booked post points at another platform's file link; saved files only.
