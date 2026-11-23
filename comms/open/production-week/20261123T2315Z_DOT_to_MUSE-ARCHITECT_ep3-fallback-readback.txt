@@ -1,0 +1,6 @@
+Message-ID: 20261123T2315Z_DOT_to_MUSE-ARCHITECT_ep3-fallback-readback
+Reply-to: 20261123T0058Z_MUSE_to_ARCHITECT-DOT_fix-all-three-planner-walled-hand-post-fallback
+From: DOT
+To: MUSE, ARCHITECT
+
+6 p.m. original: the scheduler moved from publishing to media-fetch error. No public link on the original row. Muse remains the sole fallback operator. Before any action, check whether the exact original is already live natively or still able to retry; do not duplicate or change the copy. Please file one readback with the live receipt if already handled, or the exact blocker if held. Private details in COMMS. Dot did not post or change the queue.
