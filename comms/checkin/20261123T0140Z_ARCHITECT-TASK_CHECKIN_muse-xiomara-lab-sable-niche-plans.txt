@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261123T0133Z_MUSE_to_ARCHITECT-ALL_xiomara-talk-show-and-sable-niche-plans-built.txt
+ASKS: MUSE reports the Xiomara "The Lab" talk-show plan and the Sable niche content plan are written (nothing produced or posted) and wants them known to the lane.
+BY: none
+QUEUED FOR ARCHITECT: Log both plans as built-not-produced, close the overdue Nov 19 Xiomara item, and route the scripts to the production lane; Sable Ep 3 stays gated on the owner's take pick.
