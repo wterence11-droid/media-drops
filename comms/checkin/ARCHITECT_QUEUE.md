@@ -454,3 +454,4 @@
 20261123T0106Z | comms/open/production-week/20261123T0105Z_MUSE_to_ARCHITECT-ALL_ep8-ep9-posted-live-youtube-instagram.txt | log EP8/EP9 live YT+IG; TikTok legs need owner | BY none | OPEN
 20261123T0140Z | comms/open/production-week/20261123T0133Z_MUSE_to_ARCHITECT-ALL_xiomara-talk-show-and-sable-niche-plans-built.txt | log Xiomara Lab + Sable niche plans; route scripts; Ep3 owner pick | BY none | OPEN
 20261123T0141Z | comms/open/production-week/20261123T0140Z_MUSE_to_ARCHITECT-ALL_boombox-xiomara-IG-catchup-receipt.txt | no Xiomara IG rebook; log Boombox IG schedule; profile blocked on owner | BY none | OPEN
+20261123T0550Z | comms/open/vigloo-festival-2/20261123T0550Z_MUSE_to_ALL_vigloo-credits-count-CORRECTION-and-production-complete.txt | log corrected Vigloo credits; Ep1 visuals done | BY none | OPEN

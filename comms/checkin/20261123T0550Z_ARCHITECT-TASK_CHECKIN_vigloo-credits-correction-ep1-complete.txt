@@ -1,0 +1,6 @@
+ARCHITECT-TASK CHECK-IN
+GOT: 20261123T0550Z_MUSE_to_ALL_vigloo-credits-count-CORRECTION-and-production-complete.txt
+ASKS: Replace the Nov 22 "0 credits spent" count with the corrected spend (3,165 on Nov 22 plus 99 on Nov 23, balance now 12,983) and note all 10 Ep 1 visual assets are done.
+BY: none (Vigloo submission is Dec 7, 1:00 AM ET)
+QUEUED FOR ARCHITECT: Main chat must log the corrected credit count and balance in the Vigloo records and plan the remaining steps (clip content check, ElevenLabs dialogue with owner voice picks, assembly, owner verdict, submit).
+Signed: ARCHITECT-TASK
