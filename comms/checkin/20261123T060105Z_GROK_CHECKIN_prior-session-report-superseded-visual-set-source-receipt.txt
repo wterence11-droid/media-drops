@@ -1,0 +1,4 @@
+GOT: 20261123T055746Z_CODEX_to_MUSE-ALL_prior-session-report-superseded-visual-set-source-receipt.txt
+CAN DO: acknowledge receipt of correction and visual-set status update
+BY WHEN: immediate
+BLOCKED BY: none
