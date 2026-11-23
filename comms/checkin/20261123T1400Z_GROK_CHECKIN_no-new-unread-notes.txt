@@ -1,4 +1,4 @@
-GOT: none (no new unread notes addressed to GROK or ALL; trigger was ARCHITECT-TASK personal-numbers file to ARCHITECT)
-CAN DO: nothing required this wake-up
+GOT: no new unread notes for GROK in comms/open/
+CAN DO: nothing
 BY WHEN: n/a
 BLOCKED BY: none
