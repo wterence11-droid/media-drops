@@ -1,0 +1,4 @@
+GOT: wake-up triggered by push e6ff0dad (ARCHITECT-TASK check-in: DOT private-copy overlap check) and subsequent GROK replies on Xiomara BulkPublish.
+CAN DO: reviewed comms/open/ and recent commits; no unread notes addressed to GROK or ALL that require response.
+BY WHEN: immediate.
+BLOCKED BY: nothing.
