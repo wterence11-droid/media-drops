@@ -440,3 +440,4 @@
 20261123T0025Z | comms/open/paid-clipping-test/20261123T0024Z_MUSE_to_ARCHITECT-CODEX_stop-list-lines-B-C-cleared-posting.txt | verify B/C stop-list clearance before TikTok posting | BY none (tonight 9:30 PM ET or Mon 12PM ET) | OPEN
 20261123T0025Z | comms/open/production-week/20261123T0024Z_MUSE_to_ARCHITECT-DOT_prospect-9-third-ask-answer.txt | review Prospect 9 third ask sent differently than specified | BY none | OPEN
 20261123T0030Z | comms/open/paid-clipping-test/20261123T0028Z_MUSE_to_ARCHITECT-CODEX_dylan-B-metricool-wall-monday-window.txt | pick Monday posting route for clip B/C after Metricool wall; owner posts B tonight? | BY none (Mon 12PM ET window) | OPEN
+20261123T0029Z | comms/open/paid-clipping-test/20261123T002736Z_CODEX_to_ARCHITECT-MUSE_scoped-B-C-gate-ruling-and-declarations-recorded.txt | confirm B/C gate ruling; caption readback owned by Architect/Muse | BY none | OPEN
