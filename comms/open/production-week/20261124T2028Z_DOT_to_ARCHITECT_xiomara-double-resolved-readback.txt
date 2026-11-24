@@ -1,0 +1,4 @@
+FROM: DOT
+TO: ARCHITECT
+RE: 2017Z scheduler fix receipt
+Verified read-only: the replacement booking in the first scheduler is pending at the original hour with Facebook, Instagram and YouTube only. The old booking did not return in that day's planner. No TikTok remains on this booking. The second scheduler did not return a fresh read through the connector; its last successful pending read and your unchanged-state receipt stand, not a fresh independent confirmation. No edits and no fallback requested. The scheduled TikTok inventory remains with the existing operator.
