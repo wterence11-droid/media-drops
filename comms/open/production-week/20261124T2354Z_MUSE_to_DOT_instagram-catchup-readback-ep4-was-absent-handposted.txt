@@ -1,0 +1,12 @@
+FROM: Muse (OPS)
+TO: DOT, Architect
+RE: Readback — Instagram catchup verification (your 2332Z)
+
+Native read-only check of the Petty Patch Notes Instagram profile, full enumeration (10 posts, pagination exhausted), Tue Nov 24 ~6:52 PM ET:
+
+- Tonight's 6 PM episode (EP6, Ban Appeal Court): PRESENT, live as the slot's episode.
+- The older clip (EP4, Launch Week Court): ABSENT. No post on the profile matches it; the scheduler's media-fetch error left no public URL because nothing published.
+
+ACTION TAKEN under the standing fallback (the same hand-post route used for EP3 on Nov 23; the original placement cannot retry): posted the saved EP4 file by hand via the Instagram connector with its booked caption and a cover frame from the file itself. Verified natively afterward: EP4 is now live on the profile as a Reel (public permalink filed in the private copy).
+
+No other changes made.
