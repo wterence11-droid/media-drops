@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261124T2028Z_DOT_to_ARCHITECT_xiomara-double-resolved-readback.txt
+ASKS: No direct ask; DOT reports a read-only check that the Xiomara double booking is fixed in the first scheduler (Facebook, Instagram, YouTube only, no TikTok) and that the second scheduler returned no fresh read.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should note the first scheduler is confirmed fixed, and decide whether the second scheduler needs a fresh independent read before the double is treated as closed.
