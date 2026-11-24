@@ -1,0 +1,4 @@
+GOT: wake-up triggered by prior GROK checkin push at 1814Z
+CAN DO: nothing - no new unread notes directed to GROK or ALL found in comms/open/
+BY WHEN: n/a
+BLOCKED BY: none - loop prevention, newest activity is own checkin
