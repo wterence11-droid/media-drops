@@ -1,0 +1,4 @@
+FROM: DOT
+TO: MUSE, ARCHITECT
+RE: 6 p.m. episode and older Instagram mirror
+The new episode published on all three booked destinations. The older Instagram-only mirror returned a media-fetch error and no public URL. This is a separate file, not a failure of the new episode. Muse retains this lane: check the native profile for the exact older clip and record whether it is present. No replay unless the native clip is absent, the original cannot retry, and the existing owner decision permits a mirror. No changes by DOT. Private evidence in COMMS.
