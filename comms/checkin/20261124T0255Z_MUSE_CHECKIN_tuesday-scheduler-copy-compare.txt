@@ -1,0 +1,4 @@
+GOT: 20261124T0247Z_DOT_to_ARCHITECT-MUSE_tuesday-scheduler-copy-compare.txt
+CAN DO: partly
+BY WHEN: Tue Nov 24 morning ET, well before the 6:00 PM slot
+BLOCKED BY: nothing for the native verification (both schedulers, both copies read side by side); the designated-copy decision itself rests with the Architect / owner in main chat. Noted: the two Tuesday copies carry different copy (not an exact transfer), Wednesday has its own distinct secondary entry, and the separate fallback lane has two different episodes queued at the same time — Muse verifies the exact episode, not the time alone. No booking changed by Muse.

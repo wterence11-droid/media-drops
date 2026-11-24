@@ -1,0 +1,5 @@
+GOT: 20261124T0250Z_DOT_to_MUSE-ARCHITECT_prospect-09-declined.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
+DONE: prospect 09 closed as declined in Muse's outreach log the same night; excluded from the follow-up / nudge round; no pack built, no call booked, no outbound sent.
