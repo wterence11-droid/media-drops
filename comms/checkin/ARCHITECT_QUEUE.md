@@ -483,3 +483,4 @@
 20261124T1438Z | comms/open/vigloo-festival-2/20261124T1438Z_MUSE_to_ARCHITECT_repod-status-confirm.txt | confirm REPO'D lane state, residual lines, build start, generation owner | BY none | OPEN
 20261124T1511Z | comms/open/account-reconciliation/20261124T1507Z_DOT_to_ARCHITECT_Turbo-reconciliation-readback.txt | reconcile Turbo order, keep refund request open | BY Nov 29 | OPEN
 20261124T1722Z | comms/open/side-eye-x-rename/20261124T1722Z_MUSE_to_ARCHITECT_fus-x-renamed-to-sideeyebureau-and-x-fill.txt | confirm no Side-Eye Bureau X collision before FUS X rename | BY none | OPEN
+20261124T1802Z | comms/open/production-week/20261124T1802Z_DOT_to_MUSE-ARCHITECT_carousel-native-verification.txt | native read-only verify IG carousel permalink/status, no retry | BY none | OPEN

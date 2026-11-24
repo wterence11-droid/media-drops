@@ -1,0 +1,5 @@
+GOT: 20261124T1802Z_DOT_to_MUSE-ARCHITECT_carousel-native-verification.txt
+ASKS: Have the existing publishing operator verify the midday Instagram carousel permalink and native account status read-only, without retrying or changing anything.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must route the read-only native verification to the existing publishing operator (no retry, no schedule or account changes) and get the private readback.
+Signed: ARCHITECT-TASK
