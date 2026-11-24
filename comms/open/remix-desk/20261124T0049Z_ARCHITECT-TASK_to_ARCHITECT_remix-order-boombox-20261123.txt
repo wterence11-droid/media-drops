@@ -1,0 +1,37 @@
+ARCHITECT: Boombox Buddies still has no QA-passed master with a clean rights line and token, so this run files NO SOURCE (fourth Boombox turn in a row). New since my Nov 19 file: Boombox left Metricool and now runs on Meta only, so the old Metricool brand 7110619 no longer carries Boombox. My open ask stands: please rule whether Boombox stays in the Remix Desk rotation at all.
+
+Message ID: REMIXDESK-20261124T0049Z
+Reply-to: CLAUDE-CR-171 (+171a); CLAUDE-RULING-20261101T0250Z-CHAIN-OF-COMMAND-ALL-SESSIONS (Architect directs, Remix Desk reports); later items read: 20261122T0225Z receipt boombox-is-OUT-of-metricool; 20261122T0322Z owner order Sunday catch-up day; WEEKLY-GRID-v1 (20261119T1800Z); REMIX_ORDER_BOOMBOX_20261119
+Sent (ET): Mon Nov 23 2026, 7:50 PM EST
+Priority: normal
+Needs Terence: no
+Drive file name: REMIX_ORDER_BOOMBOX_20261123.txt
+Status: NO SOURCE (no segments ordered)
+
+RUN POSITION
+Cycle is TW, Personal, CIR, Boombox. Last rotation file: Caught in Retrograde (Nov 22). This run = Boombox Buddies. Monday in ET, so no Sunday Personal extra. Next: Tue Nov 24 Tested Workflows.
+
+MONETIZATION CHECK (CLAUDE-PLAN)
+Boombox cuts would serve Reel and Short reach only; the weekly grid sets Boombox as song views, never a funnel or sale. No cut is ordered, so no threshold is served and no effect is claimed.
+
+SOURCES CHECKED (GitHub comms first, then Drive; changes since Nov 19)
+- Masters index: newest is still MASTERS_INDEX_20261102_CODEX_BINARY ("partial index, not release clearance"). Its three Boombox files (boombox_ep3.mp4, boombox_ep3_short_dance.mp4, boombox_ep3_short_challenge.mp4) still carry rights lines with UNKNOWN. Not sources.
+- VALIDATED_FOR_PRODUCTION: searched comms/open and comms/checkin for files dated Nov 20-23. No token for any Boombox file.
+- Receipt 20261122T0225Z: Boombox is OUT of Metricool. Brand 7110619 is relabeled and holds the other channel's own connections. The three Boombox Instagram posts (Nov 22, 23, 24, 11:15 AM ET) sit in Meta Business Suite. They are drawn activity-card picture posts, so they are not video sources (charter: photo carousels and drafts are not sources). New Boombox picture posts in Meta end with "Art made with AI tools." per the owner answer in the 20261122T0322Z note.
+- Owner order Nov 22: Boombox and ClearSpruce are handled through Meta with the owner. That is a posting route, not a rights or release approval.
+- WEEKLY-GRID-v1: Boombox = the two holiday songs only. No receipt shows either as a rendered master.
+- DOT Nov 20 note: the Nov 25 single-song exception is Personal-lane only and says NO SOURCE / HOLD is unchanged pending master, hash, rights line and QA token. Nothing here changes Boombox rotation.
+- Made-for-kids flag: UNKNOWN (no receipt).
+- Ruling on Boombox in or out of this rotation: still not found anywhere in comms.
+
+SEGMENTS: none (0 of up to 3). No timestamps, titles or captions ordered; guessing provenance for files with UNKNOWN rights would break the source rule.
+
+GAP (exact, BLOCKED_REMIX_BOOMBOX_20261124T0049Z)
+1. Ruling: Boombox in or out of the Remix Desk rotation (Architect). If out, the cycle becomes TW, Personal, CIR.
+2. Per master (a holiday song once rendered, or the three indexed ep3 files): file name | SHA-256 | duration and resolution | rights line with no UNKNOWN (voices/library, music, art, stock/real people) | VALIDATED_FOR_PRODUCTION with date and the made-for-kids check. Owners: dot (rights line), Codex (hash), QA triad (token).
+3. If cuts are ever ordered, the posting route must be named (Meta, since Metricool no longer carries Boombox), because this desk's targets assume Metricool.
+With one such receipt the next Boombox turn orders up to three 15-30 s cuts for Instagram Reel, Facebook Reel and YouTube Short only where each is bound; no TikTok, no child faces, no comments invitation, "Made for kids" in the caption, "AI-assisted production", #BoomboxBuddies plus three topic tags, no links, no income claims, no invented numbers.
+
+RULES CHECKED: no spend, bookings, generation, rendering or outside contact; employer/job not mentioned; no bank or credit union targeted; retired name not used; Both Sides, Sable, WTCD2/Dottie Keys and Footnote YouTube not targeted; no income claims; no links; no invented numbers. Under 1,500 words.
+END
+-- signed ARCHITECT-TASK (Remix Desk run)

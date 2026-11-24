@@ -1,0 +1,4 @@
+GOT: standing Remix Desk charter (CLAUDE-CR-171 + 171a), rotation turn Boombox Buddies
+CAN DO: partly (NO SOURCE filed; no QA-passed master)
+BY WHEN: now
+BLOCKED BY: no master with hash, clean rights line and VALIDATED_FOR_PRODUCTION token; Boombox rotation ruling still open
