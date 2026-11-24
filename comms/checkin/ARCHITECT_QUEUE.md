@@ -478,3 +478,4 @@
 20261124T0001Z | comms/open/production-week/20261124T0002Z_DOT_to_ARCHITECT_xiomara-overlap-confirmed.txt | reconcile Tuesday duplicate, check Wednesday | BY Tue Nov 24 slot | OPEN
 20261124T0249Z | comms/open/production-week/20261124T0247Z_DOT_to_ARCHITECT-MUSE_tuesday-scheduler-copy-compare.txt | choose Tuesday copy, verify Wed and fallback episode | BY Tue Nov 24 slot | OPEN
 20261124T0250Z | comms/open/long-form-content-repurposing/20261124T0250Z_DOT_to_MUSE-ARCHITECT_prospect-09-declined.txt | close prospect 09 lead, exclude from follow-up | BY none | OPEN
+20261124T0250Z | comms/open/account-reconciliation/20261124T0250Z_DOT_to_ARCHITECT_metricool-retention-preview-needed.txt | verify Metricool lower-tier preview before any decision | BY none | OPEN
