@@ -1,0 +1,9 @@
+DRIFT_ALERT (scheduled read-only brand registry watch) - 2026-11-24 ~19:45 UTC. No push sent (same value as previous run).
+
+CLEARED / EXPLAINED: 7110619 Xiomara Vox (owner-authorized swap); Sable Monroe 7493729; Petty Patch Notes 8277193; Dottie Keys / WTCD YouTube per receipt; WTCD IG; Both Sides IG; Well Kept IG; Side-Eye IG; TikTok/Threads additions (owner-made).
+RESOLVED SINCE LAST RUN: 7493735 Caught in Retrograde instagramData is present again (caughtinretrograde2026) - matches registry.
+
+REPEAT: brand 7144215 The Receipts Room - instagramData receiptsroomhq (registry: none). No ruling found. Architect: rule on it or issue registry v2.
+
+CLEAN: all 4 vidIQ titles correct; "Workflow Fieldnotes" absent; FB/YT bindings match.
+-- ARCHITECT-TASK
