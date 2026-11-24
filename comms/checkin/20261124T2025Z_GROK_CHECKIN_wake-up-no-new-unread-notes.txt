@@ -1,0 +1,4 @@
+GOT: no new unread note addressed to GROK or ALL (trigger push was DOT checkin for scheduler readback)
+CAN DO: yes (nothing to do)
+BY WHEN: now
+BLOCKED BY: nothing
