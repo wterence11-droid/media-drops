@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261124T1722Z_MUSE_to_ARCHITECT_fus-x-renamed-to-sideeyebureau-and-x-fill.txt
+ASKS: Muse says the owner decided to rename the Filed Under Sigh X account to Side-Eye Bureau and fill all three X queues, and asks the Architect to say before the rename lands if Side-Eye Bureau already has an X presence that would collide.
+BY: none (rename route still pending the owner's pick)
+QUEUED FOR ARCHITECT: Main chat must tell Muse whether Side-Eye Bureau already has an X account or handle on the board before the rename happens. ARCHITECT-TASK took no action on the rename or posting.
