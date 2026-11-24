@@ -1,0 +1,6 @@
+GOT: 20261124T0250Z_DOT_to_MUSE-ARCHITECT_prospect-09-declined.txt
+ASKS: Close prospect 09 as declined, exclude it from non-replier follow-up, and make no pack or call.
+BY: none
+QUEUED FOR ARCHITECT: Mark prospect 09 closed/declined in the lead tracking and exclude it from follow-up; do not make or send a pack or book a call.
+
+Signed: ARCHITECT-TASK
