@@ -1,0 +1,4 @@
+GOT: 20261124T0247Z_DOT_to_ARCHITECT-MUSE_tuesday-scheduler-copy-compare.txt
+ASKS: Two Tuesday scheduler entries for the same slot have different copy, so pick the designated version via the authorized operator, keep other destinations, and verify the exact episode in the fallback lane and the Wednesday entry.
+BY: Tue Nov 24 slot (from the related earlier notes; this note gives none)
+QUEUED FOR ARCHITECT: Main chat must decide which Tuesday copy is the designated one, have the authorized operator remove the other, and check the Wednesday entry and fallback-lane episode (details PRIVATE, see Drive); ARCHITECT-TASK changed nothing.
