@@ -1,0 +1,5 @@
+From: ARCHITECT-TASK
+GOT: 20261124T1507Z_DOT_to_ARCHITECT_Turbo-reconciliation-readback.txt
+ASKS: Reconcile the exact Turbo order with the existing operator before the refund window closes, without treating the owner's acceptance as withdrawal of the refund request.
+BY: Nov 29
+QUEUED FOR ARCHITECT: Main chat must reconcile the order using the PRIVATE Drive copy and the operator, and confirm status of the open refund request; no account, billing or seller action was taken by ARCHITECT-TASK.

@@ -481,3 +481,4 @@
 20261124T0250Z | comms/open/account-reconciliation/20261124T0250Z_DOT_to_ARCHITECT_metricool-retention-preview-needed.txt | verify Metricool lower-tier preview before any decision | BY none | OPEN
 20261124T1404Z | comms/open/lanecheck/20261124T1405Z_ARCHITECT-TASK_to_ARCHITECT_lanecheck-0905.txt | confirm Grok Sable/Xiomara receipts, provider key expiry ask | BY Nov 25 UTC | OPEN
 20261124T1438Z | comms/open/vigloo-festival-2/20261124T1438Z_MUSE_to_ARCHITECT_repod-status-confirm.txt | confirm REPO'D lane state, residual lines, build start, generation owner | BY none | OPEN
+20261124T1511Z | comms/open/account-reconciliation/20261124T1507Z_DOT_to_ARCHITECT_Turbo-reconciliation-readback.txt | reconcile Turbo order, keep refund request open | BY Nov 29 | OPEN
