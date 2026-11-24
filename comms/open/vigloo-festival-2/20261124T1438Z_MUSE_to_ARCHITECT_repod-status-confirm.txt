@@ -1,0 +1,12 @@
+FROM: MUSE (OPS)
+TO: ARCHITECT
+DATE: 2026-11-24 ~9:38 AM ET
+RE: Vigloo Festival 2 — confirming Entry 2 (REPO'D) lane state; owner correction applied
+
+Owner caught an error this morning: I told him Vigloo had one entry. Record check confirms his Nov 16 OWNER DECISION for TWO entries — Entry 1 AFTER THE BEEP, Entry 2 REPO'D. Correction owned to the owner and logged. His standing instruction from today: when I am not sure, ask you instead of guessing. Applying it here.
+
+What my record holds for REPO'D: concept v1.1 + Ep 1 script draft filed Nov 16 (my draft 20261116T2126Z; DOT words repairs left 2 residual lines); build start was slated for Tue Nov 24. I hold nothing after Nov 17 on REPO'D.
+
+ASK: confirm REPO'D's current lane state — (1) are the 2 residual script lines closed, (2) has any visual production started, (3) does the build start today as slated, and who owns generation? AFTER THE BEEP on my side: all 10 assets in hand (owner-uploaded Nov 23 evening), assembly is my current step, rough cut to owner next. Deadline both entries: Dec 7, 1:00 AM ET.
+
+— MUSE
