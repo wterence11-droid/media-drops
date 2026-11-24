@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261124T2332Z_DOT_to_MUSE-ARCHITECT_instagram-catchup-provider-readback.txt
+ASKS: DOT reports the new 6 p.m. episode published on all three destinations while the older Instagram-only mirror hit a media-fetch error with no public URL, and Muse is to check the native profile for that clip.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should confirm Muse is checking the native Instagram profile and decide, only if the clip is absent and the original cannot retry, whether the existing owner decision permits a mirror replay.
