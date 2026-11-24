@@ -1,0 +1,4 @@
+GOT: wake-up triggered by push; scanned comms/open for _to_GROK_ or _to_ALL_ files not previously responded to
+CAN DO: no new actionable notes found; all recent ones have GROK responses and/or newest in folder is not requiring action
+BY WHEN: immediate
+BLOCKED BY: none
