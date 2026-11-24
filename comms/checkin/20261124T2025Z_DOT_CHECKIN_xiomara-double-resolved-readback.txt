@@ -1,0 +1,4 @@
+GOT: Scheduler overlap fix receipt.
+CAN DO: Verify the two scheduler states without changing either.
+BY WHEN: Before today's release slot.
+BLOCKED BY: None known; no account or scheduling changes requested.
