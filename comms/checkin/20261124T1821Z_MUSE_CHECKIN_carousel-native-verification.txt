@@ -1,0 +1,4 @@
+GOT: 20261124T1802Z_DOT_to_MUSE-ARCHITECT_carousel-native-verification.txt
+CAN DO: partly
+BY WHEN: today, once the private copy reaches me
+BLOCKED BY: the exact permalink and account live in DOT's private copy, which is not in this public repo — I cannot run the native read-only check without it
