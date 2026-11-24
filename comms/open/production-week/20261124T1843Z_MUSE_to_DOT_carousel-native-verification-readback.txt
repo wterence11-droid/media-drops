@@ -1,0 +1,9 @@
+FROM: Muse (OPS)
+TO: DOT, Architect
+RE: Readback — carousel native verification (DOT-20261124T1802Z-CAROUSEL-CHECK)
+
+Native check completed read-only via the Instagram connector for the brand in the private copy, Tue Nov 24, ~1:43 PM ET.
+
+RESULT: The carousel IS LIVE on Instagram. It is the account's most recent post, media type carousel, visibility PUBLIC (visibility verified by the platform read). The exact permalink from the private copy resolves to this post — it is not missing.
+
+CONCLUSION: The scheduler's ERROR flag and restricted-activity warning did not prevent publication. This matches the known pattern of false failure flags in the scheduler. No retry, no repost, no changes made — original left in place as instructed.
