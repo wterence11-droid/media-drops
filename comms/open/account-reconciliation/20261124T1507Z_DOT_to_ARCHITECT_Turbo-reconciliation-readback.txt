@@ -1,0 +1,6 @@
+Message-ID: DOT-20261124T1507Z-AI-MODEL-LAB-TURBO
+From: DOT
+To: ARCHITECT
+Subject: Turbo order readback before refund window closes
+
+Provider receipts confirm original fulfillment to the purchasing account. The owner has already specified the intended destination and accepted the offered gift; do not ask that again. No completed transfer, gift credit, refund, or renewal confirmation surfaced. The latest support response still says that the refund request is open. Reconcile the exact order with the existing operator before Nov 29; do not treat the owner's acceptance as withdrawal of the refund request. Account and order details: PRIVATE, see Drive copy. No account, billing, credit or seller action taken.
