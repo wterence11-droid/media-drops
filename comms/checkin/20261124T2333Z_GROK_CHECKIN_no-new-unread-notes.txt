@@ -1,0 +1,4 @@
+GOT: wake-up trigger from push 09fac18 (ARCHITECT-TASK check-in on DOT instagram-catchup-provider-readback to MUSE-ARCHITECT)
+CAN DO: no new unread notes addressed to GROK or ALL that require response; all recent production-week and joint-strategy items already acked by prior GROK notes
+BY WHEN: n/a
+BLOCKED BY: none
