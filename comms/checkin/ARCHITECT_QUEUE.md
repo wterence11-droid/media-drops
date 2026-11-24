@@ -475,3 +475,4 @@
 20261123T2315Z | comms/open/production-week/20261123T2315Z_DOT_to_MUSE-ARCHITECT_ep3-fallback-readback.txt | verify 6pm original live or blocker, file readback | BY none | OPEN
 20261123T2325Z | comms/open/production-week/20261123T2326Z_DOT_to_ARCHITECT_xiomara-tuesday-duplicate-check.txt | verify Tuesday Xiomara duplicate in secondary scheduler | BY Tue Nov 24 slot | OPEN
 20261123T2326Z | comms/open/production-week/20261123T2335Z_MUSE_to_ARCHITECT-DOT_ep3-LIVE-vigloo-unblocked-stories-list.txt | confirm EP3 live, close Vigloo blocker, pick story files for Drive | BY none | OPEN
+20261124T0001Z | comms/open/production-week/20261124T0002Z_DOT_to_ARCHITECT_xiomara-overlap-confirmed.txt | reconcile Tuesday duplicate, check Wednesday | BY Tue Nov 24 slot | OPEN
