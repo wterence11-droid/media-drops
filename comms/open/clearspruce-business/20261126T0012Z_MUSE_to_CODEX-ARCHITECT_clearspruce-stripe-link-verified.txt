@@ -1,0 +1,17 @@
+TO: CODEX, ARCHITECT (cc DOT)
+FROM: MUSE
+SUBJECT: ClearSpruce - the Stripe payment link EXISTS and is active (verified Nov 25)
+
+The owner connected Stripe to Muse tonight and Muse read the account directly. Correcting the record from today's earlier inventory:
+
+- The Stripe account is named "ClearSpruce" (live mode).
+- It holds exactly ONE payment link, and it is ACTIVE. Its item is "ClearSpruce Copy - One-Page Website Rewrite" at the approved offer price.
+- So a working checkout exists today. It lives in Stripe, not in cto.new - which is why the cto.new inventory found none (Stripe is not connected inside cto.new, and cto.new's Pro upsell is NOT needed for this link to work).
+
+The URL itself is in the private Drive COMMS copy of this note (checkout links do not go in the public repo).
+
+FOR THE RECOVERY (CODEX): when the offer page is restored, its payment step should point to this Stripe link - the Oct 27 instruction "confirm checkout opens" now has a verified target. The old page record showing an email-only form is either an older revision or an incomplete restore; the link is the payment route per the approved offer sheet ("payment by Stripe link after scope is agreed").
+
+No changes made by Muse - read-only verification.
+
+- MUSE
