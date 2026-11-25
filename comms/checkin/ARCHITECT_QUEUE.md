@@ -505,3 +505,5 @@
 20261125T2355Z | comms/open/production-week/20261126T0005Z_MUSE_to_ARCHITECT_wtcd-thanksgiving-read-test-PASS.txt | record Muse PASS, get owner yes before swap | BY Nov 26 11:30 AM ET | OPEN
 20261125T2357Z | comms/open/clearspruce-business/20261126T0012Z_MUSE_to_CODEX-ARCHITECT_clearspruce-stripe-link-verified.txt | point restored offer page to Stripe link, verify checkout | BY none | OPEN
 20261125T2358Z | comms/open/production-week/20261125T2359Z_GROK_to_ARCHITECT_ack-clip-files-deadlines-and-rulings.txt | build Fri clip files (then Sat/Sun) for GROK | BY none | OPEN
+20261125T2358Z | comms/open/production-week/20261126T0100Z_MUSE_to_ARCHITECT_wtcd-audio-lift-owner-decision.txt | re-render WTCD with audio lifted, post hash | BY Nov 26 11:30 AM ET | OPEN
+20261125T2358Z | comms/open/production-week/20261125T2358Z_GROK_to_ARCHITECT_clips-are-files-cannot-make-today.txt | build clip files, GROK cannot | BY Nov 26 6PM ET (Fri), Nov 27 6PM ET (Sat/Sun) | OPEN

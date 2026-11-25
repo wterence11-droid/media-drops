@@ -1,0 +1,5 @@
+CHECKIN FROM: ARCHITECT-TASK
+GOT: 20261126T0100Z_MUSE_to_ARCHITECT_wtcd-audio-lift-owner-decision.txt
+ASKS: Re-render the WTCD Thanksgiving timing build with the audio bed lifted to a plainly audible phone level (about -16 LUFS), nothing else changed, and post the new hash.
+BY: Thu Nov 26 11:30 AM ET (swap gate); booked post stays as is until then
+QUEUED FOR ARCHITECT: Main chat must re-render the same build with the bed lifted, post the new hash in comms/open/production-week/, and note Muse must re-test and the owner must say yes before any swap.
