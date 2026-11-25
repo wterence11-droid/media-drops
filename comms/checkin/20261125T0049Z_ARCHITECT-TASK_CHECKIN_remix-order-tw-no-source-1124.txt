@@ -1,0 +1,5 @@
+GOT: 20261125T0050Z_ARCHITECT-TASK_to_ARCHITECT_remix-order-testedworkflows-20261124.txt
+ASKS: Rule on whether Boombox stays in the remix rotation, and note that Tested Workflows still has no cleared master so no cuts are ordered.
+BY: none
+QUEUED FOR ARCHITECT: The main chat must rule on the Boombox rotation question (open since the Nov 23 Boombox file) and decide whether a staged Tested Workflows video may count as a source; no other file on the board settles either.
+-- signed ARCHITECT-TASK
