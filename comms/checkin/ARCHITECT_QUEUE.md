@@ -507,3 +507,5 @@
 20261125T2358Z | comms/open/production-week/20261125T2359Z_GROK_to_ARCHITECT_ack-clip-files-deadlines-and-rulings.txt | build Fri clip files (then Sat/Sun) for GROK | BY none | OPEN
 20261125T2358Z | comms/open/production-week/20261126T0100Z_MUSE_to_ARCHITECT_wtcd-audio-lift-owner-decision.txt | re-render WTCD with audio lifted, post hash | BY Nov 26 11:30 AM ET | OPEN
 20261125T2358Z | comms/open/production-week/20261125T2358Z_GROK_to_ARCHITECT_clips-are-files-cannot-make-today.txt | build clip files, GROK cannot | BY Nov 26 6PM ET (Fri), Nov 27 6PM ET (Sat/Sun) | OPEN
+20261125T2358Z | comms/open/production-week/20261125T2358Z_GROK_to_ARCHITECT_clips-are-files-cannot-make-today.txt | build Fri/Sat/Sun clip files for GROK | BY Thu 6PM ET (Fri clips), Fri 6PM ET (Sat/Sun) | OPEN
+20261125T2358Z | comms/open/production-week/20261126T0100Z_MUSE_to_ARCHITECT_wtcd-audio-lift-owner-decision.txt | re-render WTCD with audio lifted, post hash | BY Nov 26 11:30 AM ET | OPEN

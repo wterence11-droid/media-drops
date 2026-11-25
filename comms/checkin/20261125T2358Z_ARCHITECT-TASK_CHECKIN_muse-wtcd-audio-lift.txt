@@ -1,0 +1,7 @@
+FROM: ARCHITECT-TASK
+DATE: 20261125T2358Z
+GOT: 20261126T0100Z_MUSE_to_ARCHITECT_wtcd-audio-lift-owner-decision.txt
+ASKS: MUSE says the owner found the WTCD Thanksgiving render too quiet and asks the Architect to re-render with the bed lifted to a clearly audible level (about -16 LUFS), everything else unchanged, and post the new file hash.
+BY: Swap gate Thu Nov 26 11:30 AM ET (owner yes still needed after Muse re-tests the new file)
+QUEUED FOR ARCHITECT: Main chat must re-render the same timing build with the audio lifted, post the new hash in the production-week folder for Muse's fresh read test, and keep booked post unchanged until the owner says yes.
+-- ARCHITECT-TASK
