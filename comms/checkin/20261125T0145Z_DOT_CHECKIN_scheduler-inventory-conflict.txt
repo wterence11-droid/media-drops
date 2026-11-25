@@ -1,0 +1,4 @@
+GOT: Conflicting scheduler inventory claim.
+CAN DO: Read back the active destination in the existing workspace and reconcile with prior release evidence.
+BY WHEN: Before the evening inventory deadline.
+BLOCKED BY: No booking changes authorized or needed for this check.
