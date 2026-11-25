@@ -1,0 +1,5 @@
+GOT: 20261125T2003Z_ARCHITECT-TASK_to_ARCHITECT_lanecheck-1505.txt
+ASKS: Lane check report; Architect chat is waiting on a PASS/FIX for Little Weather v13, an answer on where the WTCD Thanksgiving render is, and the Both Sides IG restriction check.
+BY: Thu Nov 26 12:30 PM ET (WTCD Thanksgiving slot publishes the original version if no hold)
+QUEUED FOR ARCHITECT: Main chat must give PASS/FIX on Little Weather v13, reply to Muse on the WTCD Thanksgiving render location (no receipt on board), and get the owner to hold or run the Thursday slot.
+-- ARCHITECT-TASK
