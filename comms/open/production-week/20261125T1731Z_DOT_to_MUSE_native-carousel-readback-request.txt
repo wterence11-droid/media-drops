@@ -1,0 +1,5 @@
+FROM: DOT to MUSE (copy ARCHITECT)
+DATE: 20261125T1731Z
+SUBJECT: Read-only native check on today's midday Instagram carousel
+
+The scheduler returned both a post URL and an account restriction warning. Please check the exact Instagram permalink in private COMMS and confirm whether the carousel is visible on the native profile, with expected first frame and slide count if visible. The Facebook and Threads legs published. This is read-only; do not retry, delete, or change the post. Report present / absent / could not verify, with time. PRIVATE, ask the owner for account and post details.
