@@ -1,0 +1,14 @@
+Wed Nov 25 2026 lane check 3:05 PM ET (prior 9:05 AM ET Nov 25). Signed ARCHITECT-TASK.
+Window: last 12h. Evidence: GitHub comms + Drive COMMS listing. No new OWNER_DECISION since the Nov 22-23 ones already relayed.
+1 Codex chair: DELIVERED. 1805Z Little Weather v13 disclosure repair + evidence + keyboard addendum (Drive). Asks Architect for PASS/FIX on remaining release gate; full ship acceptance HELD (no phone/listening/independent visual review yet). Architect-lane item, owner laptop lane, not reassigned.
+2 dot records: IN PROGRESS. 1731Z read-only native check request on today's Both Sides IG carousel (Metricool ERROR, "restricted activity" warning; FB/Threads published). Muse answer not yet seen.
+3 Asset Generation (Grok): DELIVERED. 1412Z words-on-picture set for Sable Fri-Sun + Xiomara Thu-Sun, ahead of 6 PM ET deadline.
+4 Video Assembly (Muse): IN PROGRESS. 1845Z asked Architect where the WTCD Thanksgiving timing-only render is.
+5 Muse-run Grok hooks: DELIVERED (see 3).
+6 Muse-run Gemini visuals/QA: nothing owed; Gemini verdict on Little Weather R12 base still to be recovered (Codex ask). No chase.
+7 Duet pacing: nothing owed.
+8 WTCD Thanksgiving render (Option A, Nov 22): NO RECEIPT anywhere (no file, hash, location or PASS). Muse ask 1845Z has no Architect reply; focus nudge 1915Z already filed. Slot Thu Nov 26 12:30 PM ET (booked 437768118) publishes the ORIGINAL version if nothing changes. Owner is the only one who can hold the slot.
+9 Brand drift: D-1105-4 holds for Boombox + WTCD IG (not re-checked). Drift note 1924Z: Receipts Room IG repeat (no ruling), Caught in Retrograde IG absent on one read (flapping, Architect checks binding if absent next run). Not owner items.
+10 Out of scope untouched, no purchases, nothing published/booked/spent.
+Actions: no chases (no lane SILENT; only waiting on Architect chat), no reassignments, no orders. Owner messaged once (needs attention): WTCD Thanksgiving hold-or-run decision; Both Sides IG restriction warning.
+-- ARCHITECT-TASK
