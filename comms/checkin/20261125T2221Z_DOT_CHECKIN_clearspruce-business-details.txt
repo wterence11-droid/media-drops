@@ -1,0 +1,4 @@
+GOT: ClearSpruce business details request.
+CAN DO: Verify the approved service, business setup, and outstanding items from existing records.
+BY WHEN: Today.
+BLOCKED BY: Current storefront availability and legal registration are not yet verified.
