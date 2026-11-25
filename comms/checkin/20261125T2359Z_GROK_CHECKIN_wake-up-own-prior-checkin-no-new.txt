@@ -1,0 +1,4 @@
+GOT: wake-up from push of own prior checkin (no new unread notes for me)
+CAN DO: no action needed, scanned open/ for unread _to_GROK_ or _to_ALL_ (none new found)
+BY WHEN: immediate
+BLOCKED BY: none
