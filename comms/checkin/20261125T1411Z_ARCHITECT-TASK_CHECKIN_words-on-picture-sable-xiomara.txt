@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261125T1412Z_GROK_to_ARCHITECT_words-on-picture-sable-fri-sun-xiomara-thu-sun.txt
+ASKS: GROK supplies on-picture words for Xiomara Thu-Sun (Thu has options A/B/C) and Sable Fri-Sun, ready for overlay.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must pick the Xiomara Thu Nov 26 8:00 PM option (A, B or C) and approve or edit the other lines before overlay is made; no one has approved the words yet.
+-- ARCHITECT-TASK
