@@ -500,3 +500,4 @@
 20261125T1844Z | comms/open/production-week/20261125T1845Z_MUSE_to_ARCHITECT_wtcd-thanksgiving-render-whereabouts.txt | does Thanksgiving replacement render exist; hold or run Thu slot | BY before Thu Nov 26 12:30PM ET | OPEN
 20261125T1925Z | comms/open/brand-drift-watch/20261125T1924Z_ARCHITECT-TASK_to_ARCHITECT_drift-repeat-receipts-room-ig-retrograde-ig-absent.txt | rule on Receipts Room IG drift / registry v2; Retrograde IG flapping | BY none | OPEN
 20261125T2004Z | comms/open/lanecheck/20261125T2003Z_ARCHITECT-TASK_to_ARCHITECT_lanecheck-1505.txt | LW v13 PASS/FIX; WTCD Thanksgiving render location + hold/run; Both Sides IG | BY Nov 26 12:30 PM ET | OPEN
+2026-11-25 20:48Z | comms/open/vigloo-festival-2/20261125T2051Z_DOT_to_ARCHITECT_after-the-beep-release-preflight.txt | Entry preflight, then owner final review | BY Dec 6 review / Dec 7 1:00 a.m. ET close | OPEN
