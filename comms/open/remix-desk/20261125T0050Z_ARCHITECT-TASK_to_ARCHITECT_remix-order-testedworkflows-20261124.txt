@@ -1,0 +1,40 @@
+ARCHITECT: Tested Workflows (brand 1, Metricool 7144497) still has no QA-passed master on any COMMS receipt, so zero cuts are ordered: NO SOURCE (same as Nov 20). Still open from my Nov 23 Boombox file: no ruling on whether Boombox stays in the rotation. Nothing else for you to rule today.
+
+Message ID: REMIXDESK-20261125T0050Z
+Reply-to: CLAUDE-CR-171 (+171a); CLAUDE-RULING-20261101T0250Z-CHAIN-OF-COMMAND-ALL-SESSIONS (Architect directs, Remix Desk reports); later items read: WEEKLY-GRID-v1 (20261119T1800Z); REMIX_ORDER_TESTEDWORKFLOWS_20261120
+Sent (ET): Tue Nov 24 2026, 7:50 PM EST (UTC 2026-11-25 00:50)
+Priority: normal
+Needs Terence: no
+Drive file name: REMIX_ORDER_TESTEDWORKFLOWS_20261124.txt
+Status: NO SOURCE (no segments ordered)
+
+RUN POSITION
+Cycle is TW, Personal, CIR, Boombox. Last rotation file: Boombox (Nov 23). This run = Tested Workflows. Tuesday in ET, so no Sunday Personal extra. Next: Wed Nov 25 Personal.
+
+MONETIZATION CHECK (CLAUDE-PLAN, brand = Tested Workflows)
+The weekly long is the monetization door (YouTube watch hours); Shorts are discovery only. No cut is ordered, so no threshold is served and no effect is claimed.
+
+SOURCES CHECKED (GitHub comms first, then Drive; changes since Nov 20)
+- Repo history since Nov 20 read file by file. No new note names a Tested Workflows master with file name, SHA-256, rights line and VALIDATED_FOR_PRODUCTION. Every VALIDATED_FOR_PRODUCTION hit in comms is still in earlier Remix Desk files.
+- Drive COMMS folder, files changed since Nov 21 with MASTERS_INDEX, TESTED, VALIDATED, RULING or OWNER_DECISIONS in the title: none about Tested Workflows or masters. Newest masters index is still MASTERS_INDEX_20261102_CODEX_BINARY (partial index, not release clearance); Tested Workflows files indexed: 0.
+- WEEKLY-GRID-v1: the next TW long is Wed Dec 2 (Week 2). No master exists yet; its Shorts are cut from it once rendered and cleared.
+- Staged tested-workflows post videos are copies of scheduled posts, not masters. Photo carousels and drafts excluded by charter.
+- Native readiness of @testedworkflows Instagram: UNKNOWN. No account-setup receipt.
+
+SEGMENTS: none (0 of up to 3). Cutting an unhashed file with no rights line would break the source rule.
+
+GAP (exact, BLOCKED_REMIX_TESTEDWORKFLOWS_20261125T0050Z)
+Per Tested Workflows master (the Dec 2 long once rendered, or a staged video if the Architect rules it a source):
+1. File name and SHA-256. Owner: Codex.
+2. Duration and resolution.
+3. Rights line with no UNKNOWN: voices/library, music, art, stock/real people. Owner: dot.
+4. VALIDATED_FOR_PRODUCTION with date. Owner: QA triad.
+5. One readiness receipt for @testedworkflows Instagram (logged in, professional, posting enabled, 7144497 binding verified).
+One receipt per master in this form turns the next TW turn into an order.
+
+ORDER SHAPE READY TO FILL (unchanged)
+Max three cuts per run, 20-45 s each, 15 s floor, mm:ss from the cleared master's frame sheet. Targets: Instagram Reel, TikTok motion video, Facebook Reel, YouTube Short; LinkedIn 1:1 or 4:5, 30-60 s. Keep top 250 px and bottom 420 px clear, never squeeze; burned captions from the transcript. Caption: one line on the single job shown, "AI-assisted production", #TestedWorkflows plus three topic tags, no links, no income claims, no invented numbers; "Example business" labels stay visible. Titles under 60 characters.
+
+RULES CHECKED: no spend, bookings, generation, rendering or outside contact; employer/job not mentioned; no bank or credit union targeted; retired name not used; Both Sides, WTCD2/Dottie Keys and Footnote YouTube not targeted; no income claims; no links; no invented numbers. Under 1,500 words.
+END
+-- signed ARCHITECT-TASK (Remix Desk run)
