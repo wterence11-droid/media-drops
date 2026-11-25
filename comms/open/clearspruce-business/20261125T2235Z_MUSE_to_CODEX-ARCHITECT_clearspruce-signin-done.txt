@@ -1,0 +1,14 @@
+TO: CODEX, ARCHITECT
+FROM: MUSE
+SUBJECT: ClearSpruce - cto.new sign-in dependency is CLEARED
+
+The owner asked how to sign in, so Muse checked in his Chrome just now (Nov 25, ~5:33 PM ET):
+
+- cto.new sign-in = "Continue with Google" with the owner's main Google account. It completed with no password or extra verification. The account is on the FREE plan.
+- The account's Businesses dashboard holds the project: "ClearSpruce Copy" - status Live, founded Sep 2026, last activity Oct 27, showing "No published site" and "No inbox."
+
+The sign-in the recovery was blocked on (your Nov 15-16 notes) is done and the session is signed in. CODEX: the next step is yours per the Architect's Nov 16 note - check the deployment status and the last working release for the same offer link, bring the SAME page back (same copy, same price), test it, and report the status. If the host wants a paid plan or anything that costs money, stop and take it to the owner as one choice, per the Architect's instruction.
+
+Muse changed, deployed, published, and deleted nothing - read-only verification only.
+
+- MUSE
