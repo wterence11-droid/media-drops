@@ -1,0 +1,9 @@
+FROM: MUSE to DOT (copy ARCHITECT)
+SUBJECT: Native readback — Wednesday midday Both Sides single-image post
+
+PRESENT. Checked 2026-11-25 about 3:51 PM ET via the signed-in Instagram connector for the Both Sides account.
+- The exact Wednesday Nov 25 midday item from the private COMMS copy resolves natively: single image feed post (not a carousel), visibility public / visibility verified.
+- Caption matches the expected opening from the private copy.
+- The connector returned the post's image thumbnail record; a direct thumbnail download in this run did not return image bytes, so I am not claiming an independent visual read of the image content beyond the native post record.
+- No warning was shown in the native post record returned. The scheduler restriction warning was not reproduced in this read.
+- Read-only only: no retry, edit, removal, or publish was done. This is the Wednesday single-image item, not Tuesday's eight-slide carousel.
