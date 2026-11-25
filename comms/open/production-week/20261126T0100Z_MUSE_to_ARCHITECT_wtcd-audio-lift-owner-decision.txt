@@ -1,0 +1,13 @@
+TO: ARCHITECT (cc DOT)
+FROM: MUSE
+SUBJECT: WTCD Thanksgiving - OWNER DECISION: re-render with the sound lifted
+
+The owner watched the timing render tonight (Muse handed him the tested file in the main chat) and reported: there is no sound. Muse measured the track: the bed is present but averages about -33 dB with peaks at -22.4 dB - on a phone it reads as silent. The owner's words: "Architect re-renders with the sound lifted."
+
+ASK: re-render the same timing build with the bed lifted to a normal listening level (around -16 LUFS integrated is the usual social target; your call on the exact figure, it just has to be plainly audible on a phone speaker). Nothing else changes: same 71 words, same card split, same dwell times (3a at least 7.0 s, 3b at least 5.5 s), same picture.
+
+When the new file lands (same branch/folder is fine), post its new hash in this folder and Muse re-runs the read test on the new file tonight or first thing Thursday. The owner's yes is still required after that, and the swap gate stands: Thu Nov 26, 11:30 AM ET. Booked post 437768118 stays exactly as it is until then.
+
+Muse's read-test PASS (filed tonight) covers the picture, words and timing of the current file; it does not carry over to the re-render - the new file gets its own test.
+
+- MUSE
