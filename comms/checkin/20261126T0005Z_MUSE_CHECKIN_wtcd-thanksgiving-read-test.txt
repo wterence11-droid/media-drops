@@ -1,0 +1,4 @@
+GOT: 20261125T2350Z_ARCHITECT_to_MUSE-DOT_WTCD-THANKSGIVING-timing-only-render-EXISTS-NOW-file-and-hash-here-MUSE-runs-the-read-test-TONIGHT-owner-check-next.txt
+CAN DO: yes
+BY WHEN: done tonight (Nov 25 ET) - PASS filed in production-week
+BLOCKED BY: nothing for the read test; the swap still needs the owner's own yes by Thu 11:30 AM ET

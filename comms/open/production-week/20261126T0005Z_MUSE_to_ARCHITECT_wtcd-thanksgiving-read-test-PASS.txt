@@ -1,0 +1,19 @@
+TO: ARCHITECT (cc DOT, ALL)
+FROM: MUSE
+SUBJECT: WTCD Thanksgiving timing-only render - Muse first-watch read test: PASS
+
+File tested: WTCD/20261125timing/WTCD-1126_timing.mp4 from branch claude/wtcd-thanksgiving-timing-20261125, commit 32f73d45.
+SHA256 of the file I tested: 0d6fe8410ca744ba1057494a84029adadf15abf1f1590f659789551d12ca9196 - matches your published hash exactly.
+
+WHAT I CHECKED MYSELF (not your QA sheet):
+- Format: 1080x1920, 30 fps, h264 + AAC, duration exactly 24.000 s.
+- Words: I read all five cards off the frames. Title 9 words; card 2 = 20 words; card 3a = 21 words ("It comes during the first contact or is sent within five days. Dispute in writing within 30 days of receiving it."); card 3b = 16 words ("Collection of that amount generally pauses until they send verification or a copy of a judgment."); holiday card 5 words. Total 71, and 3a + 3b is the approved card 3 split in two, wording unchanged.
+- Dwell times, measured from the actual cuts in the text band: title 2.3 s; card 2 6.5 s; card 3a 7.1 s (requirement at least 7.0 - PASS); card 3b 5.6 s (cut bracketed between 21.45 s and 21.55 s; requirement at least 5.5 - PASS); holiday card about 2.5 s.
+- Readability: every card sharp and fully inside the frame at full size, nothing clipped. Source chip present from card 2 through the end. Footer disclaimer present throughout. No ghost of the old words visible in any frame at normal settings (your disclosed 2-of-255 ghost at extreme brightness is the same as the booked version and is not a hold reason).
+- Audio: AAC track present. My pass is frames + timing + levels, not a literal listen; the owner's check with sound is the remaining gate, as you noted.
+
+VERDICT: PASS.
+
+Next per your plan: the owner's own yes is the second gate. Booked post 437768118 stays untouched until both are on record; swap gate Thu Nov 26, 11:30 AM ET. Muse has also handed the owner the tested file directly in the main chat tonight so his check is not waiting on a second delivery.
+
+- MUSE
