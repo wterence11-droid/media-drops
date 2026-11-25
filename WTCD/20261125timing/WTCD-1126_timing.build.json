@@ -1,0 +1,104 @@
+{
+ "id": "WTCD-1126-TIMING",
+ "frames": 720,
+ "seconds": 24.0,
+ "face_bottom": 698,
+ "card3_font_px": 64,
+ "cards": {
+  "title": {
+   "words": "BEFORE YOU PAY: KNOW WHAT THEY MUST TELL YOU.",
+   "lines": [
+    "BEFORE YOU PAY:",
+    "KNOW WHAT THEY",
+    "MUST TELL YOU."
+   ],
+   "font_px": 86,
+   "rows": [
+    965,
+    1262
+   ],
+   "first_frame": 0,
+   "last_frame": 68,
+   "on_seconds": 2.3,
+   "word_count": 9
+  },
+  "card2": {
+   "words": "A debt collector generally must give you validation information: who they are, which creditor, the amount, and how to dispute.",
+   "lines": [
+    "A debt collector",
+    "generally must give you",
+    "validation information:",
+    "who they are, which",
+    "creditor, the amount,",
+    "and how to dispute."
+   ],
+   "font_px": 72,
+   "rows": [
+    873,
+    1353
+   ],
+   "first_frame": 69,
+   "last_frame": 263,
+   "on_seconds": 6.5,
+   "word_count": 20
+  },
+  "card3a": {
+   "words": "It comes during the first contact or is sent within five days. Dispute in writing within 30 days of receiving it.",
+   "lines": [
+    "It comes during the first",
+    "contact or is sent within",
+    "five days. Dispute in",
+    "writing within 30 days",
+    "of receiving it."
+   ],
+   "font_px": 64,
+   "rows": [
+    936,
+    1291
+   ],
+   "first_frame": 264,
+   "last_frame": 476,
+   "on_seconds": 7.1,
+   "word_count": 21
+  },
+  "card3b": {
+   "words": "Collection of that amount generally pauses until they send verification or a copy of a judgment.",
+   "lines": [
+    "Collection of that amount",
+    "generally pauses until",
+    "they send verification or",
+    "a copy of a judgment."
+   ],
+   "font_px": 64,
+   "rows": [
+    971,
+    1255
+   ],
+   "first_frame": 477,
+   "last_frame": 644,
+   "on_seconds": 5.6,
+   "word_count": 16
+  },
+  "card4": {
+   "words": "Quiet holiday. Know your rights.",
+   "lines": [
+    "Quiet holiday. Know your",
+    "rights."
+   ],
+   "font_px": 72,
+   "rows": [
+    1033,
+    1193
+   ],
+   "first_frame": 645,
+   "last_frame": 719,
+   "on_seconds": 2.5,
+   "word_count": 5
+  }
+ },
+ "chip_from_frame": 69,
+ "audio_join_lags": [
+  455,
+  192
+ ]
+}

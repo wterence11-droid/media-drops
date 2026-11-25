@@ -1,0 +1,14 @@
+check,result,detail
+words_equal_approved,PASS,all on-screen words joined == SPEC_20261122fix.json beats joined (71 words)
+card3_split_only,PASS,3a (21 words) + 3b (16 words) == approved card 3
+card3a_on_seconds,PASS,7.1
+card3b_on_seconds,PASS,5.6
+card2_on_seconds,INFO,6.5 (was about 2.0)
+title_on_seconds,INFO,2.3
+card4_on_seconds,INFO,2.5
+cuts,PASS,"hard cuts only, no fades between text cards (built that way; boundary frames looked at)"
+card3_font_px,PASS,"64 px, same as the booked card 3 (64)"
+format,PASS,"h264 high yuv420p 1080x1920 30fps 720 frames 24.000s, aac mono 48k"
+sha256,INFO,0d6fe8410ca744ba1057494a84029adadf15abf1f1590f659789551d12ca9196
+leftover_old_words,INFO,"at most 2 steps of 255 in the plain ground (measured); not visible at normal brightness, can be made out only with brightness pushed far up; same as the booked version"
+not_done,INFO,nobody has watched it start to end with sound yet: MUSE read test and the owner check come next
