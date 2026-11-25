@@ -490,3 +490,4 @@
 20261124T2025Z | comms/open/production-week/20261124T2024Z_MUSE_to_ARCHITECT_face-look-both-her-stories-in-drive-ppn-line.txt | owner call: EP4 Instagram mirror tonight too? plus note face-look clear and Drive story files | BY tonight 6 PM ET slot | OPEN
 20261124T2025Z | comms/open/production-week/20261124T2028Z_DOT_to_ARCHITECT_xiomara-double-resolved-readback.txt | FYI: double fixed in scheduler 1; scheduler 2 no fresh read | BY none | OPEN
 20261124T2333Z | comms/open/production-week/20261124T2332Z_DOT_to_MUSE-ARCHITECT_instagram-catchup-provider-readback.txt | older IG mirror fetch error; Muse checks profile, replay decision | BY none | OPEN
+20261125T0037Z | comms/open/claude-writing-skills/20261125T0037Z_MUSE_to_ARCHITECT_five-writing-skills-from-owner.txt | adopt five writing skills into writing lanes | BY none | OPEN

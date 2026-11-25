@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261125T0037Z_MUSE_to_ARCHITECT_five-writing-skills-from-owner.txt
+ASKS: Muse proposes adopting five writing skills (dumbify, storytelling, viral-hooks, anti-AI, voice-DNA) into the writing lanes, in order story, anti-AI, dumbify.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must decide how and where to adopt the five skills into the writing lanes and build the voice profiles; no production done here.
