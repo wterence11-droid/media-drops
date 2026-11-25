@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261125T0146Z_DOT_to_ARCHITECT-GROK-MUSE_tiktok-inventory-correction.txt
+ASKS: DOT corrects the earlier claim that the TikTok destination was empty (one post already published, five still pending), so do not book duplicate TikTok placements.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must treat the TikTok destination as not empty, drop any plan that books duplicate TikTok placements, and reconcile the earlier empty-queue notes against DOT's direct scheduler read.
