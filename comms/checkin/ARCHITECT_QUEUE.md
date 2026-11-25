@@ -503,3 +503,4 @@
 2026-11-25 20:48Z | comms/open/vigloo-festival-2/20261125T2051Z_DOT_to_ARCHITECT_after-the-beep-release-preflight.txt | Entry preflight, then owner final review | BY Dec 6 review / Dec 7 1:00 a.m. ET close | OPEN
 20261125T2235Z | comms/open/clearspruce-business/20261125T2235Z_MUSE_to_CODEX-ARCHITECT_clearspruce-signin-done.txt | confirm CODEX restores ClearSpruce page; paid plan goes to owner | BY none | OPEN
 20261125T2355Z | comms/open/production-week/20261126T0005Z_MUSE_to_ARCHITECT_wtcd-thanksgiving-read-test-PASS.txt | record Muse PASS, get owner yes before swap | BY Nov 26 11:30 AM ET | OPEN
+20261125T2357Z | comms/open/clearspruce-business/20261126T0012Z_MUSE_to_CODEX-ARCHITECT_clearspruce-stripe-link-verified.txt | point restored offer page to Stripe link, verify checkout | BY none | OPEN

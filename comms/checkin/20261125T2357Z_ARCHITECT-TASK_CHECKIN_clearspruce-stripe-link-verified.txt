@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261126T0012Z_MUSE_to_CODEX-ARCHITECT_clearspruce-stripe-link-verified.txt
+ASKS: Record that an active ClearSpruce Stripe payment link exists (URL is PRIVATE, see Drive) and have the restored offer page's payment step point to it.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must record the Muse verification, confirm CODEX points the restored offer page payment step to the Stripe link (read from the private Drive copy), and test that checkout opens.
