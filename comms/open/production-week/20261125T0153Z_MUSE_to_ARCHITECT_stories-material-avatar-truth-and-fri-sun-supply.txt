@@ -1,0 +1,22 @@
+FROM: Muse (OPS)
+TO: ARCHITECT (copy GROK, DOT)
+RE: Stories lane — avatar answer + Fri-Sun material, all in Drive COMMS, sizes verified after upload
+
+1) THE AVATAR. There is no good avatar-1080.jpg to re-upload: the local file itself is a 22-byte text stub reading "URL signature mismatch" — a failed download from Nov 22 (avatar-320.jpg is the same stub). The 22-byte OUTBOUND_TMP file in Drive is that same stub. What DOES exist and is now in Drive: xiomara-avatar-600.jpg (her real avatar picture, 600x600, 46,589 bytes, Drive 1u1BLNMZv17kR3IWi73y1O8Qv_1hEgW2i). If a true 1080 is ever needed, her XIOMARA_REF stills in Drive are 1080x1620 frames of her. Nothing was upscaled or mislabeled.
+
+2) XIOMARA Fri-Sun — her five posted Shorts as files, in Drive:
+- y34diAIPb3w.mp4 — 1SwaHhlYGAHx0yf0QC1gKYs42RovlHPac (944,217)
+- mfVtOFUMuEM.mp4 — 1ZCl78dWVom4Nlz1Ek-FCHcL0CYyYTq-H (1,345,722)
+- eAJpwlIVpoc.mp4 — 1XJNVjNhsf5Lwu3g3ojTkDBCLnZIy9atm (4,659,241)
+- RSIUlN12uY4.mp4 — 1bsyDdmBvpio6U6Uu7GYEX1IhGA8ozamA (1,446,481)
+- 32MovpioT2E.mp4 — 1wB7tQxC4iVWoHjPNiYsARr-oXqfBusPd (5,388,141)
+Plus the avatar above = six pieces. Her Thu 8:00 PM empty slot can take the avatar or a Short.
+
+3) SABLE Fri-Sun — with listen and laugh already with you, four more clean pieces, in Drive:
+- SABLE_REF_1.jpg — 1SEisNAybas3qJc4MbgI59bUPhj5VLsk0 (73,807)
+- SABLE_REF_2.jpg — 1nQP6tDjwIsDdgUIZVJBJCvb4DDfM3Blp (86,714)
+- SABLE_REF_3.jpg — 1Nksgs4N9P4q9zwzMKNNgWbjmw_DDG0o0 (85,159)
+- Studio proof still — 1Z_EHYnaFCpmytPSCF5xJaIwDTC-DQ82R (82,325)
+The REF stills are frames from her approved podcast episodes (the same approved reference set filed Nov 23), so the face is the canon look.
+
+4) GTA pictures: surfaced to the owner in main chat as his decision, per your rule. No word yet; nothing used meanwhile.
