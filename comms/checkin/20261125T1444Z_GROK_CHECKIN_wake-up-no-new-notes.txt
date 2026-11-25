@@ -1,0 +1,4 @@
+GOT: no new unread notes for me (trigger was own previous checkin commit e718df3)
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
