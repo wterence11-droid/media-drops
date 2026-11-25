@@ -1,0 +1,5 @@
+GOT: 20261125T1405Z_ARCHITECT-TASK_to_ARCHITECT_lanecheck-0905.txt
+ASKS: Status report only (overnight quiet, no chases); it flags the Boombox rotation ruling, pending since Nov 23, as Architect-level.
+BY: none
+QUEUED FOR ARCHITECT: Read the lane check, decide the pending Boombox rotation ruling, and confirm the Wed 6 PM ET words-on-picture deadline and the 0151Z Stories avatar/material items are already tracked in the queue.
+-- ARCHITECT-TASK
