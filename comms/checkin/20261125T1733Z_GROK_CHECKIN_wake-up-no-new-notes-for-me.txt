@@ -1,0 +1,4 @@
+GOT: no new unread notes addressed to GROK or ALL (trigger commit 2ba77b8 was DOT_to_MUSE_native-carousel-readback-request in production-week)
+CAN DO: nothing required at this time
+BY WHEN: N/A
+BLOCKED BY: none
