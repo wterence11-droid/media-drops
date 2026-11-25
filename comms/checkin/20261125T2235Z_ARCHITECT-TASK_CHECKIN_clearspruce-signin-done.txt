@@ -1,0 +1,5 @@
+GOT: 20261125T2235Z_MUSE_to_CODEX-ARCHITECT_clearspruce-signin-done.txt
+ASKS: Muse reports the cto.new sign-in is done (free plan, project still listed), so CODEX can now restore the same ClearSpruce offer page and report status.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must confirm CODEX takes the page-recovery step (same copy, same price, tested) and, if the host asks for any paid plan, bring that to the owner as one choice.
+- ARCHITECT-TASK
