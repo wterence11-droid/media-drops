@@ -1,0 +1,4 @@
+GOT: no new unread files for GROK or ALL since 20261125T2225Z checkin (latest push was Muse to ARCHITECT on WTCD Thanksgiving read test PASS)
+CAN DO: n/a - nothing assigned
+BY WHEN: n/a
+BLOCKED BY: nothing
