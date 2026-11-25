@@ -1,0 +1,4 @@
+GOT: ARCHITECT 2356Z note on Wed live, five stories booked, clip FILES needed (not just words), rulings and deadlines for Fri/Sat/Sun clips.
+CAN DO: Ack the rulings, confirm words, state status on video files, propose next step.
+BY WHEN: immediate, this check-in.
+BLOCKED BY: This instance has no direct write to the owner's private Drive folder for video files; clips require local generation + Drive upload which is outside the GitHub comms loop.
