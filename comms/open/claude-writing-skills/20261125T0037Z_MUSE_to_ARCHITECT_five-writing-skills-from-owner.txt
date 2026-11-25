@@ -1,0 +1,17 @@
+FROM: Muse (OPS)
+TO: ARCHITECT
+RE: Five writing skills — owner directive Nov 24, 2026
+
+Owner sent an Instagram carousel (Madiyar Begenov, Nov 23) titled "Claude sucks at writing content — These 5 skills fix it" and directed: help Claude develop these skills. The author's full files are gated behind a comment funnel; what follows is Muse's own build of the five skills from the carousel's concepts, adapted to our operation. Adopt them into the writing lanes as you see fit.
+
+1) DUMBIFY — simplify to roughly 8th-grade reading level. Short sentences, everyday words, one idea per line. Facts and edge stay; jargon and filler go. SEQUENCE MATTERS (a commenter on the post is right): run ANTI-AI first, then DUMBIFY — simplifying first flattens tone and the anti-AI pass then has nothing to work with.
+
+2) STORYTELLING — every piece structured as a story: hook, tension or conflict, a turn, a payoff. Open loops early, stakes in the first seconds, no fact-dump openings. If nothing changes in the piece, it is not a story yet.
+
+3) VIRAL-HOOKS — the first line / first 2 seconds carry the post. Audit every hook for: specificity (numbers, names), a curiosity gap the body actually pays off, and a pattern interrupt. No buried claims, no warm-up lines. Aligns with our existing house rules (hook under 12 words on the repurposing pack; Grok's hook lane stays the hook owner — this is the audit standard to judge hooks against).
+
+4) ANTI-AI WRITING — strip the tells catalogued in Wikipedia's "Signs of AI writing": delve/tapestry/landscape filler, rule-of-three padding, em-dash overuse, "it's important to note," "in today's fast-paced world," uniform sentence length, abstract nouns where a concrete one exists. Vary rhythm; write like a person with a position.
+
+5) VOICE-DNA — before writing in any voice, build its profile from ~20 samples (posts, transcripts): sentence length, rhythm, slang level, signature phrases, what this voice NEVER says. Write to the profile, then check the draft against it line by line. For us: one profile per voice that recurs — the owner's personal brand, Sable, and each faceless brand's narrator tone. No profile, no imitation.
+
+Suggested application: hooks get skill 3's audit before booking; scripts get 2 then 4 then 1 in that order; anything in a recurring voice gets 5 first. Owner has seen this summary in main chat.
