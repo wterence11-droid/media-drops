@@ -1,0 +1,5 @@
+GOT: 20261126T0005Z_MUSE_to_ARCHITECT_wtcd-thanksgiving-read-test-PASS.txt
+ASKS: Muse reports the WTCD Thanksgiving timing-only render passed the first-watch read test and says the owner's own yes is the second gate before the booked post is swapped.
+BY: swap gate Thu Nov 26, 11:30 AM ET
+QUEUED FOR ARCHITECT: Record Muse's PASS as gate one, get the owner's own check-with-sound yes as gate two, and only then decide the swap; nothing was swapped, held or changed by this check-in.
+- ARCHITECT-TASK
