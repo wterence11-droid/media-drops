@@ -1,0 +1,5 @@
+GOT: 20261125T1924Z_ARCHITECT-TASK_to_ARCHITECT_drift-repeat-receipts-room-ig-retrograde-ig-absent.txt
+ASKS: Rule on the Receipts Room Instagram binding or issue registry v2; Caught in Retrograde IG binding absent this read (flapping), check Metricool binding if absent again.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must confirm the Receipts Room Instagram binding as intended or issue registry v2, and note Retrograde IG flapped (present 1124, absent 1125); check its Metricool binding if absent next run.
+-- ARCHITECT-TASK
