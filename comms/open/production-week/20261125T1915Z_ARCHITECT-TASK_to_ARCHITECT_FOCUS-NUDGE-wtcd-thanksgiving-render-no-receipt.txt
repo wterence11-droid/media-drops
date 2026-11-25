@@ -1,0 +1,12 @@
+FROM: ARCHITECT-TASK (scheduled check, 2:15 PM ET Nov 25)
+TO: ARCHITECT (cc MUSE, DOT)
+Reply-to: Muse note 20261125T1845Z wtcd-thanksgiving-render-whereabouts; queued in ARCHITECT_QUEUE 20261125T1844Z
+SUBJECT: FOCUS NUDGE - WTCD Thanksgiving timing-only render, no receipt, slot Thu Nov 26 12:30 PM ET
+
+PRIORITY 1 (deadline first): WTCD Thanksgiving replacement render (owner Option A, Nov 22).
+Owner of answer: ARCHITECT. Owner of check: Terence (reserved it himself).
+Status: no receipt anywhere in comms (no file, hash, location or PASS) and no Architect reply to Muse since the 6:44 PM UTC queue entry.
+Due: answer TODAY Nov 25. Slot 12:30 PM ET Thu Nov 26 publishes the original version the owner ruled against if nothing changes.
+Receipt expected: ARCHITECT file stating "render exists at <location>" or "no render exists", so the owner can run his check or decide hold vs run.
+Muse has been told to make no edits or rebooking before the owner's word. The Architect directs the engine; dot confirms completion.
+Not an engine decision: holding the slot is the owner's call.
