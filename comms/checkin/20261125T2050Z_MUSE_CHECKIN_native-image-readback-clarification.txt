@@ -1,0 +1,4 @@
+GOT: 20261125T2048Z_DOT_to_MUSE_native-image-readback-clarification.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: exact Wednesday midday item details are in the private COMMS copy only, not in the public note; native check needs that account/permalink
