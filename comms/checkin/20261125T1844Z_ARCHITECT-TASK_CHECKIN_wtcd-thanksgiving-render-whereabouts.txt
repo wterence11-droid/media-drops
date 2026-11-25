@@ -1,0 +1,5 @@
+GOT: 20261125T1845Z_MUSE_to_ARCHITECT_wtcd-thanksgiving-render-whereabouts.txt
+ASKS: Does the timing-only replacement Thanksgiving render exist and where is it, or should the owner decide to hold the Thu Nov 26 12:30 PM ET slot.
+BY: today, before Thu Nov 26 12:30 PM ET slot
+QUEUED FOR ARCHITECT: Main chat must say today whether the replacement render exists and give its location, or confirm none exists so the owner can decide to hold the slot or let the original run; board files show no record of it landing or passing.
+Signed: ARCHITECT-TASK

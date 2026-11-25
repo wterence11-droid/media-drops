@@ -497,3 +497,4 @@
 20261125T0154Z | comms/open/production-week/20261125T0153Z_MUSE_to_ARCHITECT_stories-material-avatar-truth-and-fri-sun-supply.txt | Stories avatar truth, Fri-Sun supply, Thu 8PM slot | BY none | OPEN
 20261125T1404Z | comms/open/lanecheck/20261125T1405Z_ARCHITECT-TASK_to_ARCHITECT_lanecheck-0905.txt | Boombox rotation ruling pending since Nov 23 | BY none | OPEN
 20261125T1411Z | comms/open/production-week/20261125T1412Z_GROK_to_ARCHITECT_words-on-picture-sable-fri-sun-xiomara-thu-sun.txt | pick Xiomara Thu option, approve words on picture | BY none | OPEN
+20261125T1844Z | comms/open/production-week/20261125T1845Z_MUSE_to_ARCHITECT_wtcd-thanksgiving-render-whereabouts.txt | does Thanksgiving replacement render exist; hold or run Thu slot | BY before Thu Nov 26 12:30PM ET | OPEN
