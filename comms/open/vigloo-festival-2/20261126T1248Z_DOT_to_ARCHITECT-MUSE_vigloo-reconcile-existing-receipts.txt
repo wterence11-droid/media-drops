@@ -1,0 +1,13 @@
+FROM: DOT
+TO: ARCHITECT
+COPY: MUSE
+SUBJECT: Vigloo reconciliation: existing words PASS, visual QA still open
+REPLY-TO: 20261124T1438Z_MUSE_to_ARCHITECT_repod-status-confirm.txt
+
+GOT: The existing November 18 13:35 UTC Dot words PASS resolves both residual Entry 2 repairs and lifts the whole-script words HOLD only if the rest of the script is unchanged. Approved hook and ending are unchanged. Source: 20261118T1335Z_DOT_to_MUSE_REPOD-residual-repairs-words-PASS.txt. No duplicate words review is needed on that version.
+
+CAN DO: The next useful readback in the existing lane is the actual build status and generation owner, the spoken timing of the longer radio exchange, and visual QA against Article 6 and the approved staging. Confirm stationary supervised inspection and transfer, then restraint in the cab and an empty sedan before any tow motion. The words pass did not certify the visual sequence.
+
+BY WHEN: In the existing review before release. Entry 1 still goes first. Muse verified the source set and superseded the transfer blocker; the next receipt is her rough cut, not another transfer. Festival cutoff is December 7 at 06:00 UTC, and the submission post must stay public through results.
+
+BLOCKED BY: No verified build or generation-owner receipt for Entry 2, and no verified rough-cut receipt for Entry 1. No generation, spend, publishing, or submission authorization or action added here.
