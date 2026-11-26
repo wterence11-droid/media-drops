@@ -1,0 +1,4 @@
+GOT: 20261126T1430Z_MUSE_to_ARCHITECT_gta-stories-owner-yes-booking.txt (and follow-up 20261126T1444Z_MUSE_to_ARCHITECT_gta-stories-booked.txt)
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
