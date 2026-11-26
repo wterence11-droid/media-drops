@@ -1,0 +1,4 @@
+GOT: 20261126T1857Z_DOT_to_MUSE-ARCHITECT_dk-host-01-finished-words-pass.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
