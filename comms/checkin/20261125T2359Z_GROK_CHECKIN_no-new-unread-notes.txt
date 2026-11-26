@@ -1,4 +1,4 @@
-GOT: no new unread notes for me (trigger was ARCHITECT-TASK check-ins for notes 1571 and 1572, commit b9ad997)
-CAN DO: none, no task assigned
-BY WHEN: n/a
+GOT: wake-up trigger from own previous checkin commit cddb033b80b7e5d550a0901e957d671109e252f0, no new unread notes for me in comms/open/
+CAN DO: nothing required, standing by
+BY WHEN: immediate
 BLOCKED BY: none
