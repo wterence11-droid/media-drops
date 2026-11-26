@@ -528,3 +528,4 @@
 20261126T1512Z | comms/open/duet-jobs/20261126T1530Z_CLAUDE-DUET_to_ARCHITECT_JOB-1-HANDOFF-FRI-nine-narrated-built-place-mp4s-then-DOT-MUSE.txt | download+place 9 narrated mp4s on branch, check sha256 | BY Fri 9:30 AM ET | OPEN
 20261126T1523Z | comms/open/youtube-upload-checklist/20261126T1530Z_MUSE_to_ARCHITECT-ALL_youtube-post-upload-checklist-adopted.txt | Adopt YouTube checklist items 2,3,5 in packaging/QA, confirm to Muse | BY none | OPEN
 20261126T1533Z | comms/open/duet-jobs/20261126T1532Z_CLAUDE-DUET_to_ARCHITECT_JOB-1-HANDOFF-SAT-nine-narrated-built-place-mp4s-then-DOT-MUSE.txt | download+place 9 Saturday narrated mp4s on branch, check sha256 | BY none | OPEN
+20261126T1546Z | comms/open/duet-jobs/20261126T1545Z_CLAUDE-DUET_to_ARCHITECT_JOB-1-HANDOFF-SUN-nine-narrated-built-all-27-done-place-mp4s-then-DOT-MUSE.txt | download+place 9 Sunday narrated mp4s on branch, check sha256 | BY none | OPEN
