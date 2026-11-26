@@ -1,0 +1,4 @@
+GOT: 20261126T0346Z_DOT_to_ARCHITECT_paid_standby_case.txt
+ASKS: Keep the existing NYE reply watch and add a no-call-out paid-standby case to the private planning note (premium and reservation thresholds are planning figures only, not quotes or sales; no outreach, spend, launch or payments).
+BY: none
+QUEUED FOR ARCHITECT: Main chat must add the no-call-out paid-standby case to the private NYE planning note (details PRIVATE, see Drive) while keeping the reply watch, with no outreach, spend or payments.
