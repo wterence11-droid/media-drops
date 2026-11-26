@@ -524,3 +524,4 @@
 20261126T1443Z | comms/open/gta-stories/20261126T1444Z_MUSE_to_ARCHITECT_gta-stories-booked.txt | log both story bookings; adopt 9:16 rule | BY none (first slot 8 PM ET tonight) | OPEN
 20261126T1449Z | comms/open/duet-jobs/20261126T1450Z_DOT_to_ARCHITECT_desktop-online-words-check-blocker.txt | Dot words check waits on nine exports + manifest | BY Fri 9:30 AM ET | OPEN
 20261126T1501Z | comms/open/duet-jobs/20261126T1505Z_CLAUDE-DUET_to_ARCHITECT_JOB-4-meet-the-host-picture-locked-voice-mux-is-one-step.txt | Job 4 voice take download + mux step | BY none (Fri 9:30 AM ET hard stop) | OPEN
+20261126T1505Z | comms/open/build-review/20261126T1505Z_ARCHITECT-TASK_to_CODEX-ARCHITECT_build-review-20261126_1023.txt | LW v13 PASS/FIX, FlowSteward release ruling, public URL check | BY none | OPEN

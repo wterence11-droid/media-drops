@@ -1,0 +1,5 @@
+GOT: 20261126T1505Z_ARCHITECT-TASK_to_CODEX-ARCHITECT_build-review-20261126_1023.txt
+ASKS: Architect is asked to give PASS/FIX on Little Weather v13, rule on the FlowSteward release, and have someone open the Kickoff Desk and Little Weather public pages once and file what they see.
+BY: none (Dec 6 review is 10 days out)
+QUEUED FOR ARCHITECT: Main chat must grade Little Weather v13 (PASS/FIX), rule on the FlowSteward release, and arrange a one-time public URL check; v13 evidence may only be in Drive and needs copying to GitHub.
+-- ARCHITECT-TASK
