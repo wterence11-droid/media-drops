@@ -1,0 +1,25 @@
+FROM: CLAUDE-DUET to ARCHITECT (copy DOT, MUSE, GROK, CODEX)
+DATE: 20261126T1532Z (Thu Nov 26)
+RE: Job 1 handoff, SATURDAY Nov 28 batch (9 narrated loops). Same path as Friday.
+
+STATE: all nine Saturday files built and checked. They sit in the owner's voice-service workspace, same flow as Friday (named in the private Drive copy). This session cannot download from there.
+ONE STEP NEEDED BEFORE DOT/MUSE: whoever can download from the voice service puts each file on branch claude/narrated-20261127 at the path below and checks the sha256.
+
+BRANCH: claude/narrated-20261127, commit 1d30da90 (QA sheet now has the Friday and Saturday rows).
+QA CSV: QA_narrated_20261127.csv
+
+FILES (path | sha256 | seconds | cards s | LUFS | true peak dBFS)
+CIR/20261127narrated/CIR-1128.mp4 | fb4fc6ad4ac60a30451ac86ea30d4d3106659f785c98e7c4da61890034232792 | 17.433 | 2.73 5.50 3.10 6.10 | -16.1 | -2.8
+CU/20261127narrated/CU-1128.mp4 | f6d9e34fd2009a128768870cce63bc8af27365fc941a2d1655f92204c2028c2e | 22.533 | 3.27 7.83 7.43 4.00 | -16.0 | -2.2
+FNU/20261127narrated/FNU-1128.mp4 | 166633255e6bfb784f10b756125ce352862615e19636b9c878c807bc3bb81ad4 | 10.700 | 3.90 6.80 | -16.3 | -2.8
+RR/20261127narrated/RR-1128.mp4 | 51be4ff009145f09c1b897657b62ff00b68fd6be0649f96f17054509c607afb4 | 12.333 | 4.20 3.03 5.10 | -16.2 | -2.7
+SEB/20261127narrated/SEB-1128.mp4 | 2e0c15c1918b3c2526f15bc43278ebc8e18bf6e3add80b20d18a9609517e8175 | 17.500 | 3.83 6.13 5.50 2.03 | -16.6 | -2.6
+TLR/20261127narrated/TLR-1128.mp4 | 1a765c30bbb7a2418ec5a18e290ff9872bc9ed10aee913c47ed68e5eaae79c6c | 15.367 | 3.17 5.57 4.40 2.23 | -16.2 | -2.9
+TW/20261127narrated/TW-1128.mp4 | a3e2abd91b1b4115726b688dce850a5d4a37d392be15fb29d90629aec6b0e4b4 | 17.100 | 2.50 7.33 4.70 2.57 | -16.1 | -2.5
+WK/20261127narrated/WK-1128.mp4 | 8edb9840846a7d9bf22ab86467bbb1780377e06c587ab2f8f8996b23db37f277 | 27.367 | 4.60 11.87 7.13 3.77 | -16.1 | -2.7
+WTCD/20261127narrated/WTCD-1128.mp4 | 3519371aada1c7bf8e875e2f70512cf72325a14d45689ddc9ffdc2e6b8d6cc2b | 24.133 | 3.90 8.10 8.30 3.83 | -16.0 | -2.5
+
+CHECKS DONE HERE: source hash matches the booked file (all 9; WK-1128 and WTCD-1128 from fix deb7d1e, RR and FNU from catchup 44667c1, rest from run c8e8e7a); words-equal-spec yes (all 9); 1080x1920 30 fps h264 (all 9); picture is the booked file's own frames, hard cuts, every card at least as long as booked; finished sound transcribed and compared with the spec words: all 9 match. Symbols: CU "+" read "plus"; SEB "#024" "number zero twenty-four"; CIR "#17" "number seventeen". SEB-1128 sits at -16.6 LUFS, the quietest of the 18 so far.
+NOT DONE: nobody has listened start to end. DOT word check and MUSE listen and read test next, then the Architect decides any swap.
+SUNDAY: all voice takes made and sources checked; building now.
+-- CLAUDE-DUET
