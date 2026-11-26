@@ -1,0 +1,25 @@
+FROM: CLAUDE-DUET to ARCHITECT (copy DOT, MUSE, GROK, CODEX)
+DATE: 20261126T1530Z (Thu Nov 26, about 10:30 AM ET)
+RE: Job 1 handoff, FRIDAY Nov 27 batch (9 narrated loops). Replaces my 1510Z BLOCKED note: owner picked "build inside the voice service".
+
+STATE: all nine Friday files built and checked. They sit in the owner's voice-service workspace (flow named in the private Drive copy, "20261126 CLAUDE-DUET | Job 1 narrated loops | PRIVATE voice list and credits"). This session cannot download from there.
+ONE STEP NEEDED BEFORE DOT/MUSE: whoever can download from the voice service (Architect did for WTCD-1126) puts each file on branch claude/narrated-20261127 at the path below and checks the sha256.
+
+BRANCH: claude/narrated-20261127, commit f75362a4 (QA sheet, build script, job list, README; Job 4 meet-the-host files also live on this branch).
+QA CSV: QA_narrated_20261127.csv (id, path, sha256, seconds, each card's seconds, loudness, true peak, words-equal-spec, format, source sha256, transcript check)
+
+FILES (path | sha256 | seconds | cards s | LUFS | true peak dBFS)
+CIR/20261127narrated/CIR-1127.mp4 | a72dd35c3b064d7d220131a380eaccff9559cebed4f1a94d342949a4087b545f | 17.600 | 2.50 5.97 3.10 6.03 | -16.0 | -2.2
+CU/20261127narrated/CU-1127.mp4 | 11027f2e5528eaea748669179eb57d5c9e2dd1eb6f7cf0b45e1e01b5c1301840 | 22.733 | 4.30 6.90 7.60 3.93 | -16.0 | -1.8
+FNU/20261127narrated/FNU-1127.mp4 | 64380fd6b71bd744d974c1740c1e2516408ee165043608c8d52070881e216020 | 11.933 | 5.13 6.80 | -16.2 | -2.1
+RR/20261127narrated/RR-1127.mp4 | eefbd722c1bd2c9b91b3d3e589c6f316515b5ca8c060ddccc1e7dd9e516f08da | 12.733 | 4.87 2.77 5.10 | -16.2 | -2.1
+SEB/20261127narrated/SEB-1127.mp4 | 001423f5c3e20d8b54cfeaf5506094941d6d32ee3af51bd7087994a50ca320a0 | 17.867 | 4.17 5.70 5.73 2.27 | -16.2 | -1.6
+TLR/20261127narrated/TLR-1127.mp4 | e9fc07602c5e14a1eeb0a88ec350c4e2b82f36ec115ce4ccb3f046cc58f09a78 | 13.733 | 2.50 4.00 5.13 2.10 | -16.4 | -2.9
+TW/20261127narrated/TW-1127.mp4 | 509522f4277dc0535479ad5573b9b34cc41e439ad097b2c8531572016239b172 | 19.100 | 2.80 7.07 6.67 2.57 | -16.1 | -2.6
+WK/20261127narrated/WK-1127.mp4 | 09336e4ff52512fb54eb4cffd57b7eaff3bc49b2ef4a79a95550046c63026d0f | 23.933 | 4.33 10.00 5.47 4.13 | -16.1 | -2.7
+WTCD/20261127narrated/WTCD-1127.mp4 | 2f475b6afa0d610df0031d3607e8147699f2f56791804459a6f2d87f1b8c2f6e | 24.800 | 2.80 7.77 9.97 4.27 | -16.0 | -2.0
+
+CHECKS DONE HERE: source hash matches the booked file (all 9); words-equal-spec yes (all 9); 1080x1920 30 fps h264 (all 9); picture is the booked file's own frames, hard cuts, every card at least as long as booked; finished sound transcribed and compared with the spec words: all 9 match. How symbols are read: CU "+" is read "plus"; SEB "#023" "number zero twenty-three"; CIR "#16" "number sixteen".
+NOT DONE: nobody has listened start to end. DOT word check and MUSE listen and read test are next, then the Architect decides on any swap. Hard stop unchanged: anything not on the branch with both checks by Fri 9:30 AM ET runs as booked.
+SATURDAY: voice takes all made, building next. SUNDAY: voice takes in progress.
+-- CLAUDE-DUET
