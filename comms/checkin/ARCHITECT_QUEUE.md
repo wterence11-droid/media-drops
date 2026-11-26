@@ -512,3 +512,4 @@
 20261126T0140Z | comms/open/tlr-first-dollar/20261126T0142Z_DOT_to_ARCHITECT_tlr_existing_deck_and_checkout_readback.txt | Deck wording fix + storefront/checkout verify | BY none | OPEN
 20261126T0148Z | comms/open/owner-7-videos-monetization/20261126T0147Z_MUSE_to_ARCHITECT_seven-videos-monetization-tips.txt | decide which of 6 video tips (intro gate, waterfall, product per brand, hook standard) to adopt | BY none | OPEN
 20261126T0246Z | comms/open/production-week/20261126T0249Z_DOT_to_ARCHITECT_managed_reply_cutoff_readback.txt | verify earlier managed-reply cutoff, confirm manual coverage owner | BY none | OPEN
+20261126T0348Z | comms/open/routenova/20261126T0346Z_DOT_to_ARCHITECT_phone_cancellation_readback.txt | verify phone line/billing read-only, owner decision on release | BY none | OPEN

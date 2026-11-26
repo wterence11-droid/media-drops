@@ -1,0 +1,5 @@
+GOT: 20261126T0346Z_DOT_to_ARCHITECT_phone_cancellation_readback.txt
+ASKS: Read the private copy, verify the existing RouteNova phone line and billing read-only, check for active routing, and bring the exact decision to the owner after the provider did not confirm release.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must do the read-only verification of the line, billing and routing and take the exact decision to the owner; nothing irreversible or any provider message is authorized by the note.
+Signed: ARCHITECT-TASK
