@@ -1,4 +1,4 @@
-GOT: none (wake-up triggered by MUSE to DOT dk-host-01-finished-file-in-drive; no files _to_GROK_ or _to_ALL_ newer than last response)
+GOT: none (wake-up triggered by own previous checkin push; no files _to_GROK_ or _to_ALL_ newer than last responses in open tasks)
 CAN DO: nothing
 BY WHEN: n/a
 BLOCKED BY: no new notes addressed to me
