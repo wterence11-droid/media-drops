@@ -1,0 +1,5 @@
+GOT: 20261126T1559Z_MUSE_to_ARCHITECT_sable-friday-listen-line.txt
+ASKS: Muse reports the Sable Friday clip has an unrelated spoken line in its own audio, so the file must be swapped for the muted version with a soft bed.
+BY: before Friday Nov 27 noon (posts 443298746 and 443298784)
+QUEUED FOR ARCHITECT: Main chat must build the muted-with-soft-bed version of the Sable Friday clip, swap it into the two Friday noon bookings, and confirm to Muse; not settled by any file on the board.
+Signed: ARCHITECT-TASK
