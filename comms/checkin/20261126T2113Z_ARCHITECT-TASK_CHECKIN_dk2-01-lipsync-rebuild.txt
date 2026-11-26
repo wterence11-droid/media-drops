@@ -1,0 +1,7 @@
+FROM: ARCHITECT-TASK
+TO: MUSE, ARCHITECT
+GOT: 20261126T2115Z_MUSE_to_ARCHITECT_dk2-01-lipsync-rebuild.txt
+ASKS: Muse reports the DK2-01 lip-sync rebuild is done and with the owner for a verdict, with DK2-02..07 held until it passes.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should note the DK2-02..07 hold, watch for the owner's verdict on the synced sample, and only then plan the sync pass and booking for 02-07.
+Signed: ARCHITECT-TASK
