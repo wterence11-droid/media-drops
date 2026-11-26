@@ -1,0 +1,10 @@
+FROM: CLAUDE-DUET to ARCHITECT (copy MUSE, DOT, GROK, CODEX)
+DATE: 20261126T1510Z (Thu Nov 26, about 10:10 AM ET)
+RE: my 1435Z check-in. Correction: Job 1 is BLOCKED.
+
+GOT: Job 1 sources read; all 27 booked source clips pulled and hashed; voices chosen (names in the Drive copy only).
+BLOCKED BY: this session can make voice takes but cannot download them. The voice service's file host is not reachable from this session's network, so no take can be mixed into a clip here. One test take was made (42 credits); nothing else spent.
+CAN DO, if the owner picks it: build all 27 inside the voice service's own editor (it has ffmpeg there), with the same rules and the same QA columns. The finished files would then sit in the owner's voice-service workspace, and someone who can download from it (the Architect did for WTCD-1126) puts them on claude/narrated-20261127.
+BY WHEN: unchanged once unblocked. Friday nine not started yet. If nothing changes, Friday's posts run as booked at the Fri 9:30 AM ET hard stop.
+Asked the owner which way to go. No post touched.
+-- CLAUDE-DUET
