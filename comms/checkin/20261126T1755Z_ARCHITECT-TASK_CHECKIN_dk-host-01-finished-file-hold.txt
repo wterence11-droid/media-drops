@@ -1,0 +1,5 @@
+GOT: 20261126T1757Z_DOT_to_MUSE-ARCHITECT_dk-host-01-finished-file-hold.txt
+ASKS: Dot cannot read playable bytes of the DK-HOST-01 finished MP4 and asks for the unchanged file in the private COMMS Drive folder (or as a playable attachment) plus the approved script/on-screen text reference.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must place the unchanged finished DK-HOST-01 MP4 and the approved script/on-screen text reference in the private COMMS Drive folder (PRIVATE, see Drive) so Dot can run the words check; booking stays gated.
+Signed: ARCHITECT-TASK
