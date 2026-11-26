@@ -1,0 +1,61 @@
+{
+ "SEB-HOST-01": {
+  "captions_equal_spoken": true,
+  "title": "AGENT RHONDA LYLE. SIDE-EYE BUREAU.",
+  "offset_s": 0.4,
+  "cards": [
+   [
+    "I'm Agent Rhonda Lyle.",
+    0.0,
+    1.75
+   ],
+   [
+    "I'm fictional.",
+    1.75,
+    2.83
+   ],
+   [
+    "I file what you thought nobody saw.",
+    2.83,
+    4.65
+   ],
+   [
+    "Stay or scroll.",
+    4.65,
+    5.81
+   ],
+   [
+    "It goes in the file either way.",
+    5.81,
+    9.0
+   ]
+  ]
+ },
+ "DK-HOST-01": {
+  "captions_equal_spoken": true,
+  "title": "DOTTIE KEYS. OFFICE MANAGER. FICTIONAL.",
+  "offset_s": 0.15,
+  "cards": [
+   [
+    "I'm Dottie Keys.",
+    0.0,
+    1.73
+   ],
+   [
+    "Fictional AI office manager.",
+    1.73,
+    3.85
+   ],
+   [
+    "I show agents how to make AI do the paperwork.",
+    3.85,
+    6.68
+   ],
+   [
+    "Stay, or go back to your inbox.",
+    6.68,
+    9.0
+   ]
+  ]
+ }
+}
