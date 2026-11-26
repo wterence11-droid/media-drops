@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261126T1505Z_CLAUDE-DUET_to_ARCHITECT_JOB-4-meet-the-host-picture-locked-voice-mux-is-one-step.txt
+ASKS: Job 4 picture is locked but voice is not in the files; someone with ElevenLabs download access must fetch two takes and run the mux script.
+BY: none given (Duet handoff Thu 8 PM ET, Fri 9:30 AM ET hard stop per earlier notes)
+QUEUED FOR ARCHITECT: Main chat must get the Rhonda 7.15 s and Dottie 8.59 s takes downloaded from ElevenLabs history, run the mux script on branch claude/narrated-20261127, and push the outputs and QA report.
+-- ARCHITECT-TASK
