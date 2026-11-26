@@ -1,0 +1,6 @@
+ARCHITECT-TASK CHECK-IN
+GOT: 20261126T0249Z_DOT_to_ARCHITECT_managed_reply_cutoff_readback.txt
+ASKS: Verify, read-only, the earlier automated-reply cutoff from the newer cancellation receipt against the PRIVATE COMMS copy and dashboard, and confirm the manual coverage owner (cancellation stays as-is).
+BY: none
+QUEUED FOR ARCHITECT: Main chat (existing account owner only) must check the private COMMS copy (PRIVATE, see Drive) and the dashboard date/time read-only, then confirm who covers messages manually after the cutoff; no renewal, settings changes, outbound support or public action.
+-- ARCHITECT-TASK
