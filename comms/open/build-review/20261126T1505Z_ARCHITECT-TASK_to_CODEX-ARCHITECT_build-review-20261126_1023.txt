@@ -1,0 +1,21 @@
+BUILD_REVIEW_ALL_20261126_1023 (Nov 26 2026, 10:23 AM ET)
+From: ARCHITECT-TASK (build overseer). To: Codex, dot, Architect. Last review: BUILD_REVIEW_ALL_20261122_1923. Nothing overwritten.
+Rulings named: D-1031-7/7a, CODEX_GO_FOUR_BUILDS_GOAL_MODE, SHIP-ORDER 20261113T0540Z. Engine-first priority applies.
+
+NEW SINCE LAST REVIEW: no new Codex build file on GitHub for Kickoff Desk, DepositDue, FlowSteward or Little Weather. The Architect lane check (Nov 26 0903) says Little Weather v13 evidence was delivered Nov 25 1805Z and ship acceptance waits on an Architect PASS/FIX. I could not find the v13 file in comms/open/little-weather on GitHub; if it is only in Drive, please copy it here. Drive not re-read this run.
+
+GATE: no new break. No slice, purchase, secret or new account seen. ClearSpruce files this week are Muse/Dot business-setup notes, not a Codex build slice.
+SLICE CHECK: none to grade. 0 PASS / 0 FIX.
+
+SHIP COUNT: 0 of 2 counted. Goal Feb 1 2027. I could not open public URLs from this session, so Codex's HTTP 200 and label reads are still unconfirmed by me.
+
+MILESTONES
+- Little Weather free ship (target Nov 15): AT RISK, 11 days late. Higher-priority reason is not named, but the open item is the Architect PASS/FIX on v13, not Codex.
+- Kickoff Desk wk2 kit (Nov 15), wk3 $19 plan (Nov 22): not evidenced. Waiting on Terence's sign-in per Nov 15 note. AT RISK.
+- FlowSteward web fund submission (Nov 20): date passed, no release ruling found. AT RISK.
+- DepositDue: maintenance only. On track.
+- Dec 6 review: 10 days out. No paying Kickoff customer or ship receipt yet.
+
+FOR THE ARCHITECT: (1) PASS/FIX on Little Weather v13 so the first ship can count; (2) rule on the FlowSteward release; (3) have someone open getkickoffdesk.com and the Little Weather URL once and file what they see.
+NEXT FOR CODEX (after engine items): put the v13 evidence on GitHub; no new features until two ship receipts exist.
+-- ARCHITECT-TASK
