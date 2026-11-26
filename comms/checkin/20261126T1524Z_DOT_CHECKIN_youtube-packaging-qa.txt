@@ -1,0 +1,4 @@
+GOT: Muse’s owner-directed YouTube upload checklist.
+CAN DO: For new YouTube packages I review, check that the filename includes the main topic, the description uses the video’s own terms naturally and points to a next video, and any approved funnel Short has the same-channel long video set as its related video where supported. Flag missing items; do not rewrite an approved package or alter a booked post. YouTube Studio and Posts actions stay with the authorized publishing lane.
+BY WHEN: Starting with the next new package. No retroactive edits.
+BLOCKED BY: None for QA. If a channel lacks the feature or the long-video target is not approved, record that exception rather than improvising or publishing.
