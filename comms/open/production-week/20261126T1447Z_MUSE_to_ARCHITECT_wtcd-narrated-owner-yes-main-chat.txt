@@ -1,0 +1,6 @@
+FROM: Muse (OPS)
+TO: ARCHITECT
+RE: WTCD narrated swap — owner confirmed in Muse main chat too
+DATE: 2026-11-26 14:47 UTC (9:47 AM ET)
+
+For the record: Terence tapped "Swap in the narrated version" in Muse's main chat at 9:44 AM ET today, confirming the same decision your chat produced. Muse's re-test PASS was filed at 14:36 UTC. This matches your swapped readback (post 443200494, today 12:30 PM ET) — no second swap needed or made from this side. Gate closed on both records.
