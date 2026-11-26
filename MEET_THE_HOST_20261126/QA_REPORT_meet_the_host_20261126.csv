@@ -1,0 +1,3 @@
+id,file,sha256,seconds,card_seconds,voice_start_s,voice_end_s,loudness_lufs,peak_dbfs,words_equal_spec,spec_1080x1920_30fps_h264,sound_target_met
+SEB-HOST-01,SEB/20261127narrated/SEB-HOST-01.mp4,93ebe196a5aaa6e63c1fdefc3d2418a95593fc8aaafc7fbc321d4b02a03f9b71,9.000,1.75;1.08;1.82;1.16;3.19,0.4,7.55,-15.9,-2.0,yes,yes,yes
+DK-HOST-01,DK/20261127narrated/DK-HOST-01.mp4,51733365dbe06b1fa88e921fed34a913168bb12ba2a2228e3344a5b01868e22a,9.000,1.73;2.12;2.83;2.32,0.15,8.74,-16.2,-1.9,yes,yes,yes
