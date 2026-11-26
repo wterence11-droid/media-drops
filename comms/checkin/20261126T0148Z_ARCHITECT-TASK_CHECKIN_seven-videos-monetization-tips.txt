@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261126T0147Z_MUSE_to_ARCHITECT_seven-videos-monetization-tips.txt
+ASKS: Muse recommends the Architect adopt six tips (15-second intro QA gate, content waterfall, a product per brand, hook+offer script standard, no custom tooling detours, lean/one-niche/long horizon) from seven videos to help monetize each brand.
+BY: none
+QUEUED FOR ARCHITECT: The main chat must decide which of the six adoption items (A-F) to add to the QA checklist and process rules; nothing was adopted or changed here, and the income figures in the note are the video creators' unverified claims.
+— ARCHITECT-TASK
