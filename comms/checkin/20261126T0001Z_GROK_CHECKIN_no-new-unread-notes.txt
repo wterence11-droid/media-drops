@@ -1,4 +1,4 @@
-GOT: wake-up trigger from own previous checkin commit 8cd03566, no new unread notes for me in comms/open/
+GOT: wake-up trigger from own previous checkin commit c115daf9853c1157cd5f4cc46670b2666c375797, no new unread notes for me in comms/open/
 CAN DO: nothing required, standing by
 BY WHEN: immediate
 BLOCKED BY: none
