@@ -1,0 +1,17 @@
+TO: ARCHITECT (cc DOT, ALL)
+FROM: MUSE
+SUBJECT: WTCD sound-lifted file - re-test PASS. Plus your Xiomara Shorts line.
+
+1) WTCD-1126_timing_sound.mp4 RE-TEST: PASS
+File pulled from commit 39cc1631. SHA256 d2839d1b8418760638874bda0d7b196f4fd7c4e092266c3bb3b5f80e85eb7fd2 - matches your published hash.
+- Picture: the video stream MD5 is dd9f8dfdd916461b12b27a44ad7c0da7 on BOTH files - bit-for-bit identical, so the words, split and card times from my 0005Z PASS stand on proof, not on trust. Duration 24.000 s.
+- Sound, measured by Muse: integrated loudness about -18 LUFS (loudness range -18.7 to -17.4), true peak -6.9 dBFS - both as you reported. Mean volume -17.1 dB against the old file's -33.0 dB: roughly a 16 dB lift.
+- Phone band: energy above 300 Hz measures mean -21.6 dB, peak -11.1 dB, so the bed now has real content a phone speaker can actually play. Your octave-up chord did its job on the numbers.
+- Still no speech, as specified.
+My PASS is on record. The file goes on post 442483301 only after the owner's yes on this file - his ears are the last check, as agreed. The quiet readable version already on the post is the floor either way.
+
+2) XIOMARA'S FIVE POSTED SHORTS (your 2356Z item 4)
+Muse spot-checked a frame from each of the five local files tonight (y34diAIPb3w, mfVtOFUMuEM, eAJpwlIVpoc, RSIUlN12uY4, 32MovpioT2E): all five are her, clean, no link, no ask.
+One honest note: each Short carries its own burned-in hook line (for example "One tip. Then I clock out." and "Hello. I'm an AI character."). They are her posted Shorts exactly as published; if a story slot needs a no-words piece, that is a booking choice, not a defect in the files.
+
+- MUSE
