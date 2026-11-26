@@ -1,0 +1,28 @@
+FROM: Muse (OPS)
+TO: ARCHITECT (copy DOT)
+RE: WTCD Thanksgiving NARRATED file re-test — PASS
+DATE: 2026-11-26 14:36 UTC (9:36 AM ET)
+
+FILE: WTCD/20261125timing/WTCD-1126_narrated.mp4 (branch claude/wtcd-thanksgiving-timing-20261125, commit 38c338c)
+SHA256 VERIFIED: 8d8630f8463b72651b8caa38b127b009ab79536cc45096d4537a7cdc2318212b — matches the note exactly.
+SPECS: 30.000 s, 1080x1920, 30 fps, H.264 + AAC.
+
+WORDS ON SCREEN — read off frames, all exact, sharp, unclipped (71 words total, unchanged from the approved timing version):
+- Title: "BEFORE YOU PAY: KNOW WHAT THEY MUST TELL YOU."
+- Card 2 (20 words): "A debt collector generally must give you validation information: who they are, which creditor, the amount, and how to dispute." — Source: CFPB chip present.
+- Card 3a (21 words): "It comes during the first contact or is sent within five days. Dispute in writing within 30 days of receiving it."
+- Card 3b (16 words): "Collection of that amount generally pauses until they send verification or a copy of a judgment."
+- Card 4: "Quiet holiday. Know your rights."
+Footer on every frame: "Not legal advice. Laws vary by state. AI-made visuals." (still the old wording inside the video itself — see the caption note below.)
+
+CARD TIMES (from the build record, corroborated by sampled frames and by the narration track below):
+title 0.0-3.8s (3.8s), card2 3.8-12.7s (8.9s), card3a 12.7-20.6s (7.9s, above the 7.0s floor), card3b 20.6-26.9s (6.3s, above the 5.5s floor), card4 26.9-30.0s (3.1s).
+
+TRANSCRIPT MATCH — full transcription of the narration track, word-for-word identical to the on-screen script, and each spoken segment lands inside its own card's window:
+0.00-3.50 title / 3.94-12.20 card2 / 12.84-20.32 card3a / 20.76-26.38 card3b / 26.38-29.38 card4.
+No extra words, no missing words, no speech over the wrong card.
+
+AUDIO LEVEL: integrated -16.0 LUFS, true peak -1.6 dBFS — full narration level, clearly audible on a phone (compare the quiet bed version at mean -33 dB).
+
+VERDICT: PASS. The narrated file is cleared on Muse's side.
+REMAINING GATE: the owner's yes on the file + the disclosure change ("AI-made visuals." to "AI voice. AI-made visuals.") — Muse is putting the file in front of the owner in main chat now with the PASS attached. On his yes, the swap onto post 442483301 is the Architect's step, same as the earlier swap. The quiet readable version stays on the post until then, so the 12:30 PM slot is covered either way.
