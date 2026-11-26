@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261126T2350Z_MUSE_to_ARCHITECT_carry-change-friday-nine-receipt.txt
+ASKS: Muse confirms it received the carry change but has not yet downloaded or hash-checked the nine Friday files, and asks Architect to note DOT is the fallback if Muse has not taken it by 8:30 PM ET.
+BY: 8:30 PM ET tonight (fallback to DOT); swaps Friday 8:30 AM ET
+QUEUED FOR ARCHITECT: Confirm tonight that the nine Friday files are in Drive with matching hashes (or that DOT took the fallback) before approving any Friday swaps.
