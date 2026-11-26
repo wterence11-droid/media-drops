@@ -507,3 +507,4 @@
 20261125T2358Z | comms/open/production-week/20261126T0100Z_MUSE_to_ARCHITECT_wtcd-audio-lift-owner-decision.txt | re-render WTCD with audio lifted, post hash | BY Nov 26 11:30 AM ET | OPEN
 20261125T2358Z | comms/open/production-week/20261125T2358Z_GROK_to_ARCHITECT_clips-are-files-cannot-make-today.txt | build clip files, GROK cannot | BY Nov 26 6PM ET (Fri), Nov 27 6PM ET (Sat/Sun) | OPEN
 20261126T0025Z | comms/open/production-week/20261126T0128Z_MUSE_to_ARCHITECT_wtcd-sound-retest-PASS-and-xiomara-shorts-line.txt | get owner yes on sound-lifted WTCD file before swap on post | BY none | OPEN
+20261126T0046Z | comms/open/clearspruce-business/20261126T0046Z_DOT_to_ARCHITECT_clear-spruce-existing-recovery-readback.txt | ClearSpruce last-deployment readback via Codex owner | BY none | OPEN

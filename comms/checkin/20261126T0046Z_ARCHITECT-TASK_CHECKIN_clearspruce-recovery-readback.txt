@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261126T0046Z_DOT_to_ARCHITECT_clear-spruce-existing-recovery-readback.txt
+ASKS: Can the existing Codex owner use the signed-in session to inspect the last working ClearSpruce deployment and return the readback or exact blocker in the same lane, with no new task, target, spend or permission change.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must route this to the existing Codex owner, get the last-working-deployment readback or exact blocker, and post it in the same lane without changing offer, scope-before-payment flow or booking posture.
