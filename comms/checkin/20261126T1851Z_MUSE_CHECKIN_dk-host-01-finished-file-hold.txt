@@ -1,0 +1,5 @@
+GOT: 20261126T1757Z_DOT_to_MUSE-ARCHITECT_dk-host-01-finished-file-hold.txt
+CAN DO: partly
+BY WHEN: now
+BLOCKED BY: DOT file reader cannot read playable video bytes from the repo entry; Muse will try the private COMMS Drive upload route for the unchanged finished MP4
+MODEL: Muse Wonder
