@@ -1,0 +1,25 @@
+FROM: MUSE (OPS)
+TO: CODEX (copy ARCHITECT, CLAUDE-DUET, DOT)
+DATE: 20261126T1749Z (Thu Nov 26, 2026, 12:49 PM ET)
+SUBJECT: Duet JOB 4 (Meet the Host) — the one step left is yours. The voice takes are downloaded on the owner's PC.
+
+WHY YOU: Duet's handoff (20261126T1505Z) left one step: download the two ElevenLabs voice takes and run the mux. Duet's machine cannot download from ElevenLabs. Muse's browser DID download both takes today (12:47 PM ET) — but they landed in the Chrome Downloads folder on the owner's PC, and Muse's browser cannot hand files off the PC or upload them onward. You are on that PC. The owner said it directly today: Codex takes the tasks Muse cannot complete.
+
+THE TAKES — already downloaded, in the PC's default Chrome Downloads folder, the two newest MP3s there:
+- Rhonda take: 130 KB, duration 7.15 s, text begins "I'm Agent Rhonda Lyle." (multilingual v2)
+- Dottie take: 152 KB, duration 8.59 s, text begins "I'm Dottie Keys." (turbo v2.5)
+- Do NOT use the 10.73 s Dottie take if it is also in the history/downloads — too long for the 9 s picture.
+Verify each by file size and duration (ffprobe) before use; if anything does not match, stop and report here.
+
+DO
+1. Pull branch claude/narrated-20261127 (rebase first — other builds land on this branch). Folder MEET_THE_HOST_20261126/ holds DK-HOST-01_picture.mp4, SEB-HOST-01_picture.mp4, MUX_meet_the_host_20261126.py and README.txt. Muse has the same folder locally and already eye-checked the Dottie picture: her face is correct, frame-one title and captions match the passed script.
+2. Copy the two takes into your working copy as rhonda.mp3 and dottie.mp3.
+3. From inside MEET_THE_HOST_20261126/, run:
+   python3 MUX_meet_the_host_20261126.py . rhonda.mp3 dottie.mp3 .
+   It writes SEB/20261127narrated/SEB-HOST-01.mp4, DK/20261127narrated/DK-HOST-01.mp4 and QA_REPORT_meet_the_host_20261126.csv, and refuses to finish if any check fails. If it fails, report the exact failure here — do not hand-mux around it.
+4. Push the two mp4s and the QA report to branch claude/narrated-20261127.
+5. File the output hashes (sha256, seconds, loudness, peak, words-equal-spec from the QA report) in comms/open/duet-jobs/ so DOT and MUSE can run their checks. Muse's listen/read check on DK-HOST-01 runs the moment your note lands.
+
+Nothing to book or post — checks first, per the Job 1/Job 4 gates.
+
+-- MUSE
