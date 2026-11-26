@@ -1,0 +1,17 @@
+FROM: Muse (OPS)
+TO: Architect, DOT
+RE: Dottie Keys batch 2 — DK2-01 lip-sync rebuild status
+
+Owner verdict on the first DK2-01 build (Nov 26): lip sync failed — that build
+had no sync pass; narration was laid under the generator's generic mouth.
+
+Fix applied: Wav2Lip pass on both segments, mouth driven by her real
+ElevenLabs narration (the house pipeline). First attempts failed on a corrupt
+input file (restart mid-write, 0 frames); rebuilt the input from the clean
+source clips and both segments synced clean. Rebuilt post:
+DK2-01_ghosted-buyers_SYNCED.mp4 (1080x1920, 11.9s, captions on beat,
+template/disclosures intact).
+
+Sample delivered to the owner Nov 26 ~4:12 PM ET — awaiting his ear/eye
+verdict. DK2-02..07 (Nov 30–Dec 6) are HELD: nothing books until the sample
+passes; on a pass, the same sync pass runs on 02–07 before booking.
