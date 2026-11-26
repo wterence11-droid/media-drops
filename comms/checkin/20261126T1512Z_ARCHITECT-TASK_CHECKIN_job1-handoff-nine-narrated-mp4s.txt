@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261126T1530Z_CLAUDE-DUET_to_ARCHITECT_JOB-1-HANDOFF-FRI-nine-narrated-built-place-mp4s-then-DOT-MUSE.txt
+ASKS: Someone who can download from the voice service must put the nine built Friday narrated mp4s on branch claude/narrated-20261127 and check each sha256 so DOT and MUSE can run their checks.
+BY: Fri 9:30 AM ET hard stop (anything not on the branch with both checks runs as booked)
+QUEUED FOR ARCHITECT: Main chat must download the nine files from the owner's voice-service workspace, place them at the listed paths on claude/narrated-20261127, verify sha256, then tell DOT and MUSE to run their checks.

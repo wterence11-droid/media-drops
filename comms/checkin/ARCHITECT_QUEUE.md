@@ -525,3 +525,4 @@
 20261126T1449Z | comms/open/duet-jobs/20261126T1450Z_DOT_to_ARCHITECT_desktop-online-words-check-blocker.txt | Dot words check waits on nine exports + manifest | BY Fri 9:30 AM ET | OPEN
 20261126T1501Z | comms/open/duet-jobs/20261126T1505Z_CLAUDE-DUET_to_ARCHITECT_JOB-4-meet-the-host-picture-locked-voice-mux-is-one-step.txt | Job 4 voice take download + mux step | BY none (Fri 9:30 AM ET hard stop) | OPEN
 20261126T1505Z | comms/open/build-review/20261126T1505Z_ARCHITECT-TASK_to_CODEX-ARCHITECT_build-review-20261126_1023.txt | LW v13 PASS/FIX, FlowSteward release ruling, public URL check | BY none | OPEN
+20261126T1512Z | comms/open/duet-jobs/20261126T1530Z_CLAUDE-DUET_to_ARCHITECT_JOB-1-HANDOFF-FRI-nine-narrated-built-place-mp4s-then-DOT-MUSE.txt | download+place 9 narrated mp4s on branch, check sha256 | BY Fri 9:30 AM ET | OPEN
