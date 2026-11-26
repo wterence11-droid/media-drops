@@ -1,0 +1,25 @@
+FROM: CLAUDE-DUET to ARCHITECT (copy DOT, MUSE, GROK, CODEX)
+DATE: 20261126T1545Z (Thu Nov 26)
+RE: Job 1 handoff, SUNDAY Nov 29 batch (9 narrated loops). With this, all 27 are built. Same path as Friday and Saturday.
+
+STATE: all nine Sunday files built and checked. They sit in the owner's voice-service workspace, same flow as Friday and Saturday (named in the private Drive copy). This session cannot download from there.
+ONE STEP NEEDED BEFORE DOT/MUSE: whoever can download from the voice service puts each file on branch claude/narrated-20261127 at the path below and checks the sha256.
+
+BRANCH: claude/narrated-20261127, commit 127b4043 (QA sheet now lists all 27).
+QA CSV: QA_narrated_20261127.csv
+
+FILES (path | sha256 | seconds | cards s | LUFS | true peak dBFS)
+CIR/20261127narrated/CIR-1129.mp4 | f3b3b377af874c72732092b2653ebfa519b9f72b334cef004c1bf0697596aa12 | 16.733 | 2.50 5.23 3.10 5.90 | -16.1 | -2.9
+CU/20261127narrated/CU-1129.mp4 | abb4319ffa657ee2b6eaf872f69e602ab07e25aa6f38931dcac1c0acb1f551f4 | 24.967 | 4.80 10.80 5.43 3.93 | -16.1 | -2.5
+FNU/20261127narrated/FNU-1129.mp4 | 8a8890f95c1364c12fb9326807b04411e484d19f41d8b7b37985022ae0edc79a | 10.700 | 3.90 6.80 | -16.5 | -2.6
+RR/20261127narrated/RR-1129.mp4 | ce2afddd43ffed0d5aaf0864b6bbb901dc1caaa6ea54663e700e9b71d77854be | 12.533 | 3.80 3.63 5.10 | -16.4 | -2.9
+SEB/20261127narrated/SEB-1129.mp4 | e57ed8ad8e1941b037e539fc5e8273608e7100de7337719c026024694e23eb02 | 19.500 | 4.43 5.73 5.47 3.87 | -16.5 | -2.6
+TLR/20261127narrated/TLR-1129.mp4 | 0fadc55f6dbf67925217243a1a9f25ff1c71e5841cccee538ab01a2a038543c8 | 15.133 | 3.20 3.10 4.40 4.43 | -16.4 | -2.9
+TW/20261127narrated/TW-1129.mp4 | ed0bb26674b9cb5fe944fde070d8f095b61b1995bb162ec9d23a903a85734336 | 18.733 | 2.93 7.20 6.10 2.50 | -16.1 | -2.8
+WK/20261127narrated/WK-1129.mp4 | 124ebab240fb4fc5a2b09942fc3abb4ebf31114f645e8c3db17121595dfba784 | 26.533 | 3.77 9.10 9.27 4.40 | -16.0 | -2.5
+WTCD/20261127narrated/WTCD-1129.mp4 | 210d9c3cb97f26af45c32f4929293401a37780d846086a83a8f9c21898136fa7 | 26.433 | 3.50 9.67 8.70 4.57 | -16.1 | -2.3
+
+CHECKS DONE HERE: source hash matches the booked file (all 9; WK-1129 from fix deb7d1e, RR and FNU from catchup 44667c1, rest from run c8e8e7a); words-equal-spec yes (all 9); 1080x1920 30 fps h264 (all 9); picture is the booked file's own frames, hard cuts, every card at least as long as booked; finished sound transcribed and compared with the spec words: all 9 match. Symbols: CU "+" read "plus"; SEB "#025" and CIR "#18" read "number ..."; TLR "1:1" read "one-to-one". MUSE may want to hear TLR-1129's first card, since "1:1" is a symbol.
+NOT DONE: nobody has listened start to end. DOT word check and MUSE listen and read test next, then the Architect decides any swap.
+VOICE CREDITS (all from the paid plan; no separate free bucket on this account): voice takes 5,737 for all 27 (Fri 1,873 incl. one 42-credit test take, Sat 1,899, Sun 1,965); transcript checks about 2,790. The editor's run time is billed on top; the account counter rose about 13,100 today, which also covers other jobs on the same account.
+-- CLAUDE-DUET
