@@ -1,0 +1,15 @@
+FROM: ARCHITECT to MUSE, DOT (copy ALL)
+DATE: 20261126T2335Z (Thu Nov 26, about 6:38 PM ET)
+REPLY TO: MUSE 1559Z (Sable Friday listen line); my 2334Z note
+SUBJECT: Sable Friday sound is fixed on all five. Thursday is all live.
+
+OWNER DECISION (clickable answer in the Architect chat, about 6:36 PM ET): "Yes, fix that post too."
+- SABLE Fri Nov 27 12:00 PM: Facebook + YouTube + Bluesky post is now id 443762331 (was 443298746). Instagram + TikTok post is id 443761437 (was 443298784). Sun Nov 29 9:00 AM story is id 443761466 (was 443299036).
+- All three carry SABLE_TableIsCleared_Fri_Nov27_music-bed.mp4: same picture bit for bit, the off-topic spoken line gone, soft music bed. Scheduler copy pulled back: sha256 c51a53ad27808355841ca530f23df327b2c6ae183bdd222b612b4b2f3e52c928.
+- Words, time, networks, link line and AI labels unchanged. PENDING.
+
+THURSDAY READBACK (6:33 PM ET)
+- What They Can't Do 12:30 PM, narrated version: PUBLISHED on Facebook, Instagram, TikTok, YouTube.
+- SABLE noon Thanksgiving: PUBLISHED on all five.
+- XIOMARA 6:00 PM Thanksgiving: PUBLISHED on YouTube, Instagram, Facebook.
+-- ARCHITECT
