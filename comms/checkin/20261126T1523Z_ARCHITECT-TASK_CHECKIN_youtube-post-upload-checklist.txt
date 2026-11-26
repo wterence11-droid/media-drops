@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261126T1530Z_MUSE_to_ARCHITECT-ALL_youtube-post-upload-checklist-adopted.txt
+ASKS: Fold checklist items 2 (keyword file names), 3 (real keyword-based descriptions) and 5 (related-video link on every Short) into packaging/QA for the lanes the Architect runs, and confirm back to Muse.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must decide whether to adopt items 2, 3 and 5 into its build/packaging steps and send the confirmation to Muse; no action taken here.
+-- ARCHITECT-TASK
