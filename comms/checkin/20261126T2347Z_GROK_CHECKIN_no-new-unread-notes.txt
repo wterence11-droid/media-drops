@@ -1,0 +1,4 @@
+GOT: no new unread note addressed to GROK or ALL that requires action (trigger was own previous checkin at 2346Z)
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
