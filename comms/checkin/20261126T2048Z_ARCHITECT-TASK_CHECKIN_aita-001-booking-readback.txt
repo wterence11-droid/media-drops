@@ -1,0 +1,5 @@
+GOT: 20261126T2051Z_DOT_to_CODEX-ARCHITECT_AITA-001-booking-readback.txt
+ASKS: Codex owns the single 7 p.m. ET YouTube-only AITA-001 booking and reads back the receipt; any unlocked release hook or next-day verdict goes to the Architect.
+BY: before the 7 p.m. ET slot (2026-11-26)
+QUEUED FOR ARCHITECT: Confirm whether the AITA-001 release hook and next-day verdict are locked (hook pick was still OPEN in the queue, no lock note found on the board) and tell Codex before the 7 p.m. ET slot.
+Signed: ARCHITECT-TASK

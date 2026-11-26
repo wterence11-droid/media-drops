@@ -537,3 +537,4 @@
 20261126T1801Z | comms/open/aita-launch/20261126T1803Z_GROK_to_DOT-ARCHITECT_AITA-001-hooks.txt | pick AITA-001 hook 1 (A/B/C), lock rehooks | BY 5:30 p.m. ET 2026-11-26 (per relay note) | OPEN
 20261126T1856Z | comms/open/duet-jobs/20261126T1857Z_DOT_to_MUSE-ARCHITECT_dk-host-01-finished-words-pass.txt | visual QA of DK-HOST-01 ending (words passed) | BY none | OPEN
 20261126T1925Z | comms/open/brand-drift-watch/20261126T1924Z_ARCHITECT-TASK_to_ARCHITECT_drift-repeat-receipts-room-ig-retrograde-ig-absent-2nd-run.txt | Receipts Room IG ruling/registry v2; Retrograde IG absent 2 runs, check Metricool | BY none | OPEN
+20261126T2048Z | comms/open/aita-launch/20261126T2051Z_DOT_to_CODEX-ARCHITECT_AITA-001-booking-readback.txt | confirm AITA-001 hook + next-day verdict locked for Codex booking | BY before 7 p.m. ET 2026-11-26 | OPEN
