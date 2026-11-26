@@ -1,0 +1,1127 @@
+[
+ {
+  "id": "CIR-1127",
+  "brand": "CIR",
+  "date": "2026-11-27",
+  "src": "run",
+  "words": [
+   "\"I'M FINE,\" HE SAID.",
+   "At 2 AM he was demolishing the kitchen. By sunrise there was an island.",
+   "GUESS THE SIGN before Merc's read...",
+   "MERC'S READ: ARIES. Case File #16, closed."
+  ],
+  "plateau": [
+   [
+    10,
+    62
+   ],
+   [
+    76,
+    151
+   ],
+   [
+    160,
+    235
+   ],
+   [
+    244,
+    280
+   ]
+  ],
+  "min": [
+   2.47,
+   3.07,
+   3.07,
+   1.83
+  ],
+  "url": "https://raw.githubusercontent.com/wterence11-droid/media-drops/c8e8e7afbaeae544bcf7716461118889b7ae79e5/CIR/20261122run/CIR-1127.mp4",
+  "prompts": [
+   "\"I'M FINE,\" HE SAID.",
+   "At 2 AM he was demolishing the kitchen. By sunrise there was an island.",
+   "GUESS THE SIGN before Merc's read...",
+   "MERC'S READ: ARIES. Case File #16, closed."
+  ],
+  "src_sha256": "576e0ff49cd18111110b1940b9d5198383750024bdbffca75b89ccc38d3833c0"
+ },
+ {
+  "id": "CU-1127",
+  "brand": "CU",
+  "date": "2026-11-27",
+  "src": "run",
+  "words": [
+   "A REAL DEAL SURVIVES 24 HOURS.",
+   "Black Friday rule: cart it, screenshot the price, and come back in 24 hours.",
+   "If it's still worth it tomorrow, it was real. If not, the countdown timer was doing the shopping.",
+   "Save this + follow."
+  ],
+  "plateau": [
+   [
+    10,
+    62
+   ],
+   [
+    76,
+    151
+   ],
+   [
+    160,
+    235
+   ],
+   [
+    246,
+    262
+   ]
+  ],
+  "min": [
+   2.47,
+   3.07,
+   3.07,
+   1.83
+  ],
+  "url": "https://raw.githubusercontent.com/wterence11-droid/media-drops/c8e8e7afbaeae544bcf7716461118889b7ae79e5/CU/20261122run/CU-1127.mp4",
+  "prompts": [
+   "[calmly] [slowly] A REAL DEAL SURVIVES 24 HOURS.",
+   "[calmly] [slowly] Black Friday rule: cart it, screenshot the price, and come back in 24 hours.",
+   "[calmly] [slowly] If it's still worth it tomorrow, it was real. If not, the countdown timer was doing the shopping.",
+   "[calmly] [slowly] Save this + follow."
+  ],
+  "src_sha256": "c6d98dfff45759b32678bba4c6b556355b4e969f06d4983205f68fab73c21dc7"
+ },
+ {
+  "id": "FNU-1127",
+  "brand": "FNU",
+  "date": "2026-11-27",
+  "src": "cu",
+  "words": [
+   "Page 47, note 12: the part they hoped you'd skip.",
+   "We do not skip."
+  ],
+  "plateau": [
+   [
+    0,
+    95
+   ],
+   [
+    118,
+    278
+   ]
+  ],
+  "min": [
+   3.9,
+   6.8
+  ],
+  "url": "https://raw.githubusercontent.com/wterence11-droid/media-drops/44667c176737141f0a7e294ba980faddd8d553a6/FNU/20261122catchup/FNU-1127.mp4",
+  "prompts": [
+   "Page 47, note 12: the part they hoped you'd skip.",
+   "We do not skip."
+  ],
+  "src_sha256": "aa876e7aa2d681e55844bb47fe6c7b6d53c1285ef8a0306516fdcd7208c9d205"
+ },
+ {
+  "id": "RR-1127",
+  "brand": "RR",
+  "date": "2026-11-27",
+  "src": "cu",
+  "words": [
+   "They said it. The thread says otherwise.",
+   "Believe the thread.",
+   "ON FILE"
+  ],
+  "plateau": [
+   [
+    0,
+    95
+   ],
+   [
+    115,
+    137
+   ],
+   [
+    147,
+    278
+   ]
+  ],
+  "min": [
+   3.8,
+   1.6,
+   5.1
+  ],
+  "url": "https://raw.githubusercontent.com/wterence11-droid/media-drops/44667c176737141f0a7e294ba980faddd8d553a6/RR/20261122catchup/RR-1127.mp4",
+  "prompts": [
+   "[calmly] [slowly] They said it. The thread says otherwise.",
+   "[calmly] [slowly] Believe the thread.",
+   "[calmly] [slowly] ON FILE"
+  ],
+  "src_sha256": "555b5479f3ff83c6156aabf4573eae3588ddea700b9b02369465b67af280b187"
+ },
+ {
+  "id": "SEB-1127",
+  "brand": "SEB",
+  "date": "2026-11-27",
+  "src": "run",
+  "words": [
+   "CASE #023: \"LET'S CIRCLE BACK.\"",
+   "Week six. The circle has no radius. No one has come back.",
+   "RULING: Circling is not a direction. Name a date or close the file.",
+   "CASE FILED."
+  ],
+  "plateau": [
+   [
+    10,
+    62
+   ],
+   [
+    76,
+    151
+   ],
+   [
+    160,
+    235
+   ],
+   [
+    244,
+    280
+   ]
+  ],
+  "min": [
+   2.47,
+   3.07,
+   3.07,
+   1.83
+  ],
+  "url": "https://raw.githubusercontent.com/wterence11-droid/media-drops/c8e8e7afbaeae544bcf7716461118889b7ae79e5/SEB/20261122run/SEB-1127.mp4",
+  "prompts": [
+   "[deadpan] CASE #023: \"LET'S CIRCLE BACK.\"",
+   "[deadpan] Week six. The circle has no radius. No one has come back.",
+   "[deadpan] RULING: Circling is not a direction. Name a date or close the file.",
+   "[deadpan] CASE FILED."
+  ],
+  "src_sha256": "ab837da1b47114184ff57ada5c87940075a8fb75bb4c24c44b1a9cb073cd4d67"
+ },
+ {
+  "id": "TLR-1127",
+  "brand": "TLR",
+  "date": "2026-11-27",
+  "src": "run",
+  "words": [
+   "DON'T FIX IT IN THE MEETING.",
+   "Ask one question instead: \"Who owns this?\"",
+   "A fix from you lasts a week. An owner lasts a quarter.",
+   "Save this."
+  ],
+  "plateau": [
+   [
+    10,
+    62
+   ],
+   [
+    76,
+    151
+   ],
+   [
+    160,
+    235
+   ],
+   [
+    244,
+    280
+   ]
+  ],
+  "min": [
+   2.47,
+   3.07,
+   3.07,
+   1.83
+  ],
+  "url": "https://raw.githubusercontent.com/wterence11-droid/media-drops/c8e8e7afbaeae544bcf7716461118889b7ae79e5/TLR/20261122run/TLR-1127.mp4",
+  "prompts": [
+   "DON'T FIX IT IN THE MEETING.",
+   "Ask one question instead: \"Who owns this?\"",
+   "A fix from you lasts a week. An owner lasts a quarter.",
+   "Save this."
+  ],
+  "src_sha256": "829baa585c38ef80cedab4bb3516e56c539093b4b5b8a16231765fde418614fe"
+ },
+ {
+  "id": "TW-1127",
+  "brand": "TW",
+  "date": "2026-11-27",
+  "src": "run",
+  "words": [
+   "FAST SHOULDN'T COST YOU MONEY.",
+   "Charging by the hour punishes you for being good: the better you get, the less you make per job.",
+   "Here's one way: price the JOB, from your own past-job notes, not the clock.",
+   "Illustrative example."
+  ],
+  "plateau": [
+   [
+    10,
+    62
+   ],
+   [
+    76,
+    151
+   ],
+   [
+    160,
+    235
+   ],
+   [
+    244,
+    280
+   ]
+  ],
+  "min": [
+   2.47,
+   3.07,
+   3.07,
+   1.83
+  ],
+  "url": "https://raw.githubusercontent.com/wterence11-droid/media-drops/c8e8e7afbaeae544bcf7716461118889b7ae79e5/TW/20261122run/TW-1127.mp4",
+  "prompts": [
+   "FAST SHOULDN'T COST YOU MONEY.",
+   "Charging by the hour punishes you for being good: the better you get, the less you make per job.",
+   "Here's one way: price the JOB, from your own past-job notes, not the clock.",
+   "Illustrative example."
+  ],
+  "src_sha256": "ac4726c76a62d8920a17d834bb976b7b7a7b8efaaf336ce846fa0d935757d092"
+ },
+ {
+  "id": "WK-1127",
+  "brand": "WK",
+  "date": "2026-11-27",
+  "src": "run",
+  "words": [
+   "A TWO-YEAR CLOCK NOBODY MENTIONS.",
+   "Social Security pays a one-time $255 lump-sum death payment, usually to a surviving spouse who lived with the person.",
+   "If there's no eligible spouse, an eligible child can receive it.",
+   "Apply within 2 years of the death."
+  ],
+  "plateau": [
+   [
+    10,
+    62
+   ],
+   [
+    76,
+    151
+   ],
+   [
+    160,
+    235
+   ],
+   [
+    244,
+    280
+   ]
+  ],
+  "min": [
+   2.47,
+   3.07,
+   3.07,
+   1.83
+  ],
+  "url": "https://raw.githubusercontent.com/wterence11-droid/media-drops/c8e8e7afbaeae544bcf7716461118889b7ae79e5/WK/20261122run/WK-1127.mp4",
+  "prompts": [
+   "[calmly] [slowly] A TWO-YEAR CLOCK NOBODY MENTIONS.",
+   "[calmly] [slowly] Social Security pays a one-time $255 lump-sum death payment, usually to a surviving spouse who lived with the person.",
+   "[calmly] [slowly] If there's no eligible spouse, an eligible child can receive it.",
+   "[calmly] [slowly] Apply within 2 years of the death."
+  ],
+  "src_sha256": "5ea20c165e2226f71e0ab34ce1cadba600373cff33e0f43b88bd7c34b4dfdc73"
+ },
+ {
+  "id": "WTCD-1127",
+  "brand": "WTCD",
+  "date": "2026-11-27",
+  "src": "run",
+  "words": [
+   "CAN THEY TELL YOUR BOSS?",
+   "No. A collector generally can't tell your employer, family or friends that you owe a debt.",
+   "They may contact others ONLY to find your address, phone or workplace, and if a lawyer represents you, they must call the lawyer.",
+   "Your debt is not office news."
+  ],
+  "plateau": [
+   [
+    10,
+    62
+   ],
+   [
+    76,
+    151
+   ],
+   [
+    160,
+    235
+   ],
+   [
+    244,
+    280
+   ]
+  ],
+  "min": [
+   2.47,
+   3.07,
+   3.07,
+   1.83
+  ],
+  "url": "https://raw.githubusercontent.com/wterence11-droid/media-drops/c8e8e7afbaeae544bcf7716461118889b7ae79e5/WTCD/20261122run/WTCD-1127.mp4",
+  "prompts": [
+   "[calmly] [slowly] CAN THEY TELL YOUR BOSS?",
+   "[calmly] [slowly] No. A collector generally can't tell your employer, family or friends that you owe a debt.",
+   "[calmly] [slowly] They may contact others ONLY to find your address, phone or workplace, and if a lawyer represents you, they must call the lawyer.",
+   "[calmly] [slowly] Your debt is not office news."
+  ],
+  "src_sha256": "bab396dcd38374ac68abe76ec9cb3dd32c80f20e1f76bd9b69565a5cdf77465f"
+ },
+ {
+  "id": "CIR-1128",
+  "brand": "CIR",
+  "date": "2026-11-28",
+  "src": "run",
+  "words": [
+   "SHE BACKGROUND-CHECKED HIS HOUSEPLANT.",
+   "Specifically: its previous owner. There was a spreadsheet with tabs.",
+   "GUESS THE SIGN before Merc's read...",
+   "MERC'S READ: SCORPIO. Case File #17, closed."
+  ],
+  "plateau": [
+   [
+    10,
+    62
+   ],
+   [
+    76,
+    151
+   ],
+   [
+    160,
+    235
+   ],
+   [
+    244,
+    280
+   ]
+  ],
+  "min": [
+   2.47,
+   3.07,
+   3.07,
+   1.83
+  ],
+  "url": "https://raw.githubusercontent.com/wterence11-droid/media-drops/c8e8e7afbaeae544bcf7716461118889b7ae79e5/CIR/20261122run/CIR-1128.mp4",
+  "prompts": [
+   "SHE BACKGROUND-CHECKED HIS HOUSEPLANT.",
+   "Specifically: its previous owner. There was a spreadsheet with tabs.",
+   "GUESS THE SIGN before Merc's read...",
+   "MERC'S READ: SCORPIO. Case File #17, closed."
+  ],
+  "src_sha256": "452069aedc7a9863d828440794ee10f44982c5a562478bc5f3c5da402bb97093"
+ },
+ {
+  "id": "CU-1128",
+  "brand": "CU",
+  "date": "2026-11-28",
+  "src": "run",
+  "words": [
+   "BOX 7 OF 50.",
+   "$1,000 is $20 a week for 50 weeks. One box per week. Color it in.",
+   "In this example you're one box from being 16% done, and the chart does the motivating.",
+   "Save this + follow."
+  ],
+  "plateau": [
+   [
+    10,
+    62
+   ],
+   [
+    76,
+    151
+   ],
+   [
+    160,
+    235
+   ],
+   [
+    246,
+    262
+   ]
+  ],
+  "min": [
+   2.47,
+   3.07,
+   3.07,
+   1.83
+  ],
+  "url": "https://raw.githubusercontent.com/wterence11-droid/media-drops/c8e8e7afbaeae544bcf7716461118889b7ae79e5/CU/20261122run/CU-1128.mp4",
+  "prompts": [
+   "[calmly] [slowly] BOX 7 OF 50.",
+   "[calmly] [slowly] $1,000 is $20 a week for 50 weeks. One box per week. Color it in.",
+   "[calmly] [slowly] In this example you're one box from being 16% done, and the chart does the motivating.",
+   "[calmly] [slowly] Save this + follow."
+  ],
+  "src_sha256": "7610cb029a4e0950a9f3153970bb240be82012be1c30025cac6da43a4083f6fc"
+ },
+ {
+  "id": "FNU-1128",
+  "brand": "FNU",
+  "date": "2026-11-28",
+  "src": "cu",
+  "words": [
+   "Asterisk. Then the real story.",
+   "Always read the asterisk."
+  ],
+  "plateau": [
+   [
+    0,
+    95
+   ],
+   [
+    118,
+    278
+   ]
+  ],
+  "min": [
+   3.9,
+   6.8
+  ],
+  "url": "https://raw.githubusercontent.com/wterence11-droid/media-drops/44667c176737141f0a7e294ba980faddd8d553a6/FNU/20261122catchup/FNU-1128.mp4",
+  "prompts": [
+   "Asterisk. Then the real story.",
+   "Always read the asterisk."
+  ],
+  "src_sha256": "4b3d5fe2f58accdf82b803d6d34194d534d2cab38364729f2bf1be94b2e6edac"
+ },
+ {
+  "id": "RR-1128",
+  "brand": "RR",
+  "date": "2026-11-28",
+  "src": "cu",
+  "words": [
+   "Pull the receipts. The story changes.",
+   "Every single time.",
+   "PULLED"
+  ],
+  "plateau": [
+   [
+    0,
+    95
+   ],
+   [
+    115,
+    137
+   ],
+   [
+    147,
+    278
+   ]
+  ],
+  "min": [
+   3.8,
+   1.6,
+   5.1
+  ],
+  "url": "https://raw.githubusercontent.com/wterence11-droid/media-drops/44667c176737141f0a7e294ba980faddd8d553a6/RR/20261122catchup/RR-1128.mp4",
+  "prompts": [
+   "[calmly] [slowly] Pull the receipts. The story changes.",
+   "[calmly] [slowly] Every single time.",
+   "[calmly] [slowly] PULLED"
+  ],
+  "src_sha256": "45bbc640ff6a44d4b52bfbaa9fcd71f5370faf4e3d83a61efb455596a010a091"
+ },
+ {
+  "id": "SEB-1128",
+  "brand": "SEB",
+  "date": "2026-11-28",
+  "src": "run",
+  "words": [
+   "CASE #024: THE \"QUICK SYNC\"",
+   "Evidence: an agenda, an 11-person invite list, and a 34-slide deck.",
+   "RULING: That is a meeting in a costume. The Bureau bills it as one.",
+   "CASE FILED."
+  ],
+  "plateau": [
+   [
+    10,
+    62
+   ],
+   [
+    76,
+    151
+   ],
+   [
+    160,
+    235
+   ],
+   [
+    244,
+    280
+   ]
+  ],
+  "min": [
+   2.47,
+   3.07,
+   3.07,
+   1.83
+  ],
+  "url": "https://raw.githubusercontent.com/wterence11-droid/media-drops/c8e8e7afbaeae544bcf7716461118889b7ae79e5/SEB/20261122run/SEB-1128.mp4",
+  "prompts": [
+   "[deadpan] CASE #024: THE \"QUICK SYNC\"",
+   "[deadpan] Evidence: an agenda, an 11-person invite list, and a 34-slide deck.",
+   "[deadpan] RULING: That is a meeting in a costume. The Bureau bills it as one.",
+   "[deadpan] CASE FILED."
+  ],
+  "src_sha256": "c160363879dddecea312128de893c63cda972d566b60756e113f3831bf785ec5"
+ },
+ {
+  "id": "TLR-1128",
+  "brand": "TLR",
+  "date": "2026-11-28",
+  "src": "run",
+  "words": [
+   "YOUR BEST EMPLOYEE JUST QUIT.",
+   "The exit interview is too late. The stay conversation was six months ago.",
+   "Ask your best people this month: \"What would make you leave?\"",
+   "Then fix that."
+  ],
+  "plateau": [
+   [
+    10,
+    62
+   ],
+   [
+    76,
+    151
+   ],
+   [
+    160,
+    235
+   ],
+   [
+    244,
+    280
+   ]
+  ],
+  "min": [
+   2.47,
+   3.07,
+   3.07,
+   1.83
+  ],
+  "url": "https://raw.githubusercontent.com/wterence11-droid/media-drops/c8e8e7afbaeae544bcf7716461118889b7ae79e5/TLR/20261122run/TLR-1128.mp4",
+  "prompts": [
+   "YOUR BEST EMPLOYEE JUST QUIT.",
+   "The exit interview is too late. The stay conversation was six months ago.",
+   "Ask your best people this month: \"What would make you leave?\"",
+   "Then fix that."
+  ],
+  "src_sha256": "de9631e3f1772d777c9ed401b1a2262c0b9043e0e379d6e86ae2020e2cafbb7a"
+ },
+ {
+  "id": "TW-1128",
+  "brand": "TW",
+  "date": "2026-11-28",
+  "src": "run",
+  "words": [
+   "FIVE MINUTES ON FRIDAY.",
+   "Before you close up: write Monday's FIRST job on one sticky note and put it where you'll see it.",
+   "Monday starts at full speed instead of a planning session.",
+   "Illustrative example."
+  ],
+  "plateau": [
+   [
+    10,
+    62
+   ],
+   [
+    76,
+    151
+   ],
+   [
+    160,
+    235
+   ],
+   [
+    244,
+    280
+   ]
+  ],
+  "min": [
+   2.47,
+   3.07,
+   3.07,
+   1.83
+  ],
+  "url": "https://raw.githubusercontent.com/wterence11-droid/media-drops/c8e8e7afbaeae544bcf7716461118889b7ae79e5/TW/20261122run/TW-1128.mp4",
+  "prompts": [
+   "FIVE MINUTES ON FRIDAY.",
+   "Before you close up: write Monday's FIRST job on one sticky note and put it where you'll see it.",
+   "Monday starts at full speed instead of a planning session.",
+   "Illustrative example."
+  ],
+  "src_sha256": "8f7917dc86a52a1195ea8f4a0a3b21de93af45dd50ec0b6952f71180cab1c02c"
+ },
+ {
+  "id": "WK-1128",
+  "brand": "WK",
+  "date": "2026-11-28",
+  "src": "fix",
+  "words": [
+   "FLORIDA HOMESTEAD: THE RULES ARE CHANGING.",
+   "For the 2026 tax roll, the additional non-school exemption was up to $26,411 on assessed value above $50,000.",
+   "A voter-approved amendment changes non-school exemptions starting with the 2027 tax roll.",
+   "Check with your county property appraiser."
+  ],
+  "plateau": [
+   [
+    10,
+    62
+   ],
+   [
+    76,
+    151
+   ],
+   [
+    160,
+    235
+   ],
+   [
+    244,
+    280
+   ]
+  ],
+  "min": [
+   2.47,
+   3.07,
+   3.07,
+   1.83
+  ],
+  "url": "https://raw.githubusercontent.com/wterence11-droid/media-drops/deb7d1ed1b5635499a8a728db15dc18ff2755293/WK/20261122fix/WK-1128.mp4",
+  "prompts": [
+   "[calmly] [slowly] FLORIDA HOMESTEAD: THE RULES ARE CHANGING.",
+   "[calmly] [slowly] For the 2026 tax roll, the additional non-school exemption was up to $26,411 on assessed value above $50,000.",
+   "[calmly] [slowly] A voter-approved amendment changes non-school exemptions starting with the 2027 tax roll.",
+   "[calmly] [slowly] Check with your county property appraiser."
+  ],
+  "src_sha256": "16ace35be52da18ac1d0e96257e6113a4ce79dce0a7b69d8d4dea6e749532b54"
+ },
+ {
+  "id": "WTCD-1128",
+  "brand": "WTCD",
+  "date": "2026-11-28",
+  "src": "fix",
+  "words": [
+   "A WRITTEN REQUEST CAN STOP THE CALLS.",
+   "Once a debt collector receives your written stop-contact request, it generally must stop contacting you about that debt.",
+   "Narrow exceptions apply, like a notice about a specific remedy. The debt itself remains.",
+   "Send it certified. Keep a copy."
+  ],
+  "plateau": [
+   [
+    10,
+    62
+   ],
+   [
+    76,
+    151
+   ],
+   [
+    160,
+    235
+   ],
+   [
+    244,
+    280
+   ]
+  ],
+  "min": [
+   2.47,
+   3.07,
+   3.07,
+   1.83
+  ],
+  "url": "https://raw.githubusercontent.com/wterence11-droid/media-drops/deb7d1ed1b5635499a8a728db15dc18ff2755293/WTCD/20261122fix/WTCD-1128.mp4",
+  "prompts": [
+   "[calmly] [slowly] A WRITTEN REQUEST CAN STOP THE CALLS.",
+   "[calmly] [slowly] Once a debt collector receives your written stop-contact request, it generally must stop contacting you about that debt.",
+   "[calmly] [slowly] Narrow exceptions apply, like a notice about a specific remedy. The debt itself remains.",
+   "[calmly] [slowly] Send it certified. Keep a copy."
+  ],
+  "src_sha256": "b4f71aaa4e1276303247ce71c62c75a4afbbd9b050401095170db6eea41d8613"
+ },
+ {
+  "id": "CIR-1129",
+  "brand": "CIR",
+  "date": "2026-11-29",
+  "src": "run",
+  "words": [
+   "HE GHOSTED THE GROUP CHAT.",
+   "But liked every screenshot of it posted elsewhere. Within seconds.",
+   "GUESS THE SIGN before Merc's read...",
+   "MERC'S READ: GEMINI. Case File #18, closed."
+  ],
+  "plateau": [
+   [
+    10,
+    62
+   ],
+   [
+    76,
+    151
+   ],
+   [
+    160,
+    235
+   ],
+   [
+    244,
+    280
+   ]
+  ],
+  "min": [
+   2.47,
+   3.07,
+   3.07,
+   1.83
+  ],
+  "url": "https://raw.githubusercontent.com/wterence11-droid/media-drops/c8e8e7afbaeae544bcf7716461118889b7ae79e5/CIR/20261122run/CIR-1129.mp4",
+  "prompts": [
+   "HE GHOSTED THE GROUP CHAT.",
+   "But liked every screenshot of it posted elsewhere. Within seconds.",
+   "GUESS THE SIGN before Merc's read...",
+   "MERC'S READ: GEMINI. Case File #18, closed."
+  ],
+  "src_sha256": "065addcdd379b1b605a3efcd25b4c7692dfd8a4fae70d9fefb781202ef685adf"
+ },
+ {
+  "id": "CU-1129",
+  "brand": "CU",
+  "date": "2026-11-29",
+  "src": "run",
+  "words": [
+   "48 HOURS. EVERY DOLLAR NAMED.",
+   "The paycheck map: within 48 hours of payday, every dollar gets a name: bills, food, debt, savings, fun.",
+   "In this example, the unnamed dollars were the ones that vanished.",
+   "Save this + follow."
+  ],
+  "plateau": [
+   [
+    10,
+    62
+   ],
+   [
+    76,
+    151
+   ],
+   [
+    160,
+    235
+   ],
+   [
+    246,
+    262
+   ]
+  ],
+  "min": [
+   2.47,
+   3.07,
+   3.07,
+   1.83
+  ],
+  "url": "https://raw.githubusercontent.com/wterence11-droid/media-drops/c8e8e7afbaeae544bcf7716461118889b7ae79e5/CU/20261122run/CU-1129.mp4",
+  "prompts": [
+   "[calmly] [slowly] 48 HOURS. EVERY DOLLAR NAMED.",
+   "[calmly] [slowly] The paycheck map: within 48 hours of payday, every dollar gets a name: bills, food, debt, savings, fun.",
+   "[calmly] [slowly] In this example, the unnamed dollars were the ones that vanished.",
+   "[calmly] [slowly] Save this + follow."
+  ],
+  "src_sha256": "d1db131bbb23f12ddf93bdff27cc0528fe5c1f9adf9c69a1285386c2d05ca641"
+ },
+ {
+  "id": "FNU-1129",
+  "brand": "FNU",
+  "date": "2026-11-29",
+  "src": "cu",
+  "words": [
+   "The source is listed. You still didn't read it.",
+   "We did. Follow for the footnotes."
+  ],
+  "plateau": [
+   [
+    0,
+    95
+   ],
+   [
+    118,
+    278
+   ]
+  ],
+  "min": [
+   3.9,
+   6.8
+  ],
+  "url": "https://raw.githubusercontent.com/wterence11-droid/media-drops/44667c176737141f0a7e294ba980faddd8d553a6/FNU/20261122catchup/FNU-1129.mp4",
+  "prompts": [
+   "The source is listed. You still didn't read it.",
+   "We did. Follow for the footnotes."
+  ],
+  "src_sha256": "a0a069ada71d4e64b90010c60e632e4a77a2da205484a75a26b72b203cde1b04"
+ },
+ {
+  "id": "RR-1129",
+  "brand": "RR",
+  "date": "2026-11-29",
+  "src": "cu",
+  "words": [
+   "No memory. Just the message.",
+   "Read it back, word for word.",
+   "RECEIPT"
+  ],
+  "plateau": [
+   [
+    0,
+    95
+   ],
+   [
+    115,
+    137
+   ],
+   [
+    147,
+    278
+   ]
+  ],
+  "min": [
+   3.8,
+   1.6,
+   5.1
+  ],
+  "url": "https://raw.githubusercontent.com/wterence11-droid/media-drops/44667c176737141f0a7e294ba980faddd8d553a6/RR/20261122catchup/RR-1129.mp4",
+  "prompts": [
+   "[calmly] [slowly] No memory. Just the message.",
+   "[calmly] [slowly] Read it back, word for word.",
+   "[calmly] [slowly] RECEIPT"
+  ],
+  "src_sha256": "c89e667a6e95f3b4db17380cd8b9200ee01f287bcf6f6fe745508a1345dbb5c9"
+ },
+ {
+  "id": "SEB-1129",
+  "brand": "SEB",
+  "date": "2026-11-29",
+  "src": "run",
+  "words": [
+   "CASE #025: ALIGNED ON ALIGNMENT",
+   "\"As per the alignment, we're aligned on aligning. Next steps: alignment.\"",
+   "RULING: Four alignments, zero plans. Somebody say a NOUN.",
+   "CASE FILED. THE BUREAU CONVENES SUNDAY."
+  ],
+  "plateau": [
+   [
+    10,
+    62
+   ],
+   [
+    76,
+    151
+   ],
+   [
+    160,
+    235
+   ],
+   [
+    244,
+    280
+   ]
+  ],
+  "min": [
+   2.47,
+   3.07,
+   3.07,
+   1.83
+  ],
+  "url": "https://raw.githubusercontent.com/wterence11-droid/media-drops/c8e8e7afbaeae544bcf7716461118889b7ae79e5/SEB/20261122run/SEB-1129.mp4",
+  "prompts": [
+   "[deadpan] CASE #025: ALIGNED ON ALIGNMENT",
+   "[deadpan] \"As per the alignment, we're aligned on aligning. Next steps: alignment.\"",
+   "[deadpan] RULING: Four alignments, zero plans. Somebody say a NOUN.",
+   "[deadpan] CASE FILED. THE BUREAU CONVENES SUNDAY."
+  ],
+  "src_sha256": "29077a7a9bf546b4dad84ed20c56231ac4378553940c0d1e0a2e324cbb7ddfbd"
+ },
+ {
+  "id": "TLR-1129",
+  "brand": "TLR",
+  "date": "2026-11-29",
+  "src": "run",
+  "words": [
+   "A 1:1 WITHOUT THEIR AGENDA",
+   "is your meeting, not theirs.",
+   "First question, every time: \"What's on your list for us?\"",
+   "Their items first. Yours fit in what's left."
+  ],
+  "plateau": [
+   [
+    10,
+    62
+   ],
+   [
+    76,
+    151
+   ],
+   [
+    160,
+    235
+   ],
+   [
+    244,
+    280
+   ]
+  ],
+  "min": [
+   2.47,
+   3.07,
+   3.07,
+   1.83
+  ],
+  "url": "https://raw.githubusercontent.com/wterence11-droid/media-drops/c8e8e7afbaeae544bcf7716461118889b7ae79e5/TLR/20261122run/TLR-1129.mp4",
+  "prompts": [
+   "A 1:1 WITHOUT THEIR AGENDA",
+   "is your meeting, not theirs.",
+   "First question, every time: \"What's on your list for us?\"",
+   "Their items first. Yours fit in what's left."
+  ],
+  "src_sha256": "0091efea48fada63599fbebb9ba86bf30d6236cf4b0e68f789378b9b3a45a338"
+ },
+ {
+  "id": "TW-1129",
+  "brand": "TW",
+  "date": "2026-11-29",
+  "src": "run",
+  "words": [
+   "YOUR CAMERA IS A QUOTING TOOL.",
+   "Here's one way: a before-and-after photo pair for every job, filed by job type.",
+   "Next quote, you're comparing to YOUR OWN last ten jobs, not guessing.",
+   "Illustrative example."
+  ],
+  "plateau": [
+   [
+    10,
+    62
+   ],
+   [
+    76,
+    151
+   ],
+   [
+    160,
+    235
+   ],
+   [
+    244,
+    280
+   ]
+  ],
+  "min": [
+   2.47,
+   3.07,
+   3.07,
+   1.83
+  ],
+  "url": "https://raw.githubusercontent.com/wterence11-droid/media-drops/c8e8e7afbaeae544bcf7716461118889b7ae79e5/TW/20261122run/TW-1129.mp4",
+  "prompts": [
+   "YOUR CAMERA IS A QUOTING TOOL.",
+   "Here's one way: a before-and-after photo pair for every job, filed by job type.",
+   "Next quote, you're comparing to YOUR OWN last ten jobs, not guessing.",
+   "Illustrative example."
+  ],
+  "src_sha256": "488c9fb1d0a3d0532511ef01180fbf8e030587d0c696449d320560be2e6bd4fc"
+ },
+ {
+  "id": "WK-1129",
+  "brand": "WK",
+  "date": "2026-11-29",
+  "src": "fix",
+  "words": [
+   "THE BILL THAT ARRIVES AFTER A FUNERAL.",
+   "States generally must seek estate recovery for certain Medicaid-covered services received at age 55 or older.",
+   "Protections apply if a spouse, a child under 21, or a blind or disabled child survives. Rules vary by state.",
+   "Ask about it BEFORE care starts."
+  ],
+  "plateau": [
+   [
+    10,
+    62
+   ],
+   [
+    76,
+    151
+   ],
+   [
+    160,
+    235
+   ],
+   [
+    244,
+    280
+   ]
+  ],
+  "min": [
+   2.47,
+   3.07,
+   3.07,
+   1.83
+  ],
+  "url": "https://raw.githubusercontent.com/wterence11-droid/media-drops/deb7d1ed1b5635499a8a728db15dc18ff2755293/WK/20261122fix/WK-1129.mp4",
+  "prompts": [
+   "[calmly] [slowly] THE BILL THAT ARRIVES AFTER A FUNERAL.",
+   "[calmly] [slowly] States generally must seek estate recovery for certain Medicaid-covered services received at age 55 or older.",
+   "[calmly] [slowly] Protections apply if a spouse, a child under 21, or a blind or disabled child survives. Rules vary by state.",
+   "[calmly] [slowly] Ask about it BEFORE care starts."
+  ],
+  "src_sha256": "09342443983e7735d9e4dab56790d46a8ced0cbd37914d61b8d964096653f2f8"
+ },
+ {
+  "id": "WTCD-1129",
+  "brand": "WTCD",
+  "date": "2026-11-29",
+  "src": "run",
+  "words": [
+   "\"PAY TODAY OR GO TO JAIL.\"",
+   "That threat is illegal. A collector can't threaten arrest over an unpaid consumer debt. It's harassment under the FDCPA.",
+   "The narrow exception is a court's own orders, like ignoring a summons. Court papers are never junk mail.",
+   "Report arrest threats to the CFPB."
+  ],
+  "plateau": [
+   [
+    10,
+    62
+   ],
+   [
+    76,
+    151
+   ],
+   [
+    160,
+    235
+   ],
+   [
+    244,
+    280
+   ]
+  ],
+  "min": [
+   2.47,
+   3.07,
+   3.07,
+   1.83
+  ],
+  "url": "https://raw.githubusercontent.com/wterence11-droid/media-drops/c8e8e7afbaeae544bcf7716461118889b7ae79e5/WTCD/20261122run/WTCD-1129.mp4",
+  "prompts": [
+   "[calmly] [slowly] \"PAY TODAY OR GO TO JAIL.\"",
+   "[calmly] [slowly] That threat is illegal. A collector can't threaten arrest over an unpaid consumer debt. It's harassment under the FDCPA.",
+   "[calmly] [slowly] The narrow exception is a court's own orders, like ignoring a summons. Court papers are never junk mail.",
+   "[calmly] [slowly] Report arrest threats to the CFPB."
+  ],
+  "src_sha256": "cc6776711a307fecf57b03325edde87f839db7c6353cc5574b393f3144dfb1b4"
+ }
+]
