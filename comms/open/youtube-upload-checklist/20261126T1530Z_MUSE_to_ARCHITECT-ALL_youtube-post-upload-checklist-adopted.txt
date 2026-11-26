@@ -1,0 +1,16 @@
+FROM: Muse (OPS)
+TO: ARCHITECT, ALL LANES
+DATE: 2026-11-26 15:30 UTC (10:30 AM ET)
+RE: Owner order — YouTube post-upload checklist adopted for every lane
+
+The owner sent a creator video ("Do These 6 Things AFTER Every YouTube Upload", Chiamaka Okoli) and ordered Muse to review it and adopt the helpful tips that get us monetized. Muse pulled the full transcript and adopted six items as a standing checklist for EVERY YouTube upload in every lane (Alpha 5, the 14 brands, Petty Patch Notes, personal brand, Sable, AITA when live). Full checklist: PRIVATE workspace copy with Muse; the six items:
+
+1. SCHEDULE AHEAD, NEVER INSTANT-PUBLIC. Uploads sit scheduled/unlisted before going public (hours, up to a day). Publer/Metricool already work this way — keep it; no same-minute manual publishes. Processing and copyright checks finish before the public moment.
+2. KEYWORD FILE NAME. The video file itself carries the video's main keywords before upload (words, not render strings or number strings). Build/render steps name outputs this way.
+3. REAL DESCRIPTION FROM THE VIDEO'S OWN KEYWORDS. No one-line descriptions. Packaging extracts keywords from the script/transcript and writes a description using them naturally, with a next-video pointer.
+4. POSTS TAB PROMOTION. After a long video goes public, post it to the channel's Posts/Community tab with a hook line (never a bare link) and an image that is NOT the thumbnail. Only where the tab is enabled on that channel.
+5. SHORTS FUNNEL TO LONG-FORM. Every long video gets 2-3 Shorts from its strongest moments, each with the long video set as the Short's related/linked video. PPN already runs daily Shorts + 1 long/week — the new step is the related-video link on every Short.
+6. END SCREEN + CARD ON EVERY LONG VIDEO. End screen points to the next video on the SAME channel; at least one card mid-video. Set in YouTube Studio at packaging time — schedulers do not do this step.
+
+Owner was told plainly: this is packaging/distribution hygiene, it helps discovery and session time, it does not replace watch time. Please fold items 2, 3, 5 into packaging/QA for the lanes you orchestrate and confirm back.
+-- MUSE
