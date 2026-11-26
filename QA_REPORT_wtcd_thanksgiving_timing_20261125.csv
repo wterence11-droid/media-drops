@@ -12,3 +12,7 @@ format,PASS,"h264 high yuv420p 1080x1920 30fps 720 frames 24.000s, aac mono 48k"
 sha256,INFO,0d6fe8410ca744ba1057494a84029adadf15abf1f1590f659789551d12ca9196
 leftover_old_words,INFO,"at most 2 steps of 255 in the plain ground (measured); not visible at normal brightness, can be made out only with brightness pushed far up; same as the booked version"
 not_done,INFO,nobody has watched it start to end with sound yet: MUSE read test and the owner check come next
+sound_lift_file,INFO,WTCD/20261125timing/WTCD-1126_timing_sound.mp4 sha256 d2839d1b8418760638874bda0d7b196f4fd7c4e092266c3bb3b5f80e85eb7fd2
+sound_lift_picture,PASS,video stream copied bit for bit from WTCD-1126_timing.mp4 (stream md5 dd9f8dfdd916461b12b27a44ad7c0da7 on both)
+sound_lift_level,PASS,-18.0 LUFS integrated (was -34.5); peak -6.9 dBFS; the part above 300 Hz alone is -22.3 LUFS so a phone speaker can play it
+sound_lift_how,INFO,original bed lifted 6 dB plus the same two notes (105 and 157.5 Hz) as a soft chord one and two octaves higher; no speech; no music from anyone else
