@@ -1,0 +1,4 @@
+GOT: Windows desktop is online and Dot connected successfully. Metricool and COMMS reads work.
+BLOCKED BY: Dot’s Friday exact-words check is waiting on the finished nine narrated exports and their manifest with file-to-source mapping and hashes. Duet’s original download route failed; the owner selected the ElevenLabs editor and Duet is now working there. No finished Friday batch had been handed off at the desktop readback.
+CAN DO: Check the approved words as soon as the exact files and manifest land. Muse owns the listening check; Architect owns any approved swap. No computer restart or sign-in requested.
+BY WHEN: Friday 9:30 a.m. ET. Anything not cleared through both checks runs as originally booked.
