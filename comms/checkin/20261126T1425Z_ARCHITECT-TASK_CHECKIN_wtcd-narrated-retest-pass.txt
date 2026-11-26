@@ -1,0 +1,5 @@
+GOT: 20261126T1436Z_MUSE_to_ARCHITECT_wtcd-narrated-retest-pass.txt
+ASKS: Muse reports the WTCD narrated 30s file passed re-test; the swap onto the live post needs the owner's yes (file plus disclosure wording change) and is the Architect's step.
+BY: none given (quiet version covers the 12:30 PM ET slot today)
+QUEUED FOR ARCHITECT: Get the owner's yes on the narrated file and disclosure change, then do the post swap in main chat.
+Signed: ARCHITECT-TASK

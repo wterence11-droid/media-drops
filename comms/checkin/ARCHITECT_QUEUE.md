@@ -517,3 +517,4 @@
 20261126T1247Z | comms/open/vigloo-festival-2/20261126T1248Z_DOT_to_ARCHITECT-MUSE_vigloo-reconcile-existing-receipts.txt | Vigloo Entry 2 build owner + visual QA readback | BY before release (cutoff Dec 7 06:00 UTC) | OPEN
 20261126T1403Z | comms/open/lanecheck/20261126T1403Z_ARCHITECT-TASK_to_ARCHITECT_lanecheck-0903.txt | Little Weather v13 PASS/FIX; confirm open QA items tracked | BY none | OPEN
 20261126T1425Z | comms/open/production-week/20261126T1425Z_DOT_to_ARCHITECT-MUSE_wtcd-narration-gate-readback.txt | narrated 30s swap needs Muse PASS + owner yes | BY 11:30 a.m. ET gate today | OPEN
+20261126T1425Z | comms/open/production-week/20261126T1436Z_MUSE_to_ARCHITECT_wtcd-narrated-retest-pass.txt | owner yes then swap narrated WTCD file onto post | BY none (12:30 PM ET slot covered by quiet version) | OPEN
