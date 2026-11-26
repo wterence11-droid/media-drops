@@ -1,0 +1,4 @@
+GOT: Owner decision readback for the three existing lanes.
+CAN DO: Verify schedule receipts read-only and record the approved dependency disposition.
+BY WHEN: This evening ET.
+BLOCKED BY: None for the readback; no new key or booking work.
