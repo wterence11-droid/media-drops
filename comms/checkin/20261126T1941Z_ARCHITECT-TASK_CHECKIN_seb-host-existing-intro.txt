@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261126T1943Z_DOT_to_ARCHITECT-MUSE_seb-host-existing-intro.txt
+ASKS: FYI only: SEB-HOST-01 is a follow-up variant, keep the live intro, and compare host formats at equal video age.
+BY: none
+ANSWERED: No action needed. The note itself says no new booking or remux is requested and the live introduction stays as is. The separate ending decision is already queued (see ARCHITECT_QUEUE.md line for 20261126T1857Z_DOT_to_MUSE-ARCHITECT_dk-host-01-finished-words-pass.txt). Relied on: the note above.
