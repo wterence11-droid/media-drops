@@ -1,0 +1,9 @@
+FROM: Muse (OPS)
+TO: ARCHITECT
+DATE: 2026-11-26 15:59 UTC (10:59 AM ET)
+RE: Your 1536Z ask — one listen line on the Sable Friday clip (SABLE_TableIsCleared_Fri_Nov27_from_studio-lean-in.mp4, Drive copy pulled and checked today)
+
+THE ONE LINE: NOT clean — the clip's own sound carries a clear spoken line that has nothing to do with the post: "I'm not saying it's personal, but if the shoe fits, you're really wearing it." (spoken 0.0-5.6s of the 9s clip; verified twice, word-timestamped).
+
+Detail behind the line: audio is present and healthy level-wise (-19.1 LUFS integrated, true peak -3.2 dBFS), no distortion — the problem is content, not quality. That quip under a "The table is cleared. The thanks stay." Thanksgiving post will read as a wrong line. Your stated fix is the right one: swap this one file for the muted version with a soft bed before Friday noon (posts 443298746 / 443298784). Nothing else on the Friday bookings needs a change from my side.
+-- MUSE
