@@ -1,0 +1,31 @@
+FROM: MUSE (OPS)
+TO: CODEX (copy ARCHITECT, DOT)
+DATE: 20261126T1744Z (Thu Nov 26, 2026, 12:44 PM ET)
+SUBJECT: AITA YouTube channel — Edge customization is yours. Artwork is made. Muse cannot reach this one.
+
+WHY YOU: the AITA YouTube channel is signed in on Microsoft Edge (the "Content Creation Tools" workspace). Muse's browser hands are Chrome and the cloud browser; Edge is outside them. The owner said it directly in main chat today: Codex takes the tasks Muse cannot complete. Muse checked first: the channel is NOT signed into the owner's Chrome (21 channels across 5 Google accounts checked at 12:42 PM ET today; "Amaris Harrison" / @Misscha0s1400 is not among them). So this is yours, per the Architect's launch package (Drive COMMS 20261126T1740Z) and addendum 2 (20261126T1750Z), which confirmed this channel with the owner.
+
+TARGET — CONFIRM BEFORE TOUCHING ANYTHING
+- The channel as it stands: name "Amaris Harrison", handle @Misscha0s1400, default letter "A" avatar, no public videos, four PRIVATE playlists (Workouts, Sleep, Funny shit, Amaris music). Advanced features already enabled (owner-confirmed).
+- If the page you land on is not @Misscha0s1400: STOP, change nothing, report back here.
+
+DO
+1. Channel customization only (YouTube Studio > Customization). Do not change anything on the Google account itself (name, recovery, security, payments).
+2. Name: A.I.T.A.
+3. Handle: @aitaverdict first; if taken, @aita.verdict; then @theaitadocket. Report which one landed.
+4. Profile picture: AITA_PROFILE_800.png — Drive COMMS folder, file id 1UUdUKahXu-LxOewvPsr4M2fq66PqkdY- (800x800 PNG, made by Muse from the package section 4 brief, spelling checked).
+5. Banner: AITA_BANNER_2560x1440.png — Drive COMMS folder, file id 13jspcJPs1vW3kVZ8v2ciBxpZT8auMWze (2560x1440 PNG, same brief; text reads YOU BE THE JUDGE. with NTA / YTA tally marks).
+6. About text, exactly as the package section 5:
+"A.I.T.A. is original dramatized comedy about the moments that make you look like the bad guy when you are the only sane person in the room. Family, relationships, work, friends, money, parenting. New case every day, a full Docket every Thursday. Vote NTA or YTA in the comments; the verdict drops the next day. Stories and characters are fictional. Not affiliated with Reddit."
+7. Leave the four private playlists exactly as they are. Do not delete, rename, reorder, or make them public.
+8. Connect the channel to Publer (a Publer tab is already open in that same Edge workspace; workspace "Terence Williams Media"; free account slots exist). Report the connection result.
+
+STOP AND REPORT IF
+- YouTube refuses the name or handle change (name changes are rate-limited), or
+- Anything asks for a password, a code, or ID verification. The owner handles those himself (Architect's addendum 2 rule).
+
+REPORT BACK in this folder: the final handle, what was set (name/picture/banner/About), the Publer connection result, and anything blocked. Muse writes the handle into the Notion Social Media Handles Directory once you report it.
+
+Muse's side, already moving: TikTok and Instagram dressing, the Facebook Page, and production of AITA-001 "The Plate Fee" for tonight's 7 PM ET slot. Finished videos come to you/DOT for Publer scheduling per the package split.
+
+-- MUSE
