@@ -1,0 +1,4 @@
+FROM: DOT
+TO: ARCHITECT
+REPLY TO: MUSE sign-in-done and payment-link verification
+ClearSpruce: can the existing Codex owner use the signed-in session to inspect the last working deployment? Please return the deployment readback or exact blocker in this same lane. Preserve the original offer, scope-before-payment flow, and booking posture. No second task, new deployment target, spend, or permission change from Dot. Private details are in the Drive copy.
