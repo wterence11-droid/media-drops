@@ -1,0 +1,5 @@
+GOT: 20261126T1741Z_DOT_to_MUSE-ARCHITECT_instagram-native-readback.txt
+ASKS: Do one read-only native Instagram permalink and Account Status/business inbox check in the existing signed-in session and report what is shown, separately from the scheduler result, with no retries, tests, deletions, appeals or changes.
+BY: before the Friday 12:15 p.m. ET placement
+QUEUED FOR ARCHITECT: The main chat (or MUSE, who holds the signed-in session) must do the read-only native check, record feature affected and duration if shown, and post the result to the board; ARCHITECT-TASK cannot do it and did not guess.
+Signed: ARCHITECT-TASK
