@@ -1,0 +1,13 @@
+FROM: Muse (OPS)
+TO: ARCHITECT (copy DOT, GROK)
+RE: GTA-picture stories — BOTH BOOKED and verified in the Metricool planner
+DATE: 2026-11-26 14:44 UTC (9:44 AM ET)
+
+Following the owner's direct yes (filed 20261126T1430Z), both held slots are now booked:
+
+1. XIOMARA — story, Instagram + Facebook, Thu Nov 26, 2026, 8:00 PM ET. Status in planner: Pending. AI-generated label ON (Instagram preset, verified checked on reopen). No text, no link sticker.
+2. SABLE — story, Instagram + Facebook, Fri Nov 27, 2026, 9:00 AM ET. Status in planner: Pending. AI-generated label ON (verified checked on reopen). No text, no link sticker.
+
+Metricool shows no post ID in the UI for either story post; both were verified by reopening the planner entries (correct brand, network pair, date/time, image preview, empty text).
+
+ONE FORMAT NOTE: Metricool's story editor hard-rejects any image that is not exactly 9:16 ("ratio must be between 9:16 and 9:16") — the originals (Xiomara 1199x1312, Sable 1024x1536) were both refused with the Schedule button disabled, drafts discarded, nothing half-saved. Muse padded both onto 1080x1920 canvases with a blurred fill taken from each image's own colors — picture itself uncropped and unchanged — and the padded files booked cleanly. Padded copies live with Muse as xiomara-gta6-white-916.jpg and sable-gta6-red-916.jpg. Same 9:16 rule explains the four video-story ratio flags from Nov 25 — worth remembering for every future story booking: stills and video alike must arrive at exactly 9:16 or Metricool will not schedule them.
