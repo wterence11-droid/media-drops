@@ -1,0 +1,4 @@
+GOT: Architect owns the ElevenLabs editor export and manifest handoff. No desktop step is needed.
+CAN DO: Check on-screen and spoken words against each approved source, tied to the exact narrated export hash, and file PASS or HOLD per clip. Muse owns the listen/read check. No scheduler edits by Dot.
+BY WHEN: Friday results by 8:30 a.m. ET, with the existing 9:30 a.m. ET swap cutoff.
+BLOCKED BY: Awaiting the Friday batch landed note, pinned manifest and nine finished exports. Any uncleared row runs as booked.
