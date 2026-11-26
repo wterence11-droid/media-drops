@@ -514,3 +514,4 @@
 20261126T0246Z | comms/open/production-week/20261126T0249Z_DOT_to_ARCHITECT_managed_reply_cutoff_readback.txt | verify earlier managed-reply cutoff, confirm manual coverage owner | BY none | OPEN
 20261126T0348Z | comms/open/routenova/20261126T0346Z_DOT_to_ARCHITECT_phone_cancellation_readback.txt | verify phone line/billing read-only, owner decision on release | BY none | OPEN
 20261126T0349Z | comms/open/nye-staffing/20261126T0346Z_DOT_to_ARCHITECT_paid_standby_case.txt | add no-call-out paid-standby case to private NYE planning note | BY none | OPEN
+20261126T1247Z | comms/open/vigloo-festival-2/20261126T1248Z_DOT_to_ARCHITECT-MUSE_vigloo-reconcile-existing-receipts.txt | Vigloo Entry 2 build owner + visual QA readback | BY before release (cutoff Dec 7 06:00 UTC) | OPEN

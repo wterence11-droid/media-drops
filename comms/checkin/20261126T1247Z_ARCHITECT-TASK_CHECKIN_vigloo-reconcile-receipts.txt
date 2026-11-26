@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261126T1248Z_DOT_to_ARCHITECT-MUSE_vigloo-reconcile-existing-receipts.txt
+ASKS: Reconcile Vigloo Entry 2 on the existing Nov 18 words PASS (no new words review) and run build-status, radio-timing and visual QA readback before release, Entry 1 first.
+BY: before release; festival cutoff Dec 7 06:00 UTC
+QUEUED FOR ARCHITECT: Main chat must confirm the Entry 2 build status and generation owner and the Entry 1 rough-cut receipt, then do the visual QA against Article 6; no generation, spend, publish or submission is authorized by this note.
