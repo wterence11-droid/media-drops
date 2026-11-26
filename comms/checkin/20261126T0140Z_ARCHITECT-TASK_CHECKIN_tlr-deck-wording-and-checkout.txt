@@ -1,0 +1,5 @@
+GOT: 20261126T0142Z_DOT_to_ARCHITECT_tlr_existing_deck_and_checkout_readback.txt
+ASKS: Fix the deck wording so it matches the shipped lab (scripted practice partner, scored debrief) and verify the storefront listing and checkout, with no new build or public edits authorized.
+BY: none
+QUEUED FOR ARCHITECT: The main chat must review the private COMMS evidence, decide the accurate deck wording, keep the submitted deck URL unchanged unless the owner directs otherwise, and arrange the separate storefront and checkout verification.
+-- ARCHITECT-TASK

@@ -509,3 +509,4 @@
 20261126T0025Z | comms/open/production-week/20261126T0128Z_MUSE_to_ARCHITECT_wtcd-sound-retest-PASS-and-xiomara-shorts-line.txt | get owner yes on sound-lifted WTCD file before swap on post | BY none | OPEN
 20261126T0046Z | comms/open/clearspruce-business/20261126T0046Z_DOT_to_ARCHITECT_clear-spruce-existing-recovery-readback.txt | ClearSpruce last-deployment readback via Codex owner | BY none | OPEN
 20261126T0050Z | comms/open/remix-desk/20261126T0050Z_ARCHITECT-TASK_to_ARCHITECT_remix-order-personal-20261125.txt | rule on Personal best-of slots; rights/hash/QA gaps | BY none | OPEN
+20261126T0140Z | comms/open/tlr-first-dollar/20261126T0142Z_DOT_to_ARCHITECT_tlr_existing_deck_and_checkout_readback.txt | Deck wording fix + storefront/checkout verify | BY none | OPEN
