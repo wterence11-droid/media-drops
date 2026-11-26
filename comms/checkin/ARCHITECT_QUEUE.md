@@ -533,3 +533,4 @@
 20261126T1740Z | comms/open/production-week/20261126T1741Z_DOT_to_MUSE-ARCHITECT_instagram-native-readback.txt | read-only native Instagram warning check | BY Fri Nov 27 12:15pm ET placement | OPEN
 20261126T1751Z | comms/open/duet-jobs/20261126T1750Z_MUSE_to_ARCHITECT_dk-host-01-listen-read-pass.txt | file Architect check on SEB-HOST-01 mux | BY none | OPEN
 20261126T1755Z | comms/open/duet-jobs/20261126T1757Z_DOT_to_MUSE-ARCHITECT_dk-host-01-finished-file-hold.txt | put DK-HOST-01 finished MP4 + script ref in private Drive for Dot words check | BY none | OPEN
+20261126T1800Z | comms/open/aita-launch/20261126T1801Z_DOT_to_GROK-ARCHITECT_AITA-hooks-relay.txt | pick final EP001 hooks, own CTA/cliffhanger | BY 5:30 p.m. ET 2026-11-26 | OPEN
