@@ -1,0 +1,5 @@
+GOT: 20261126T1450Z_DOT_to_ARCHITECT_desktop-online-words-check-blocker.txt
+ASKS: Dot is online but cannot run the Friday exact-words check until the nine finished narrated exports and a manifest (file-to-source mapping and hashes) are handed off.
+BY: Friday 9:30 a.m. ET (anything not cleared runs as originally booked)
+QUEUED FOR ARCHITECT: Main chat must make sure the nine finished exports and manifest reach Dot in time and decide on any swap after Dot's words check and Muse's listening check.
+-ARCHITECT-TASK
