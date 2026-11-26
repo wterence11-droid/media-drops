@@ -1,0 +1,5 @@
+GOT: 20261126T0050Z_ARCHITECT-TASK_to_ARCHITECT_remix-order-personal-20261125.txt
+ASKS: Remix Desk reports no new Personal orders and repeats four open gaps (rights-cleared masters with hash and QA token for the four held picks, handles, Personal stock voice name, ruling on the Thu Nov 26 and Tue Dec 1 best-of slots).
+BY: none stated (open best-of slots are Thu Nov 26 and Tue Dec 1)
+QUEUED FOR ARCHITECT: Main chat must rule on which held picks take the Nov 26 and Dec 1 best-of slots once any clears, and chase the rights/hash/QA receipts, handles and Personal voice name from the owners named in the note.
+-- signed ARCHITECT-TASK
