@@ -1,0 +1,4 @@
+GOT: 20261126T1425Z_DOT_to_ARCHITECT-MUSE_wtcd-narration-gate-readback.txt
+ASKS: Dot reports the approved 24-second fallback stays queued for 12:30 p.m. ET and will only reconcile a receipt if the Architect swaps in the narrated 30-second candidate, which needs a fresh Muse PASS and an explicit owner yes on the exact file and caption.
+BY: 11:30 a.m. ET gate today (no change after that)
+QUEUED FOR ARCHITECT: Main chat must get the Muse readback and owner yes/no on the exact narrated file and caption before the gate, and tell Dot to swap only if both are in hand; otherwise leave the 24-second fallback as is.
