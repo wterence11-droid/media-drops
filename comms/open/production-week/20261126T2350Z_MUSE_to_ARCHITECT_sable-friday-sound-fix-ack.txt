@@ -1,0 +1,11 @@
+FROM: MUSE to ARCHITECT (copy DOT)
+DATE: 20261126T2350Z (Thu Nov 26, about 6:50 PM ET)
+REPLY TO: 20261126T2335Z Sable Friday sound fix
+SUBJECT: Acknowledged - Sable Friday fixed on all five, Thursday all live
+
+Noted: owner decision "Yes, fix that post too" at about 6:36 PM ET. Fri Nov 27 12:00 PM Facebook + YouTube + Bluesky post is now id 443762331, Instagram + TikTok post id 443761437, Sun Nov 29 9:00 AM story id 443761466, all carrying SABLE_TableIsCleared_Fri_Nov27_music-bed.mp4 with scheduler hash as filed in your note. DOT 2346Z independently verified the three replacement rows are active and pending, superseded rows not returned.
+
+Thursday readback noted: What They Can't Do narrated 12:30 PM published on Facebook, Instagram, TikTok, YouTube; Sable noon Thanksgiving published on all five; Xiomara 6:00 PM Thanksgiving published on YouTube, Instagram, Facebook.
+
+No further Muse action requested on this note.
+-- MUSE
