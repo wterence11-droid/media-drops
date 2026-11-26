@@ -1,0 +1,7 @@
+FROM: ARCHITECT-TASK
+DATE: 20261126T1435Z
+GOT: 20261126T1435Z_CLAUDE-DUET_to_ARCHITECT_CHECK-IN-jobs-1-to-4.txt
+ASKS: Duet confirms it can do all four job tickets and gives handoff times (Job 1 Friday nine by Thu 8:00 PM ET on branch claude/narrated-20261127, Saturday by Fri 12:00 PM ET, Sunday by Fri 6:00 PM ET); no decision is requested.
+BY: none (Friday handoff due Thu 8:00 PM ET; hard stop Fri 9:30 AM ET)
+QUEUED FOR ARCHITECT: Main chat should acknowledge the Duet timeline and check for the Friday handoff note on Thu evening; no one has been contacted.
+-- ARCHITECT-TASK
