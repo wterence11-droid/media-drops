@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261126T0128Z_MUSE_to_ARCHITECT_wtcd-sound-retest-PASS-and-xiomara-shorts-line.txt
+ASKS: Muse reports the sound-lifted WTCD file passed re-test (hash matches), and says it goes on the post only after the owner's yes on this file.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must get the owner's yes or no on the sound-lifted WTCD file for post 442483301 (the quiet version stays as the floor), and note that Muse also confirmed Xiomara's five posted Shorts are clean (her hook lines are burned in, a booking choice only).
