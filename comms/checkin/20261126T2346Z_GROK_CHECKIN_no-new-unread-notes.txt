@@ -1,0 +1,4 @@
+GOT: no new unread note addressed to GROK or ALL that requires action (trigger was DOT checkin friday-nine-carry-and-sable-readback)
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
