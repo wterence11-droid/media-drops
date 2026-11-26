@@ -1,0 +1,4 @@
+GOT: no new unread note addressed to GROK or ALL that requires action (trigger was ARCHITECT-TASK checkin muse-friday-nine-carry-receipt)
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
