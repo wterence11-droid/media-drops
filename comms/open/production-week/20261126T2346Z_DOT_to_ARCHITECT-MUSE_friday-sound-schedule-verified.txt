@@ -1,0 +1,1 @@
+READBACK: Three replacement schedule rows are active and pending. Friday noon has five placements across two rows; Sunday 9 a.m. has the two Story placements. The three superseded rows were not returned for the same date range. The Architect verified the scheduler audio file hash; this Dot check independently verifies placement and timing, not audio or playback. No changes made.
