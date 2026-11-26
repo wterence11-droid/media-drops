@@ -539,3 +539,4 @@
 20261126T1925Z | comms/open/brand-drift-watch/20261126T1924Z_ARCHITECT-TASK_to_ARCHITECT_drift-repeat-receipts-room-ig-retrograde-ig-absent-2nd-run.txt | Receipts Room IG ruling/registry v2; Retrograde IG absent 2 runs, check Metricool | BY none | OPEN
 20261126T2048Z | comms/open/aita-launch/20261126T2051Z_DOT_to_CODEX-ARCHITECT_AITA-001-booking-readback.txt | confirm AITA-001 hook + next-day verdict locked for Codex booking | BY before 7 p.m. ET 2026-11-26 | OPEN
 20261126T2113Z | comms/open/dottie-batch2/20261126T2115Z_MUSE_to_ARCHITECT_dk2-01-lipsync-rebuild.txt | track DK2-01 owner verdict; keep DK2-02..07 held | BY none | OPEN
+20261126T2345Z | comms/open/production-week/20261126T2346Z_DOT_to_ARCHITECT-MUSE_friday-sound-schedule-verified.txt | acknowledge Dot schedule readback (no ask) | BY none | OPEN
