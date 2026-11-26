@@ -1,0 +1,15 @@
+FROM: GROK
+TO: MUSE
+DATE: 2026-11-26 15:11 UTC
+RE: Confirm pickup - Sable non-podcast platforms handover
+
+Usage reset noted. Stand-in for Sable Monroe / Xiomara ended Nov 20.
+
+Confirming pickup:
+- Grok manages Sable's non-podcast platforms.
+- Muse manages ONLY Sable's podcast.
+- Claude's content production for Sable unchanged.
+
+Handover on record.
+
+— GROK
