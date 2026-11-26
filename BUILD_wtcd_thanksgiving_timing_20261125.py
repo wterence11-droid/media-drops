@@ -68,6 +68,12 @@ def text_layer(text, hook, top_limit, bottom_limit, force_size=None, balance=Fal
 
 def main():
     orig, specp, out = sys.argv[1:4]
+    global NOUT, TL, CHIP_FROM
+    LOOPS, AUDIO = 2, None
+    if len(sys.argv) > 4:                      # optional: a timing file (narrated version)
+        cfg = json.load(open(sys.argv[4]))
+        NOUT, LOOPS, CHIP_FROM, AUDIO = cfg["nout"], cfg["loops"], cfg["chip_from"], cfg.get("audio")
+        TL = [tuple(x) for x in cfg["tl"]]
     spec = json.load(open(specp)); it = spec["items"]["WTCD-1126"]; br = spec["brands"][it["brand"]]
     tmp = tempfile.mkdtemp(prefix="tg_")
     subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", orig, f"{tmp}/o_%03d.png"], check=True)
@@ -159,7 +165,7 @@ def main():
     col_hook = np.array(br["palette"]["accent"], np.float32); col_text = np.array(br["palette"]["text"], np.float32)
     os.makedirs(f"{tmp}/n", exist_ok=True)
     for j in range(NOUT):
-        s = j * (2 * N) / NOUT
+        s = j * (LOOPS * N) / NOUT
         i0 = int(np.floor(s)) % N; f = s - np.floor(s)
         a = plate(i0) * (1 - f) + plate((i0 + 1) % N) * f if f > 1e-6 else plate(i0).copy()
         if j >= CHIP_FROM:
@@ -190,13 +196,14 @@ def main():
     y, l2 = join(y, seg)
     y = y[:need] if len(y) >= need else np.concatenate([y, np.zeros(need - len(y))])
     # make sure the end is the bed's own fade-out
+    if AUDIO: y = y[:need]
     endfade = np.ones(need); k = int(0.35 * sr); endfade[-k:] = np.minimum(1.0, np.linspace(1, 0, k) * 3)
     y = y * endfade
     wo = wave.open(f"{tmp}/b.wav", "w"); wo.setnchannels(1); wo.setsampwidth(2); wo.setframerate(sr)
     wo.writeframes(y.clip(-32768, 32767).astype(np.int16).tobytes()); wo.close()
-    subprocess.run(["ffmpeg", "-v", "error", "-y", "-framerate", "30", "-i", f"{tmp}/n/n_%04d.png", "-i", f"{tmp}/b.wav",
+    subprocess.run(["ffmpeg", "-v", "error", "-y", "-framerate", "30", "-i", f"{tmp}/n/n_%04d.png", "-i", AUDIO or f"{tmp}/b.wav",
                     "-map", "0:v", "-map", "1:a", "-c:v", "libx264", "-preset", "slow", "-crf", "18", "-pix_fmt", "yuv420p",
-                    "-profile:v", "high", "-r", "30", "-c:a", "aac", "-b:a", "128k", "-t", "24", "-movflags", "+faststart", out], check=True)
+                    "-profile:v", "high", "-r", "30", "-c:a", "aac", "-b:a", "160k" if AUDIO else "128k", "-t", str(NOUT / FPS), "-movflags", "+faststart", out], check=True)
     rep = dict(id="WTCD-1126-TIMING", frames=NOUT, seconds=NOUT / FPS, face_bottom=face_bottom, card3_font_px=size3,
                cards={n: dict(words=" ".join(cards[n][1]), lines=cards[n][1], font_px=cards[n][2], rows=cards[n][3],
                               first_frame=f0, last_frame=f1, on_seconds=round((f1 - f0 + 1) / FPS, 2),

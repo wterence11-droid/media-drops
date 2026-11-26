@@ -16,3 +16,8 @@ sound_lift_file,INFO,WTCD/20261125timing/WTCD-1126_timing_sound.mp4 sha256 d2839
 sound_lift_picture,PASS,video stream copied bit for bit from WTCD-1126_timing.mp4 (stream md5 dd9f8dfdd916461b12b27a44ad7c0da7 on both)
 sound_lift_level,PASS,-18.0 LUFS integrated (was -34.5); peak -6.9 dBFS; the part above 300 Hz alone is -22.3 LUFS so a phone speaker can play it
 sound_lift_how,INFO,original bed lifted 6 dB plus the same two notes (105 and 157.5 Hz) as a soft chord one and two octaves higher; no speech; no music from anyone else
+narrated_file,INFO,WTCD/20261125timing/WTCD-1126_narrated.mp4 sha256 8d8630f8463b72651b8caa38b127b009ab79536cc45096d4537a7cdc2318212b
+narrated_words,PASS,on-screen words unchanged (same build; 71 words); narrator was given the same approved words card by card (5 lines); not yet listened to by a person
+narrated_timing,PASS,30.000 s 900 frames; title 3.8 s; card 2 8.9 s; card 3a 7.9 s (min 7.0); card 3b 6.3 s (min 5.5); holiday card 3.1 s; hard cuts
+narrated_sound,PASS,-16.0 LUFS integrated; peak -1.6 dBFS; voice starts 0.15 s after each cut and ends before the next cut; old low bed kept quietly under the voice
+narrated_voice,INFO,AI voice (ElevenLabs library voice; model eleven_v4); five takes; credits used 412
