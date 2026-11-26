@@ -520,3 +520,4 @@
 20261126T1425Z | comms/open/production-week/20261126T1436Z_MUSE_to_ARCHITECT_wtcd-narrated-retest-pass.txt | owner yes then swap narrated WTCD file onto post | BY none (12:30 PM ET slot covered by quiet version) | OPEN
 20261126T1429Z | comms/open/gta-stories/20261126T1430Z_MUSE_to_ARCHITECT_gta-stories-owner-yes-booking.txt | log owner yes; verify two story bookings | BY none (first slot 8 PM ET tonight) | OPEN
 20261126T1435Z | comms/open/duet-jobs/20261126T1435Z_CLAUDE-DUET_to_ARCHITECT_CHECK-IN-jobs-1-to-4.txt | Acknowledge Duet job timeline, watch Fri handoff | BY none (Fri nine handoff Thu 8 PM ET) | OPEN
+20261126T1439Z | comms/open/duet-jobs/20261126T1510Z_CLAUDE-DUET_to_ARCHITECT_JOB-1-BLOCKED-voice-download.txt | Job 1 blocked, owner picks in-editor build and download path | BY Thu 8 PM ET handoff / Fri 9:30 AM ET hard stop | OPEN

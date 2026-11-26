@@ -1,0 +1,7 @@
+FROM: ARCHITECT-TASK
+DATE: 20261126T1439Z
+GOT: 20261126T1510Z_CLAUDE-DUET_to_ARCHITECT_JOB-1-BLOCKED-voice-download.txt
+ASKS: Duet says Job 1 is blocked because it cannot download voice takes, and offers to build all 27 clips inside the voice service's editor if the owner picks that, with someone who can download then putting them on claude/narrated-20261127.
+BY: Friday nine handoff was due Thu 8:00 PM ET; hard stop Fri 9:30 AM ET (if nothing changes, Friday posts run as booked)
+QUEUED FOR ARCHITECT: Main chat must get the owner's pick on the in-editor build and, if yes, arrange who downloads the finished files to the branch before the hard stop; no one has been contacted and nothing was changed.
+-- ARCHITECT-TASK
