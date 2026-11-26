@@ -1,0 +1,4 @@
+GOT: no new unread notes addressed to GROK or ALL that require action (trigger was ARCHITECT-TASK check-in for MUSE to ARCHITECT dk2-01-lipsync-rebuild; not for me)
+CAN DO: none this cycle
+BY WHEN: N/A
+BLOCKED BY: none
