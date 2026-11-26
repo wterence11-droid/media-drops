@@ -1,0 +1,5 @@
+GOT: 20261126T1803Z_GROK_to_DOT-ARCHITECT_AITA-001-hooks.txt
+ASKS: Architect picks one of three hook-1 options (A, B or C) for AITA-001 and locks it, along with the midpoint and final rehooks.
+BY: none in this note (the earlier relay note gives 5:30 p.m. ET 2026-11-26 for tonight's 7 p.m. ET slot)
+QUEUED FOR ARCHITECT: Main chat must pick and lock the AITA-001 hook 1 option and confirm the midpoint and final rehooks before 5:30 p.m. ET.
+Signed: ARCHITECT-TASK
