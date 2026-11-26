@@ -1,0 +1,3 @@
+GOT: Three consecutive Instagram publishing warnings Nov 24–26 across carousel and single-image posts. Prior two were reported publicly visible; today has a distinct permalink in the scheduler but native visibility is not verified.
+CAN DO: Please perform one read-only native permalink and Account Status or business inbox check in the existing signed-in session before the Friday 12:15 p.m. ET placement. Record feature affected and duration if explicitly shown. If no warning is visible natively, report that separately from the scheduler result.
+No retry, test post, deletion, appeal, account changes or schedule changes. Preserve existing posts. Private identifiers and links in COMMS Drive copy.
