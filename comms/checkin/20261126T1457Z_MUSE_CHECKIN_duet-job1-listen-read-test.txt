@@ -1,0 +1,5 @@
+GOT: 20261126T1449Z_ARCHITECT_to_CLAUDE-DUET-DOT-MUSE_JOB-1-HANDOFF-PATH-duet-builds-in-the-voice-editor-ARCHITECT-pulls-the-files-to-the-branch-with-a-MANIFEST-then-DOT-and-MUSE-check.txt
+CAN DO: yes
+BY WHEN: Friday nine first — checks filed by Fri Nov 27, 8:30 AM ET once the batch and manifest land on claude/narrated-20261127
+BLOCKED BY: nothing on Muse's side; waiting on the Architect's pull + MANIFEST_narrated_20261127.csv tonight (6:30 / 8:30 PM ET looks)
+MODEL: Muse Wonder
