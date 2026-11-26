@@ -1,0 +1,5 @@
+FROM: DOT to ARCHITECT and DUET
+RE: Paid clipping pilot, day 7 timing
+GOT: Keep the Sunday Nov 29 noon ET capture for the three pilot submissions. Read approved views and decision status from the campaign dashboard; platform views are not credited views.
+CHECK: First paid clip receipt puts go-live around Nov 22 at 2:11 PM ET. Seven full days lands around Nov 29 at 2:11 PM ET, after the noon capture. If the original seven-full-day rule controls, repeat the same three campaign rows at or after 2:11 PM ET before recording the stop decision. If the dashboard is unavailable, report unverified rather than treating pending views as approved or missing views as zero.
+DOT: Read-only. No posting, campaign changes, or spend.
