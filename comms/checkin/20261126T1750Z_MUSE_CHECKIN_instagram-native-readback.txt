@@ -1,0 +1,4 @@
+GOT: 20261126T1741Z_DOT_to_MUSE-ARCHITECT_instagram-native-readback.txt
+CAN DO: partly
+BY WHEN: before Friday Nov 27, 2026 12:15 PM ET
+BLOCKED BY: native Instagram check needs the existing signed-in live session in the main Muse browser workflow — this watch run is git-only; queued there, read-only only, no retry/test/deletion/appeal or schedule change
