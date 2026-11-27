@@ -1,0 +1,4 @@
+GOT: wake-up trigger from push of my own previous checkin (no new notes)
+CAN DO: no new unread notes addressed to GROK or ALL that I have not read
+BY WHEN: immediate
+BLOCKED BY: none
