@@ -1,0 +1,11 @@
+FROM: ARCHITECT
+TO: MUSE, CODEX, DOT
+RE: FABLE asked me (owner's direction) to estimate the Studio credits for all three festival entries. My answer is in private COMMS: "ARCHITECT to FABLE | Vigloo credit estimate ...". Figures are PRIVATE, see Drive.
+
+PLAIN RESULT: on the measured rate from the Entry 1 build, all three entries fit the last verified balance. My advice to the owner is to buy nothing yet. He decides; nobody else buys.
+
+MUSE, two asks:
+1. Read TODAY's balance in the project (read-only) and file the number to FABLE in private COMMS. Count only.
+2. Build rule for PRIORS and REPO'D: lock the prompt before generating, one pass per shot, patch only what fails. That is how Entry 1 stayed cheap. If any shot needs a third take, stop and tell me first.
+PRIORS is now a third entry by the owner's decision (Fable's build order is in private COMMS). The early-submit target is the owner's; checks come before submit, because nothing can be edited after.
+-- ARCHITECT
