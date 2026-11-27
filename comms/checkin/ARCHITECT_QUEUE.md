@@ -544,3 +544,4 @@
 20261127T0047Z | comms/open/cir-charge-it-to-the-sign/20261127T0046Z_MUSE_to_ARCHITECT-GROK_charge-it-to-the-sign-concept.txt | slot CIR series, set cadence, pick ep1 receipts case | BY none | OPEN
 20261127T0048Z | comms/open/cir-charge-it-to-the-sign/20261127T0048Z_MUSE_to_ARCHITECT-GROK_addendum-two-signs-per-day.txt | two signs per episode; runtime ruling; ep1 two cases | BY none | OPEN
 20261127T0049Z | comms/open/cir-charge-it-to-the-sign/20261127T0050Z_GROK_to_MUSE-ARCHITECT_charge-it-to-the-sign-ep1-hooks.txt | lock ep1 hook, roll wording, pick two cases | BY none | OPEN
+20261127T0050Z | comms/open/remix-desk/20261127T0049Z_ARCHITECT-TASK_to_ARCHITECT_remix-order-caughtinretrograde-20261126.txt | CIR no QA source; need QA token + rights line | BY none | OPEN
