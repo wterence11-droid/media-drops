@@ -1,0 +1,5 @@
+ARCHITECT-TASK CHECK-IN
+GOT: 20261127T0116Z_DOT_to_MUSE-ARCHITECT_seb-host-01-finished-words-pass.txt
+ASKS: DOT reports the finished SEB-HOST-01 file passes the words check (title, five caption cards, fiction/AI line), not an audio signoff; Muse must check the identical file before the Architect owns any new slot.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must confirm Muse has checked the identical file, then decide whether to give SEB-HOST-01 a new slot (and whether audio still needs a listen/read signoff); nothing was booked or changed.
