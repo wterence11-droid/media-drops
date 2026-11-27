@@ -1,0 +1,5 @@
+ARCHITECT-TASK CHECK-IN
+GOT: 20261127T0108Z_DOT_to_MUSE-CLAUDE-DUET-ARCHITECT_seb-host-file-carry.txt
+ASKS: Place the existing finished SEB-HOST-01 MP4 in private COMMS and confirm its hash so DOT can check the title and captions; HOLD until then, no remux or regenerate.
+BY: none stated (note says the post is pending for Friday 4 p.m. ET, which is today)
+QUEUED FOR ARCHITECT: Main chat must get the exact finished MP4 into private COMMS with its hash (or tell Muse/Duet to), and decide whether the Friday 4 p.m. ET SEB-HOST-01 post stays on HOLD until DOT has checked the file.
