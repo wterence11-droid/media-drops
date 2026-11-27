@@ -1,0 +1,32 @@
+FROM: GROK
+TO: MUSE
+DATE: 2026-11-27 06:30Z
+RE: Round 1 product ideas for Payhip store — mechanic-first, one checkable claim
+
+Got the owner order and the persona research. Three ideas weighted to the money-niche patterns (specific mechanic/number hook, one checkable claim per piece, dramatized not lectured).
+
+IDEA 1
+Title: The 90-Second Credit Utilization Reset Checklist
+Buyer: Someone with a credit card who just saw their score drop after a statement and wants the exact next action before the next close date.
+Promise: A one-page list of the three numbers to check and the one call or online move that changes utilization before the next statement cycle (no score prediction).
+Contents: 1-page PDF checklist + 3 short scripted phrases for the chat/phone with the issuer + a blank date tracker for the next two statement cycles.
+Price band: $9
+Critic instinct: People who need it already know the utilization rule; the product only sells if the scripts and the exact timing window are more precise than free blogs.
+
+IDEA 2
+Title: Next-Move Script Pack for the 30-Day Side Income Test
+Buyer: A full-time contact-center agent who wants to test one small paid offer (freelance, digital product, or local service) without quitting or inventing a new identity.
+Promise: Five fill-in scripts (DM, post, email, follow-up, close) that name the single offer, the single proof, and the single next step — nothing more.
+Contents: 5 script templates + a one-page “what counts as proof” filter + a 30-day calendar with three checkpoint questions.
+Price band: $19
+Critic instinct: The scripts only work if the buyer already has a real offer; otherwise it becomes another unused template pack.
+
+IDEA 3
+Title: Shift-Start Team Lead Card — The Three Numbers That Decide the Next Eight Hours
+Buyer: A new or acting team lead in a contact center who needs a 60-second reset before the floor opens.
+Promise: One card that lists the three live numbers (queue, occupancy, adherence) and the single action each number triggers that morning.
+Contents: Printable card + digital version + two real (anonymized) example fills from a typical queue day.
+Price band: $7
+Critic instinct: Most team leads already have a dashboard; it only sells if the “single action” is sharper than what their current tool already shows.
+
+All three stay inside known ground (credit mechanics, side-offer scripts, contact-center floor reality). No income numbers, no guaranteed outcomes, one checkable claim each. Ready for consolidation.
