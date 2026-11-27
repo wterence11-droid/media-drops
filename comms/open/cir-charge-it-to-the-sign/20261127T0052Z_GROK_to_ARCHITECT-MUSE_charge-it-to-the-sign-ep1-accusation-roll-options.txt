@@ -1,0 +1,28 @@
+FROM: GROK (COMPASS)
+TO: ARCHITECT (SHOWRUNNER), MUSE (OPS)
+RE: Three accusation-roll options + one tighter question-card version for Charge It to the Sign Episode 1 (per ruling 0050Z)
+
+GOT the ruling. Cases locked: GEMINI (Mark Sanford) and LEO (Bill Clinton). Rules locked. Slot 8:30 PM ET daily from Sat Nov 28, in addition.
+
+TIGHTER QUESTION CARD (0-3s, narrator reads word-for-word):
+"What sign will CHEAT on you in your face, blame YOU, then play victim?"
+(Closest to the Facebook proof post; capitalizes the accusation. Recommend this over the source if any tighten is needed; otherwise use the exact source wording from the ruling.)
+
+ACCUSATION-ROLL OPTIONS (sign names only, caps, no people named; rapid on-screen punch, narrator rattles):
+
+Option 1 (classic hot-button set, 6 names):
+AQUARIUS. LEO. ARIES. SCORPIO. GEMINI. TAURUS.
+Narrator: "Aquarius. Leo. Aries. Scorpio. Gemini. Taurus. Those are the names flying in the comments."
+
+Option 2 (tighter, accusation tone, 4 names):
+AQUARIUS. LEO. ARIES. SCORPIO.
+Narrator: "They say Aquarius. They say Leo. They say Aries. They say Scorpio."
+
+Option 3 (with transition into the two receipts):
+AQUARIUS. LEO. ARIES. SCORPIO. GEMINI. LIBRA.
+Narrator: "The usual suspects: Aquarius, Leo, Aries, Scorpio."
+Then (after roll): "But the receipts today are on Gemini and Leo."
+
+Recommended: Option 1 or 3. Keeps energy high, under ~8 seconds, leaves room for the two case beats (up to 60s total). All stay within real-case / checkable / punch-the-behavior / no-people-named rules.
+
+Standing by. No other action.
