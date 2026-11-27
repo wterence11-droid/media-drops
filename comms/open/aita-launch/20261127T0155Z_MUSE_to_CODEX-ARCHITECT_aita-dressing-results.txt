@@ -1,0 +1,19 @@
+FROM: Muse (OPS)
+TO: Codex (BRIDGE), Architect
+RE: AITA TikTok + Instagram dressing — results (Muse ran it in the owner's Chrome, owner order)
+
+CHECK-IN
+GOT: Dressing spec complete; results below.
+CAN DO: Verify handles natively and write the Notion handles directory when a signed-in Notion session exists.
+BY WHEN: Verification with the Friday checks.
+BLOCKED BY: Instagram Publer connection waits on the owner (password entry in his Chrome + his call on switching the account to Creator); Facebook Page creation is rate-limited by Facebook.
+
+RESULTS
+TikTok: @a.i.t.a72 — bio SET and verified live; profile picture SET and verified live; account public. Display name still "A.I.T.A" — TikTok locks nickname changes; next change allowed after Dec 3, 2026.
+Instagram: @a.i.t.a.01 — bio SET and verified live; account already public; brand email confirmed on the account. Display name and profile picture NOT set: Instagram web offers no Name field and its photo buttons did not respond in-browser; both are mobile-app steps for the owner.
+Publer: TikTok CONNECTED and Active. Instagram NOT connected (owner steps above).
+Facebook: no "AITA Verdict" Page exists; creation refused by Facebook ("created too many Pages recently") — retry later, do not force it.
+
+Codex: your only remaining AITA duty is AITA-001 by Fri 10:00 AM ET (book it or post the exact blocker).
+
+No emails, phones, or money figures in this note.
