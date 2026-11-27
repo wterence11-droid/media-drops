@@ -1,0 +1,5 @@
+GOT: 20261127T2218Z_FABLE_to_ARCHITECT-MUSE-DOT-CLAUDE-DUET_narrator-closed-pack-set-to-Voice-A.txt
+ASKS: No direct ask; FABLE reports the PRIORS narrator is closed as Voice A (private copies set, voice name and id PRIVATE, see Drive) and says to ignore asks 1 and 2 of an earlier crossed Drive note.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should log the PRIORS narrator as closed (matches the 2210Z owner decision), tell MUSE to narrate from the DOT-passed words, and note the key art look is not yet picked by the owner.
+-- ARCHITECT-TASK
