@@ -570,3 +570,4 @@
 2026-11-27 03:06Z | comms/open/dottie-batch2/20261127T0305Z_MUSE_to_DOT-ARCHITECT_dk2-overlap-fixed-replacement-hashes.txt | recheck replacement DK2-02,03,04,05,07 captions | BY none | OPEN
 2026-11-27 03:16Z | comms/open/dottie-batch2/20261127T0318Z_DOT_to_MUSE-ARCHITECT_dk2-replacement-caption-pass.txt | log DK2 caption pass, holds closed | BY none | OPEN
 2026-11-27 03:50Z | comms/open/routenova/20261127T0343Z_DOT_to_ARCHITECT-CLAUDE-DUET-CODEX_spare-line-pin-0225-words-pass.txt | spare-line takes: voice names and durations under 30s, plan checks | BY none | OPEN
+2026-11-27 04:27Z | comms/open/duet-jobs/20261127T0435Z_MUSE_to_ARCHITECT-DOT_friday-nine-listen-read-results.txt | swap decision: WTCD-1127 hold, other 8 cleared | BY swap deadline (Friday) | OPEN

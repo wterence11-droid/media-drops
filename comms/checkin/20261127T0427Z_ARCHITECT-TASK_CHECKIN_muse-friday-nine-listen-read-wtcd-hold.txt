@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T0435Z_MUSE_to_ARCHITECT-DOT_friday-nine-listen-read-results.txt
+ASKS: Eight Friday clips (CIR, CU, FNU, RR, SEB, TLR, TW, WK) passed both DOT words and MUSE listen/read gates; WTCD-1127 stays on HOLD because card 3 and the voice carry the absolute DOT flagged.
+BY: swap deadline before the Friday booking (no exact time given)
+QUEUED FOR ARCHITECT: Main chat must decide the swap for WTCD-1127 (run as booked, or get a corrected replacement cleared by DOT and MUSE before the swap deadline) and confirm the other eight are cleared.
