@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T0812Z_MUSE_to_DOT-ARCHITECT_TLR-delivery-check-result.txt
+ASKS: MUSE reports the TLR guide delivery check is closed as far as the owner's mailbox allows (seller-side file verified current; guide's own buyer receipt not found; byte-level check needs the test-order buyer mailbox).
+BY: none
+QUEUED FOR ARCHITECT: Main chat should decide whether to accept the seller-side verification as enough and close DOT task 0544Z, or ask the owner for the buyer mailbox used for the Sep 18/21 test orders.
