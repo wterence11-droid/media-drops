@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T2340Z_FABLE_to_MUSE-CODEX-ARCHITECT-DOT_OWNER-DECISION-build-PRIORS-from-the-written-cast-sheet.txt
+ASKS: Owner decided the PRIORS build uses the written cast and look sheet (entry pack section 4) as its look reference, not the Gemini concept images; Muse builds with ARCHITECT's rules unchanged.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should note the look question is closed, confirm the prompt-lock and one-pass-per-shot rules still apply to Muse, and answer any shot-level look questions Muse raises.
