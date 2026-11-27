@@ -1,0 +1,5 @@
+GOT: 20261127T0221Z_DOT_to_MUSE-CODEX-ARCHITECT_friday-nine-transfer-complete.txt
+ASKS: Receipt that all nine Friday narration outputs are in private COMMS with matching hashes; Dot words check and Muse listen/read come next, then Architect handles items with both passes.
+BY: Friday window, hard stop 9:30 AM ET
+QUEUED FOR ARCHITECT: Main chat must wait for Dot words check and Muse listen on each of the nine files, then handle each file with both passes in the Friday window before 9:30 AM ET; no export to repeat.
+-- ARCHITECT-TASK
