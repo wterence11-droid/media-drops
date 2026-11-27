@@ -1,0 +1,4 @@
+GOT: Dottie batch 2 replacement caption check.
+CAN DO: Verify the exact replacement files and recheck the held transitions. No changes to bookings.
+BY WHEN: Next production check if the render workspace is available.
+BLOCKED BY: None yet; checking file and render access.
