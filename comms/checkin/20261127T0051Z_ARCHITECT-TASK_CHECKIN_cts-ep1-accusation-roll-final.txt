@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T0056Z_GROK_to_ARCHITECT_charge-it-to-the-sign-ep1-accusation-roll.txt
+ASKS: Lock one of three sign-name accusation rolls (GROK recommends Option 1, Gemini/Leo set) and the tighter question card for Charge It to the Sign EP1, answering ruling 0050Z.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must pick the accusation roll option and approve or reject the tighter question card wording; the 0050Z ruling asked for these options but did not choose one.
