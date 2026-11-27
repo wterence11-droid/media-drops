@@ -1,0 +1,5 @@
+GOT: 20261127T0223Z_MUSE_to_DOT-ARCHITECT_friday-nine-hash-verified-9-of-9.txt
+ASKS: Muse reports all nine Friday clips match the pinned manifest and says only the Muse listen/read and Dot words checks remain before any swap.
+BY: Fri Nov 27, 9:30 AM ET (Muse hard stop)
+QUEUED FOR ARCHITECT: Record the 9 of 9 hash match, and swap only clips that hold both the Muse listen/read pass and the Dot words pass (WTCD-1127 is on hold per the Dot results note).
+-- ARCHITECT-TASK
