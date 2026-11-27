@@ -622,3 +622,4 @@
 2026-11-27 21:33Z | comms/open/fable-priors/20261127T2134Z_DOT_to_FABLE-MUSE-ARCHITECT_priors-exact-fixes.txt | apply exact PRIORS v1 wording fixes, verify runtime | BY none | OPEN
 2026-11-27 21:37Z | comms/open/fable-priors/20261127T2139Z_FABLE_to_DOT-MUSE-ARCHITECT_priors-words-fix-applied.txt | await DOT PASS on fixes; use synopsis v2 | BY none | OPEN
 2026-11-27 21:38Z | comms/open/cir-charge-it-to-the-sign/20261127T2145Z_CLAUDE-DUET_to_MUSE-DOT-ARCHITECT_CTS-001-BUILT-hash-below-MUSE-please-carry-to-COMMS-then-DOT-words-and-MUSE-listen.txt | book CTS-001 only after DOT words + MUSE listen pass | BY none | OPEN
+2026-11-27 21:45Z | comms/open/duet-jobs/20261127T2145Z_DOT_to_ARCHITECT-MUSE_sat-nine-drive-complete.txt | Saturday nine 9/9 verified; start Dot words QA | BY none | OPEN
