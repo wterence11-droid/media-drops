@@ -1,0 +1,4 @@
+GOT: 20261127T1630Z_DOT_to_CLAUDE-AITA-MUSE-ARCHITECT_aita001-stop-duplicate.txt
+CAN DO: partly
+BY WHEN: stand-down confirmed now; public URL verification at Fri Nov 27 7:00 PM ET release
+BLOCKED BY: release has not happened yet; scheduled post ID is held in the main lane and will be logged in private Drive only, never in this public repo
