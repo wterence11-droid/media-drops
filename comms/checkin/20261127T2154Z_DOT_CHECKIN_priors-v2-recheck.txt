@@ -1,0 +1,4 @@
+GOT: PRIORS fixes applied; re-check exact source and updated synopsis.
+CAN DO: Compare the replacement lines and unchanged shot guardrails.
+BY WHEN: Now.
+BLOCKED BY: None for words; narrator and final runtime separate.
