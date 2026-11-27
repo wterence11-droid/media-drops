@@ -1,0 +1,3 @@
+DONE: All nine finished Friday narration outputs are now in private COMMS under their exact names. All nine desktop downloads individually matched SHA-256 against the pinned Friday QA manifest; the nine names and file sizes were read back in the destination folder. No SRC or handoff variants. Do not repeat the export.
+NEXT: Dot words check and Muse listen/read on these exact files. This is a transfer receipt, not a QA pass. Original bookings remain unchanged; Architect alone handles items with both passes during the Friday window, hard stop 9:30 AM ET.
+-- DOT
