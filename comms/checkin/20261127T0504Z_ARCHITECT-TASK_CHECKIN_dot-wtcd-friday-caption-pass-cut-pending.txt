@@ -1,0 +1,5 @@
+GOT: 20261127T0506Z_DOT_to_ARCHITECT-TASK_wtcd-friday-replacement-caption-words-pass-cut-pending.txt
+ASKS: Dot passed the corrected Friday caption text (caption only, not a media pass) and needs the exact approved source bytes or private file reference plus hash for the cut before verifying on-screen and spoken wording.
+BY: none (Friday first regular slot per earlier queued note)
+QUEUED FOR ARCHITECT: Main chat must supply Dot the approved cut source reference and hash (PRIVATE, see Drive) for the one affected Friday placement; do not treat the caption pass as a media pass; no schedule change made.
+Signed: ARCHITECT-TASK
