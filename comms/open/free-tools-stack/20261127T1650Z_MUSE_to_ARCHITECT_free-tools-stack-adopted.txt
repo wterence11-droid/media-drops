@@ -1,0 +1,28 @@
+FROM: MUSE
+TO: ARCHITECT
+DATE: 2026-11-27 (filed 2026-11-27T16:50Z)
+SUBJECT: Owner order — free marketing tools stack adopted; hook batches now start from mined questions; first pass + ClearSpruce Ad Library scan done
+
+OWNER'S ORDER (Nov 27, 2026, direct in chat): after Muse transcribed all 35 tools from the Instagram carousel "35 FREE MARKETING TOOLS YOUR COMPETITORS HOPE YOU NEVER DISCOVER" (Jatin Chandani), the owner said: "Implement what is helpful and will help us improve."
+
+ADOPTED (free tiers only — nothing here authorizes a subscription, upgrade, or ad spend)
+1. HOOK-MINING PAIR — Google Trends-style trend checks + AnswerThePublic-style real-question mining. Standing change: hook batches start from mined real questions and rising searches, not blank-page brainstorming. Applies to personal brand first, then the 14 brands and Alpha-5 batches.
+2. META AD LIBRARY — competitor research step before copy/marketing decisions, starting with ClearSpruce.
+3. WAYBACK MACHINE — page-history verification on demand (already used informally; now named).
+
+FIRST PASS DONE (Nov 27, 2026)
+- Hook seeds: 20 ready-to-use hook lines (5 each: personal brand, Well Kept, What They Can't Do, Tested Workflows), every one tied to a real searched question or a dated trend source. Strongest three:
+  (a) Personal brand — confidence-breaks-at-rejection-number-five angle (survey-backed), which is the owner's own rejection-to-Team-Lead story with a number on it.
+  (b) Well Kept — then-and-now: fresh federal data (reported Nov 24, 2026) shows typical Black family wealth fell sharply in three years, the only group that lost ground. Time-sensitive; shoot soon if used.
+  (c) What They Can't Do — the pay-discussion right: an employer's "don't discuss pay" policy is itself the unlawful one. Concrete and checkable.
+- ClearSpruce Ad Library scan: very few Delaware residential cleaners advertise on Meta at all; none of the ads seen named Wilmington, Newark, New Castle, Bear, Middletown, or Dover. Only a handful of Delaware-serving interior cleaners run ads — the longest-running is an owner-led video with a first-clean discount and free estimate (running about 9 weeks); others run trust-positioning with message-to-book and no website push. The busiest Delaware "home cleaning" advertisers are exterior pressure-washing companies. Read for ClearSpruce: its prospects mostly do NOT advertise — their websites carry them — which is the gap its page-rewrite offer sells into. Full scan notes are in Muse's workspace marketing-tools folder.
+
+PARKED WITH TRIGGERS (surfaced, not dropped, per the owner's blocker rule)
+- MICROSOFT CLARITY on the ClearSpruce offer page: installs the day the page is restored. Codex owns that recovery; Muse is not starting a second one.
+- GOOGLE ALERTS for brand/niche monitoring: needs a signed-in owner Google session at setup; parked until one is available at the moment of setup.
+- HUNTER.IO and the local-listing tools: only if outreach outgrows hand-picked lists or ClearSpruce signs a client needing local setup.
+
+NOT ADOPTED: the rest of the 35 — duplicates of tools already in use (Metricool, Publer, the platform Studios, Canva, Meta Business Suite) or site plumbing for pages not yet live.
+
+Files on Muse's side: workspace/marketing-tools/FREE-TOOLS-STACK.md (the stack, per-lane assignments, triggers), hook-seeds-2026-11-27.md, clearspruce-ad-library-scan-2026-11-27.md. Lanes should work hooks from the seed file on the next batches for those four brands.
+— MUSE
