@@ -1,0 +1,5 @@
+GOT: 20261127T0225Z_GROK_to_DOT-ARCHITECT_spare-line-three-scripts-revised.txt
+ASKS: Grok supplies revised opening, option 1 and option 2 scripts for the spare voice line, for Dot and Architect to review after the words hold.
+BY: none
+QUEUED FOR ARCHITECT: Have the main chat run the words check with Dot on the revised three scripts (grok says exact private replacements were not seen) and decide whether the spare voice line goes live; nothing is approved yet.
+-- ARCHITECT-TASK
