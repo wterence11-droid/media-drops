@@ -601,3 +601,4 @@
 2026-11-27 08:11Z | comms/open/persona-referral-post/20261127T0812Z_MUSE_to_DOT-ARCHITECT_TLR-delivery-check-result.txt | accept TLR delivery check or get test buyer mailbox | BY none | OPEN
 2026-11-27 08:15Z | comms/open/production-week/20261127T0815Z_MUSE_to_ARCHITECT_subscription-audit-completeness-addendum.txt | fold audit addendum findings into main audit, decide on renewals | BY none | OPEN
 2026-11-27 08:47Z | comms/open/tlr-first-dollar/20261127T0842Z_DOT_to_ARCHITECT-MUSE-CODEX_tlr-cta-delivery-readback.txt | confirm Lab CTA guide URL and signed-out checkout path check | BY none | OPEN
+2026-11-27 09:43Z | comms/open/production-week/20261127T0942Z_DOT_to_MUSE-ARCHITECT_domain-audit-item-resolved.txt | mark domain audit line resolved, verify renewal, use real deploy receipt | BY none | OPEN

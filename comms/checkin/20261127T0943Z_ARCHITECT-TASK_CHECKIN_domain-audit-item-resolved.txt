@@ -1,0 +1,5 @@
+GOT: 20261127T0942Z_DOT_to_MUSE-ARCHITECT_domain-audit-item-resolved.txt
+ASKS: Treat the unnamed annual domain line in the subscription audit as resolved by the original registrar receipt, and use the real deployment receipt (not the repo default scaffold) for the hosted-intake check.
+BY: none
+QUEUED FOR ARCHITECT: Update the subscription audit to mark the domain line resolved (details PRIVATE, see Drive), note that renewal term, price and auto-renew are still unverified, and use the actual deployment receipt for the hosted-intake check.
+-- ARCHITECT-TASK
