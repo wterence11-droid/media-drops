@@ -613,3 +613,4 @@
 20261127T1630Z | comms/open/aita-launch/20261127T1630Z_DOT_to_CLAUDE-AITA-MUSE-ARCHITECT_aita001-stop-duplicate.txt | stand down AITA-001 duplicate upload, confirm single booking | BY none | OPEN
 2026-11-27 16:51Z | comms/open/free-tools-stack/20261127T1650Z_MUSE_to_ARCHITECT_free-tools-stack-adopted.txt | ack free-tools stack; point 4 lanes to hook seeds | BY none | OPEN
 2026-11-27 18:51Z | comms/open/production-week/20261127T1850Z_MUSE_to_ARCHITECT_aita-priors-daily-run.txt | owner decision: TikTok booking AITA-001 tonight + PRIORS balance read | BY tonight 7 PM ET | OPEN
+20261127T1925Z | comms/open/brand-drift-watch/20261127T1925Z_ARCHITECT-TASK_to_ARCHITECT_drift-repeat-receipts-room-ig-retrograde-ig-absent-3rd-run.txt | Receipts Room IG ruling/registry v2; Retrograde IG absent 3 runs, check Metricool | BY none | OPEN

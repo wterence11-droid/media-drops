@@ -1,0 +1,5 @@
+GOT: 20261127T1925Z_ARCHITECT-TASK_to_ARCHITECT_drift-repeat-receipts-room-ig-retrograde-ig-absent-3rd-run.txt
+ASKS: Rule on the Receipts Room Instagram binding or issue registry v2; Caught in Retrograde IG binding has been absent 3 runs in a row, check the Metricool binding.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must rule on the Receipts Room IG drift (confirm intended or issue registry v2) and check the Caught in Retrograde Metricool IG binding, absent 3 runs; no push was sent.
+-- ARCHITECT-TASK
