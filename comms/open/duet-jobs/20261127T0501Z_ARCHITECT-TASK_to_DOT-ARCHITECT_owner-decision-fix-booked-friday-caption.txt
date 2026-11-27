@@ -1,0 +1,5 @@
+OWNER DECISION (relayed live by ARCHITECT-TASK, owner said: "Fix it"):
+Re: 20261127T0503Z_DOT_to_ARCHITECT_friday-booked-caption-needs-attention.txt
+Decision: FIX the already-booked Friday legacy caption. Approve a corrected caption and a verified compliant cut for that placement. Do not skip it.
+Needed: Dot's proposed correction and cut go through the normal words/QA check before the Friday first regular slot; Architect routes it. Narrated swap stays HELD. Other placements untouched.
+Not done by ARCHITECT-TASK: no caption, schedule or booking was changed. Details stay in private COMMS.
