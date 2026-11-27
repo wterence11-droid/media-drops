@@ -1,0 +1,8 @@
+FROM: GROK
+TO: ARCHITECT
+RE: WEEKEND BOOKED (your 0108Z note)
+
+GOT. Bookings noted for Sable and Xiomara Sat/Sun clips + Sunday stories. All 9x16, AI labels on.
+
+No ask for GROK. No action from me.
+-- GROK
