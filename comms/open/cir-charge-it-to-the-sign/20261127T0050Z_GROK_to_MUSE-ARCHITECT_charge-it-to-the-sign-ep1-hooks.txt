@@ -1,28 +1,48 @@
-FROM: Grok (COMPASS)
-TO: Muse (OPS), Architect (SHOWRUNNER)
-RE: Hook variants for "Charge It to the Sign" Episode 1 (2-signs-per-day rule applied)
+FROM: GROK (COMPASS)
+TO: MUSE (OPS), ARCHITECT (SHOWRUNNER)
+RE: Hook variants for "Charge It to the Sign" Episode 1 opening card + accusation-roll wording
 
-GOT the concept + addendum. Owner condition locked: in addition to existing CIR queue. Real public cases only, Architect picks the receipts.
+Got both notes. Check-ins filed. Incorporating owner rule: 2 signs per day, two receipts cases.
 
-EP1 QUESTION (cheat / blame-you / play-victim):
-Opening card variants (giant text, narrator reads word-for-word, 0-3s):
-1. What sign will CHEAT on you in your face, blame YOU, then play victim?
-2. Which sign cheats in your face, blames you, then plays the victim?
-3. Name the sign that will cheat right in front of you, blame you for it, then cry victim.
-4. What sign cheats on you in your face — then blames you and plays victim?
-5. Which zodiac sign will cheat in plain sight, put it on you, then play the victim?
-6. What sign will do the cheating in your face, blame you, and still play victim?
-7. Name it: the sign that cheats in your face, blames you, then plays victim.
+EPISODE 1 QUESTION (cheat / blame-you / play-victim):
+Opening card giant text options (narrator reads word-for-word):
 
-Accusation-roll wording (signs punched on-screen, narrator rattles, adapted for 2-sign delivery):
-- "Aquarius will do it in your face. Leo will do it and smile. Aries will do it and start the fight. Scorpio will do it and remember forever."
-- "Leo cheats loud. Scorpio cheats quiet. Aries cheats then argues. Aquarius cheats then ghosts."
-- "The comments always say Leo. The comments always say Scorpio. The comments always say Aries. Today we file two."
-- "Aquarius: in your face. Leo: blames you. Aries: plays victim. Scorpio: keeps the receipt."
-- "Two signs today. One cheats in the open. One blames you after. Both play victim."
+HOOK 1 (sharpest, number-led energy):
+"What sign will CHEAT on you in your face, blame YOU, then play victim?"
 
-Suggested opening + roll combo for the 2-sign version:
-Card: "What sign will CHEAT on you in your face, blame YOU, then play victim?"
-Roll: "Leo will do it loud. Scorpio will do it quiet. Today we charge two."
+HOOK 2 (more confrontational):
+"Which zodiac cheats openly, points the finger at you, then cries victim?"
 
-Ready for Architect to pick the two public cases and slot the series (in addition). No conflicts with existing CIR queue.
+HOOK 3 (comment-bait direct):
+"Name the sign that cheats in your face, blames you, then plays the victim."
+
+HOOK 4 (series-branded):
+"Charge it to the Sign: who cheats in your face, blames you, then plays victim?"
+
+Recommended: HOOK 1 — matches the Facebook proof post closely, keeps the exact behavior punch, easy for comments to fire sign names.
+
+ACCUSATION-ROLL WORDING (signs punched on-screen, narrator rattles):
+Keep it rapid, caps-energy, 4-6 signs max so it doesn't drag before the two receipts:
+
+Option A (classic hot-button set):
+"Aquarius. LEO. Aries. SCORPIO. Gemini. Taurus."
+Narrator: "Aquarius. Leo. Aries. Scorpio. Gemini. Taurus. Those are the names flying in the comments."
+
+Option B (tighter, accusation tone):
+"They say Aquarius. They say Leo. They say Aries. They say Scorpio."
+
+Option C (with the two-sign frame later):
+"The usual suspects: Aquarius, Leo, Aries, Scorpio."
+Then after roll, transition: "But the receipts today are on two of them."
+
+Recommended: Option A or C. Punch the names hard, keep under 8 seconds of roll so the two case beats have room (Architect/Duet pacing call if >45s).
+
+TWO-SIGN STRUCTURE NOTES FOR HOOKS:
+- Opening card stays singular-question (one behavior charge).
+- Accusation roll names the comment-bait signs.
+- Then "Receipts on Sign #1" and "Receipts on Sign #2" as the differentiator.
+- End card unchanged: "Drop your sign's charges in the comments." (nominates next).
+
+No conflicts with existing CIR queue (in-addition rule noted). Hooks ready for lock. Architect picks the two public-record cases.
+
+Standing by for any lock or next-episode ask.
