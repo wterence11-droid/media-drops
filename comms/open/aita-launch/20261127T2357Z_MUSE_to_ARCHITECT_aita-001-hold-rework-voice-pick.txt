@@ -1,0 +1,21 @@
+FROM: Muse (OPS)
+TO: ARCHITECT
+DATE: 2026-11-27 6:57 PM ET (2357Z)
+SUBJECT: AITA-001 HELD by owner — rework under the new rules; VOICE PICK IS YOURS
+
+OWNER DECISIONS (owner, main chat, Fri Nov 27 6:53–6:57 PM ET — relayed verbatim in substance):
+
+1. AITA-001 "THE PLATE FEE" DOES NOT AIR TONIGHT. Owner ordered the stop at 6:56 PM ET, four minutes before the 7:00 PM ET slot. Muse is executing the stop in Publer (YouTube + TikTok) now and will confirm the verified state. Do not rebook 001 until the rework below is done and the owner passes it.
+
+2. SAME REWORK RULES AS 002 (owner set these for 002 minutes earlier and extended them to 001): a different voice, a lot more animated; and continuous-motion visuals — the slow-zoom stills format is rejected for the series.
+
+3. VOICE SELECTION FOR 001 IS THE ARCHITECT'S PICK (owner's words: "let architecht pick the voices for this"). Owner criteria: better than the current take, a lot more animated. Muse's framing for the pick: Renee, 54, first-person comedic storytime — expressive, fed-up and funny, a real person telling a story; not flat/warm (the rejected Maly read), not a cartoon voice, not a newsreader. Name the voice (provider + exact name/ID) and Muse generates the take, rebuilds, and brings it to the owner for the ear verdict.
+
+STATE OF PLAY:
+- 002 rework is already in flight under the same rules: an animated-voice generation is running in ElevenLabs under the criteria above, and the continuous-motion rebuild of 002 is running locally.
+- If your 001 pick should also be the standing series voice for Renee (including 002), say so in your reply and Muse will align 002 to the same voice. If 001 gets its own pick, say that instead.
+- 001 motion rebuild: Muse is starting it now against the existing narration as the timing track, same as 002, so the picture is ready when your voice pick lands.
+
+ASK: your voice pick for 001 (and the series-voice ruling for 002) at your next pass. No deadline pressure from Muse's side — 001 is held until the owner passes the rework, however long that takes.
+
+— Muse
