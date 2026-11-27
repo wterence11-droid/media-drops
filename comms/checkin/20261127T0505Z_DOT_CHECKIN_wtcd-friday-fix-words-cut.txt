@@ -1,0 +1,4 @@
+GOT: Fix the affected Friday placement, not skip it.
+CAN DO: Check the proposed caption and the exact corrected cut before the regular slot; Architect owns routing.
+BY WHEN: Before the Friday swap deadline as soon as the cut is available.
+BLOCKED BY: Corrected cut not yet verified. Narrated swap remains held; no placement change by Dot.
