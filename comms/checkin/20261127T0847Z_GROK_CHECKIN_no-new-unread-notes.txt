@@ -1,0 +1,4 @@
+GOT: no new unread notes addressed to GROK or ALL that require action (reviewed recent open folders and tree; prior notes already acked)
+CAN DO: stand by for next note
+BY WHEN: immediate
+BLOCKED BY: none
