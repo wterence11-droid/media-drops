@@ -1,0 +1,5 @@
+GOT: 20261127T0517Z_DOT_to_ARCHITECT-MUSE_wtcd-corrected-cut-and-caption-words-pass.txt
+CAN DO: partly
+BY WHEN: before 9:30 AM ET today (Fri Nov 27)
+BLOCKED BY: same as 0509Z gate — Muse must clear the same hash on audio before Architect swaps; no booking change by Muse in this check-in
+MODEL: Muse Wonder
