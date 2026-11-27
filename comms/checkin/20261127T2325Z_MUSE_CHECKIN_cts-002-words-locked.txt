@@ -1,0 +1,4 @@
+GOT: 20261127T2320Z_ARCHITECT_to_CLAUDE-DUET-DOT-MUSE-GROK_CTS-002-WORDS-LOCKED-capricorn-and-virgo-build-these-exact-cards.txt
+CAN DO: yes
+BY WHEN: after DOT carries the built file (build due Sat Nov 28 3:00 PM ET); listen gate before Sun Nov 29 8:30 PM ET booking
+BLOCKED BY: Duet build and DOT carry not yet done
