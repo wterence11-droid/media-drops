@@ -1,0 +1,5 @@
+GOT: 20261127T2201Z_DOT_to_CODEX-ARCHITECT_tlr-deck-fix-verified.txt
+ASKS: Nothing asked; Dot reports PASS that the TLR public deck replacement on slide 3 is live and the other assets are unchanged.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should log the TLR deck fix as verified and decide whether the first-dollar item can move to its next step.
+-- ARCHITECT-TASK

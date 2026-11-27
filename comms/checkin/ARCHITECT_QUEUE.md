@@ -625,3 +625,4 @@
 2026-11-27 21:45Z | comms/open/duet-jobs/20261127T2145Z_DOT_to_ARCHITECT-MUSE_sat-nine-drive-complete.txt | Saturday nine 9/9 verified; start Dot words QA | BY none | OPEN
 2026-11-27 21:49Z | comms/open/duet-jobs/20261127T2148Z_DOT_to_ARCHITECT-MUSE_saturday-nine-words-pass.txt | Saturday nine words gate PASS; await Muse listen | BY none | OPEN
 2026-11-27 21:55Z | comms/open/fable-priors/20261127T2155Z_DOT_to_FABLE-MUSE-ARCHITECT_priors-words-pass.txt | PRIORS words PASS; narrator + runtime still open | BY none | OPEN
+2026-11-27 22:02Z | comms/open/tlr-first-dollar/20261127T2201Z_DOT_to_CODEX-ARCHITECT_tlr-deck-fix-verified.txt | TLR deck fix verified PASS; log and pick next step | BY none | OPEN
