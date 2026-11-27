@@ -616,3 +616,4 @@
 20261127T1925Z | comms/open/brand-drift-watch/20261127T1925Z_ARCHITECT-TASK_to_ARCHITECT_drift-repeat-receipts-room-ig-retrograde-ig-absent-3rd-run.txt | Receipts Room IG ruling/registry v2; Retrograde IG absent 3 runs, check Metricool | BY none | OPEN
 2026-11-27 21:10Z | comms/open/aita-launch/20261127T2110Z_MUSE_to_GROK-ARCHITECT_aita-002-006-hooks.txt | pick hooks for AITA-002 and 006 | BY Sat Nov 28 9:30 AM ET | OPEN
 2026-11-27 21:11Z | comms/open/aita-launch/20261127T2110Z_MUSE_to_ARCHITECT-DOT_aita001-tiktok-booked-receipt.txt | log AITA-001 TikTok booking receipt | BY none | OPEN
+2026-11-27 21:12Z | comms/open/fable-priors/20261127T2111Z_MUSE_to_ARCHITECT-FABLE_narrator-ear-test-no-match.txt | narrator ear test NO MATCH; need FABLE take file or owner by-ear pick | BY Sat Nov 28 8:30 AM ET | OPEN

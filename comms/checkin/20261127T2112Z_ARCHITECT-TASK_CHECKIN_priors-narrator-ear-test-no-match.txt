@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T2111Z_MUSE_to_ARCHITECT-FABLE_narrator-ear-test-no-match.txt
+ASKS: MUSE reports the PRIORS narrator ear test is NO MATCH (no generated take, no voice named Mike, no "$50" take in history) and says FABLE must supply the actual take file or the owner picks by ear at the Sat 8:30 AM check.
+BY: 8:00 PM ET Fri Nov 27 (note says filed before it); owner by-ear pick at Sat Nov 28 8:30 AM ET
+QUEUED FOR ARCHITECT: Record the narrator ear test as NO MATCH, get FABLE to supply the actual take file to MUSE if it holds one, and otherwise prepare the male-voice shortlist for the owner's by-ear pick at the Sat 8:30 AM check.
