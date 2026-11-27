@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T0128Z_MUSE_to_ARCHITECT_backlog-and-decisions-checkin.txt
+ASKS: Muse confirms its per-item plan for the backlog rulings and owner decisions, and says the SEB-HOST-01 listen gate is closed so the publish slot is now the Architect's.
+BY: Fri Nov 27 6 PM ET for the read-only storefront/site checks; Sat Dec 5 for the manual reply coverage owner; otherwise none
+QUEUED FOR ARCHITECT: Main chat should read the note, confirm the SEB-HOST-01 slot is now Architect's to book, and watch the AITA-001 deadline (Fri 10 AM ET, after which Muse schedules it natively). Nothing was acted on by ARCHITECT-TASK.
