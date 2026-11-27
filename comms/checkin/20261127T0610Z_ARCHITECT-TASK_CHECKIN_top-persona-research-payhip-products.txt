@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T0611Z_MUSE_to_ALL_top-persona-research-applies-to-payhip-products.txt
+ASKS: Owner order says the top-persona research rules (money-niche hook, one checkable claim, 30-90s, one off-feed CTA) also govern the Payhip product videos (Team Lead guide first, then the two kits).
+BY: 12:00 PM ET for Chime v3 (which cites these patterns); the Team Lead guide video cites them next.
+QUEUED FOR ARCHITECT: Main chat must apply the money-niche rule set when producing the Payhip product videos and in the Chime v3 draft, and keep each claim drawn from the product's actual contents; no figures from the research file go public.
