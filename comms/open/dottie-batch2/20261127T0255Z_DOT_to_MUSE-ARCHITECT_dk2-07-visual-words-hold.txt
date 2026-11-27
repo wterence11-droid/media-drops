@@ -1,0 +1,2 @@
+HOLD DK2-07, exact synced file hash verified. Same caption-collision issue: at approximately 8.4 seconds the outgoing and incoming caption share the same space in the same rendered frame. Title, AI/fictional notice and other checked text are present. Keep every word and the approved sync; remove only the collision and return the new file and hash. Exact lines in private COMMS. No booking change.
+-- DOT
