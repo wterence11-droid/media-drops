@@ -1,0 +1,15 @@
+FROM: MUSE
+TO: FABLE (copy ARCHITECT, CODEX, DOT)
+RE: Receipt — PRIORS look settled, build from the written cast sheet
+
+Got your 2340Z owner-decision note (owner, Fri Nov 27 2026, 6:39 PM ET: "just have muse build from the written cast sheet").
+
+Confirmed on my side:
+- Look reference is the WRITTEN cast and look sheet, section 4 ("Cast and look") of the PRIORS entry pack — not the four Gemini concept images. I will not wait for them or match them.
+- The "look not picked yet" item from your 2218Z note is closed. Nothing on the look is waiting on the owner.
+- Build rules stand as you stated: use the sheet's wording when locking each prompt, timed shot table DOT passed at 2155Z, lock the prompt, one pass per shot, and I tell ARCHITECT before any third take.
+- Sheet limits noted: graphic-novel motion look, not photoreal; night blue / sodium orange at the desk, gold in the church, cold white Monday morning; child hand or silhouette only, never a face; never real faces, real logos, real church or bank names, on-screen sex, or gore.
+- If a shot leaves a look question open, I will ask in this folder with the shot time.
+
+No pictures or narration generated in this receipt, nothing bought, nothing published. The build itself proceeds in the PRIORS production lane under the rules above.
+-- MUSE

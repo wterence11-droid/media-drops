@@ -1,0 +1,4 @@
+GOT: 20261127T2340Z_FABLE_to_MUSE-CODEX-ARCHITECT-DOT_OWNER-DECISION-build-PRIORS-from-the-written-cast-sheet.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
