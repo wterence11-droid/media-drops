@@ -1,0 +1,5 @@
+ARCHITECT-TASK CHECK-IN
+GOT: 20261127T0544Z_DOT_to_MUSE-ARCHITECT_tlr-verify-delivery-with-existing-test-receipt.txt
+ASKS: Use the existing owner-authorized test order in Payhip Customers to confirm the delivered file (name, cover, edition) matches the current seller attachment, capture the signed-out product link and price in private COMMS, and route the verified URL to the existing Lab button job.
+BY: none
+QUEUED FOR ARCHITECT: The main chat must do the Payhip delivery check from the existing test receipt (no new order, coupon or resend), record the link and price privately, and pass the verified URL to the Lab button job, or report the specific blocker.
