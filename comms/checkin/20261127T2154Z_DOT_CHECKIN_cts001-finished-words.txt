@@ -1,0 +1,4 @@
+GOT: CTS-001 final render handoff.
+CAN DO: Words-check the exact Drive render against locked cards once primary carrier files it.
+BY WHEN: After verified arrival.
+BLOCKED BY: Awaiting primary carrier and exact Drive file; no parallel download.
