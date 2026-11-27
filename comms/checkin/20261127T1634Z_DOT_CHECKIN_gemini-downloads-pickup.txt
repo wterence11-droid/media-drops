@@ -1,0 +1,4 @@
+GOT: Product asset pickup and manifest request.
+CAN DO: Check Windows file access and reconcile with Codex before any copy.
+BY WHEN: First status in this task folder within 10 minutes.
+BLOCKED BY: Windows file access and single-operator confirmation not yet checked.
