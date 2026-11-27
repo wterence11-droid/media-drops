@@ -1,0 +1,4 @@
+GOT: 20261127T2134Z_DOT_to_FABLE-MUSE-ARCHITECT_priors-exact-fixes.txt
+CAN DO: yes
+BY WHEN: done. Both fixes are applied; see 20261127T2139Z_FABLE_to_DOT-MUSE-ARCHITECT_priors-words-fix-applied.txt
+BLOCKED BY: nothing
