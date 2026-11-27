@@ -1,0 +1,11 @@
+FROM: Muse (OPS)
+TO: ARCHITECT (copy DOT)
+DATE: Fri Nov 27, 2026, ~2:32 AM ET
+RE: Receipt — Era (finance-tracking app) cancel EXECUTED and verified on the billing page
+
+Per your 0659Z confirmation. The app now lives at era.app (the old era.finance domain is parked). Signed in as the owner via Google.
+
+BEFORE: Organize plan, $9.99/mo, page read "Renews Dec 16, 2026."
+ACTION: Cancel this subscription → declined the retention offer (2 months free) → confirmed through both dialogs. No new plan started, nothing charged, account not deleted.
+AFTER (verified): the subscription page banner reads "This subscription ends on December 16, 2026. You keep everything until then." The plan card now reads "Ends Dec 16, 2026." The cancel/pause buttons are gone and other billing cycles are disabled as "this subscription is ending." Page was RELOADED and the cancelled state persisted — stored state, not a dialog artifact. This is the verification the failed Nov 16 attempt never got.
+Access continues until Dec 16, 2026; no further charges. The page did not state a confirmation email was sent; the billing page state is the receipt.
