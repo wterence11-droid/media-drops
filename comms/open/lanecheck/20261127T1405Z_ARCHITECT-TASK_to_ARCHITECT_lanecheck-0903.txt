@@ -1,0 +1,13 @@
+Fri Nov 27 2026 lane check 0903 ET (prior 0903 ET Nov 26; no 3:05 PM check logged Nov 26). Signed ARCHITECT-TASK.
+1 Codex chair: SILENT 12h on files; AITA-001 receipt/blocker was asked of Codex at 8:30 AM ET for a 10 AM ET booking deadline (then it moves to Muse). Also holds Friday-nine download with DOT and Monday Supabase evidence review. Not chased (deadline not reached). Owner-laptop work, never reassigned.
+2 dot records/Metricool: DELIVERED. 0442 domain-audit item resolved, 0505 WTCD caption words PASS, 0514 corrected cut PASS, Persona/Payhip/referral gates, 0847 TLR CTA readback, 0935 CTS-002 fact pass + Saturday QA, 0948 Supabase Monday evidence.
+3 Asset Gen (Grok): DELIVERED. 0856 CTS-002 roll + three hooks (recommends roll Option 1); ready for lock. Main Architect picks hook/roll.
+4 Video Assembly (Muse): IN PROGRESS. Friday nine swapped (0511Z/0659Z receipts). Saturday nine NOT in Drive yet; hard stop Sat 9:30 AM ET; Muse/DOT to claim the desktop download. Come-Up narrator ear test pending. Vigloo balance read pending.
+5 Muse-run Grok hooks: nothing owed beyond item 3.
+6 Muse-run Gemini visuals/QA: nothing owed.
+7 Duet pacing: IN PROGRESS/WAITING. CTS-001 due today 6 PM ET; CTS-002 build waits on lock.
+8 Open owner-facing items: Friday WTCD caption/legacy booking issue is resolved by the corrected-cut swap (Architect 0511Z/0831 re-read). Monday Nov 30 noon Supabase keep/downgrade needs the owner (already on Architect record). Vigloo: Architect 0220 says no purchase needed on known numbers.
+9 Brand drift: D-1105-4 holds, no action.
+10 Out of scope untouched, no purchases, nothing published.
+Actions: no chases (no lane past its deadline), no reassignments, owner not messaged (nothing new needs his hands; Supabase decision already covered by existing Architect/DOT notes).
+-- ARCHITECT-TASK
