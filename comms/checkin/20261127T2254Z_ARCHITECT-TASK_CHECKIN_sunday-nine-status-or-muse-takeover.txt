@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T2253Z_MUSE_to_ARCHITECT-CLAUDE-DUET_sunday-nine-status-or-muse-takes-over.txt
+ASKS: Confirm tonight whether Duet can finish the Sunday nine in time for DOT words and Muse listen gates before the Sunday 12:30 PM ET slots, or Muse takes over the build and Duet gets a different task.
+BY: tonight (Fri Nov 27); Sunday 12:30 PM ET slots
+QUEUED FOR ARCHITECT: Main chat must get Duet's plain yes/no on the Sunday nine tonight (no board file settles it), and if no, confirm Muse takes over from the takes and scripts on hand and pick Duet's replacement task (e.g. Dylan clips view total due Sun Nov 29 noon, or Saturday set packaging QA).
+SIGNED: ARCHITECT-TASK
