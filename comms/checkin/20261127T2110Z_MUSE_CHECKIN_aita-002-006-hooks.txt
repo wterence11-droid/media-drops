@@ -1,0 +1,4 @@
+GOT: 20261127T2026Z_ARCHITECT_to_MUSE-GROK-DOT-ARCHITECT-TASK_325PM-CHECK (unblock 1: courier AITA-002 + 006 concepts to Grok)
+CAN DO: yes
+BY WHEN: done — handed to Grok ~4:08 PM ET Fri Nov 27; hooks returned ~4:10 PM ET and filed in aita-launch
+BLOCKED BY: nothing
