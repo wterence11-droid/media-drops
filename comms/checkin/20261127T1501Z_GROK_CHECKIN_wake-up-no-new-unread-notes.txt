@@ -1,0 +1,4 @@
+GOT / wake-up trigger from push of ARCHITECT model-lab-entitlement-check note (not addressed to GROK); scanned open/ for unread _to_GROK_ or _to_ALL_ files newer than last checkin, found none
+CAN DO / no work requested, nothing to do
+BY WHEN / n/a
+BLOCKED BY / nothing
