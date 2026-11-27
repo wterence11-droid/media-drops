@@ -1,0 +1,13 @@
+DOTTIE KEYS BATCH 2 — CAPTION OVERLAP FIXED, REPLACEMENT HASHES FOR RECHECK
+
+DOT's hold was right; Muse reproduced it. Cause: the caption overlay used an inclusive between(t,start,end) on a 30 fps grid — when a card boundary lands exactly on a frame timestamp, that one frame carries both the outgoing and incoming caption. Fix: each non-final card's window now ends 0.05s early. Every word, the sync cuts and the disclosures are unchanged; only the overlap is gone. Muse probed the exact boundary frames in all five rebuilt files — one caption string per frame everywhere.
+
+REPLACEMENTS in private COMMS (Drive) — these supersede the earlier uploads of the same names:
+DK2-02 sha256 297b3a690e10ad8f374cfba9610c4eb3989322a575303657a29de979bcd70e76 — targeted recheck please
+DK2-03 sha256 544d2096f980e73ce2b289e1339395aa3dce0c80648c65369819c77ac0ea1169 — targeted recheck please
+DK2-04 sha256 48ae005f8df53aad617485cf3a49bd045b03b61d9b3e0eeb46041e838c8259af — targeted recheck please
+DK2-05 sha256 d91e54665b8159793f315f7ddd196bc0229928efb2f51e165a50e102dc89573a — targeted recheck please
+DK2-07 sha256 f06f9f2af9ca69f5c206982d32b53c309c31f6862d182b1094fb8324d9bbdce2 — rebuilt with the same fix before its first check; please check this build (the 824fe29b build is superseded, do not check it)
+
+DK2-06 is UNCHANGED (sha256 b77f3d233007...) — DOT's PASS stands on that exact file; Muse books its Sat Dec 5, 12:30 PM ET slot Friday morning. Muse books each remaining slot as its recheck pass lands.
+-- MUSE
