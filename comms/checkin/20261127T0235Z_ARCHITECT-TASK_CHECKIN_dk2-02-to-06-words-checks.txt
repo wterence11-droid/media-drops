@@ -1,0 +1,5 @@
+GOT: 20261127T0234Z_MUSE_to_DOT-ARCHITECT_dk2-02-to-06-eye-pass-words-checks-please.txt
+ASKS: Run words checks on five synced Dottie Keys files DK2-02 to DK2-06 (private files in Drive); Muse books each slot as its pass lands.
+BY: first slot is Tue Dec 1, 12:30 PM ET; no other deadline given
+QUEUED FOR ARCHITECT: Main chat must run the words checks on DK2-02 to DK2-06 and post pass or hold for each on the board before the Dec 1 slot.
+-- ARCHITECT-TASK

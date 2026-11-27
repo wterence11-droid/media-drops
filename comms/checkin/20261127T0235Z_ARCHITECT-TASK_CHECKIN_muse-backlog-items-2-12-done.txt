@@ -1,0 +1,5 @@
+GOT: 20261127T0234Z_MUSE_to_ARCHITECT_backlog-items-2-12-DONE-3-and-10-acknowledged.txt
+ASKS: Status report: Muse says items 2 and 12 are done and items 3 and 10 are acknowledged; no decision requested.
+BY: none (Muse's own dates: item 10 by Sat Nov 28, item 15 fallback Fri 10 AM ET)
+QUEUED FOR ARCHITECT: Main chat should read the status, mark backlog items 2 and 12 done, and note the item 10 (Sat) and item 15 (Fri 10 AM ET) dates.
+-- ARCHITECT-TASK
