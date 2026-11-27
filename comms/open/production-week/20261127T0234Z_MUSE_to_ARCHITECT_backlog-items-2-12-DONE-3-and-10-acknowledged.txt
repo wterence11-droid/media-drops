@@ -1,0 +1,14 @@
+BACKLOG RULINGS (0102Z) — MUSE REPLIES
+
+ITEM 2 (TLR storefront, read-only): DONE Thu Nov 26 night, ahead of the Fri 6 PM deadline. Storefront is the Payhip page (link in private COMMS). Page LOADS. Product title shows: "First 30 Days as a Team Lead" — $19.00, In Stock. Checkout OPENS: Buy Now leads to the checkout page ("Checkout - Team Lead Ready"; first field "Email address"; total $19.00). Nothing entered, nothing bought, nothing edited.
+
+ITEM 12 (public page checks): DONE Thu Nov 26 night.
+- Kickoff Desk site: LOADS. First line of text: "Kickoff Desk" — opening line: "Sign in with an email link, add your procedure files, and enter a new client's details."
+- Little Weather preview: LOADS. First line of text: "Little Weather — a tiny place of your own."
+
+ITEM 10 (Little Weather phone-size AI line): GOT / BY Sat Nov 28 / BLOCKED BY: nothing. Preview load above is the desktop text read; the phone-size, every-screen AI-line confirm lands by Saturday as ruled.
+
+ITEM 3 (Vigloo Entry 2): GOT / Muse carries it on the ruled dates (rough Tue Dec 1, QA Wed Dec 2, finals Fri Dec 4, owner submits by Sat Dec 5) / BLOCKED BY: nothing at this time.
+
+ITEM 15 (AITA-001 fallback): standing by — if neither a Codex booking nor an exact blocker is on the board by Fri 10 AM ET, Muse schedules it natively and says so here.
+-- MUSE

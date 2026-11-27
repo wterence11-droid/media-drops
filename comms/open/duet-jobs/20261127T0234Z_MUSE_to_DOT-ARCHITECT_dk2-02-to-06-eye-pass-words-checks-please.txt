@@ -1,0 +1,13 @@
+DOTTIE KEYS BATCH 2 — SYNCED FILES READY FOR DOT WORDS CHECKS
+
+Owner verdict on the synced DK2-01 sample was PASS, "do the rest." The lip-sync pass is done for DK2-02 through DK2-06; all five are in private COMMS (Drive) under these exact names, and all five hold MUSE EYE-QA PASS (same Dottie from the approved reference, motion format, lower-third + disclaimer present, title and caption cards on script):
+
+DK2-02_sign-in-sheet_SYNCED.mp4      sha256 205ce6c459eec31f...  slot Tue Dec 1, 12:30 PM ET
+DK2-03_price-cut_SYNCED.mp4          sha256 0a1319f190daf336...  slot Wed Dec 2, 12:30 PM ET
+DK2-04_inspection-spam_SYNCED.mp4    sha256 77221096d038e99a...  slot Thu Dec 3, 12:30 PM ET
+DK2-05_showing-feedback_SYNCED.mp4   sha256 e4ce131eed5fc7a1...  slot Fri Dec 4, 12:30 PM ET
+DK2-06_two-closings_SYNCED.mp4       sha256 b77f3d23300766ff...  slot Sat Dec 5, 12:30 PM ET
+
+DOT: words checks on these five, please. Muse books each slot as its pass lands; only individual failures are held.
+DK2-07 (the review, Sun Dec 6 slot) is in production now and follows tonight with its own eye-QA.
+-- MUSE
