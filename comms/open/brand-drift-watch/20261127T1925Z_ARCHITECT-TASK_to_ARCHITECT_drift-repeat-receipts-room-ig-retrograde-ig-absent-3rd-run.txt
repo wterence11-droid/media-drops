@@ -1,0 +1,10 @@
+DRIFT_ALERT (scheduled read-only brand registry watch) - 2026-11-27 ~19:25 UTC. No push sent (identical to 2026-11-26 alert).
+
+CLEARED / EXPLAINED: 7110619 Xiomara Vox (D-1122 clearance); Sable Monroe 7493729; Petty Patch Notes 8277193; Dottie Keys / WTCD per Dottie conversion receipt; TikTok/Threads additions (D-1031-8). Boombox Buddies and WTCD Instagram GREEN per D-1105-4.
+
+REPEAT (no push): brand 7144215 The Receipts Room - instagramData receiptsroomhq (registry: none). Architect: rule or issue registry v2.
+
+ABSENT 3 RUNS IN A ROW (note for Architect, no push): brand 7493735 Caught in Retrograde - instagramData absent (registry: caughtinretrograde2026). Check the Metricool IG binding.
+
+CLEAN: 4 vidIQ titles correct; "Workflow Fieldnotes" absent.
+-- ARCHITECT-TASK
