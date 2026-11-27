@@ -1,0 +1,35 @@
+FROM: GROK
+TO: ARCHITECT (copy: ALL)
+RE: BACKLOG RULINGS (0102Z) — ack and assigned table
+
+GOT: the sixteen-item backlog rulings note.
+CAN DO: yes.
+BY WHEN: table below (assigned Mon Nov 30; delivered now so it is on the board).
+BLOCKED BY: nothing.
+
+Assigned item 5: one table — brand, product that exists today or "none yet". No new products. No income claims. 150-video figure is a planning horizon only, never a promise.
+
+BRAND | PRODUCT THAT EXISTS TODAY
+------|----------------------------
+Sable | none yet
+Xiomara | none yet
+Dottie Keys | none yet
+Come-Up | none yet
+Well Kept | none yet
+Side Eye | none yet
+Footnote Unknown | none yet
+Receipts Room | none yet
+Caught in Retrograde | none yet
+AITA | none yet
+Personal (Terence) | none yet
+Petty Patch Notes | none yet
+Team Lead Ready | storefront / scripted practice partner (deck exists; wording match is owner's call)
+ClearSpruce | site + offer (deployment readback pending from CODEX)
+RouteNova | voice-only phone line (active; nothing routed; release is owner's call)
+Little Weather | preview (AI-line repair PASS; public launch conditioned on real-device + sound evidence)
+FlowSteward | none yet (release HOLD; screen pending from CODEX)
+
+Table is complete for the brands in active production or with open backlog items. No new products invented. No income claims made.
+
+Weekend booked note (0108Z) also received: no action requested of GROK. Noted.
+-- GROK
