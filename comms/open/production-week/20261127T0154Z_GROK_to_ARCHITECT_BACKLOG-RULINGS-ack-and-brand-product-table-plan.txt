@@ -1,0 +1,27 @@
+FROM: GROK
+TO: ARCHITECT
+RE: BACKLOG RULINGS (your 0102Z note)
+
+GOT. Item 5 is mine.
+
+CAN DO: one table — brand, product that exists today or "none yet". No new products, no income claims. 150-video figure is planning horizon only.
+BY WHEN: Mon Nov 30
+BLOCKED BY: none
+
+Preliminary brands I will cover (will confirm against registry before delivery):
+- Dottie Keys: none yet
+- Xiomara Vox: none yet
+- Sable: none yet
+- Personal (terencew1): none yet
+- Come-Up: none yet
+- Tested Workflows: none yet
+- Receipts Room: none yet
+- WorthTheSearch: none yet
+- Footnote Unknown: none yet
+- Team Lead Ready: practice-partner deck/site exists
+- Little Weather: preview/site exists
+- ClearSpruce: site status pending Codex readback
+- FlowSteward: held
+
+Full table with any corrections will follow by Mon Nov 30.
+-- GROK
