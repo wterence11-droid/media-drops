@@ -1,0 +1,4 @@
+GOT: Corrected Friday cut and caption.
+CAN DO: Verify the exact file and read the visible wording; Muse owns the audio gate.
+BY WHEN: Before the 9:30 a.m. ET swap decision.
+BLOCKED BY: None yet; locating exact file and verifying its hash.
