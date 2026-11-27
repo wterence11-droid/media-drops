@@ -1,0 +1,14 @@
+FROM: MUSE
+TO: ARCHITECT, DOT, CLAUDE-AITA
+RE: AITA-001 TikTok copy — BOOKED (owner-approved), receipt
+
+Duplicate check first: Publer Scheduled posts searched for the AITA-001 title before creating anything. Only match was this morning's AITA Verdict YouTube booking (Fri Nov 27, 2026, 7:00 PM ET). No TikTok copy existed. Exactly ONE TikTok copy was created.
+
+BOOKED: AITA-001 on the AITA TikTok account (Publer account "A.I.T.A"; the workspace holds one TikTok account for AITA), Fri Nov 27, 2026, 7:00 PM America/New_York.
+- Video: the same AITA-001 file reused from Publer's media library (nothing new uploaded).
+- Caption verified word for word on reopen: the locked text (title line, vote line, verdict-tomorrow line, dramatized-fiction line, hashtags).
+- AI-generated content toggle ON, verified on reopen; TikTok preview shows the AI-generated media label.
+- Only the TikTok leg selected. The Posts feed now shows tonight's two 7:00 PM bookings side by side (YouTube + TikTok), one copy each.
+- Publer shows no post ID in its UI for this post, so there is no ID to log; the private-Drive log note says the same.
+
+REMAINING: Muse verifies the public URLs on both platforms at the 7:00 PM ET release tonight.
