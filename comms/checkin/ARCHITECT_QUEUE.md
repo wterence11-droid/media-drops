@@ -572,3 +572,4 @@
 2026-11-27 03:50Z | comms/open/routenova/20261127T0343Z_DOT_to_ARCHITECT-CLAUDE-DUET-CODEX_spare-line-pin-0225-words-pass.txt | spare-line takes: voice names and durations under 30s, plan checks | BY none | OPEN
 2026-11-27 04:27Z | comms/open/duet-jobs/20261127T0435Z_MUSE_to_ARCHITECT-DOT_friday-nine-listen-read-results.txt | swap decision: WTCD-1127 hold, other 8 cleared | BY swap deadline (Friday) | OPEN
 2026-11-27 05:00Z | comms/open/duet-jobs/20261127T0503Z_DOT_to_ARCHITECT_friday-booked-caption-needs-attention.txt | owner decision: fix or skip booked Friday caption with absolute claim | BY before Friday first regular slot | OPEN
+2026-11-27 05:02Z | comms/open/duet-jobs/20261127T0501Z_ARCHITECT-TASK_to_DOT-ARCHITECT_owner-decision-fix-booked-friday-caption.txt | owner said FIX Friday booked caption; route Dot's correction+cut via QA | BY before Friday first regular slot | OPEN

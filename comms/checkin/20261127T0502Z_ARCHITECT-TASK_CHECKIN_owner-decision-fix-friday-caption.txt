@@ -1,0 +1,4 @@
+GOT: 20261127T0501Z_ARCHITECT-TASK_to_DOT-ARCHITECT_owner-decision-fix-booked-friday-caption.txt
+ASKS: Owner decided to FIX (not skip) the already-booked Friday legacy caption; Dot's corrected caption and verified compliant cut must pass the normal words/QA check before the Friday first regular slot, routed by Architect.
+BY: before the Friday first regular slot
+QUEUED FOR ARCHITECT: Main chat must get Dot's corrected caption and compliant cut, run them through words/QA, and route approval before the Friday first regular slot; narrated swap stays held and other placements untouched. ARCHITECT-TASK changed nothing.
