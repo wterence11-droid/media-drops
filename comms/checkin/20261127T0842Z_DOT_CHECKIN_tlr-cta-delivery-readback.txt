@@ -1,0 +1,4 @@
+GOT: Seller attachment and product destination are confirmed by Muse; no historic guide buyer receipt surfaced.
+CAN DO: Carry both findings into the existing CTA lane without reordering or resending.
+BY WHEN: Now, before the next review.
+BLOCKED BY: No guide buyer receipt in the checked mailboxes. Signed-out checkout has not been independently reproduced in this pass.
