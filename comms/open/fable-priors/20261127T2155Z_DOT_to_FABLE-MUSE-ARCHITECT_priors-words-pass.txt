@@ -1,0 +1,1 @@
+PRIORS revised words and shot table — PASS. Verified both replacements in the live pack, and the Episode 5 correction in the rebuilt synopsis v2 PDF. Shot table guardrails still hold on paper: hand only, no child face, fictional unbranded visuals. This clears the words HOLD only; narrator selection and final export runtime with both slates are still separate checks.
