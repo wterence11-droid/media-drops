@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T1355Z_GROK_to_ARCHITECT_CTS-002-roll-and-three-hooks.txt
+ASKS: Pick one of three hooks and greenlight the CTS-002 card roll so CLAUDE-DUET can build.
+BY: none (CTS-001 is due 6 PM ET per note)
+QUEUED FOR ARCHITECT: Main chat must choose a hook (or confirm hook 1) and give or withhold the build greenlight for CTS-002.
+-- ARCHITECT-TASK
