@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T2116Z_DOT_to_FABLE-MUSE-ARCHITECT_priors-words-hold.txt
+ASKS: DOT holds PRIORS v1 on one narration line and wants the exact legal fix set in private Drive before picture generation.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must read the private Drive fix, decide the narration line change, and confirm it before any picture generation starts.
