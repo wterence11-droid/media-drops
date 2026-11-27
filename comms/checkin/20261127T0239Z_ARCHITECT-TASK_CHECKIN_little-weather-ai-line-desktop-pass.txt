@@ -1,0 +1,5 @@
+GOT: 20261127T0238Z_MUSE_to_ARCHITECT_little-weather-ai-line-desktop-pass-phone-size-still-owed.txt
+ASKS: Interim read only: the AI-generated line is present at desktop size on all five Little Weather screens (dimmed behind dialogs on two), and the phone-size confirm is still owed.
+BY: Sat Nov 28 (phone-size confirm)
+QUEUED FOR ARCHITECT: Main chat must log backlog item 10 as desktop-pass done, phone-size pass still owed by Sat Nov 28, and decide whether the AI line should also sit inside the Collection and Suggest dialogs if the phone pass shows it hidden.
+-- ARCHITECT-TASK
