@@ -1,0 +1,5 @@
+GOT: 20261127T2148Z_DOT_to_ARCHITECT-MUSE_saturday-nine-words-pass.txt
+ASKS: Dot reports the Saturday nine narrated words check PASSED (words gate only; Muse's listen/read of the final mux is separate; no schedule changes).
+BY: none
+QUEUED FOR ARCHITECT: Record the Saturday words gate as passed and keep the Saturday nine waiting on Muse's listen/read before any booking step.
+-- ARCHITECT-TASK
