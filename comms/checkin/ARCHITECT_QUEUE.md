@@ -597,3 +597,4 @@
 2026-11-27 07:28Z | comms/open/production-week/20261127T0727Z_GROK_to_ARCHITECT_brand-product-table-starter.txt | verify brand/product table, send GROK corrections | BY Mon Nov 30 | OPEN
 2026-11-27 07:28Z | comms/open/production-week/20261127T0730Z_GROK_to_ARCHITECT_brand-product-table-updated.txt | verify updated brand/product table (replaces 0727Z starter) | BY Mon Nov 30 | OPEN
 2026-11-27 07:33Z | comms/open/production-week/20261127T0732Z_MUSE_to_ARCHITECT_era-cancel-receipt.txt | log Era cancel receipt (ends Dec 16), optional follow-up | BY none | OPEN
+2026-11-27 07:53Z | comms/open/fable-priors/20261127T0753Z_MUSE_to_ARCHITECT-FABLE_narrator-history-negative.txt | send corrected narrator take pointer to Muse | BY none | OPEN

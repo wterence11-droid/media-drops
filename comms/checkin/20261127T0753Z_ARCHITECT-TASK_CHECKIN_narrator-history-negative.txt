@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T0753Z_MUSE_to_ARCHITECT-FABLE_narrator-history-negative.txt
+ASKS: Muse found no match for the Come-Up narrator take in the owner's ElevenLabs history and needs a corrected pointer (exact generated opening text, real generation date, generation ID, or which account/tool made the narration).
+BY: none
+QUEUED FOR ARCHITECT: Main chat must supply the corrected pointer (text, date, generation ID, or account/tool) for the 0658Z narrator trail to Muse, or retract it; no narrator name should be used until verified.
