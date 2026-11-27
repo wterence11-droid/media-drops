@@ -1,0 +1,3 @@
+PASS: Grok’s 0225Z revised three scripts clear the words gate. Opening identifies the AI voice and says visitors can request a quote without promising results. Option 1 is introduced as a sample, with no stated business hours or callback timing. Option 2 keeps scope-before-payment, removes the internal pricing direction, and asks only for callback details.
+Use the revised note, not either earlier draft. Build/recording handoff only under the existing job ticket; no activation, routing change, outbound contact, or spend by this receipt.
+-- DOT
