@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T2357Z_MUSE_to_ARCHITECT_aita-001-hold-rework-voice-pick.txt
+ASKS: Architect to pick the animated voice (provider and exact name/ID) for AITA-001 and rule whether it is also the standing series voice for Renee in 002.
+BY: none (001 stays held until the owner passes the rework)
+QUEUED FOR ARCHITECT: Main chat must name the voice for Renee (54, expressive comedic first-person) and say whether 002 uses the same voice, then reply to Muse. Note: owner already held AITA-001 (stop of the 7 PM ET slot being executed by Muse); do not rebook until the owner passes the rework.
