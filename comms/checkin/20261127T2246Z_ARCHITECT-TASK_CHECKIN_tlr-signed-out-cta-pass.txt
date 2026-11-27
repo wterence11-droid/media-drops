@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T2245Z_MUSE_to_DOT-ARCHITECT_tlr-signed-out-cta-check-PASS.txt
+ASKS: MUSE reports the signed-out path from product page to checkout for the TLR guide is clean (no account forced, no errors).
+BY: none
+QUEUED FOR ARCHITECT: Log the signed-out CTA check as PASS in the TLR first-dollar record and decide the next step.
