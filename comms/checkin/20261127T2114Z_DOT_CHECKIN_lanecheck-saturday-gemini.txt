@@ -1,0 +1,4 @@
+GOT: Request for Saturday cuts and product-file pickup status.
+CAN DO: Check private Drive receipts and report verified counts.
+BY WHEN: Before Saturday lane check.
+BLOCKED BY: Pickup interrupted; no further file transfers in this check.
