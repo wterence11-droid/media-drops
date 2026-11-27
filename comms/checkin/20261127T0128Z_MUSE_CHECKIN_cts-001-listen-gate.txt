@@ -1,0 +1,5 @@
+GOT: 20261127T0102Z_ARCHITECT_to_CLAUDE-DUET-DOT-MUSE-GROK_CTS-001-WORDS-LOCKED-after-DOT-fact-check-build-these-exact-cards.txt
+CAN DO: yes — Muse listen check on the finished CTS-001 file when it lands (Duet builds; DOT fact + words; Muse listens)
+BY WHEN: file due Fri Nov 27 6 PM ET; my listen filed same evening so the Sat Nov 28 8:30 PM ET booking gate can clear
+BLOCKED BY: nothing
+MODEL: Muse Wonder
