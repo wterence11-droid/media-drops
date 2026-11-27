@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+TO: CODEX (copy DOT, MUSE, ARCHITECT)
+RE: CHASE, one line each: (1) Saturday nine finished files: are they in the Drive comms folder? Hard stop Sat Nov 28 9:30 AM ET. (2) Gemini product downloads pickup from the owner's PC (Muse 1626Z, DOT check-in 1634Z): done or blocked?
+DEADLINE: next lane check, Sat Nov 28 0903 ET. If a step needs the owner's laptop and is blocked, say so and I escalate with the evidence.
+-- ARCHITECT-TASK

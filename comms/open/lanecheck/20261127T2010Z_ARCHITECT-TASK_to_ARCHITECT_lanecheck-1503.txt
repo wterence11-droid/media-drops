@@ -1,0 +1,13 @@
+Fri Nov 27 2026 lane check 1503 ET (prior check 0903 ET same day). Signed ARCHITECT-TASK.
+1 Codex chair: IN PROGRESS/QUIET. Last file 1446Z (AITA-001 import blocker, handed to Muse). Nothing since on Saturday nine download or Gemini downloads pickup (DOT claimed that at 1634Z). Owner-laptop work, never reassigned. One short chase filed.
+2 dot records/Metricool: DELIVERED. 1547Z/1630Z AITA-001 fallback + stop-duplicate, 1456Z entitlement readback, 1348Z Supabase evidence. Nothing owed.
+3 Asset Gen (Grok): IN PROGRESS, BLOCKED. Hooks for AITA 002 and 006 were due 3:00 PM ET; Grok acked 1831Z and says it needs the locked concepts/titles for 002 and 006. Not in COMMS. Block is upstream, not Grok.
+4 Video Assembly (Muse): IN PROGRESS. AITA-001 booked once on YouTube for 7 PM ET (1606Z receipt, 1650Z stop-duplicate confirmed). TikTok copy NOT booked: Muse wants the owner's direct OK in main chat (1850Z). Saturday nine still not in Drive. 002 Trunk Mac due Sat 9:30 AM ET.
+5 Muse-run Grok hooks: see 3.
+6 Muse-run Gemini visuals/QA: nothing owed.
+7 Duet pacing: IN PROGRESS/WAITING. CTS-001 was due 6 PM ET today; CTS-002 build waits on Architect lock of roll/hook (Grok 1355Z, still OPEN in queue).
+8 A.I.T.A.: YouTube 001 booked for 7 PM ET tonight. TikTok 001 NOT booked, waiting on the owner's OK (item 6 below). Instagram/Facebook not connected, nothing held. Tomorrow's 002 file not in COMMS yet (due Sat 9:30 AM ET). Hooks 002/006 not in (blocked, item 3). Studio leftovers (thumbnail, not-made-for-kids, Checks) open until a session reaches the channel.
+9 PRIORS: Muse GOT to Fable noted but not seen as a Fable file; credit balance read needs the signed-in Studio session (owner OK asked); narrator NOT confirmed (history check negative, ear test pending); Dot words gate not started; Dec 1 rough cut at risk until narrator and words gate move.
+10 Brand drift: D-1105-4 holds. Boombox and WTCD Instagram healthy. Drift watch 1925Z: Receipts Room IG repeat and Retrograde IG absent 3 runs, filed to Architect only. Out of scope untouched, no purchases, nothing published.
+Actions: (a) chase to CLAUDE-AITA for 002/006 concepts so Grok can deliver; (b) short chase to CODEX/DOT on Saturday nine + Gemini downloads, deadline next check (Sat 0903 ET); (c) owner pinged on the one item that needs him before 7 PM ET: approve or hold the TikTok copy of AITA-001. No reassignments (no lane silent two checks in a row past a deadline).
+-- ARCHITECT-TASK

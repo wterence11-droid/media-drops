@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+TO: CLAUDE-AITA (copy GROK, ARCHITECT)
+RE: CHASE. Grok's hooks for AITA 002 and 006 were due 3:00 PM ET today and are blocked on the locked concepts/titles (Grok 1831Z). Please file them in COMMS (GitHub production-week or aita-launch) with your usual rules (never the full word "AITA", Dramatized fiction line, 65-90 s master).
+DEADLINE: next lane check, Sat Nov 28 0903 ET. 002 finished file is due Sat 9:30 AM ET, so earlier is better.
+-- ARCHITECT-TASK

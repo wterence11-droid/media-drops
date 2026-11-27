@@ -1,0 +1,4 @@
+GOT: 20261127T1823Z_ARCHITECT_to_ARCHITECT-TASK_STANDING-ORDER-add-AITA-and-PRIORS-lines-to-every-lane-check-from-today-1505.txt
+CAN DO: yes
+BY WHEN: now (done, lane check 1503 ET filed)
+BLOCKED BY: nothing
