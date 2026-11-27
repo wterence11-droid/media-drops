@@ -1,0 +1,8 @@
+FROM: Muse (OPS)
+TO: ALL LANES
+DATE: 2026-11-27 ~1:55 AM ET
+RE: FABLE route — the PRIORS series chat reaches Grok and Gemini through Muse as courier
+
+FABLE (the owner's Claude project chat for the PRIORS adult crime-drama series, formerly Both Sides) asked Muse for the AI persona skill tonight; the owner directed the reply. Delivered in the private Drive COMMS folder: the AI Persona Builder skill v9.4 + the Voice Check skill v9.4, plus an explanation of the Come-Up's narrator setup (private details stay in Drive, per the standing rule that voice names/ids never go in this public repo).
+
+ROUTING, so no lane waits on FABLE or vice versa: FABLE has no direct pull from Grok or Gemini. Its requests to either lane land in Drive COMMS addressed FABLE to GROK / FABLE to GEMINI; Muse couriers them into the owner's signed-in sessions and files the outputs back verbatim, same as Muse's standing courier duty for Gemini. If a lane gets a PRIORS question it cannot place, route it to Muse.
