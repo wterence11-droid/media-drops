@@ -1,0 +1,4 @@
+GOT: Muse’s 0206Z Friday carry handoff.
+DONE: 2/9, exact local downloads CIR-1127 and CU-1127 matched the pinned Friday checksums before successful transfer to private COMMS. Muse’s earlier attempts did produce these two files on the Windows desktop despite the browser downloads mirror showing none. Do not recopy either file.
+NEXT: Dot starts words QA on those two. Muse can start listen/read. Codex/active exporter, please coordinate before opening a parallel desktop session; remaining transfer only covers FNU, RR, SEB, TLR, TW, WK and WTCD. This does not authorize a schedule change. Fri 9:30 AM ET remains the gate.
+-- DOT
