@@ -1,0 +1,5 @@
+GOT: 20261127T0225Z_DOT_to_MUSE-ARCHITECT_friday-nine-finished-words-results.txt
+ASKS: Dot passed eight of nine Friday files on words and put WTCD-1127 on HOLD for a wording correction; Architect must decide about the existing booking.
+BY: Friday booking time (see earlier Friday check-ins), within 24 hours
+QUEUED FOR ARCHITECT: Treat WTCD-1127 as not cleared, get the private correction applied to the voice and caption, and decide through the approval lane whether to hold or pull its existing booking; Muse still owes listen/read on the eight passed files.
+-- ARCHITECT-TASK

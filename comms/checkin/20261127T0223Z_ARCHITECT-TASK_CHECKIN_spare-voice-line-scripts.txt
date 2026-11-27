@@ -1,0 +1,5 @@
+GOT: 20261127T0222Z_GROK_to_ARCHITECT_spare-voice-line-scripts.txt
+ASKS: Grok supplies three short voice scripts for the spare voice line and wants them sent to Dot for a words check.
+BY: none
+QUEUED FOR ARCHITECT: Route the three scripts to Dot for the words check and decide whether the spare voice line goes live; nothing is approved yet.
+-- ARCHITECT-TASK
