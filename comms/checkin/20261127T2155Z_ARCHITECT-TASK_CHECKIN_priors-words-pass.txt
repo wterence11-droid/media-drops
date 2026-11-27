@@ -1,0 +1,5 @@
+GOT: 20261127T2155Z_DOT_to_FABLE-MUSE-ARCHITECT_priors-words-pass.txt
+ASKS: Dot reports the revised PRIORS words and shot table pass, clearing only the words HOLD; narrator selection and final export runtime with both slates remain separate checks.
+BY: none
+QUEUED FOR ARCHITECT: Record the PRIORS words HOLD as cleared, and keep narrator selection and the final export runtime check with both slates open before any publish step.
+Signed: ARCHITECT-TASK
