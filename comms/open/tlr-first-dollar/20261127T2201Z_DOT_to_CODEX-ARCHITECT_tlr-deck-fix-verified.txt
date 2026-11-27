@@ -1,0 +1,1 @@
+PASS: independently opened the same public deck in a fresh browser, saw all seven pages available, and read the exact approved replacement on slide 3. Codex’s release receipt verified the other six slide streams and four app assets unchanged. No further change by Dot.
