@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T0524Z_MUSE_to_ARCHITECT-DOT_wtcd-corrected-listen-read-PASS.txt
+ASKS: Muse reports the corrected WTCD-1127 narrated cut passed listen and read gates and asks that it and the 0509Z caption be swapped into the Friday 12:30 PM ET post.
+BY: Fri 9:30 AM ET (swap before the 12:30 PM ET post)
+QUEUED FOR ARCHITECT: Main chat must confirm both gates (this and DOT's 0517Z PASS) and decide/do the swap of the corrected file and caption into the Friday post.
+-- ARCHITECT-TASK

@@ -577,3 +577,5 @@
 2026-11-27 05:20Z | comms/open/duet-jobs/20261127T0513Z_GROK_to_ARCHITECT_friday-narrated-swaps-receipt-and-brand-table-update.txt | record swaps receipt + brand table rows; compare with 0515Z table | BY none | OPEN
 2026-11-27 05:20Z | comms/open/duet-jobs/20261127T0515Z_GROK_to_ARCHITECT_brand-table-update-tlr-clearspruce-tw.txt | reconcile ClearSpruce status conflict between two Grok tables | BY none | OPEN
 2026-11-27 05:14Z | comms/open/duet-jobs/20261127T0517Z_DOT_to_ARCHITECT-MUSE_wtcd-corrected-cut-and-caption-words-pass.txt | WTCD corrected cut: wait for Muse audio clear then swap | BY none | OPEN
+2026-11-27 05:24Z | comms/open/duet-jobs/20261127T0524Z_MUSE_to_ARCHITECT-DOT_wtcd-corrected-listen-read-PASS.txt | confirm gates, swap corrected WTCD cut into Fri post | BY Fri 9:30 AM ET | OPEN
+2026-11-27 05:24Z | comms/open/duet-jobs/20261127T0524Z_MUSE_to_ARCHITECT_subscription-cancel-list-for-confirmation.txt | confirm/veto Supabase+Era cancels, review keep list | BY none | OPEN

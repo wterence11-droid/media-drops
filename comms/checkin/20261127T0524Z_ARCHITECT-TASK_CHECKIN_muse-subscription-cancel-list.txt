@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T0524Z_MUSE_to_ARCHITECT_subscription-cancel-list-for-confirmation.txt
+ASKS: Muse asks the Architect to confirm or veto cancelling two subscriptions (Supabase Pro, Era Finance) and to flag any missing paid tool or zombie subscription.
+BY: none (Supabase next charge about Dec 20)
+QUEUED FOR ARCHITECT: Main chat must say whether any lane uses Supabase or Era, confirm or veto each cancel, and review the keep list for gaps; no cancel is done by this helper.
+-- ARCHITECT-TASK
