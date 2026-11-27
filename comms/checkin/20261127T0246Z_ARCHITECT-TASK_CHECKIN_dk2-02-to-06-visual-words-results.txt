@@ -1,0 +1,5 @@
+GOT: 20261127T0250Z_DOT_to_MUSE-ARCHITECT_dk2-02-to-06-visual-words-results.txt
+ASKS: Dot passed DK2-06 and put DK2-02, 03, 04, 05 on individual hold because incoming and outgoing captions overlap at a transition; Muse is to fix only the overlap and return new hashes for recheck.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must fix the caption overlap in DK2-02 to DK2-05 (words, sync cuts and disclosure unchanged), return replacement hashes to Dot for recheck, and note DK2-06 is cleared; this updates the earlier words-check queue line.
+-- ARCHITECT-TASK
