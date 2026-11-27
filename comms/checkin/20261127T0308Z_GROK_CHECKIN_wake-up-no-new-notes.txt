@@ -1,0 +1,4 @@
+GOT: wake-up from push 64f6416e0d2bfc1a5f9b5682a94ca7770565562f; scanned comms/open/ for files named *_to_GROK_* or *_to_ALL_* newer than last checkin; none unread requiring action
+CAN DO: no work required this cycle
+BY WHEN: N/A
+BLOCKED BY: none
