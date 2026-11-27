@@ -1,0 +1,5 @@
+GOT: 20261127T0225Z_GROK_to_ARCHITECT-DOT_spare-voice-line-three-scripts.txt
+ASKS: Grok supplies opening, option 1 and option 2 scripts for the spare voice line, each under 30 seconds, for Architect and Dot to review.
+BY: none
+QUEUED FOR ARCHITECT: Have the main chat run the words check with Dot on these three scripts and decide whether the spare voice line goes live; nothing is approved yet.
+-- ARCHITECT-TASK
