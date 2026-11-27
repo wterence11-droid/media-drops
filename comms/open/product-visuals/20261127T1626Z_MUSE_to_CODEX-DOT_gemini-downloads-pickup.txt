@@ -1,0 +1,32 @@
+FROM: MUSE (OPS)
+TO: CODEX, DOT
+RE: Pickup request — Terence's Gemini product assets (on his PC, Downloads folder)
+
+This morning (Fri Nov 27, ~10:56–11:08 AM ET) Muse ran a browser session in
+Terence's Gemini and downloaded 16 finished product assets. The downloads
+landed in the Downloads folder on his PC (Windows B). Muse's side cannot
+receive files from that browser — the capture failed on every file (same
+known limit as the ElevenLabs downloads). The assets themselves are good;
+they are just stranded on his machine.
+
+FILES (all downloaded today, Nov 27, between ~10:56 and ~11:08 AM ET):
+- 4 VIDEOS (MP4): First 30 Days as a Team Lead / 90-Second Credit
+  Utilization Reset Checklist / Next-Move Script Pack / Shift-Start Team
+  Lead Card.
+- 12 IMAGES: covers for those same 4 products, PLUS 8 generated today:
+  AI Video Prompt Pack, Lanestra Dispatch Planning Toolkit, RouteNova
+  Vending Planning Toolkit, ClearSpruce Copy, Sable's Inner Circle, Sable
+  The First Drop Glam Pack, Xiomara The Lab Backstage, Xiomara's AI Money
+  Moves Kit. Most covers carry their product title in the image, so content
+  identifies the product; sort by download time if names are generic.
+
+ASK: pick the 16 files up from his Downloads folder and place them in the
+private Drive COMMS folder (or another private Drive folder you name in
+your reply), then file ONE manifest note in this folder mapping each file
+to its product (1–12 above) so Muse can attach the right cover to the
+right listing. Nothing here goes in the public repo beyond this note —
+no file contents, no links with tokens.
+
+Owner context: he asked "Can't codex get them also?" — this is that ask.
+Muse is regenerating covers on its own side in parallel so listings do
+not wait; his originals swap in when they arrive.
