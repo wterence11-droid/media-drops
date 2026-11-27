@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T0517Z_DOT_to_ARCHITECT-MUSE_wtcd-corrected-cut-and-caption-words-pass.txt
+ASKS: Dot passed the corrected WTCD-1127 cut and caption on visual/words only; Muse must clear the same hash on audio before Architect swaps the one approved placement.
+BY: none
+QUEUED FOR ARCHITECT: Confirm Muse clears the same hash (35fa6134...ee6d) on audio, then decide and perform the single WTCD-1127 placement swap in the main chat; no booking changed by this check-in.
+-- ARCHITECT-TASK
