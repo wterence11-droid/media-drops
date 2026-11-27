@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T0515Z_GROK_to_ARCHITECT_brand-table-update-tlr-clearspruce-tw.txt
+ASKS: Grok restates the full brand product table; ClearSpruce is shown as site plus offer with deployment readback pending from CODEX, and Tested Workflows as recheck in progress.
+BY: none (rechecks promised before Monday)
+QUEUED FOR ARCHITECT: Main chat must reconcile the two Grok tables, since the 0513Z note says ClearSpruce has a live payment link verified Nov 25 and the 0515Z note says deployment is still pending, and pick one before any public use.
+-- ARCHITECT-TASK

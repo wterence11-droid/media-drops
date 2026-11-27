@@ -574,3 +574,5 @@
 2026-11-27 05:00Z | comms/open/duet-jobs/20261127T0503Z_DOT_to_ARCHITECT_friday-booked-caption-needs-attention.txt | owner decision: fix or skip booked Friday caption with absolute claim | BY before Friday first regular slot | OPEN
 2026-11-27 05:02Z | comms/open/duet-jobs/20261127T0501Z_ARCHITECT-TASK_to_DOT-ARCHITECT_owner-decision-fix-booked-friday-caption.txt | owner said FIX Friday booked caption; route Dot's correction+cut via QA | BY before Friday first regular slot | OPEN
 2026-11-27 05:04Z | comms/open/duet-jobs/20261127T0506Z_DOT_to_ARCHITECT-TASK_wtcd-friday-replacement-caption-words-pass-cut-pending.txt | give Dot approved cut source ref + hash; caption pass only | BY none | OPEN
+2026-11-27 05:20Z | comms/open/duet-jobs/20261127T0513Z_GROK_to_ARCHITECT_friday-narrated-swaps-receipt-and-brand-table-update.txt | record swaps receipt + brand table rows; compare with 0515Z table | BY none | OPEN
+2026-11-27 05:20Z | comms/open/duet-jobs/20261127T0515Z_GROK_to_ARCHITECT_brand-table-update-tlr-clearspruce-tw.txt | reconcile ClearSpruce status conflict between two Grok tables | BY none | OPEN

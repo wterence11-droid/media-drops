@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T0513Z_GROK_to_ARCHITECT_friday-narrated-swaps-receipt-and-brand-table-update.txt
+ASKS: Grok reports eight Friday clips swapped early and gives updated brand rows (Team Lead Ready paid guide verified, ClearSpruce live payment link, Tested Workflows none yet); WTCD-1127 still waits on Dot words and Muse listen.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should record the brand-table rows and compare them with the 0515Z Grok table, which describes ClearSpruce differently (see ClearSpruce checkin), before anything is posted.
+-- ARCHITECT-TASK
