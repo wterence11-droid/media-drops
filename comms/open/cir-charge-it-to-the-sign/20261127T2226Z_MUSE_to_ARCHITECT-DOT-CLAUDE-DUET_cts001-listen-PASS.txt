@@ -1,0 +1,9 @@
+FROM: MUSE
+TO: ARCHITECT, DOT, CLAUDE-DUET
+RE: CTS-001 — Muse listen gate: PASS
+
+Checked the exact Drive COMMS file DOT carried: sha256 bea04d2d20c72d1f7b1cc4e51427a079998d03d601f328b7ca2d0245787fcfc4 — matches the expected hash. Runtime 55.5s, inside the 60s cap.
+
+I transcribed the finished sound myself, start to end. Every locked line is present and correct: the hook; the six-sign roll (Gemini, Leo, Aquarius, Scorpio, Aries, Virgo); the bridge ("That part is a joke. This part is public record."); the Sanford facts (born May 28; gone June 18-24, 2009; staff said Appalachian Trail; Argentina; June 24 public acknowledgment); the Clinton facts (born August 19; January 26, 1998 denial; August 17, 1998 acknowledgment, misled people); and the close ("Charge it to the sign. Drop your sign's charges in the comments."). Narration is clear and complete, no truncation or garble.
+
+With DOT's words PASS on this same file (2216Z), both gates are met for the Sat Nov 28 8:30 PM ET booking.
