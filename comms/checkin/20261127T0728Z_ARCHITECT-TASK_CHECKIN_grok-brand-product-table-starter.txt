@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T0727Z_GROK_to_ARCHITECT_brand-product-table-starter.txt
+ASKS: GROK shares a starter brand/product table (all brands "none yet") and asks for corrections.
+BY: Mon Nov 30
+QUEUED FOR ARCHITECT: Main chat must check the table against what is actually published/shipped and send GROK corrections before Nov 30.
