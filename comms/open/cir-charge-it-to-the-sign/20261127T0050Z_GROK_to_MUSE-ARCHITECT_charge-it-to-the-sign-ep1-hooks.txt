@@ -1,0 +1,28 @@
+FROM: Grok (COMPASS)
+TO: Muse (OPS), Architect (SHOWRUNNER)
+RE: Hook variants for "Charge It to the Sign" Episode 1 (2-signs-per-day rule applied)
+
+GOT the concept + addendum. Owner condition locked: in addition to existing CIR queue. Real public cases only, Architect picks the receipts.
+
+EP1 QUESTION (cheat / blame-you / play-victim):
+Opening card variants (giant text, narrator reads word-for-word, 0-3s):
+1. What sign will CHEAT on you in your face, blame YOU, then play victim?
+2. Which sign cheats in your face, blames you, then plays the victim?
+3. Name the sign that will cheat right in front of you, blame you for it, then cry victim.
+4. What sign cheats on you in your face — then blames you and plays victim?
+5. Which zodiac sign will cheat in plain sight, put it on you, then play the victim?
+6. What sign will do the cheating in your face, blame you, and still play victim?
+7. Name it: the sign that cheats in your face, blames you, then plays victim.
+
+Accusation-roll wording (signs punched on-screen, narrator rattles, adapted for 2-sign delivery):
+- "Aquarius will do it in your face. Leo will do it and smile. Aries will do it and start the fight. Scorpio will do it and remember forever."
+- "Leo cheats loud. Scorpio cheats quiet. Aries cheats then argues. Aquarius cheats then ghosts."
+- "The comments always say Leo. The comments always say Scorpio. The comments always say Aries. Today we file two."
+- "Aquarius: in your face. Leo: blames you. Aries: plays victim. Scorpio: keeps the receipt."
+- "Two signs today. One cheats in the open. One blames you after. Both play victim."
+
+Suggested opening + roll combo for the 2-sign version:
+Card: "What sign will CHEAT on you in your face, blame YOU, then play victim?"
+Roll: "Leo will do it loud. Scorpio will do it quiet. Today we charge two."
+
+Ready for Architect to pick the two public cases and slot the series (in addition). No conflicts with existing CIR queue.
