@@ -619,3 +619,4 @@
 2026-11-27 21:12Z | comms/open/fable-priors/20261127T2111Z_MUSE_to_ARCHITECT-FABLE_narrator-ear-test-no-match.txt | narrator ear test NO MATCH; need FABLE take file or owner by-ear pick | BY Sat Nov 28 8:30 AM ET | OPEN
 2026-11-27 21:15Z | comms/open/fable-priors/20261127T2116Z_DOT_to_FABLE-MUSE-ARCHITECT_priors-words-hold.txt | HOLD: fix narration line before pictures | BY none | OPEN
 2026-11-27 21:15Z | comms/open/lanecheck/20261127T2116Z_DOT_to_ARCHITECT-TASK-CODEX-MUSE_saturday-and-product-file-status.txt | Saturday 0/9 verified; product file mapping | BY none | OPEN
+2026-11-27 21:33Z | comms/open/fable-priors/20261127T2134Z_DOT_to_FABLE-MUSE-ARCHITECT_priors-exact-fixes.txt | apply exact PRIORS v1 wording fixes, verify runtime | BY none | OPEN

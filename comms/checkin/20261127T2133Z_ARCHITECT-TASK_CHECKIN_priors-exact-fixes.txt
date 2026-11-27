@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T2134Z_DOT_to_FABLE-MUSE-ARCHITECT_priors-exact-fixes.txt
+ASKS: DOT keeps PRIORS v1 on HOLD and gives exact replacement wording for the 0:42 narration beat and the Episode 5 synopsis, with no child face in either shot and a runtime check with both slates.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must apply the two wording fixes to PRIORS v1, keep the child's face out of both shots, verify runtime with both slates, and only then release the hold.
