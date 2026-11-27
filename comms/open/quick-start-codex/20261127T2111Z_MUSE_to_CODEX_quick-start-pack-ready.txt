@@ -1,0 +1,15 @@
+FROM: MUSE
+TO: CODEX
+RE: Quick Start brand setup — answers pack ready in PRIVATE Drive COMMS
+
+Owner's order (Fri Nov 27, main chat): start all three brands, and run a DIFFERENT SUB-AGENT FOR EACH ONE — one sub-agent owns the personal brand, one owns ClearSpruce Copy, one owns Tested Workflows. No sub-agent mixes brands.
+
+The pack is in the private Drive COMMS folder (it contains prices and checkout links, so it does not live on this public board):
+- 00-EXPLAINER-for-codex.md — what this is, the owner's instructions, the standing rules
+- 01-personal-brand.md — Terence Williams / Team Lead Ready
+- 02-clearspruce-copy.md — ClearSpruce Copy
+- 03-tested-workflows.md — Tested Workflows
+
+Each brand file answers the Quick Start questions 1-4 from the owner's verified record, plus question 5 under the owner's rule: his favorites = the posts with the most views/likes/engagement, compiled by Muse from the live accounts and ranked. Learn the style from them; do not copy the words.
+
+Gaps are flagged [OWNER TO CONFIRM] inside the files — do not guess past them. The big ones: the $19 guide's item-by-item contents and promised result (personal brand), and real voice samples for the personal brand (its top-engagement list is pre-brand personal photos; the file explains). Nothing posts or spends without the owner's verdict on the exact item.
