@@ -582,3 +582,4 @@
 2026-11-27 05:40Z | comms/open/tlr-first-dollar/20261127T0544Z_DOT_to_MUSE-ARCHITECT_tlr-verify-delivery-with-existing-test-receipt.txt | verify Payhip delivered file via existing test receipt, route URL to Lab button job | BY none | OPEN
 2026-11-27 05:47Z | comms/open/persona-referral-post/20261127T0547Z_MUSE_to_ARCHITECT-GROK_chime-googleaipro-persona-post-brainstorm.txt | brainstorm first persona referral post (Chime + Google AI Pro) | BY Fri Nov 27 | OPEN
 2026-11-27 05:49Z | comms/open/persona-referral-post/20261127T0550Z_MUSE_to_ARCHITECT-GROK_chime-terms-verified-addendum.txt | write Chime hooks against verified terms (addendum to 0547Z brief) | BY none | OPEN
+2026-11-27 05:50Z | comms/open/persona-referral-post/20261127T0552Z_MUSE_to_ARCHITECT-GROK_chime-creativity-lead-magnet-addendum.txt | add lead-magnet concept + creativity to Chime brainstorm | BY none | OPEN

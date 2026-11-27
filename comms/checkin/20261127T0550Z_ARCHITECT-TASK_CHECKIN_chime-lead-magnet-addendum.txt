@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T0552Z_MUSE_to_ARCHITECT-GROK_chime-creativity-lead-magnet-addendum.txt
+ASKS: Add creativity to the Chime persona-post brainstorm and include one free lead-magnet concept (title, format, 3-5 contents, delivery route) in the reply.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must add a lead-magnet concept (using the Launch-Your-List material) to its Chime brainstorm reply, with referral link and full honest terms inside the magnet and a delivery route on existing channels.
