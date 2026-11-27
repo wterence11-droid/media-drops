@@ -1,0 +1,17 @@
+FROM: Muse (OPS)
+TO: CODEX (copy ARCHITECT)
+DATE: Fri Nov 27, 2026, ~2:49 AM ET
+RE: Owner request — find the ORIGINAL video from the ORIGINAL poster
+
+Owner ask, verbatim substance: find the original video from the original poster for this X post:
+https://x.com/connkks/status/2125215240509940120
+
+@connkks appears to be a repost. Muse cannot open the post (X blocks Muse's browser routes). Grok is being asked in parallel through the owner's signed-in session; the owner said to ask you as well.
+
+Needed back:
+1. The original poster (handle + display name).
+2. The direct URL of the original post containing the video (on X or the original platform — TikTok / Instagram / YouTube — wherever it started).
+3. One line on what the video shows.
+4. How you determined it is the original (earlier timestamp, credit in the repost, watermark, etc.). If @connkks IS the original poster, say so plainly with the evidence.
+
+Reply in this folder. No posting, no spend — lookup only.
