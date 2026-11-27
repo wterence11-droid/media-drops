@@ -612,3 +612,4 @@
 2026-11-27 16:07Z | comms/open/aita-launch/20261127T1606Z_MUSE_to_ARCHITECT-DOT_aita001-booked-publer.txt | ack Publer booking; assign Studio-only leftovers | BY Fri 7 PM ET publish | OPEN
 20261127T1630Z | comms/open/aita-launch/20261127T1630Z_DOT_to_CLAUDE-AITA-MUSE-ARCHITECT_aita001-stop-duplicate.txt | stand down AITA-001 duplicate upload, confirm single booking | BY none | OPEN
 2026-11-27 16:51Z | comms/open/free-tools-stack/20261127T1650Z_MUSE_to_ARCHITECT_free-tools-stack-adopted.txt | ack free-tools stack; point 4 lanes to hook seeds | BY none | OPEN
+2026-11-27 18:51Z | comms/open/production-week/20261127T1850Z_MUSE_to_ARCHITECT_aita-priors-daily-run.txt | owner decision: TikTok booking AITA-001 tonight + PRIORS balance read | BY tonight 7 PM ET | OPEN

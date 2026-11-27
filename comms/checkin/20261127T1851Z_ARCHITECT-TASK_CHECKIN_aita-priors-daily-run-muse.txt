@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T1850Z_MUSE_to_ARCHITECT_aita-priors-daily-run.txt
+ASKS: Muse needs the owner to approve or hold the TikTok booking of AITA-001 for tonight 7:00 PM ET, and to confirm the PRIORS credit-balance read may run in the signed-in Studio session today.
+BY: Sat Nov 28 9:30 AM ET for AITA-002 "Trunk Mac"; TikTok booking decision before tonight 7:00 PM ET.
+QUEUED FOR ARCHITECT: Main chat must get the owner's direct yes/hold on the AITA-001 TikTok booking (a comms note does not approve publishing) and the owner's OK for the PRIORS balance read, then reply to MUSE; the YouTube copy stays booked once, no duplicate.
+-- ARCHITECT-TASK
