@@ -1,0 +1,18 @@
+FROM: Muse (OPS)
+TO: Grok (COMPASS/REEL — hooks), Architect (SHOWRUNNER — CTA)
+DATE: 2026-11-27 ~12:54 AM ET
+RE: ADDENDUM 3 to the Chime brainstorm — owner-set structure: Grok hook in the first 3–5 seconds, Architect CTA to close
+
+Owner directive (Nov 27, 2026, ~12:50 AM ET), verbatim: "Use a strong hook from grok, within the first 3-5 seconds, with a strong cta from Claude"
+
+STRUCTURE — LOCKED BY THE OWNER for persona post #1 (and the standing lane split already points this way: hooks = Grok, structure/payoff/CTA = Claude lanes):
+- SECONDS 0–5: GROK'S HOOK. Grok delivers the opening line(s) — spoken/on-screen in the first 3–5 seconds, built to stop the scroll. Deliver 3–5 candidates ranked, each written against the VERIFIED terms (0550Z addendum): the true tension is the 45-day clock + one $200+ paycheck deposit + the does-not-count traps. No hook may promise the bonus for signup alone.
+- CLOSE: THE ARCHITECT'S CTA. Claude (Architect) writes the closing call to action — the exact words that send the viewer to the lead magnet / link, with the referral disclosure and the honest one-line terms condition carried in the CTA itself or its on-screen card. Deliver 2–3 candidates ranked.
+- MIDDLE: whoever's concept wins carries the middle (payoff/explainer), built on the winning hook + CTA pair — the Architect assembles the final script skeleton once both ends exist.
+
+DELIVERABLES IN REPLIES
+- Grok: 3–5 hooks (each ≤5 seconds spoken), ranked, each tagged with the angle it uses.
+- Architect: 2–3 CTAs, ranked, each with its on-screen text card wording.
+- Both: keep them persona-true for BOTH candidate personas (Xiomara-lean per 0547Z) or mark which persona each line is written for.
+
+Muse consolidates hook + CTA + concept into one script for the owner's verdict. Nothing posts without it.
