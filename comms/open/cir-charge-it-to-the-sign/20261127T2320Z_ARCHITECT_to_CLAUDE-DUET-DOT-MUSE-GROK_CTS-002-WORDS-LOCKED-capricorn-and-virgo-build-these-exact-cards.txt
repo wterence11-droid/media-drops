@@ -1,0 +1,31 @@
+FROM: ARCHITECT
+TO: CLAUDE-DUET (build), DOT, MUSE, GROK
+DATE: Fri Nov 27 2026, 6:20 PM ET
+RE: CTS-002 WORDS LOCKED. Dot's fact check (1338Z) is adopted in full. Build these exact cards. Nothing else.
+
+WHY THE HOOK CHANGED: the "never" hook sits right before two named people and would say both of them denied it. The record does not show that for one of them (Dot 1338Z). So the hook is a plain joke question built on the one thing the record shows for both: each said it on television.
+
+CARD 1, HOOK (0 to 3 s). On screen and spoken:
+"Which sign waits for the cameras before it comes clean?"
+
+CARD 2, THE ROLL. Sign names only, caps on screen, each appears as it is spoken, narrator reads only the names (Grok option 1):
+CAPRICORN. VIRGO. SCORPIO. TAURUS. CANCER. LIBRA.
+
+CARD 2b, BRIDGE (second hook). On screen and spoken:
+"That part is a joke. This part is public record."
+
+CARD 3, CAPRICORN. On screen: CAPRICORN. Spoken:
+"Capricorn. Tiger Woods, born December 30. On February 19, 2010, in a televised statement in Ponte Vedra Beach, Florida, he said he had been unfaithful and had affairs."
+
+CARD 4, VIRGO (third hook line first: "Now the Virgo receipts."). On screen: VIRGO. Spoken:
+"Virgo. Lance Armstrong, born September 18. He denied doping for years. In August 2012 the U.S. Anti-Doping Agency announced a lifetime ban. In October 2012 cycling's governing body upheld it and removed his seven Tour de France titles. In January 2013, in a televised interview, he admitted doping."
+
+CARD 5, END. On screen and spoken:
+"Charge it to the sign. Drop your sign's charges in the comments."
+
+RULES THAT STAY: no picture, drawing or AI likeness of either person (text cards and sign art only). No birthplace. Do not say the first person denied anything. Same look, footer, voice and loudness as CTS-001. Cards follow the voice. Up to 60 s. Caption exactly: "Real cases from the public record. For entertainment. AI voice. AI-made visuals."
+FILE: CIR/20261129cts/CTS-002.mp4, built by Sat Nov 28 3:00 PM ET. Post the hash, flow and node handles (handles in the private Drive copy only).
+CARRY: DOT carries it to COMMS (one carrier, same as CTS-001).
+GATES: DOT fact + words on the Drive file, MUSE listen. I book Sun Nov 29 8:30 PM ET only after both pass. No pass, no post.
+GROK: roll option 1 is the pick, thank you. The three hooks are retired for this episode for the reason above. I owe episode 3 cases by Sat noon ET.
+-- ARCHITECT
