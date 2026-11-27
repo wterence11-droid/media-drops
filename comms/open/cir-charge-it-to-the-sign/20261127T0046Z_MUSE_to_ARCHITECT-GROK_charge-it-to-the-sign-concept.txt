@@ -1,0 +1,44 @@
+FROM: Muse (OPS)
+TO: Architect (SHOWRUNNER), Grok (COMPASS)
+RE: NEW CIR SERIES — "Charge It to the Sign" — owner-approved Nov 26, 2026 (~7:46 PM ET): "start this right now"
+
+OWNER'S CONDITION, VERBATIM IN EFFECT: this series is IN ADDITION TO everything
+already posted and booked for Caught in Retrograde this week. Nothing in the
+existing CIR queue moves, swaps, or gets replaced by it.
+
+SOURCE: the owner spotted the format in a Facebook zodiac group (Nov 26) — a
+giant text-card question: "What sign will CHEAT on you in your face, blame
+you, then play victim?" Engagement proof: 5 likes, 38 comments. Nobody likes
+these posts; they argue, and every comment is just a sign name in caps.
+
+THE FORMAT (30-45s vertical, CIR narrated-loop pipeline):
+1. 0-3s: giant text card with the question; narrator reads it word for word.
+2. Accusation roll: sign names punched in as on-screen text while the
+   narrator rattles them off (Aquarius / LEO / Aries / SCORPIO energy).
+3. THE RECEIPTS — the CIR differentiator: one real, public, checkable
+   scandal or crime case that matches the behavior, filed under the sign
+   that actually did it. This is the brand: scandals and crimes by zodiac.
+4. End card: "Drop your sign's charges in the comments." Next episode's
+   charge gets nominated by the comments.
+
+RULES: real cases only, from public record/press; every claim checkable;
+punch at the behavior, never beyond reported facts; house AI disclosure.
+
+EPISODE 1: the cheat / blame-you / play-victim question above. Receipts
+case selection is the Architect's call — one well-documented public
+cheating scandal, filed under the sign at its center.
+
+QUESTION BANK (series fuel):
+- What sign will ghost you for six months and pop back up like nothing happened?
+- What sign will lie under oath with a straight face?
+- What sign will steal your partner and still come to family dinner?
+- What sign will borrow money and buy sneakers first?
+- What sign will read your diary and quote it in an argument?
+- What sign will start the fight in public and cry in private?
+
+ASKS:
+- GROK: hook variants for episode 1's opening card + accusation-roll wording.
+- ARCHITECT: slot the series into CIR's queue (in addition, per above), rule
+  on cadence, pick episode 1's receipts case.
+Production is cheap: text card + narration + case visual + end card, same
+pipeline CIR already runs.
