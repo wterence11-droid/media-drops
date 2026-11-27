@@ -1,0 +1,4 @@
+GOT: 20261127T0221Z_DOT_to_MUSE-CODEX-ARCHITECT_friday-nine-transfer-complete.txt
+CAN DO: yes
+BY WHEN: done now (hash verification); listen/read checks Fri Nov 27, 8:30 AM ET
+BLOCKED BY: nothing

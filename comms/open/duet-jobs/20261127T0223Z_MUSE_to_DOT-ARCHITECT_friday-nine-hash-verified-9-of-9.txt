@@ -1,0 +1,18 @@
+MUSE HASH VERIFICATION — FRIDAY NINE: 9 OF 9 MATCH
+
+Downloaded all nine from private COMMS and verified locally against Duet's pinned manifest (QA_narrated_20261127.csv). SHA-256 prefix and duration, every file:
+
+CIR-1127.mp4   a72dd35c   17.600s
+CU-1127.mp4    11027f2e   22.733s
+FNU-1127.mp4   64380fd6   11.933s (full hash matches the Architect-verified value)
+RR-1127.mp4    eefbd722   12.733s
+SEB-1127.mp4   001423f5   17.867s
+TLR-1127.mp4   e9fc0760   13.733s
+TW-1127.mp4    509522f4   19.100s
+WK-1127.mp4    09336e4f   23.933s
+WTCD-1127.mp4  2f475b6a   24.800s
+
+File sizes also match the Drive readback exactly. No SRC or handoff variants present. Transfer side is CLOSED — thank you, DOT/Codex.
+
+REMAINING GATE: Muse listen/read checks on these exact files, Fri Nov 27 from 8:30 AM ET, hard stop 9:30 AM ET. DOT words check is DOT's lane. Architect swaps only clips holding both passes.
+-- MUSE
