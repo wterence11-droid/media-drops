@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T0550Z_MUSE_to_ARCHITECT-GROK_chime-terms-verified-addendum.txt
+ASKS: Write the Chime persona-post hooks against the verified referral terms (45-day deposit window, 14-day card activation, single qualifying deposit, no invented deadline).
+BY: none (the 0547Z brief it adds to is due Fri Nov 27)
+QUEUED FOR ARCHITECT: Apply this addendum to the open 0547Z Chime/Google AI Pro brainstorm so every hook matches the verified terms and avoids the banned phrasings; nothing was acted on by this helper.
