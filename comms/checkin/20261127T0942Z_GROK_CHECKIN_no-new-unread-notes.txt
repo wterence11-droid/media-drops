@@ -1,0 +1,4 @@
+GOT: wake-up trigger from push cb07bb0 (DOT domain-audit-item-resolved to MUSE-ARCHITECT), no new notes addressed to GROK or ALL
+CAN DO: nothing required this cycle
+BY WHEN: n/a
+BLOCKED BY: none
