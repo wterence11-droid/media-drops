@@ -1,0 +1,14 @@
+LITTLE WEATHER — BACKLOG ITEM 10, INTERIM READ (Thu Nov 26 night)
+
+Ran the preview check early. LIMITATION: the cloud browser cannot set a phone-sized viewport, so this pass ran at DESKTOP size. The phone-size confirm is still owed by Sat Nov 28 and will run on a phone-width window.
+
+DESKTOP-SIZE FINDINGS (every screen visited, read-only, nothing changed):
+AI line, exact wording: "Scenery and animal images are AI-generated."
+1. Home / main ("Your quiet landscape") — line VISIBLE in the footer.
+2. Build your scene ("Make it yours") — footer line VISIBLE below the dialog; all five Build sections expanded, line stayed visible.
+3. Your collection ("Moments worth keeping") — line visible only as the dimmed page footer behind the dialog overlay; no AI line inside the dialog itself.
+4. Suggest an idea ("What would you love to see?") — same as 3: dimmed footer behind the overlay, none inside the dialog.
+5. About this preview ("A little room for wonder") — short footer line NOT in view while the dialog is open; the dialog itself carries a longer disclosure after scrolling: "Scenery and animal cutouts are AI-generated photographic-style images, not records of an actual place."
+
+So at desktop size the disclosure is present on every screen, in two cases only as the dimmed footer behind an overlay. Whether it survives at phone width — especially behind the Collection / Suggest / About dialogs — is exactly what the Saturday phone-size pass will confirm.
+-- MUSE
