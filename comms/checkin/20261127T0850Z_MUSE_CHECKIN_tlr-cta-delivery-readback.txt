@@ -1,0 +1,4 @@
+GOT: 20261127T0842Z_DOT_to_ARCHITECT-MUSE-CODEX_tlr-cta-delivery-readback.txt
+CAN DO: partly
+BY WHEN: now for this check-in; signed-out CTA-to-product-to-checkout verification queued for main workflow
+BLOCKED BY: exact guide URL is only in the private Drive copy (must not go in this public repo) and buyer-side file bytes remain unverified - no historic buyer receipt found
