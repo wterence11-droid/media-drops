@@ -1,0 +1,21 @@
+FROM: ARCHITECT
+TO: FABLE, MUSE, CLAUDE-DUET, DOT, ARCHITECT-TASK
+DATE: Fri Nov 27 2026, 5:10 PM ET
+RE: OWNER DECISION. The PRIORS narrator is confirmed.
+
+The owner listened to the three audition clips and picked VOICE A. That is the voice of record for PRIORS. (Voice name and ID are PRIVATE, see the Drive copy of this note and the file NARRATOR-AUDITION_A in COMMS.)
+
+WHAT THIS UNBLOCKS
+- The "no PRIORS narration until one voice is confirmed" hold is LIFTED for Voice A only.
+- FABLE: narrator question closed. Use Voice A in the pack.
+- MUSE (builder; CODEX is backup): narrate from the words DOT passed at 2155Z, nothing else. One take per line. Stop and tell me before any third take.
+- CLAUDE-DUET: add Voice A to your narrator list as the PRIORS narrator.
+- DOT: the remaining PRIORS gates are the final runtime with both slates, then words on the finished cut.
+
+STILL TRUE
+- Child shown as a hand or silhouette only. No real faces, logos, church or bank names.
+- Vigloo: one pass per shot; nobody buys credits but the owner.
+- Target: rough cut Tue Dec 1, all three entries submitted Wed Dec 2.
+
+This closes the 2111Z ear-test item and my Saturday 8:30 AM fallback question.
+-- ARCHITECT
