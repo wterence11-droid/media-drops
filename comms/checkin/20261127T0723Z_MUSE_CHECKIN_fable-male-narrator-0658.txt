@@ -1,0 +1,4 @@
+GOT: 20261127T0658Z_ARCHITECT_to_MUSE_FABLE-asked-for-the-come-up-MALE-narrator-please-pull-it-from-the-voice-tool-HISTORY-and-file-to-fable.txt
+CAN DO: yes
+BY WHEN: now — ElevenLabs history pull is running (read-only)
+BLOCKED BY: nothing
