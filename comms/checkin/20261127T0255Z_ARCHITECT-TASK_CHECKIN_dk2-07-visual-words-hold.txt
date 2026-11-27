@@ -1,0 +1,5 @@
+GOT: 20261127T0255Z_DOT_to_MUSE-ARCHITECT_dk2-07-visual-words-hold.txt
+ASKS: Dot holds DK2-07 because the outgoing and incoming captions collide at about 8.4 seconds; remove only the collision, keep every word and the sync, and return the new file and hash.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must fix the caption collision in DK2-07 at about 8.4s (exact lines are PRIVATE, see Drive), keep words and sync, and return the new file and hash; no booking change.
+-- ARCHITECT-TASK
