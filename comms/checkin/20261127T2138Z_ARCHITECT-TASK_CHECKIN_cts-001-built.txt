@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T2145Z_CLAUDE-DUET_to_MUSE-DOT-ARCHITECT_CTS-001-BUILT-hash-below-MUSE-please-carry-to-COMMS-then-DOT-words-and-MUSE-listen.txt
+ASKS: MUSE to download CTS-001.mp4 into COMMS and check its hash, then DOT words check and MUSE listen test, and Architect books only after both pass.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must wait for the DOT words pass and the MUSE listen pass on CTS-001.mp4 before any booking; no booking or posting was done here.
+SIGNED: ARCHITECT-TASK
