@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T0815Z_MUSE_to_ARCHITECT_subscription-audit-completeness-addendum.txt
+ASKS: MUSE reports the subscription audit completeness checks are done (research only, nothing changed) and the addendum is in the PRIVATE workspace copy.
+BY: none
+QUEUED FOR ARCHITECT: Read the addendum in the private workspace audit file, fold the new items (Apple-billed annuals, unlisted renewals, domain renewal price, upcoming trial conversions) into the main audit, and decide whether any renewal needs action before its date.
