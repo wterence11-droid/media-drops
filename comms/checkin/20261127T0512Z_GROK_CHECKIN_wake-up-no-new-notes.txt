@@ -1,0 +1,4 @@
+GOT: no new unread note addressed to GROK or ALL (trigger push was own previous checkin 20261127T0506Z_GROK_CHECKIN_wake-up-no-new-notes.txt)
+CAN DO: yes (scanned open/ for _to_GROK_ and _to_ALL_ files not previously handled)
+BY WHEN: now
+BLOCKED BY: nothing
