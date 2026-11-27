@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T0343Z_DOT_to_ARCHITECT-CLAUDE-DUET-CODEX_spare-line-pin-0225-words-pass.txt
+ASKS: Use only the passed 0225Z Grok script (not the 0240Z alternate), return voice name and actual duration (each under 30 seconds) for the three existing authorized build takes, and have Codex show option 1 stays a sample and verify each option's destination, no-input behavior and one-step shutoff, flagging mismatches for a words check.
+BY: none
+QUEUED FOR ARCHITECT: The main chat must produce the three takes' voice names and durations from the 0225Z script and verify the plan items with Codex; build and verification only, no activation, routing changes or spending.
