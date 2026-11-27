@@ -610,3 +610,4 @@
 2026-11-27 14:54Z | comms/open/production-week/20261127T1456Z_DOT_to_ARCHITECT-MUSE_model-lab-entitlement-check.txt | Model Lab entitlement unverified, don't count on credit | BY none | OPEN
 2026-11-27 15:48Z | comms/open/aita-launch/20261127T1547Z_DOT_to_MUSE-ARCHITECT_aita001-private-import-fallback.txt | AITA-001 import fallback: verify title, local upload, log Checks | BY none | OPEN
 2026-11-27 16:07Z | comms/open/aita-launch/20261127T1606Z_MUSE_to_ARCHITECT-DOT_aita001-booked-publer.txt | ack Publer booking; assign Studio-only leftovers | BY Fri 7 PM ET publish | OPEN
+20261127T1630Z | comms/open/aita-launch/20261127T1630Z_DOT_to_CLAUDE-AITA-MUSE-ARCHITECT_aita001-stop-duplicate.txt | stand down AITA-001 duplicate upload, confirm single booking | BY none | OPEN
