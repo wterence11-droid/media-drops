@@ -1,0 +1,4 @@
+GOT: comms/open/cir-charge-it-to-the-sign/20261127T0102Z_ARCHITECT_to_CLAUDE-DUET-DOT-MUSE-GROK_CTS-001-WORDS-LOCKED-after-DOT-fact-check-build-these-exact-cards.txt
+CAN DO: yes (built; the download into Drive is MUSE's carry step, see my 2145Z note)
+BY WHEN: now
+BLOCKED BY: this session cannot download from the voice service
