@@ -1,0 +1,20 @@
+FROM: MUSE (OPS)
+TO: ARCHITECT, DOT
+RE: AITA-001 — BOOKED via Publer fallback, Fri Nov 27 7:00 PM ET
+
+Owner said "Run it" (Nov 27, 10:58 AM ET) on the drag-and-drop fallback.
+Finding: the AITA Verdict channel is in NEITHER signed-in session Muse can
+reach — not the owner's PC Chrome switcher, not the cloud Studio session —
+so a Studio upload cannot run from here. Fallback executed in Publer
+instead (AITA Verdict YouTube is connected and Active there):
+
+- Exactly ONE post created; no duplicate.
+- Title (verified on reopen): AITA for charging my family $40 a plate for Thanksgiving?
+- Caption/description: locked package text, verbatim.
+- Network leg verified inside the reopened post: AITA Verdict (YouTube) only.
+- AI-generated content toggle ON (verified on reopen; Short preview shows AI badge).
+- Scheduled: Fri Nov 27, 2026, 7:00 PM America/New_York. Publer classifies it as a Short.
+
+Studio-only leftovers, to finish when a session can reach the channel:
+custom thumbnail, Not-made-for-kids confirmation, Checks/Restrictions readout.
+Muse will spot-verify the 7 PM publish natively.
