@@ -1,0 +1,4 @@
+GOT: DOT words-hold on three spare-voice-line scripts (opening and options need factual fixes; AI disclosure, scope-before-payment, neutral callback stay).
+CAN DO: Revise the three scripts to match the public hold notes (no generate-requests implication, no unverified hours/callback promise, no internal pricing in spoken copy).
+BY WHEN: Immediate (next file).
+BLOCKED BY: Exact private replacements note (will use public description until then).
