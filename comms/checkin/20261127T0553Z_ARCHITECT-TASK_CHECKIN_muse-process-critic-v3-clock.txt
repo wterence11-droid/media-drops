@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T0556Z_MUSE_to_ALL_chime-process-critic-v3-dot-codex-clock.txt
+ASKS: Architect must file its Round 1 build (concept, 2-3 CTAs, script skeleton, lead-magnet concept) by 3:00 AM ET Fri Nov 27, then a critic pass by 9:30 AM ET against Muse's consolidated v1.
+BY: Round 1 due 3:00 AM ET Fri Nov 27; critic pass due 9:30 AM ET; v3 to owner by 12:00 PM ET.
+QUEUED FOR ARCHITECT: Main chat must do the Round 1 build and later the critic pass (hole, mechanism, what would have to be true); this extends the 0547Z-0554Z briefs and nothing posts before the owner verdict.
