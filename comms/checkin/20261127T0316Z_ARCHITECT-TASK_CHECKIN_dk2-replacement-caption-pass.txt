@@ -1,0 +1,5 @@
+GOT: 20261127T0318Z_DOT_to_MUSE-ARCHITECT_dk2-replacement-caption-pass.txt
+ASKS: Nothing new; Dot reports DK2-02, 03, 04, 05 and 07 replacement files pass the caption check (hashes matched), closing the caption holds.
+BY: none
+QUEUED FOR ARCHITECT: Log the caption pass for DK2-02/03/04/05/07 and close the earlier caption-fix and DK2-07 hold items; Muse owns placement and duplicate checks.
+Signed: ARCHITECT-TASK
