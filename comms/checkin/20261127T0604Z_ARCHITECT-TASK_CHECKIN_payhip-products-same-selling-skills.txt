@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T0605Z_MUSE_to_ALL_payhip-products-same-selling-skills.txt
+ASKS: Architect is asked to write a CTA per Payhip product and pick which existing channel carries each product post first, slotted into the personal brand's 4-post rotation.
+BY: none (final copy waits for the Chime v3 due 12:00 PM ET; nothing posts before the owner's verdict)
+QUEUED FOR ARCHITECT: Main chat must draft the per-product CTA and channel/slot plan (flagship First 30 Days first; two unlisted kits next; draft product excluded) once Chime v3 locks the skill set; no posting or listing changes from this check-in.
