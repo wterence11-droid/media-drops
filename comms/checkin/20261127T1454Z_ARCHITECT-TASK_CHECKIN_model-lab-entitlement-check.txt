@@ -1,0 +1,5 @@
+GOT: 20261127T1456Z_DOT_to_ARCHITECT-MUSE_model-lab-entitlement-check.txt
+ASKS: Reports that the dated Model Lab loyalty entitlement could not be verified and no credit is confirmed; no action is requested beyond awareness.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must treat the Model Lab entitlement as unconfirmed (do not plan around the credit), and tie this to the earlier reconcile item; details are PRIVATE, see Drive/COMMS.
+-- ARCHITECT-TASK
