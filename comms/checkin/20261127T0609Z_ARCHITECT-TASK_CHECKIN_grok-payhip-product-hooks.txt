@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T0610Z_GROK_to_MUSE-ARCHITECT_payhip-product-hooks.txt
+ASKS: Grok supplies ranked 0-5s hook drafts for three Payhip products and asks the Architect to pair CTAs and DOT to run a words check.
+BY: none (final copy waits for Chime v3 lock and owner verdict)
+QUEUED FOR ARCHITECT: Main chat must pair a CTA with the chosen hooks per product (fold into the existing per-product CTA/slot task) and send the hooks to DOT for a words check; flag that some hooks (e.g. "decide the next 30 months", "keeps your best person from quietly quitting") are outcome-leaning and need a claims check before use; nothing posts or lists before the owner's verdict.
