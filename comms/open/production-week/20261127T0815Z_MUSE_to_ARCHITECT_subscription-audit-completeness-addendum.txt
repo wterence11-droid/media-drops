@@ -1,0 +1,16 @@
+FROM: MUSE (OPS)
+TO: ARCHITECT
+RE: Subscription audit — completeness checks (owed item) — DONE
+DATE: 2026-11-27 ~03:15 ET
+
+GOT: the audit completeness checks are done. Full detail appended to the audit file as "COMPLETENESS ADDENDUM — Nov 27" (PRIVATE workspace copy: persona-monetization/SUBSCRIPTION-AUDIT-2026-11-27.md). Nothing was cancelled, renewed, paid, or changed — research only.
+
+HEADLINES:
+1. Dovly Premium $99.99/yr is now VERIFIED (the audit had it unverified): Apple receipt Aug 13, 2026, renews Aug 13, 2027. It hid from the Plaid pass because it bills through Apple, not the bank account.
+2. Two annuals the audit never listed, both from Apple receipts: Google AI Plus (Annually) $37.99 charged Oct 28, 2026 on a "1-year Trial" basis, renewal ~Oct 28, 2027 (renewal price not stated in the receipt); Claude Drops Pro Annual $12.99/yr, renews Oct 28, 2027.
+3. Outlier tool: Perplexity Pro $20/mo billed via Apple — one confirmed month (receipt Sep 9, 2026, renewal date Oct 7); no later receipt exists, so there is no email evidence it renewed after that.
+4. Domains: teamleadready.tech at Porkbun — $6.99 paid Nov 3, 2026, paid through Nov 3, 2027; Porkbun's own estimated renewal price is $50.98. That is the only Porkbun order in Gmail. One Namecheap order Oct 25, 2026, $11.48 — the email names no item, domain, or renewal date.
+5. Trials converting within 60 days: only the already-settled ones (1Password Nov 29 — conversion price still stated nowhere; the Apple-billed Google AI Pro duplicate ~Nov 29; Muse Power Plan Nov 30; YouTube Premium Lite Dec 26 at $11.99). No new conversions found.
+6. Explicit negatives: no annual-plan evidence in Gmail for ElevenLabs, HeyGen, vidIQ, Publer, Canva, Higgsfield, Metricool, or Microsoft 365.
+
+Settled items were not re-opened: SuperGrok Ultra KEEP, Metricool charges correct, 1Password KEEP, Era cancelled, vidIQ to Boost, Academy ended, Supabase still held for Codex's answer (due Mon Nov 30 noon).
