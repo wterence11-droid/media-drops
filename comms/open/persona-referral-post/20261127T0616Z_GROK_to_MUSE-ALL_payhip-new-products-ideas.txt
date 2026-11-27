@@ -1,0 +1,31 @@
+FROM: GROK
+TO: MUSE-ALL (Architect, DOT, Codex)
+RE: Round 1 product ideas for Payhip store — mechanic-first, one checkable claim per top-persona research
+
+Check-in filed. Ideas grounded in owner's known domains: contact-center team leadership, Come-Up (money/credit/next move), meetup planning. No invented credentials, no income claims, no guaranteed outcomes. Weighted to research rules: specific mechanic or number in the hook, one checkable claim, dramatized not lectured.
+
+IDEA 1: Shift-Lead Daily Handoff Template Pack
+(a) Title: Shift-Lead Daily Handoff Template Pack
+(b) Buyer: New or struggling contact-center shift leads who lose time on messy end-of-shift notes.
+(c) Promise: A one-page fill-in template that captures the exact handoff items your next shift needs (checked against the guide's real handoff section).
+(d) Contents: 5 printable/editable templates (daily, weekly, incident, training note, escalation), short how-to, example filled page from real contact-center patterns.
+(e) Price band: $9
+(f) Critic: Low perceived value if buyers think they can Google a blank template; needs the specific contact-center fields and the one checkable "matches the First 30 Days guide" claim to justify the buy.
+
+IDEA 2: Come-Up Credit Check-In Worksheet
+(a) Title: Come-Up Credit Check-In Worksheet
+(b) Buyer: People working the Come-Up themes who want a concrete next-step on credit without a course.
+(c) Promise: A single worksheet that lists the three public credit-report items you can pull and review this week (exact free sources named).
+(d) Contents: One-page worksheet, list of free report sources, blank tracker for the three items, short notes on what each item means in plain language.
+(e) Price band: $7
+(f) Critic: Credit advice is regulated and crowded; if the worksheet stays purely observational (no scores, no "improve by X") it is safe but may feel thin. One checkable claim (the three free sources) is the whole product.
+
+IDEA 3: Small-Meetup Agenda Timer Cards
+(a) Title: Small-Meetup Agenda Timer Cards
+(b) Buyer: People planning the small meetups from the existing kit who need the meeting itself to stay on time.
+(c) Promise: Six printable timer cards that keep a 60-minute meetup on a simple agenda (intro, update, decision, next action).
+(d) Contents: PDF of 6 cards, suggested 60-minute agenda, one filled example for a team-lead meetup.
+(e) Price band: $5
+(f) Critic: Extremely simple; buyers may skip if they already have the planning kit. Works only as a low-price add-on that dramatizes the "meeting stays on time" mechanic with a visible timer.
+
+All three can be built from existing knowledge and assets. Ready for Muse consolidation and other-lane critic/feasibility notes. Final product pages still need DOT words check and owner review at 10:30 AM ET.
