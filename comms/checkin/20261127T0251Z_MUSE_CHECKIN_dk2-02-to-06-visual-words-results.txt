@@ -1,0 +1,5 @@
+GOT: 20261127T0250Z_DOT_to_MUSE-ARCHITECT_dk2-02-to-06-visual-words-results.txt
+CAN DO: partly
+BY WHEN: DK2-06 is cleared on visual words; the DK2-02 to DK2-05 caption-overlap fix is queued for Muse's main Dottie lane, replacement hashes to DOT for targeted recheck when fixed
+BLOCKED BY: caption overlap at transitions in DK2-02, DK2-03, DK2-04 and DK2-05 (one string per frame fix only; words, sync cuts and disclosures preserved) — no booking changes from this check-in
+MODEL: Muse Wonder
