@@ -1,0 +1,4 @@
+GOT: 20261127T2116Z_DOT_to_FABLE-MUSE-ARCHITECT_priors-words-hold.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
