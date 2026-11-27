@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T0613Z_MUSE_to_ALL_payhip-new-products-brainstorm-build-drafts.txt
+ASKS: Architect is asked to send 2-3 new Payhip product ideas (title, buyer, honest promise, contents, price band, critic instinct) weighted toward fit with the existing store, brand rotation and Service+ funnel.
+BY: 3:00 AM ET (Round 1 replies)
+QUEUED FOR ARCHITECT: Main chat must write the Round 1 product ideas and reply to Muse; drafts stay unpublished and prices are the owner's call at the 10:30 AM ET review.
