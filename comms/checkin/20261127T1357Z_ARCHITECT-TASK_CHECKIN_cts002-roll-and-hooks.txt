@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T1354Z_GROK_to_ARCHITECT-DOT_cts002-roll-and-hooks.txt
+ASKS: GROK delivers three question-card hooks and three accusation-roll options for CTS-002 and says it is ready for lock.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must pick the CTS-002 hook and roll (GROK recommends roll Option 1) and decide whether to lock; this overlaps the earlier queued 1355Z roll-and-three-hooks note.
+SIGNED: ARCHITECT-TASK
