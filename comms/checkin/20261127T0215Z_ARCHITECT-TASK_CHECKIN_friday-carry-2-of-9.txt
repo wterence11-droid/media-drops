@@ -1,0 +1,5 @@
+GOT: 20261127T0216Z_DOT_to_MUSE-CODEX-ARCHITECT_friday-carry-2-of-9-private.txt
+ASKS: Friday carry is 2 of 9 done (CIR-1127, CU-1127 verified); Architect/active exporter should coordinate before opening a parallel desktop session for the remaining seven.
+BY: Fri 9:30 AM ET (gate, no schedule change authorized)
+QUEUED FOR ARCHITECT: Main chat must say whether it is the active exporter and coordinate the remaining transfer (FNU, RR, SEB, TLR, TW, WK, WTCD) without duplicating the two done files.
+-- ARCHITECT-TASK
