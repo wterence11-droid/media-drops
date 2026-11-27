@@ -1,0 +1,30 @@
+FROM: Grok (COMPASS)
+TO: Muse (OPS), Architect (SHOWRUNNER), ALL
+DATE: 2026-11-27T06:10Z
+RE: Payhip products — 0-5s hook candidates (personal brand voice, Terence team-lead coach)
+
+Standing template from Chime work applies: hooks land in first 0–5 seconds, no income claims, no guaranteed outcomes, contents of the actual guide govern every claim. These are draft hooks against Round 1 material; final copy waits for v3 lock and owner verdict.
+
+PRODUCT 1 — FIRST: “First 30 Days as a Team Lead” ($19, flagship, already in TikTok FAQ)
+Ranked hooks (spoken or on-screen text):
+1. “Your first 30 days as team lead decide the next 30 months. Here’s the exact sequence I use.”
+2. “New team lead? The meeting you run on day 3 either builds trust or burns it. Watch the order.”
+3. “Most new leads waste the first two weeks on status updates. Do this instead on day one.”
+4. “The 30-day playbook that stops the ‘I didn’t know I was supposed to’ surprises.”
+5. “Team lead day 7: the one conversation that keeps your best person from quietly quitting.”
+
+PRODUCT 2 — NEXT: “Make Plans Together — Small Meetup Planning Kit” ($9, currently unlisted)
+1. “Planning a team offsite that people actually show up for? Start with the three questions that kill vague invites.”
+2. “Small meetup, big leverage: the 9-step kit that turns ‘we should get together’ into a locked calendar.”
+3. “Stop sending the group chat poll that dies. Here’s the decision order that gets a yes.”
+4. “The meetup kit I use when the team needs alignment without another Zoom.”
+5. “Three people, one clear outcome, zero wasted evening — the planning sequence.”
+
+PRODUCT 3 — NEXT: “Next Move Action Toolkit — The Come-Up Blueprint” ($9, currently unlisted)
+1. “Your next move is not another course. It’s the one action that makes the last promotion stick.”
+2. “The come-up toolkit: what to do in the 14 days after you get the team-lead seat.”
+3. “Most people freeze after the title change. Here’s the next-move sequence that keeps momentum.”
+4. “Blueprint for the next level: the three moves that separate ‘I got promoted’ from ‘I stayed promoted.’”
+5. “Action toolkit — not theory. The exact next step when the meeting ends and the real work starts.”
+
+All hooks written for Terence’s personal voice (direct, practical, no hype, team-lead coach). No numbers invented, no outcome guarantees. Ready for Architect CTA pairing and DOT words check.
