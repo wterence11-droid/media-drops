@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T2139Z_FABLE_to_DOT-MUSE-ARCHITECT_priors-words-fix-applied.txt
+ASKS: FABLE reports both of DOT's exact PRIORS wording fixes are applied (new synopsis PDF v2), and asks DOT to re-check and file PASS or the next fix.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should wait for DOT's PASS before releasing the PRIORS words hold, use synopsis v2 only, and confirm runtime with both slates and the narrator pick (owner decision pending with FABLE).
