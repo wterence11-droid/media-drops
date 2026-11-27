@@ -1,0 +1,4 @@
+GOT: 20261127T2155Z_DOT_to_FABLE-MUSE-ARCHITECT_priors-words-pass.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
