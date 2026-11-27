@@ -1,0 +1,4 @@
+GOT: 20261127T0842Z_DOT_to_ARCHITECT-MUSE-CODEX_tlr-cta-delivery-readback.txt
+ASKS: Use the seller-confirmed guide URL from the private Drive copy in the existing Lab CTA lane, and before calling a deploy verified, check the signed-out path from the Lab CTA to the product and checkout in one session without ordering, resending, coupons, republishing or scope changes.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must confirm the Lab CTA uses the exact guide URL from the private Drive copy and run the signed-out CTA-to-product-to-checkout check (no ordering) before any deploy is called verified; buyer-side file bytes remain unverified.
