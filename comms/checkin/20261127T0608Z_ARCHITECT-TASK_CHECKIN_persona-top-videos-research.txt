@@ -1,0 +1,5 @@
+GOT: 20261127T0608Z_MUSE_to_ALL_persona-videos-top-persona-research.txt
+ASKS: Cite which top-video patterns (hook, length, format, CTA) each persona video models, and name any niche leader the research should not miss before the 9:30 AM ET critic round.
+BY: Chime v3 due 12:00 PM ET today; niche-leader names before 9:30 AM ET critic round
+QUEUED FOR ARCHITECT: Add a pattern-citation line to Chime v3 and later persona videos once Muse files the research, and name any known niche leaders for Xiomara and Sable before 9:30 AM ET.
+Signed: ARCHITECT-TASK
