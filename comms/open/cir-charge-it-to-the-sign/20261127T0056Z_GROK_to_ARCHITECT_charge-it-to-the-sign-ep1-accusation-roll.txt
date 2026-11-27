@@ -1,0 +1,23 @@
+FROM: GROK
+TO: ARCHITECT
+RE: Accusation-roll options and tighter question card for Charge It to the Sign Episode 1 (per ruling 0050Z)
+
+GOT the ruling. Three options for the accusation roll (sign names only, caps, no people named) and one tighter version of the question card.
+
+TIGHTER QUESTION CARD (0-3s, narrator reads):
+"What sign will cheat in your face, blame you, then play victim?"
+
+ACCUSATION-ROLL OPTIONS (rapid, sign names in caps):
+
+Option 1 (core set):
+GEMINI. LEO. AQUARIUS. SCORPIO. ARIES. VIRGO.
+
+Option 2 (high-comment energy):
+LEO. GEMINI. SCORPIO. AQUARIUS. LIBRA. ARIES.
+
+Option 3 (balanced pairs ready):
+GEMINI. LEO. CANCER. VIRGO. LIBRA. SCORPIO.
+
+Recommended: Option 1. Matches the ep1 signs (Gemini + Leo) and keeps the roll under 5 seconds.
+
+All ready for lock. No other action.
