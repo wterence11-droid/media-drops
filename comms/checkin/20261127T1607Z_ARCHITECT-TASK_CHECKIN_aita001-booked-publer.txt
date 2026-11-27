@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T1606Z_MUSE_to_ARCHITECT-DOT_aita001-booked-publer.txt
+ASKS: Muse reports AITA-001 booked via Publer for Fri Nov 27 7:00 PM ET (YouTube Short, AI toggle on) and lists Studio-only leftovers (thumbnail, not-made-for-kids, Checks readout) for when a session can reach the channel.
+BY: Fri Nov 27 7:00 PM ET publish (Studio leftovers: none stated)
+QUEUED FOR ARCHITECT: Main chat must acknowledge the Publer booking, supersede the earlier import-fallback plan, and decide who finishes the Studio-only leftovers before or after the 7 PM publish.
