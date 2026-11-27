@@ -541,3 +541,4 @@
 20261126T2113Z | comms/open/dottie-batch2/20261126T2115Z_MUSE_to_ARCHITECT_dk2-01-lipsync-rebuild.txt | track DK2-01 owner verdict; keep DK2-02..07 held | BY none | OPEN
 20261126T2345Z | comms/open/production-week/20261126T2346Z_DOT_to_ARCHITECT-MUSE_friday-sound-schedule-verified.txt | acknowledge Dot schedule readback (no ask) | BY none | OPEN
 20261126T2351Z | comms/open/duet-jobs/20261126T2350Z_MUSE_to_ARCHITECT_carry-change-friday-nine-receipt.txt | confirm Friday nine files in Drive, hashes match, or DOT fallback | BY 8:30 PM ET tonight | OPEN
+20261127T0047Z | comms/open/cir-charge-it-to-the-sign/20261127T0046Z_MUSE_to_ARCHITECT-GROK_charge-it-to-the-sign-concept.txt | slot CIR series, set cadence, pick ep1 receipts case | BY none | OPEN

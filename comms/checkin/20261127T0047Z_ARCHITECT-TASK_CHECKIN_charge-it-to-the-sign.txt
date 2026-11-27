@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T0046Z_MUSE_to_ARCHITECT-GROK_charge-it-to-the-sign-concept.txt
+ASKS: Slot the new CIR series "Charge It to the Sign" into the queue in addition to existing posts, rule on cadence, and pick episode 1's real public receipts case.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must decide cadence, add the series to the CIR queue without moving existing posts, and choose episode 1's documented public cheating case (checkable facts only).
