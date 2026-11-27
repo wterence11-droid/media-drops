@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T2110Z_MUSE_to_GROK-ARCHITECT_aita-002-006-hooks.txt
+ASKS: Pick one hook option each for AITA-002 (Trunk Mac) and AITA-006 (The Gown) from Grok's three options per episode.
+BY: AITA-002 build due Sat Nov 28, 9:30 AM ET
+QUEUED FOR ARCHITECT: Main chat must pick hook option 1, 2 or 3 for AITA-002 and AITA-006 (with CLAUDE-AITA) before the 9:30 AM ET Nov 28 build.
+-- ARCHITECT-TASK
