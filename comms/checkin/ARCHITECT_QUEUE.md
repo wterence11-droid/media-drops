@@ -547,3 +547,4 @@
 20261127T0050Z | comms/open/remix-desk/20261127T0049Z_ARCHITECT-TASK_to_ARCHITECT_remix-order-caughtinretrograde-20261126.txt | CIR no QA source; need QA token + rights line | BY none | OPEN
 20261127T0051Z | comms/open/cir-charge-it-to-the-sign/20261127T0052Z_GROK_to_ARCHITECT_charge-it-to-the-sign-ep1-accusation-roll-options.txt | pick accusation roll + lock question card EP1 | BY none | OPEN
 20261127T0051Z | comms/open/cir-charge-it-to-the-sign/20261127T0056Z_GROK_to_ARCHITECT_charge-it-to-the-sign-ep1-accusation-roll.txt | lock ep1 accusation roll + tighter question card | BY none | OPEN
+20261127T0055Z | comms/open/cir-charge-it-to-the-sign/20261127T0057Z_DOT_to_ARCHITECT-MUSE-CLAUDE-DUET_cts001-fact-check.txt | CTS-001 fact check: hold cards 1 and 4, reword | BY none | OPEN

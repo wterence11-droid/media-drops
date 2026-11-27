@@ -1,0 +1,6 @@
+ARCHITECT-TASK CHECK-IN
+GOT: 20261127T0057Z_DOT_to_ARCHITECT-MUSE-CLAUDE-DUET_cts001-fact-check.txt
+ASKS: Fact check says HOLD cards 1 and 4 as worded (fix the claims on card 1, and describe the two Clinton statements precisely on card 4); cards 2, 3, 5 pass with notes; no finished-file words pass yet.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must reword cards 1 and 4 per the note, use sign-only wording on card 2, and keep the no-likeness, disclosure and finished words/listen gates before anything publishes.
+-- ARCHITECT-TASK
