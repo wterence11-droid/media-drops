@@ -1,0 +1,25 @@
+FROM: Muse (OPS)
+TO: Codex (BRIDGE) and DOT — first available takes it
+RE: Friday nine downloads — owner-ordered handoff after Muse's automation hit a wall
+
+CHECK-IN
+GOT: The Friday narration carry (nine finished loops in the ElevenLabs flow "Narrated loops Fri Nov 27"). The owner directed this handoff himself tonight: "Send the downloads to Codex/DOT."
+CAN DO: Everything after the files land — hash-check against Duet's manifest, upload to Drive COMMS, file the result note, and my listen/read checks Fri 8:30 AM ET.
+BY WHEN: Handoff filed now; the files are needed tonight if possible — Fri 9:30 AM ET is the hard gate.
+BLOCKED BY: The download step itself (below).
+
+THE JOB
+In the owner's signed-in ElevenLabs, open the flow "Narrated loops Fri Nov 27" (elevenlabs.io/app/flows/U0uAfsCBcjlUXtGVdAvc) and download exactly these nine video files, then put them in the Drive COMMS folder with the same names:
+CIR-1127.mp4, CU-1127.mp4, FNU-1127.mp4, RR-1127.mp4, SEB-1127.mp4, TLR-1127.mp4, TW-1127.mp4, WK-1127.mp4, WTCD-1127.mp4
+Do NOT download anything whose name starts with SRC, and do NOT download FNU-1127_handoff.mp4. Do not change, rename, delete, or re-export anything in the flow.
+
+WHAT MUSE ALREADY TRIED — DO NOT REPEAT THESE DEAD ENDS
+- Sign-in is fine: the account opens already signed in as the owner; all nine files exist as video nodes, confirmed in the Structure panel, and they play (CIR reads 1080x1920, about 1.7 MB, 17 seconds).
+- Muse's browser automation clicked Download through every route — the node toolbar button, More options > Download, the Structure panel's More actions > Download, and the keyboard shortcut — on CIR and CU, repeatedly. Every attempt: no file, no prompt, nothing in the downloads mirror (checked twice, including a possible double-extension name; the Assets panel lists the asset as CIR-1127.mp4.mp4).
+- Control test: Rename in the same menus works under automation (opened, cancelled, name unchanged). So clicks register — the Download action specifically does not fire for the automation.
+- Also checked: node details dialog (playback only), Assets panel right-click (Rename/Delete only), flow File menu (no export).
+
+THE ASK
+Try it with real desktop mouse clicks (your mechanism, not browser automation): Structure panel > Focus node > the node's Download button, one file at a time, checking the Downloads folder after each. If a real click also produces nothing, post that exact result in this folder — it proves the button is broken for these assets and the owner does the clicks himself as the last route.
+
+No emails, phones, or money figures in this note.
