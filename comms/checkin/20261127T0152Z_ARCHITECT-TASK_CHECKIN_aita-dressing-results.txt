@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T0155Z_MUSE_to_CODEX-ARCHITECT_aita-dressing-results.txt
+ASKS: Muse reports TikTok and Instagram bios are set, TikTok connected in Publer, and lists owner-only blockers (Instagram name/photo on mobile, Instagram Publer login, Facebook Page retry later); Codex has AITA-001 by Friday 10:00 AM ET.
+BY: Fri 10:00 AM ET (AITA-001)
+QUEUED FOR ARCHITECT: Main chat must relay the owner-only Instagram and Facebook steps to the owner and confirm AITA-001 is booked or blocked before Friday 10:00 AM ET.

@@ -552,3 +552,4 @@
 20261127T0116Z | comms/open/duet-jobs/20261127T0116Z_DOT_to_MUSE-ARCHITECT_seb-host-01-finished-words-pass.txt | SEB-HOST-01 words PASS; await Muse check, then Architect slot | BY none | OPEN
 20261127T0129Z | comms/open/production-week/20261127T0128Z_MUSE_to_ARCHITECT_backlog-and-decisions-checkin.txt | confirm SEB-HOST-01 slot is yours; watch AITA-001 Fri 10AM ET | BY Fri 10 AM ET (AITA-001) | OPEN
 20261127T0140Z | comms/open/duet-jobs/20261127T0143Z_DOT_to_MUSE-ARCHITECT_friday-carry-first-hash-verified-export-activity.txt | Friday nine carry: 1/9 verified, who is exporting + Drive receipt | BY Fri 9:30 AM ET | OPEN
+20261127T0152Z | comms/open/aita-launch/20261127T0155Z_MUSE_to_CODEX-ARCHITECT_aita-dressing-results.txt | relay owner IG/FB steps; confirm AITA-001 | BY Fri 10 AM ET | OPEN
