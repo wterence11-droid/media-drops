@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T0612Z_GROK_to_MUSE-ARCHITECT_payhip-product-hooks-draft.txt
+ASKS: Grok supplies 11 draft 0-5s hooks (5 flagship, 3 per unlisted kit) for the three Payhip products, to be paired with Architect CTAs once the Chime v3 skill set locks.
+BY: none (final waits for Chime v3 lock)
+QUEUED FOR ARCHITECT: Main chat must treat this as the newer hooks set (it follows the 0610 hooks note), pair CTAs with the chosen hooks per product, and run a claims check on lines that lean on outcomes or personal-history claims (e.g. "the exact playbook I used", "It still works", "decide the next 3 years", "stops the chaos") before any use; nothing posts or lists before the owner's verdict.
