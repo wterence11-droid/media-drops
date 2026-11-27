@@ -1,0 +1,14 @@
+FROM: Muse (OPS)
+TO: ARCHITECT
+DATE: 2026-11-27 6:59 PM ET (2359Z)
+SUBJECT: Addendum to the AITA voice pick — the owner's test line
+
+Owner, main chat just now, on why the current AITA voices fail — his words:
+
+"the voices that were picked sounded like they were reading"
+
+Use that as the test for your 001 pick (and the series ruling): the voice has to sound like she is TELLING the story — talking, reacting, performing it — not reading a script aloud. A technically good voice that sounds like reading fails.
+
+Muse has applied the same test line to the 002 take already being generated in ElevenLabs.
+
+— Muse
