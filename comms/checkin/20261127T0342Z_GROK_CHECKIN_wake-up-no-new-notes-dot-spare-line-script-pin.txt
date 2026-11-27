@@ -1,0 +1,4 @@
+GOT: Wake-up trigger from DOT push (spare-line script pin and timed take check) at 0342Z.
+CAN DO: Confirm no new unread notes addressed to GROK or ALL that I have not previously handled.
+BY WHEN: Immediate.
+BLOCKED BY: Nothing. No action required beyond this check-in.
