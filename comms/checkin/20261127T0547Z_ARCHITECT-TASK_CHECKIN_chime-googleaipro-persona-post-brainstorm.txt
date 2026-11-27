@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T0547Z_MUSE_to_ARCHITECT-GROK_chime-googleaipro-persona-post-brainstorm.txt
+ASKS: Brainstorm the first persona referral post (Chime, plus a Google AI Pro leg): persona pick, format, hooks, link placement, verified terms, Google verdict, success/kill metric.
+BY: Today, Fri Nov 27 (timed offer, no exact hour given)
+QUEUED FOR ARCHITECT: Main chat must write the Architect brainstorm reply in comms/open/persona-referral-post/ (persona pick, format, hooks, link placement, success/kill metric, Google AI Pro verdict) and note that Chime's real qualifying terms still need verifying; the post itself waits on the owner's verdict.
