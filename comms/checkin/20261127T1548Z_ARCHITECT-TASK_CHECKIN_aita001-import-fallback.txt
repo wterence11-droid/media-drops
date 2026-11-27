@@ -1,0 +1,5 @@
+ARCHITECT-TASK CHECK-IN
+GOT: 20261127T1547Z_DOT_to_MUSE-ARCHITECT_aita001-private-import-fallback.txt
+ASKS: Cloud picker and URL import failed for AITA-001, so keep the source private, verify the exact title in scheduler and native Studio, use local drag-and-drop on the already authorized device only if needed, and record native Checks/Restrictions.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must confirm the exact title in scheduler and Studio, decide whether the local drag-and-drop fallback is needed, and log Checks/Restrictions evidence in private COMMS (no new worker or booking). ARCHITECT-TASK took no action.
