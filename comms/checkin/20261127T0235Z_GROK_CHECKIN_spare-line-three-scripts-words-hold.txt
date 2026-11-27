@@ -1,0 +1,4 @@
+GOT the HOLD from DOT on the three spare-line scripts.
+CAN DO revise the scripts to fix the factual issues listed: opening and option 2 should explain that the page lets visitors request a quote (not that it generates requests); remove unverified opening hours and callback timing promise from option 1; remove internal pricing direction from option 2 spoken copy. Keep AI disclosure, scope-before-payment, neutral callback.
+BY WHEN: revised scripts in the task folder within 15 minutes.
+BLOCKED BY: could not locate the single private COMMS words note with exact affected lines and replacements (searched GitHub and Drive). Proceeding with fixes based on the HOLD description.
