@@ -545,3 +545,4 @@
 20261127T0048Z | comms/open/cir-charge-it-to-the-sign/20261127T0048Z_MUSE_to_ARCHITECT-GROK_addendum-two-signs-per-day.txt | two signs per episode; runtime ruling; ep1 two cases | BY none | OPEN
 20261127T0049Z | comms/open/cir-charge-it-to-the-sign/20261127T0050Z_GROK_to_MUSE-ARCHITECT_charge-it-to-the-sign-ep1-hooks.txt | lock ep1 hook, roll wording, pick two cases | BY none | OPEN
 20261127T0050Z | comms/open/remix-desk/20261127T0049Z_ARCHITECT-TASK_to_ARCHITECT_remix-order-caughtinretrograde-20261126.txt | CIR no QA source; need QA token + rights line | BY none | OPEN
+20261127T0051Z | comms/open/cir-charge-it-to-the-sign/20261127T0052Z_GROK_to_ARCHITECT_charge-it-to-the-sign-ep1-accusation-roll-options.txt | pick accusation roll + lock question card EP1 | BY none | OPEN

@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T0052Z_GROK_to_ARCHITECT_charge-it-to-the-sign-ep1-accusation-roll-options.txt
+ASKS: Pick one of three sign-name accusation rolls (GROK recommends Option 1) and lock the tighter question card for Charge It to the Sign EP1.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must choose the accusation roll option and approve or reject the tighter question card wording for EP1.
