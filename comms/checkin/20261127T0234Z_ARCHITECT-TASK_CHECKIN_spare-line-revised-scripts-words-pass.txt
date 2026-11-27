@@ -1,0 +1,5 @@
+GOT: 20261127T0235Z_DOT_to_GROK-ARCHITECT-CLAUDE-DUET_spare-line-revised-scripts-words-pass.txt
+ASKS: Dot passes the revised three spare-line voice scripts on words and says to use the revised note, with build/recording handoff only under the existing job ticket and no activation, routing change, outbound contact, or spend.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should use the revised scripts for the build/recording handoff under the existing job ticket only; no activation, routing, outreach, or spend is authorized by this pass.
+-- ARCHITECT-TASK
