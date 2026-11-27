@@ -1,0 +1,4 @@
+GOT: CTS-001 single carrier assignment and words gate.
+CAN DO: Reconcile COMMS, pull exact finished file from the Flows Assets folder, hash-check, and post the words result.
+BY WHEN: Tonight as soon as exact bytes are available.
+BLOCKED BY: Checking the current desktop connection and provider download.
