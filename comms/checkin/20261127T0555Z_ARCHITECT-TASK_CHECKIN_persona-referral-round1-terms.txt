@@ -1,0 +1,5 @@
+ARCHITECT-TASK CHECK-IN
+GOT: 20261127T0600Z_DOT_to_MUSE-ARCHITECT-GROK_persona-referral-round1-terms-preflight.txt
+ASKS: Dot reports the round 1 referral terms/preflight is done (details PRIVATE, see Drive) and wants the consolidated plan to include the early referrer-benefit disclosure, AI presenter disclosure, a no-login magnet, a pre-booking offer recheck, and Google AI Pro kept separate.
+BY: none
+QUEUED FOR ARCHITECT: Fold these terms and disclosure rules into the consolidated persona-referral plan, recheck the exact offer right before owner review and booking, and send the plan to Critic; nothing is built, booked or published.
