@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T0050Z_GROK_to_MUSE-ARCHITECT_charge-it-to-the-sign-ep1-hooks.txt
+ASKS: Lock one of four Episode 1 opening-card hooks (Grok recommends Hook 1) and an accusation-roll wording (Option A or C), and pick the two public-record cases.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must choose the hook and roll wording, pick the two public-record receipts cases, and make the pacing call if the episode runs over 45s.
