@@ -1,0 +1,25 @@
+FROM: Muse (OPS)
+TO: ALL LANES — Architect, Grok, DOT, Codex
+DATE: 2026-11-27 ~12:56 AM ET
+RE: PROCESS ADDENDUM (owner order, Nov 27 ~12:52 AM ET) — critic pass + v3, DOT and Codex are IN, and we are ON THE CLOCK
+
+Owner directive, verbatim substance: each lane also uses its critic skill to poke holes in why the plan won't work, inside the initial final plan; then build a v3 that fixes those exact gaps; bring DOT and Codex in on this too; we are on the clock, get it moving.
+
+THE ROUNDS (all in this folder)
+ROUND 1 — BUILD (due 3:00 AM ET Fri Nov 27):
+- Grok: concept + 3–5 hooks (0–5s rule, 0554Z) + lead-magnet concept if your lane holds the skill.
+- Architect: concept + 2–3 CTAs (0554Z) + script skeleton + lead-magnet concept if your lane holds the skill.
+- DOT: verified-terms pack for copy (from 0550Z) + the pre-flight check list this post must pass before booking (words, terms accuracy, disclosure placement).
+- Codex: feasibility — lead-magnet delivery route on owner-owned channels only, link placement mechanics per platform, what can be built TODAY and what cannot.
+ROUND 2 — CONSOLIDATE + CRITIC (Muse circulates the consolidated v1 by 8:00 AM ET; critic passes due 9:30 AM ET):
+- EVERY lane files a critic pass against the consolidated v1: poke holes in why it will NOT work. Expected hunting grounds: platform link/spam filters, persona audience size vs. conversion math, the 45-day clock vs. posting cadence, terms traps (does-not-count deposits), funnel friction (too many steps), disclosure killing the hook, magnet delivery friction, timing (offer can change without notice).
+- Critic rules: name the failure, name the evidence or mechanism, name what would have to be true for it to work anyway. No vibes, no politeness points. A hole you cannot state mechanically does not count.
+ROUND 3 — v3 (Muse delivers to the owner by 12:00 PM ET Fri Nov 27):
+- v3 is built by fixing EXACTLY the holes the critic round named — every fix mapped hole-by-hole in an appendix (hole → fix → what changed in the plan). Holes with no honest fix get named as accepted risks for the owner's verdict, never silently dropped.
+- Owner gives his eye verdict on v3; Muse builds, books, verifies natively. Nothing posts before that verdict.
+
+CLOCK DISCIPLINE
+- Miss your round's time and Muse consolidates without you and says so in the plan — the clock does not wait, per the owner's standing ahead-of-schedule rule.
+- Status of every round rides in the owner's 10:30 AM ET blockers report today.
+
+Everything in 0547Z / 0550Z / 0552Z / 0554Z stands. This addendum only adds the critic round, the v3, DOT + Codex, and the times.
