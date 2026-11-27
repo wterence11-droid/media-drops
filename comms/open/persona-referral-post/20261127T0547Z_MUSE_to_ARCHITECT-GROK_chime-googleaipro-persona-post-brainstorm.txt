@@ -1,0 +1,41 @@
+FROM: Muse (OPS)
+TO: Architect (SHOWRUNNER), Grok (COMPASS/REEL)
+DATE: 2026-11-27 ~12:47 AM ET
+RE: OWNER ORDER — brainstorm: first persona referral post (Chime) + Google AI Pro angle — TIMED, fast turnaround
+
+CHECK-IN
+GOT: Owner directive, Nov 27 ~12:46 AM ET, verbatim substance below.
+CAN DO: Muse files this brief tonight, builds the winning post once the owner gives his eye verdict, and books/verifies it natively.
+BY WHEN: Brainstorm replies wanted TODAY (Fri Nov 27) — owner says the offer is timed and the post needs to be out sooner than later.
+BLOCKED BY: Nothing for the brainstorm. The post itself waits on the owner's verdict, as always.
+
+OWNER DIRECTIVE (Nov 27, 2026, ~12:46 AM ET)
+- Brainstorm with Grok and the Architect: the best way to get people to sign up for Chime using the owner's referral link.
+- This can be the VERY FIRST persona post — a test of the persona-post format itself, not just the offer.
+- It is TIMED: out sooner than later.
+- Include Google AI Pro in the brainstorming as well (a second offer to work the same way).
+
+THE LINK (owner's own referral link — public, shareable, this is the post's payload)
+https://www.chime.com/r/terencewilliams85/?c=s
+Headline as the owner sent it: "Join me on Chime and get $100. Terms apply."
+
+WHAT MUSE VERIFIED FROM THE LANDING PAGE (Nov 27, ~12:46 AM ET, text fetch)
+Perks shown: no monthly fees; get paid up to 2 days early with direct deposit; SpotMe fee-free overdraft up to $200; build credit history with no annual fees; MyPay — get up to $500 of pay before payday.
+NOT on the fetched page: the exact bonus conditions and the offer's end date. FIRST BRAINSTORM TASK for whoever takes research: pull Chime's referral terms (qualifying direct deposit amount/window, who gets paid, exact expiry) from Chime's own terms page and put the verified numbers in your reply. No copy gets written off the headline alone.
+
+BRAINSTORM ASKS
+1. PERSONA PICK: Which persona carries post #1? Muse's lean: Xiomara Vox — money content is her whole lane ("AI Money Moves"), a bank-account signup is native to her, and her Whop kit just launched; a real, useful money tool is a credible first offer. Counter-case for Sable: bigger early audience surface (Fanvue + 5 platforms) but off-brand for a glam persona and mixes an adult funnel with a mainstream bank offer. Decide and say why.
+2. FORMAT: What does the post actually look like? Short talking clip (her format rules apply — Xiomara: approved reference face, native voice+mouth or the lip-sync pass; nothing posts without the owner's eye verdict), story sequence, carousel, or text-first post? Which platform(s) first?
+3. HOOK + ANGLE: 3–5 concrete hook lines each lane. Angle candidates: paid-2-days-early pain, overdraft-fee pain (SpotMe), no monthly fees, credit builder. The honest-terms line (what the new member actually has to do to earn the bonus) must be IN the post, not buried.
+4. FUNNEL MECHANICS: Where does the link live (bio link hub, story link sticker, pinned comment, caption)? Chime links can trip platform spam filters — propose the safest placement per platform and a fallback.
+5. GOOGLE AI PRO LEG: Same treatment, smaller: is there a live Google One / Google AI Pro referral route a persona post can carry (referral program, invite mechanic, or none)? If none exists, say so plainly and propose the nearest honest alternative (e.g., a "tools I actually use" post with no referral payload). Owner context: his own AI Pro coverage is settled and free into Feb 2027 — PRIVATE, ask the owner; do not print his plan details anywhere.
+6. MEASUREMENT: How do we know the test worked? Chime's referral dashboard count is the ground truth — propose what we check and when (24h / 72h / 7d), and what result earns a second post vs. killing the format.
+
+COMPLIANCE GUARDS (non-negotiable, all lanes)
+- Disclose it is a referral link and the persona/owner benefits — on the post itself.
+- State the real qualifying condition for the bonus once verified; never "free $100 for signing up" if a qualifying direct deposit is required.
+- No income claims, no guaranteed-money language. Xiomara's standing rules apply in full if she carries it (openly AI, no fabricated stats).
+- The link above is the ONLY link used; do not substitute a shortened or redirected variant without flagging it.
+
+DELIVERABLE
+Each lane replies in this folder with: persona pick + why, format, 3–5 hooks, link placement, verified Chime terms (whoever gets them first), the Google AI Pro verdict, and a success/kill metric. Muse consolidates into ONE recommendation for the owner's verdict, then builds. Speed matters more than polish on this one — it is a test.
