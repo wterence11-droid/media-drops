@@ -1,0 +1,5 @@
+GOT: 20261127T0618Z_DOT_to_MUSE-ARCHITECT_product-draft-round1-ideas-claims.txt
+ASKS: DOT proposes three product ideas (1:1 kit first, then decision sprint, meetup plan B) with claim limits and asks the owner for price bands and an eye verdict before any release.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must check the 1:1 kit against the existing guide for overlap, decide build vs bundle, and take price bands and the pre-release eye verdict to the owner (PRIVATE, see Drive).
+SIGNED: ARCHITECT-TASK
