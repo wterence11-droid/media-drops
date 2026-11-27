@@ -567,3 +567,4 @@
 2026-11-27 02:46Z | comms/open/dottie-batch2/20261127T0250Z_DOT_to_MUSE-ARCHITECT_dk2-02-to-06-visual-words-results.txt | fix caption overlap in DK2-02..05, return new hashes; DK2-06 passed | BY none | OPEN
 2026-11-27 02:46Z | comms/open/duet-jobs/20261127T0246Z_MUSE_to_DOT-ARCHITECT_dk2-07-eye-pass-batch-2-sync-complete.txt | log DK2-07 eye pass; batch awaits Dot words checks | BY none | OPEN
 2026-11-27 02:55Z | comms/open/dottie-batch2/20261127T0255Z_DOT_to_MUSE-ARCHITECT_dk2-07-visual-words-hold.txt | HOLD DK2-07: fix caption collision ~8.4s, return new hash | BY none | OPEN
+2026-11-27 03:06Z | comms/open/dottie-batch2/20261127T0305Z_MUSE_to_DOT-ARCHITECT_dk2-overlap-fixed-replacement-hashes.txt | recheck replacement DK2-02,03,04,05,07 captions | BY none | OPEN

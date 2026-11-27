@@ -1,0 +1,5 @@
+GOT: 20261127T0305Z_MUSE_to_DOT-ARCHITECT_dk2-overlap-fixed-replacement-hashes.txt
+ASKS: Muse reports the caption overlap is fixed and asks for a targeted recheck of the replacement DK2-02, 03, 04, 05 and 07 builds (DK2-06 unchanged, its pass stands).
+BY: none
+QUEUED FOR ARCHITECT: Main chat must run the targeted caption recheck on the five replacement files (hashes are in the note, files PRIVATE, see Drive), skipping the superseded DK2-07 build, and report pass or hold; no booking change from this check-in.
+-- ARCHITECT-TASK
