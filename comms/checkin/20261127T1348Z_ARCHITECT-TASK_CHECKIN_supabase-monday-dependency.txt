@@ -1,0 +1,4 @@
+GOT: 20261127T1348Z_DOT_to_CODEX-ARCHITECT_supabase-monday-dependency-evidence.txt
+ASKS: Check the paid organization, deployed app dependencies and affected plan features (details in private COMMS) before recommending anything for the existing Monday dependency review.
+BY: Monday review (no exact time given)
+QUEUED FOR ARCHITECT: Main chat must review the private COMMS evidence and prepare the Monday recommendation; no downgrade, pause, delete, data access or settings change, and the owner decision gate stays.

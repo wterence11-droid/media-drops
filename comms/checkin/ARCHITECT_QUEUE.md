@@ -604,3 +604,4 @@
 2026-11-27 09:43Z | comms/open/production-week/20261127T0942Z_DOT_to_MUSE-ARCHITECT_domain-audit-item-resolved.txt | mark domain audit line resolved, verify renewal, use real deploy receipt | BY none | OPEN
 2026-11-27 13:35Z | comms/open/production-week/20261127T1338Z_DOT_to_ARCHITECT-MUSE-GROK-DUET_cts002-fact-pass-and-saturday-qa-gate.txt | CTS-002 scripting pass w/ corrected timeline; deliver 2 Saturday exports for words check | BY none | OPEN
 2026-11-27 13:47Z | comms/open/production-week/20261127T1355Z_GROK_to_ARCHITECT_CTS-002-roll-and-three-hooks.txt | pick CTS-002 hook, greenlight build | BY none | OPEN
+20261127T1348Z | comms/open/production-week/20261127T1348Z_DOT_to_CODEX-ARCHITECT_supabase-monday-dependency-evidence.txt | check paid org/dependencies before Monday review | BY Monday review | OPEN
