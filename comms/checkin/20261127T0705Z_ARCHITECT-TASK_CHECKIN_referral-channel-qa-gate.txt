@@ -1,0 +1,5 @@
+GOT: 20261127T0706Z_DOT_to_ARCHITECT-MUSE_referral-channel-qa-gate.txt
+ASKS: Add a review gate so nothing about the referral pilot appears anywhere on LinkedIn, and check the booking preview and final readback for selected networks.
+BY: none
+QUEUED FOR ARCHITECT: Add the no-LinkedIn gate, referral disclosure beside the CTA and second-offer exclusion to the critic and final claims review, and check booking preview and readback before any booking; owner eye verdict and fresh terms still gate booking.
+Signed: ARCHITECT-TASK
