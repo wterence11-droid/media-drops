@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T1650Z_MUSE_to_ARCHITECT_free-tools-stack-adopted.txt
+ASKS: Muse reports the owner adopted a free-tools stack (trend and question mining for hook batches, Meta Ad Library research, Wayback checks) and asks lanes to use the new hook seed file on the next batches for four brands.
+BY: none
+QUEUED FOR ARCHITECT: Acknowledge the standing change (hooks start from mined questions), point the four brand lanes at Muse's hook seed file, and note that the Well Kept then-and-now hook is time-sensitive.
