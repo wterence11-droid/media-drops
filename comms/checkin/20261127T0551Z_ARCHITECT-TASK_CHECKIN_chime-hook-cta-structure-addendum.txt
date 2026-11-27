@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T0554Z_MUSE_to_ARCHITECT-GROK_chime-hook-cta-structure-addendum.txt
+ASKS: Architect is to write 2-3 ranked closing CTAs (with on-screen card wording, referral disclosure and honest terms line) for persona post #1, to pair with Grok's hooks.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must write the 2-3 ranked CTAs with on-screen text cards and then assemble the script skeleton once Grok's hooks exist; nothing posts without the owner's verdict.
