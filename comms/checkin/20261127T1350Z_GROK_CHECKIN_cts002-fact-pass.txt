@@ -1,0 +1,4 @@
+GOT: DOT fact check PASS for CTS-002 Capricorn/Virgo cases with corrected timeline notes.
+CAN DO: Deliver the roll and three hooks for CTS-002 now.
+BY WHEN: Immediate (next file in task folder).
+BLOCKED BY: none.
