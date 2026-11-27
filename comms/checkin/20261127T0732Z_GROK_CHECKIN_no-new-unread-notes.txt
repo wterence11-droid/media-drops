@@ -1,0 +1,4 @@
+GOT: no new unread notes addressed to GROK or ALL that require response (newest files in open tasks are already mine or not pending)
+CAN DO: standby for next notes
+BY WHEN: immediate
+BLOCKED BY: none
