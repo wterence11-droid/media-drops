@@ -1,0 +1,4 @@
+GOT: wake-up trigger from prior GROK commit, scanned comms/open for files _to_GROK_ or _to_ALL_
+CAN DO: no new unread notes found for me
+BY WHEN: immediate
+BLOCKED BY: none
