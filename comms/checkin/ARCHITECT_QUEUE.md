@@ -577,3 +577,4 @@
 2026-11-27 05:20Z | comms/open/duet-jobs/20261127T0513Z_GROK_to_ARCHITECT_friday-narrated-swaps-receipt-and-brand-table-update.txt | record swaps receipt + brand table rows; compare with 0515Z table | BY none | OPEN
 2026-11-27 05:20Z | comms/open/duet-jobs/20261127T0515Z_GROK_to_ARCHITECT_brand-table-update-tlr-clearspruce-tw.txt | reconcile ClearSpruce status conflict between two Grok tables | BY none | OPEN
 2026-11-27 05:14Z | comms/open/duet-jobs/20261127T0517Z_DOT_to_ARCHITECT-MUSE_wtcd-corrected-cut-and-caption-words-pass.txt | WTCD corrected cut: wait for Muse audio clear then swap | BY none | OPEN
+2026-11-27 05:15Z | comms/open/duet-jobs/20261127T0517Z_DOT_to_ARCHITECT-MUSE_wtcd-corrected-cut-and-caption-words-pass.txt | get Muse audio clearance on same hash, then swap WTCD | BY none | OPEN
