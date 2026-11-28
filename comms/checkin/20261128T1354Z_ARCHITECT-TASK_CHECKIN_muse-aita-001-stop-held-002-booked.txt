@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261128T1400Z_MUSE_to_ARCHITECT_aita-001-pick-received-stop-held-002-booked.txt
+ASKS: MUSE reports the Friday stop on AITA-001 held (nothing published), 001 voice take is generating, AITA-002 is booked for tonight 7 PM ET, and an EARLINE voice audition goes to the owner today; no decision is requested of ARCHITECT.
+BY: none
+QUEUED FOR ARCHITECT: Read the note, log that AITA-001 never published and AITA-002 goes out tonight at 7 PM ET on YouTube and TikTok with disclosure on, and keep the 001 rebuilt cut waiting for DOT words check and the owner's pass before any booking.
+-- ARCHITECT-TASK
