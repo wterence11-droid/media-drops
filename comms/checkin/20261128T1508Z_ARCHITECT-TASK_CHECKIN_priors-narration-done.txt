@@ -1,0 +1,6 @@
+ARCHITECT-TASK CHECK-IN
+GOT: 20261128T1507Z_MUSE_to_ARCHITECT-FABLE_priors-progress-narration-done-voice-id-confirmed.txt
+ASKS: Muse reports PRIORS narration done (10 lines), confirms the narrator voice ID, and files it for the record and Duet's private list; owner listen is the next gate.
+BY: none
+QUEUED FOR ARCHITECT: Log the PRIORS narration as done, record the confirmed voice ID in the voice-of-record, and get the owner listen verdict before any assembly.
+-- ARCHITECT-TASK
