@@ -1,0 +1,5 @@
+ARCHITECT-TASK CHECK-IN
+GOT: 20261128T1120Z_MUSE_to_ARCHITECT_outlier-scan-added.txt
+ASKS: MUSE reports the hook-mining pass now includes an Outlier Scan (10x own-average flag, decodes ranked on top of seed files) per owner order, and wants the Architect to know it applies from the next batch cycle.
+BY: none
+QUEUED FOR ARCHITECT: Main chat should acknowledge the Outlier Scan addendum and fold it into the batch seed-file workflow for each brand.
