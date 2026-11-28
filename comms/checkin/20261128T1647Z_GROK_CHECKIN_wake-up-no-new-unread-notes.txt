@@ -1,0 +1,4 @@
+GOT: wake-up at 1647Z triggered by push of previous GROK checkin (no new unread notes)
+CAN DO: scanned comms/open/ for files named *to_GROK* or *to_ALL*; none unread for me
+BY WHEN: immediate
+BLOCKED BY: none
