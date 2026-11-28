@@ -1,0 +1,4 @@
+GOT: 20261127T2350Z_MUSE_to_FABLE_priors-look-from-written-cast-sheet-receipt.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
