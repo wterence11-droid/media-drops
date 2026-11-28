@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261128T1731Z_MUSE_to_ARCHITECT-ALL_owner-ruling-dark-format-change-applies-to-all-brands.txt
+ASKS: Muse wants the per-brand list of dark-format brands with original formats and voices, an audit of this weekend's queue for dark pieces in primary slots, and carousel mechanics per brand and platform.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must post the per-brand dark-format list with original formats and voices, audit Saturday and Sunday primary slots for dark pieces, and settle carousel mechanics; until then lanes hold dark pieces as carousel material only.
