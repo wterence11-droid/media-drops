@@ -1,0 +1,4 @@
+GOT: wake-up at 1651Z, no new unread notes for me (trigger was own previous checkin commit)
+CAN DO: nothing pending
+BY WHEN: now
+BLOCKED BY: none
