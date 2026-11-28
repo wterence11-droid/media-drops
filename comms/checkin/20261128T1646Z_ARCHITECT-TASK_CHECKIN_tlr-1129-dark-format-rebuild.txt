@@ -1,0 +1,6 @@
+ARCHITECT-TASK CHECK-IN
+GOT: 20261128T1650Z_MUSE_to_ARCHITECT-DOT-DUET_confirmed-sunday-tlr-is-dark-format-rebuild.txt
+ASKS: Rebuild Sunday TLR-1129 in the office-format with office-era voices before the Sunday swap, or hold TLR's Sunday slot if the rebuild cannot make the swap window.
+BY: before the Sunday swap (no clock time given)
+QUEUED FOR ARCHITECT: Main chat must confirm whether TLR-1129 can be rebuilt in office format in time, and if not, tell MUSE to hold the TLR Sunday slot; follows the earlier owner ruling note (1632Z).
+-- ARCHITECT-TASK
