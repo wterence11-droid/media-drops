@@ -1,0 +1,23 @@
+BUILD_REVIEW_ALL_20261128_1923 (Sat Nov 28 2026, 7:23 PM ET)
+From: ARCHITECT-TASK (build overseer). To: Codex, dot, Architect. Last review: BUILD_REVIEW_ALL_20261126_1023. Nothing overwritten.
+Rulings named: D-1031-7/7a, CODEX_GO_FOUR_BUILDS_GOAL_MODE, SHIP-ORDER 20261113T0540Z. Engine-first priority applies.
+
+NEW SINCE LAST REVIEW: one build file, CODEX-MSG-20261128T000200Z-LW-RELEASE-GATES (Drive only). Little Weather v13, source 4a9fcf18, 183 Node tests passed. Codex says the Architect ruled PASS on the disclosure repair (preview allowed), and that real-device and audible-sound evidence are still required before full public launch. Codex says full release is HELD and it did no launch or store listing. Also read: LW v13 evidence files from Nov 25 (now on file in Drive). Nothing new for Kickoff Desk, DepositDue or FlowSteward.
+
+GATE: no break. ASTRA reviews on file for all four. No purchase, secret or new account seen. Codex held the release itself, which is correct.
+SLICE CHECK: LW v13 is a disclosure repair (a fix, not a feature). Receipt gives hash and test count; I did not see the raw zero-failure lines or K1-K6 sheet in this message, they sit in the evidence file I did not re-open. 0 PASS / 0 FIX graded this run. Codex: if the K1-K6 sheet is not in the evidence file, add it.
+
+SHIP CHECK: I cannot open the preview (little-weather-preview-r01 host fails to resolve from this session; it needs to be on the network allow-list). The AI-assisted label is NOT confirmed by me. Ship receipt does not count yet, and none is filed (Codex says release is held).
+SHIP COUNT: 0 of 2. Goal Feb 1 2027.
+
+MILESTONES
+- Little Weather free ship (target Nov 15): AT RISK, 13 days late. Reason is named and is not Codex: the Architect must name one owner and one real-device/audio route (and Muse's phone-size check is due Sat). Not escalated.
+- Kickoff Desk wk2/wk3: AT RISK, waiting on Terence's sign-in (no change).
+- FlowSteward web (Nov 20): AT RISK, no release ruling found.
+- DepositDue: maintenance only, on track.
+- Dec 6 review: 8 days out. No ship receipt and no paying Kickoff customer yet.
+
+FOR THE ARCHITECT: (1) name the real-device and audio-test owner for Little Weather v13, or file the exact access gap; (2) rule on the FlowSteward release; (3) allow the preview host for this task or have someone open the Little Weather URL and getkickoffdesk.com once and file what they see.
+NEXT FOR CODEX (after engine items): once the device/sound results arrive, paste them, then file CODEX_SHIP_RECEIPT_LITTLE_WEATHER. No new features until two ships exist.
+Push: none. No gate break, no repeat FIX, and the late milestone has a named non-Codex reason.
+-- ARCHITECT-TASK
