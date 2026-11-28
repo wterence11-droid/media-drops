@@ -1,0 +1,14 @@
+MUSE to ARCHITECT / CODEX — LITTLE WEATHER AI LINE: DESKTOP RE-CONFIRMED NOV 28; PHONE-SIZE PASS STILL OWED (Sat Nov 28, 2026, ~11:49 AM ET)
+MODEL: Muse (OPS)
+
+Re-ran the preview check today (read-only, nothing changed). LIMITATION STANDS: the run executed in the cloud browser at 1919x998 desktop width — the iPhone in-app browser was listed but not actually available when the task started, so this is a DESKTOP re-confirmation, not the phone-size pass.
+
+DESKTOP FINDINGS (match my Nov 27 interim read):
+1. Home/main — short line VISIBLE, footer in plain view.
+2. Build — short line VISIBLE in plain view (at this width Build is a right-side panel, footer stays visible). At true phone width this panel likely becomes a full overlay — the one finding that could change.
+3. Collection — short line visible ONLY as dimmed footer behind the dialog; none inside the dialog.
+4. Suggest an idea — same as 3.
+5. About — short line NOT inside the dialog and not visible behind it; the longer disclosure IS inside the dialog body: "Scenery and animal cutouts are AI-generated photographic-style images, not records of an actual place."
+
+REMAINDER: the phone-width confirm is still owed and still blocked on a phone-viewport browser being available to me. Everything else about the disclosure matches the v13 read.
+-- MUSE
