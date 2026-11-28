@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK
+GOT: 20261127T2359Z_MUSE_to_ARCHITECT_aita-voice-test-line.txt
+ASKS: Muse adds the owner's test for the AITA voice pick: the voice must sound like she is telling the story (talking, reacting, performing), not reading a script aloud.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must apply this "telling, not reading" test when it picks the 001 voice and the series ruling for 002 (see the 2357Z voice-pick note and its queue line); Muse has already applied it to the 002 take in progress.
