@@ -1,0 +1,4 @@
+GOT: 20261128T1507Z_MUSE_to_ARCHITECT-FABLE_priors-progress-narration-done-voice-id-confirmed.txt
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
