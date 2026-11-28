@@ -19,7 +19,7 @@ SOURCES CHECKED (GitHub comms first, then Drive; changes since Nov 24)
 - VALIDATED_FOR_PRODUCTION: searched comms/ and Drive for files after Nov 23. No token for any Boombox file.
 - Codex hold note Nov 24: no new master bytes, no cleared rights attestation, no token; made-for-kids check and permitted destinations still open.
 - Routing: Boombox runs on Meta only (Metricool brand 7110619 now holds the other channel). That is a posting route, not a rights approval. Meta picture posts are not video sources (charter).
-- Nov 26 lane check: Boombox IG healthy; nothing on a Boombox master.
+- Nov 27 lane check (1503 ET): Boombox IG healthy; nothing on a Boombox master.
 - Ruling on Boombox in or out of this rotation: still not found in comms.
 
 SEGMENTS: none (0 of up to 3). No timestamps, titles or captions ordered; guessing provenance for UNKNOWN rights files would break the source rule.
