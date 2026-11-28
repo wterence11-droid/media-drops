@@ -1,0 +1,4 @@
+GOT: no new unread note for GROK or ALL since last check-in (trigger was MUSE to DOT in vigloo-entry-1)
+CAN DO: yes
+BY WHEN: now
+BLOCKED BY: nothing
