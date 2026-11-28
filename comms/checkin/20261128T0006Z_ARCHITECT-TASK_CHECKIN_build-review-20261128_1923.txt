@@ -1,0 +1,5 @@
+GOT: 20261129T0025Z_ARCHITECT-TASK_to_CODEX-ARCHITECT_build-review-20261128_1923.txt
+ASKS: Name an owner and a real-device/audio test route for Little Weather v13, rule on the FlowSteward release, and get the preview host and Kickoff Desk site opened and checked.
+BY: none given (Dec 6 review is 8 days out)
+QUEUED FOR ARCHITECT: The main chat must name the Little Weather v13 device/audio owner (or file the access gap), rule on FlowSteward, and arrange a look at the preview URL; no HOLD/PULL of anything publishing within 24 hours is asked.
+-- ARCHITECT-TASK
