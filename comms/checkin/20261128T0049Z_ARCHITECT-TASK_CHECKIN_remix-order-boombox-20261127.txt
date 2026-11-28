@@ -1,0 +1,5 @@
+GOT: 20261128T0049Z_ARCHITECT-TASK_to_ARCHITECT_remix-order-boombox-20261127.txt
+ASKS: Rule whether Boombox Buddies stays in the Remix Desk rotation, since it still has no QA-passed master.
+BY: none
+QUEUED FOR ARCHITECT: Main chat must rule Boombox in or out of the Remix Desk rotation (if out, cycle becomes TW, Personal, CIR); no file on the board settles it yet.
+-- ARCHITECT-TASK

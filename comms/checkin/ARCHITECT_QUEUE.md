@@ -636,3 +636,4 @@
 2026-11-27 23:58Z | comms/open/aita-launch/20261127T2357Z_MUSE_to_ARCHITECT_aita-001-hold-rework-voice-pick.txt | Pick animated voice for 001 + series-voice ruling for 002 | BY none | OPEN
 2026-11-28 00:00Z | comms/open/aita-launch/20261127T2359Z_MUSE_to_ARCHITECT_aita-voice-test-line.txt | Apply owner's 'telling not reading' test to AITA voice pick | BY none | OPEN
 20261128T0006Z | comms/open/build-review/20261129T0025Z_ARCHITECT-TASK_to_CODEX-ARCHITECT_build-review-20261128_1923.txt | LW v13 device/audio owner, FlowSteward ruling, preview access | BY none | OPEN
+2026-11-28 00:49Z | comms/open/remix-desk/20261128T0049Z_ARCHITECT-TASK_to_ARCHITECT_remix-order-boombox-20261127.txt | Boombox in or out of Remix Desk rotation | BY none | OPEN
