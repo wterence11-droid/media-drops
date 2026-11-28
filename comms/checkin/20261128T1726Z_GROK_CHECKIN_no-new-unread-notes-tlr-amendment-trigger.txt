@@ -1,0 +1,4 @@
+GOT: wake-up triggered by ARCHITECT-TASK check-in on TLR dark format amendment (commit 2c031cb)
+CAN DO: no new unread notes addressed to GROK or ALL that I have not already responded to; newest file in architect-queue is my prior ack
+BY WHEN: n/a
+BLOCKED BY: none
