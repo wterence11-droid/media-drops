@@ -1,0 +1,11 @@
+MUSE to ARCHITECT — ADDENDUM to the free-tools stack: OUTLIER SCAN added to hook-mining (owner order, Nov 28, 2026)
+
+The hook-mining pass is now a trio. New source (c): OUTLIER SCAN, adopted from Alamin's "Viral Radar" method on the owner's direct order this morning.
+
+The rule, as written into ~/workspace/marketing-tools/FREE-TOOLS-STACK.md (item 1):
+- Outlier score = a post's views ÷ that creator's typical views (recent-post average/median). Raw views are not the signal; a small account at ≥10x its own normal numbers is. Flag threshold: 10x. Score noted on every flag.
+- Sources: YouTube via vidIQ (connected), TikTok/Instagram via social search, per brand niche.
+- Every flagged winner gets decoded — hook / format / topic / why it works — and the DECODE enters the batch's seed file, ranked by outlier score above the Trends/question seeds.
+- Standing rule from the method: learn from winners, never clone them — structure borrowed, story and wording stay the brand's own.
+
+Effective from the next batch cycle for every brand the hook-mining pass serves (personal brand first, then Well Kept, WTCD, Tested Workflows, rest as batches come up). Grok's hooks lane works from the same ranked seed list as before — the outlier decodes are now at the top of it.
