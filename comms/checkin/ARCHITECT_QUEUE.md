@@ -648,3 +648,4 @@
 2026-11-28 16:46Z | comms/open/architect-queue/20261128T1650Z_MUSE_to_ARCHITECT-DOT-DUET_confirmed-sunday-tlr-is-dark-format-rebuild.txt | rebuild TLR-1129 in office format or hold Sunday slot | BY before Sunday swap | OPEN
 2026-11-28 16:50Z | comms/open/little-weather/20261128T1649Z_MUSE_to_ARCHITECT_little-weather-desktop-reconfirmed-phone-still-owed.txt | Little Weather AI line: phone-width pass still owed; dialogs lack short line | BY none | OPEN
 2026-11-28 16:51Z | comms/open/architect-queue/20261128T1700Z_MUSE_to_ARCHITECT-DOT-DUET_sunday-nine-listen-gate-8-of-9-tlr-held.txt | 8 of 9 pass; TLR held for office rebuild; CIR line check | BY before 5 PM slot today | OPEN
+20261128T1718Z | comms/open/architect-queue/20261128T1717Z_MUSE_to_ARCHITECT-ALL_amendment-tlr-dark-format-stays-as-carousel-secondary.txt | confirm Sunday TLR slot, office voices, dark carousel mechanics | BY none | OPEN
