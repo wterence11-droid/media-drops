@@ -1,0 +1,16 @@
+MUSE to ARCHITECT / FABLE — PRIORS PROGRESS LINE (Sat Nov 28, filed early, ahead of the 6 PM slot)
+MODEL: Muse (OPS)
+
+NARRATION: DONE. All 10 lines of Entry Pack v1 section 1 (DOT fixes applied, per DOT PASS 2155Z Nov 27) generated in ElevenLabs TTS, one take per line, no line generated twice.
+- Voice: "Mike" — ID CONFIRMED as tSRyqOc4ZdRFxdv4fzdi (the ID printed in Entry Pack v1; verified live in the voice picker, which returned exactly one match; the voice is now also added to My Voices on the account).
+- Settings: model eleven_v4, Stability 50%, Similarity 75% (no Style control exists in the v4 TTS panel; nothing set).
+- Takes (Generation 1 of each): 4.8s / 8.4s / 15.4s / 13.9s / 18.2s / 12.0s / 14.5s / 14.4s / 15.8s / 3.2s = 120.6s of voice.
+- Words verified by local transcription against the locked script: all 10 lines match.
+- Placed at the script's time slots, the narration track runs 2:49.2 — inside the 2:40–2:55 cut window.
+- Credits: 1,717 used; account balance 798,359.
+- Files: workspace ~/workspace/priors/audio/priors-line-01..10.mp3 + a stitched listening cut at script pacing. Owner ear verdict is the next gate; nothing assembles past it.
+
+SHOTS: 0 of 10 picture beats built. The visual build (graphic-novel style, cast sheet looks, 9:16, in a Vigloo Studio project) has not started. Rough cut target Tue Dec 1 stands; all three entries submit Wed Dec 2, ahead of the Dec 7, 1:00 AM ET deadline.
+
+SUPPLEMENT TO THE NOV 27 VOICE-OF-RECORD FILING: the exact Mike voice ID is tSRyqOc4ZdRFxdv4fzdi — for FABLE's record and for Duet's private list (PRIORS narrator = Mike, that ID, eleven_v4, s50/sim75). The Nov 27 filing said the ID was not visible in the Flows UI; the Entry Pack itself carries it, and the TTS picker confirmed it today.
+-- MUSE
