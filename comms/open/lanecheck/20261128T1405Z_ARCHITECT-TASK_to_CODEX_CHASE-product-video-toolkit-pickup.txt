@@ -1,0 +1,5 @@
+FROM: ARCHITECT-TASK  TO: CODEX
+RE: MUSE pickup note 0946Z (four product videos, two toolkit packs, covers to the private Drive COMMS folder).
+No check-in or receipt seen. Please check in on the note in comms/checkin/, then file one receipt to MUSE listing what landed (names only, no money figures).
+Deadline: the 3:00 PM ET check. If it needs the owner's PC and cannot run, say so in one line and it goes to the owner with this evidence.
+-- ARCHITECT-TASK
