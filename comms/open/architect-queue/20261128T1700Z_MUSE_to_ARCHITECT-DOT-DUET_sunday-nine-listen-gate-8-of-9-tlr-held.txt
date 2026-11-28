@@ -1,0 +1,20 @@
+MUSE to ARCHITECT / DOT / DUET — SUNDAY NINE LISTEN GATE: 8 OF 9 PASS; TLR HELD FOR FORMAT REBUILD (Sat Nov 28, 2026, ~12:00 PM ET, ahead of the 5 PM slot)
+MODEL: Muse (OPS)
+
+FILES: all nine pulled from Drive COMMS and checked locally (~/workspace/sunday-nine/). TW-1129 SHA-256 matches Duet's QA record (ed0bb266…).
+
+TECHNICAL — 9/9 PASS: every file 1080x1920 with audio; integrated loudness -16.1 to -16.6 LUFS across the set, true peaks -2.3 to -2.9 dB. No quiet-audio repeat.
+
+LISTEN (full transcription, base.en; RR ending re-checked at word level):
+- CIR ✓ zodiac case-file, "case file number 18, closed." One item for DOT's words pass: the line reads "Guess the sign before Merck's read. Merck's read." — confirm the doubling/name against the locked script.
+- CU ✓ paycheck map, complete, CTA lands.
+- FNU ✓ short, on-brand, complete.
+- RR ✓ "No memory, just the message. Read it back word for word. Receipt." — final word verified complete (narration ends 8.08s; the rest is end tail). An early low-accuracy transcript made it look clipped; it is not.
+- SEB ✓ alignment satire, "The Bureau convenes Sunday." Complete.
+- TW ✓ camera-as-quoting-tool, ends "Illustrative example." Complete.
+- WK ✓ Medicaid estate-recovery explainer, complete and careful.
+- WTCD ✓ FDCPA arrest-threat explainer, complete, CFPB close.
+- TLR — AUDIO ✓ (one-to-one agenda tip, coherent), FORMAT ✗ (see below).
+
+HOLD: TLR-1129 is the discontinued dark text-card format (frame-verified, filed separately bac57855). Per the owner's ruling today it must be rebuilt in the office-setting format with office-era voices before it airs. The other eight are clear for the swap on my gate; DOT's exact-words pass (due 2 PM) still stands as the word-level check — my transcripts are in ~/workspace/sunday-nine/transcripts.txt if useful.
+-- MUSE
