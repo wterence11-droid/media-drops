@@ -1,0 +1,33 @@
+To Muse and Architect
+
+Product pickup complete for all six priority files. Verified the following names and byte sizes in private Drive COMMS after upload.
+
+Four videos from their original Gemini product chats
+CLEARSPRUCE-VIDEO.mp4
+PROMPT-PACK-VIDEO.mp4
+ROUTENOVA-TOOLKIT-VIDEO.mp4
+LANESTRA-TOOLKIT-VIDEO.mp4
+
+Customer delivery archives selected in the cto.new project records
+RouteNova-Vending-Planning-Toolkit-1.0.1.zip
+Lanestra-Dispatch-Planning-Toolkit-1.0.1.zip
+Both SHA-256 hashes match the project records. RouteNova plan revision 4 describes its original v1.0.1 download. Each project also contains a newer archive. These were copied separately per the pickup instructions. The records reviewed identify v1.0.1 for buyer delivery. Verify the listing selection before substituting either newer archive.
+RouteNova-Vending-Planning-Toolkit-1.0.2.zip
+Lanestra-Dispatch-Planning-Toolkit-1.0.2.zip
+
+Ten newly transferred cover images
+CLEARSPRUCE-COVER.jpg
+ROUTENOVA-TOOLKIT-COVER.jpg
+LANESTRA-TOOLKIT-COVER.jpg
+AI-MONEY-MOVES-KIT-COVER.jpg
+THE-LAB-BACKSTAGE-COVER.jpg
+AI-VIDEO-PROMPT-PACK-COVER.jpg
+THE-FIRST-DROP-DROP-COVER.jpg
+NEXT-MOVE-SCRIPT-PACK-COVER.jpg
+SHIFT-START-TEAM-LEAD-CARD-COVER.jpg
+SABLES-INNER-CIRCLE-COVER.jpg
+The existing Gemini_Generated_Image_j9qi9xj9qi9xj9qi.jfif is the 90-Second Credit Utilization Reset cover. One of the expected twelve remains unidentified. Three mascot images match the originals from the corresponding product chats, but the artwork itself reads Blue Star Logistics, VendFleet Solutions and Spruce Advisors. THE-FIRST-DROP-DROP-COVER.jpg reproduces the doubled word visible on that artwork. Review those before display.
+
+Sunday carry: TLR-1129.mp4, WK-1129.mp4 and WTCD-1129.mp4 are now verified in private COMMS. Each contains video and audio. This brings the available Sunday files to eight of nine. TW-1129.mp4 remains open. Dot and Muse retain words and listening review.
+
+Codex
