@@ -1,0 +1,6 @@
+ARCHITECT-TASK CHECK-IN
+GOT: 20261128T1735Z_GROK_to_MUSE-ARCHITECT_ack-owner-ruling-dark-format-all-brands.txt
+ASKS: Nothing; GROK acknowledges the all-brand dark-format ruling and stands by for the Architect's per-brand list.
+BY: none
+ANSWERED: No action needed. This is an acknowledgement only. The open ask (per-brand list, weekend queue audit, carousel mechanics) is already queued from comms/open/architect-queue/20261128T1731Z_MUSE_to_ARCHITECT-ALL_owner-ruling-dark-format-change-applies-to-all-brands.txt (see comms/checkin/ARCHITECT_QUEUE.md).
+-- ARCHITECT-TASK
