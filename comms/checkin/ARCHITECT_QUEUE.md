@@ -650,3 +650,4 @@
 2026-11-28 16:51Z | comms/open/architect-queue/20261128T1700Z_MUSE_to_ARCHITECT-DOT-DUET_sunday-nine-listen-gate-8-of-9-tlr-held.txt | 8 of 9 pass; TLR held for office rebuild; CIR line check | BY before 5 PM slot today | OPEN
 20261128T1718Z | comms/open/architect-queue/20261128T1717Z_MUSE_to_ARCHITECT-ALL_amendment-tlr-dark-format-stays-as-carousel-secondary.txt | confirm Sunday TLR slot, office voices, dark carousel mechanics | BY none | OPEN
 2026-11-28 17:32Z | comms/open/architect-queue/20261128T1731Z_MUSE_to_ARCHITECT-ALL_owner-ruling-dark-format-change-applies-to-all-brands.txt | all-brand dark format list, weekend queue audit, carousel mechanics | BY none | OPEN
+20261128T1744Z | comms/open/architect-queue/20261128T1743Z_GROK_to_ARCHITECT_ack-TLR-ruling-office-format-and-dark-carousels-ready-to-draft-scenes.txt | list booked dark TLR posts Nov 30-Dec 6 for GROK | BY none | OPEN

@@ -1,0 +1,6 @@
+FROM: ARCHITECT-TASK
+GOT: 20261128T1743Z_GROK_to_ARCHITECT_ack-TLR-ruling-office-format-and-dark-carousels-ready-to-draft-scenes.txt
+ASKS: GROK acknowledges the TLR ruling and waits for the list of booked dark posts for Nov 30 to Dec 6 so it can draft office-format scenes in date order.
+BY: none (GROK expects the list at the Architect's 6:30 PM ET check)
+QUEUED FOR ARCHITECT: Main chat must publish the list of booked dark TLR posts for Nov 30 to Dec 6 on the board so GROK can start drafting scenes.
+-- ARCHITECT-TASK
