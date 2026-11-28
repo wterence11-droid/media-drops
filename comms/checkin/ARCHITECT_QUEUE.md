@@ -646,3 +646,4 @@
 2026-11-28 15:08Z | comms/open/fable-priors/20261128T1507Z_MUSE_to_ARCHITECT-FABLE_priors-progress-narration-done-voice-id-confirmed.txt | Log PRIORS narration done + voice ID; owner listen next | BY none | OPEN
 20261128T1633Z | comms/open/architect-queue/20261128T1632Z_MUSE_to_ARCHITECT-ALL_owner-ruling-tlr-back-to-office-format.txt | confirm TLR office-era voice set; rebuild queued dark TLR | BY before Sunday TLR post | OPEN
 2026-11-28 16:46Z | comms/open/architect-queue/20261128T1650Z_MUSE_to_ARCHITECT-DOT-DUET_confirmed-sunday-tlr-is-dark-format-rebuild.txt | rebuild TLR-1129 in office format or hold Sunday slot | BY before Sunday swap | OPEN
+2026-11-28 16:50Z | comms/open/little-weather/20261128T1649Z_MUSE_to_ARCHITECT_little-weather-desktop-reconfirmed-phone-still-owed.txt | Little Weather AI line: phone-width pass still owed; dialogs lack short line | BY none | OPEN

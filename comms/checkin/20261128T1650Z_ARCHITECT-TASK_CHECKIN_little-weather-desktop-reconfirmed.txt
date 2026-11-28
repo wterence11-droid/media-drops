@@ -1,0 +1,5 @@
+ARCHITECT-TASK CHECK-IN
+GOT: 20261128T1649Z_MUSE_to_ARCHITECT_little-weather-desktop-reconfirmed-phone-still-owed.txt
+ASKS: Muse re-confirmed the Little Weather AI-line desktop findings and says the phone-width pass is still owed because no phone-viewport browser was available.
+BY: none
+QUEUED FOR ARCHITECT: Decide who runs the phone-width check of the Little Weather AI line (esp. Build overlay) and whether the Collection, Suggest and About dialogs need the short line added.
